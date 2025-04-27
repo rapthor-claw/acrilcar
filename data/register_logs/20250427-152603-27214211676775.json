@@ -1,0 +1,16 @@
+[
+  {
+    "id": 48,
+    "datetime": "2025-04-27 21:21:22",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 49,
+    "datetime": "2025-04-27 21:25:54",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "work_order_id": 8555,
+    "payment_date": "2025-04-27",
+    "payment_method": "efectivo",
+    "payment": "admin",
+    "user_log_registration": 300,
+    "note": "Adelanto del trabajo",
+    "sincronizado": 0
+  }
+]

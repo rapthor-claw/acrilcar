@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password_hash": "3bbb59f9cbd3d2f7b0944660b6cb3374295c4974eb5dea2bff2b58d2ab5f659e",
+    "role": "admin",
+    "sincronizado": 0
+  },
+  {
+    "id": 2,
+    "username": "Francisco Castillo",
+    "password_hash": "3bbb59f9cbd3d2f7b0944660b6cb3374295c4974eb5dea2bff2b58d2ab5f659e",
+    "role": "admin",
+    "sincronizado": 0
+  },
+  {
+    "id": 3,
+    "username": "user",
+    "password_hash": "18dfd757291bcc8ed8aad47451a7277bc39c6a7fc39e979370747bc3b475fca8",
+    "role": "user",
+    "sincronizado": 0
+  }
+]

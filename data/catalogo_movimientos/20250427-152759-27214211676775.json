@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pago efectivo",
+    "tipo": "ingreso",
+    "descripcion": "",
+    "sincronizado": 0
+  }
+]

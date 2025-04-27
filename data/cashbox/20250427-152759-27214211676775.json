@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "fecha": "2025-04-27",
+    "descripcion": "Adelanto del trabajo",
+    "monto": 300.0,
+    "tipo": "ingreso",
+    "metodo_pago": "efectivo",
+    "movimiento_caja": 1,
+    "user_id": "admin",
+    "order_id": 8555,
+    "sincronizado": 0
+  }
+]

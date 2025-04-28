@@ -1,0 +1,44 @@
+[
+  {
+    "id": 74,
+    "datetime": "2025-04-28 19:56:23",
+    "username": "admin",
+    "activity": "Elimino al usuario ID: 3",
+    "sincronizado": 0
+  },
+  {
+    "id": 75,
+    "datetime": "2025-04-28 19:56:49",
+    "username": "admin",
+    "activity": "Creo el usuario: Superuser",
+    "sincronizado": 0
+  },
+  {
+    "id": 76,
+    "datetime": "2025-04-28 19:57:10",
+    "username": "admin",
+    "activity": "Modifico accesos al usuario ID: 4",
+    "sincronizado": 0
+  },
+  {
+    "id": 77,
+    "datetime": "2025-04-28 19:57:35",
+    "username": "admin",
+    "activity": "Elimino cliente: Pedro Picapiedra",
+    "sincronizado": 0
+  },
+  {
+    "id": 78,
+    "datetime": "2025-04-28 19:58:16",
+    "username": "admin",
+    "activity": "Actualizo datos del cliente: Martha Aviles",
+    "sincronizado": 0
+  },
+  {
+    "id": 79,
+    "datetime": "2025-04-28 19:59:08",
+    "username": "admin",
+    "activity": "Alta de Cliente: Carlos Contrera",
+    "sincronizado": 0
+  }
+]

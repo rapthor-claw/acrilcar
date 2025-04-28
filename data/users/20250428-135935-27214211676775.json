@@ -1,0 +1,16 @@
+[
+  {
+    "id": 3,
+    "username": "user",
+    "password_hash": "18dfd757291bcc8ed8aad47451a7277bc39c6a7fc39e979370747bc3b475fca8",
+    "role": "user",
+    "sincronizado": 0
+  },
+  {
+    "id": 4,
+    "username": "Superuser",
+    "password_hash": "5c5a91e7697cb202afc8dc98d483acacc588268b7be8f7112656fd205800583a",
+    "role": "admin",
+    "sincronizado": 0
+  }
+]

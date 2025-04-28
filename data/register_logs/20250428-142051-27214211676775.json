@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "datetime": "2025-04-28 20:19:54",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 2,
+    "datetime": "2025-04-28 20:20:16",
+    "username": "admin",
+    "activity": "Cambio de contraseña",
+    "sincronizado": 0
+  },
+  {
+    "id": 3,
+    "datetime": "2025-04-28 20:20:16",
+    "username": "admin",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 4,
+    "datetime": "2025-04-28 20:20:37",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  }
+]

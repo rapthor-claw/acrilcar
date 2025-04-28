@@ -1,15 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Pedro Picapiedra",
-    "contact_1": "123-456-7890",
-    "contact_2": "987-654-3210",
-    "email": "peter_rok@example.com",
-    "numero_ruc": "123456789",
-    "nombre_empresa": "Roca Dura S.A.",
-    "sincronizado": 0
-  },
-  {
     "id": 2,
     "name": "Martha Aviles",
     "contact_1": "44563215",

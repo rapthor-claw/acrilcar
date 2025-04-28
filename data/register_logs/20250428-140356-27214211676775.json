@@ -1,0 +1,16 @@
+[
+  {
+    "id": 81,
+    "datetime": "2025-04-28 20:03:07",
+    "username": "admin",
+    "activity": "Aplico descuento a la orden 8555, por un monto de: 499.0",
+    "sincronizado": 0
+  },
+  {
+    "id": 82,
+    "datetime": "2025-04-28 20:03:29",
+    "username": "admin",
+    "activity": "Anulo la orden: 8555",
+    "sincronizado": 0
+  }
+]

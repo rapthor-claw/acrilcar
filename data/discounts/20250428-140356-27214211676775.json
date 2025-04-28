@@ -1,0 +1,12 @@
+[
+  {
+    "id": 2,
+    "date": "2025-04-28",
+    "user_id": 1,
+    "order_id": 8555,
+    "discount_mont": 499.0,
+    "discount_percentage": 99.8,
+    "description": "Orde ejemplo para anaular",
+    "sincronizado": 0
+  }
+]

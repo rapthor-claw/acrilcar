@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2,
+    "fecha": "2025-04-28",
+    "descripcion": "",
+    "monto": 700.0,
+    "tipo": "ingreso",
+    "metodo_pago": "efectivo",
+    "movimiento_caja": 1,
+    "user_id": "admin",
+    "order_id": 8555,
+    "sincronizado": 0
+  },
+  {
+    "id": 3,
+    "fecha": "2025-04-28",
+    "descripcion": "ok",
+    "monto": 300.0,
+    "tipo": "egreso",
+    "metodo_pago": "efectivo",
+    "movimiento_caja": 2,
+    "user_id": "admin",
+    "order_id": 8555,
+    "sincronizado": 0
+  },
+  {
+    "id": 4,
+    "fecha": "2025-04-28",
+    "descripcion": "ok",
+    "monto": 200.0,
+    "tipo": "ingreso",
+    "metodo_pago": "efectivo",
+    "movimiento_caja": 1,
+    "user_id": "admin",
+    "order_id": 8777,
+    "sincronizado": 0
+  }
+]

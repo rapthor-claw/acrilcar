@@ -1,0 +1,15 @@
+[
+  {
+    "id": 2,
+    "work_order_id": "8777",
+    "start_date": "2025-04-28 11:29",
+    "end_date": "2025-04-29 11:29",
+    "user_id": 1,
+    "client_id": 1,
+    "colaborador_id": 1,
+    "total_cost": 200.0,
+    "order_status": "abierta",
+    "note": null,
+    "sincronizado": 0
+  }
+]

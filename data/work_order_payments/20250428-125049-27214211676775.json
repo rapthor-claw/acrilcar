@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "work_order_id": 8555,
+    "payment_date": "2025-04-28",
+    "payment_method": "efectivo",
+    "payment": "admin",
+    "user_log_registration": 700,
+    "note": "",
+    "sincronizado": 0
+  },
+  {
+    "id": 3,
+    "work_order_id": 8777,
+    "payment_date": "2025-04-28",
+    "payment_method": "efectivo",
+    "payment": "admin",
+    "user_log_registration": 200,
+    "note": "ok",
+    "sincronizado": 0
+  }
+]

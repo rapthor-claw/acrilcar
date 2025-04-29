@@ -1,0 +1,254 @@
+[
+  {
+    "user_id": 1,
+    "branch_name": "1 - Inicio",
+    "sub_branch_name": "ACRIL CAR",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "1 - Inicio",
+    "sub_branch_name": "Cambiar Contraseña",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "1 - Inicio",
+    "sub_branch_name": "Historial de Actividades",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "1 - Inicio",
+    "sub_branch_name": "Sincronización de Datos",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "2 - Administración de Usuarios",
+    "sub_branch_name": "Crear Usuario",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "2 - Administración de Usuarios",
+    "sub_branch_name": "Operaciones de Usuario",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "2 - Administración de Usuarios",
+    "sub_branch_name": "Tabla de Usuarios",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "3 - Clientes",
+    "sub_branch_name": "Alta de Cliente",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "3 - Clientes",
+    "sub_branch_name": "Operaciones de Cliente",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "3 - Clientes",
+    "sub_branch_name": "Tabla de Clientes",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "4 - Órdenes de Trabajo",
+    "sub_branch_name": "Crear Orden de Trabajo",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "4 - Órdenes de Trabajo",
+    "sub_branch_name": "Detalle de Orden",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "4 - Órdenes de Trabajo",
+    "sub_branch_name": "Tabla de Órdenes",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "5 - Órdenes de Producción",
+    "sub_branch_name": "Crear Orden de Producción",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "5 - Órdenes de Producción",
+    "sub_branch_name": "Detalle de Producción",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "6 - Operaciones de Caja",
+    "sub_branch_name": "Ingresos de Caja",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "6 - Operaciones de Caja",
+    "sub_branch_name": "Egresos de Caja",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "6 - Operaciones de Caja",
+    "sub_branch_name": "Arqueo de Efectivo",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "6 - Operaciones de Caja",
+    "sub_branch_name": "Catálogo de Movimientos",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "7 - Reportes Operativos",
+    "sub_branch_name": "Movimientos por Fecha",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "7 - Reportes Operativos",
+    "sub_branch_name": "Balance de Ingresos-Egresos",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "7 - Reportes Operativos",
+    "sub_branch_name": "Reporte de Ingresos Efectivo",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "7 - Reportes Operativos",
+    "sub_branch_name": "Resumen de Arqueo",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "7 - Reportes Operativos",
+    "sub_branch_name": "Reporte de Órdenes",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "8 - Planilla",
+    "sub_branch_name": "Alta de Colaborador",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "8 - Planilla",
+    "sub_branch_name": "Operaciones de Colaborador",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "8 - Planilla",
+    "sub_branch_name": "Detalle de Colaborador",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "8 - Planilla",
+    "sub_branch_name": "Tabla de Planilla",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "9 - Operaciones de Administración",
+    "sub_branch_name": "Aprobar Descuento",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "9 - Operaciones de Administración",
+    "sub_branch_name": "Anular Orden",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "10 - Reportes Administrativos",
+    "sub_branch_name": "Registro de Descuentos",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 1,
+    "branch_name": "10 - Reportes Administrativos",
+    "sub_branch_name": "Reporte",
+    "sincronizado": 0
+  },
+  {
+    "user_id": 2,
+    "branch_name": "1 - Inicio",
+    "sub_branch_name": null,
+    "sincronizado": 0
+  },
+  {
+    "user_id": 2,
+    "branch_name": "2 - Administración de Usuarios",
+    "sub_branch_name": null,
+    "sincronizado": 0
+  },
+  {
+    "user_id": 2,
+    "branch_name": "3 - Clientes",
+    "sub_branch_name": null,
+    "sincronizado": 0
+  },
+  {
+    "user_id": 2,
+    "branch_name": "4 - Órdenes de Trabajo",
+    "sub_branch_name": null,
+    "sincronizado": 0
+  },
+  {
+    "user_id": 2,
+    "branch_name": "5 - Órdenes de Producción",
+    "sub_branch_name": null,
+    "sincronizado": 0
+  },
+  {
+    "user_id": 2,
+    "branch_name": "6 - Operaciones de Caja",
+    "sub_branch_name": null,
+    "sincronizado": 0
+  },
+  {
+    "user_id": 2,
+    "branch_name": "7 - Reportes Operativos",
+    "sub_branch_name": null,
+    "sincronizado": 0
+  },
+  {
+    "user_id": 2,
+    "branch_name": "8 - Planilla",
+    "sub_branch_name": null,
+    "sincronizado": 0
+  },
+  {
+    "user_id": 2,
+    "branch_name": "9 - Operaciones de Administración",
+    "sub_branch_name": null,
+    "sincronizado": 0
+  },
+  {
+    "user_id": 2,
+    "branch_name": "10 - Reportes Administrativos",
+    "sub_branch_name": null,
+    "sincronizado": 0
+  }
+]

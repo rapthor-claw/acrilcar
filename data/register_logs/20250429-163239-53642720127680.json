@@ -1,0 +1,37 @@
+[
+  {
+    "id": 13,
+    "datetime": "2025-04-29 22:29:02",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 14,
+    "datetime": "2025-04-29 22:30:12",
+    "username": "Fabian",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 15,
+    "datetime": "2025-04-29 22:31:45",
+    "username": "Fabian",
+    "activity": "Cambio de contraseña",
+    "sincronizado": 0
+  },
+  {
+    "id": 16,
+    "datetime": "2025-04-29 22:31:45",
+    "username": "Fabian",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 17,
+    "datetime": "2025-04-29 22:32:21",
+    "username": "Fabian",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  }
+]

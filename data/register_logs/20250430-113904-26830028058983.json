@@ -1,0 +1,86 @@
+[
+  {
+    "id": 19,
+    "datetime": "2025-04-29 22:44:45",
+    "username": "Allisson",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 20,
+    "datetime": "2025-04-29 22:45:15",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 21,
+    "datetime": "2025-04-29 22:45:45",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Jonathan Guadamuz",
+    "sincronizado": 0
+  },
+  {
+    "id": 22,
+    "datetime": "2025-04-29 23:20:26",
+    "username": "Allisson",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 23,
+    "datetime": "2025-04-30 17:15:08",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 24,
+    "datetime": "2025-04-30 17:19:11",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Jordan Fabian",
+    "sincronizado": 0
+  },
+  {
+    "id": 25,
+    "datetime": "2025-04-30 17:27:01",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Juan Carlos ",
+    "sincronizado": 0
+  },
+  {
+    "id": 26,
+    "datetime": "2025-04-30 17:28:53",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Allisson Dayana",
+    "sincronizado": 0
+  },
+  {
+    "id": 27,
+    "datetime": "2025-04-30 17:31:29",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Jesus Alberto",
+    "sincronizado": 0
+  },
+  {
+    "id": 28,
+    "datetime": "2025-04-30 17:32:21",
+    "username": "Allisson",
+    "activity": "Actualizacion datos de Colaborador: Jordan Fabian",
+    "sincronizado": 0
+  },
+  {
+    "id": 29,
+    "datetime": "2025-04-30 17:35:24",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Javier Antonio",
+    "sincronizado": 0
+  },
+  {
+    "id": 30,
+    "datetime": "2025-04-30 17:37:33",
+    "username": "Allisson",
+    "activity": "Actualizacion datos de Colaborador: Juan Carlos ",
+    "sincronizado": 0
+  }
+]

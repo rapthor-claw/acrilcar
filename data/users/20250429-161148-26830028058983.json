@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password_hash": "3bbb59f9cbd3d2f7b0944660b6cb3374295c4974eb5dea2bff2b58d2ab5f659e",
+    "role": "admin",
+    "sincronizado": 0
+  },
+  {
+    "id": 2,
+    "username": "Allisson",
+    "password_hash": "07da3045d59fcd31e5af77805e9cec4fd3dbd4a51cb61151d4ab4b8d4266d441",
+    "role": "admin",
+    "sincronizado": 0
+  }
+]

@@ -5,24 +5,26 @@
       "username": "admin",
       "password_hash": "3bbb59f9cbd3d2f7b0944660b6cb3374295c4974eb5dea2bff2b58d2ab5f659e",
       "role": "admin",
-      "sincronizado": 0
+      "sincronizado": 0,
+      "is_deleted": 0
     },
     {
       "id": 9,
       "username": "Carlos",
       "password_hash": "3bbb59f9cbd3d2f7b0944660b6cb3374295c4974eb5dea2bff2b58d2ab5f659e",
       "role": "user",
-      "sincronizado": 0
+      "sincronizado": 0,
+      "is_deleted": 0
     },
     {
       "id": 10,
       "username": "Sofia",
       "password_hash": "3bbb59f9cbd3d2f7b0944660b6cb3374295c4974eb5dea2bff2b58d2ab5f659e",
       "role": "user",
-      "sincronizado": 0
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "deleted": [],
-  "timestamp": "2025-06-04T23:32:37.690927",
+  "timestamp": "2025-06-05T00:41:22.462444",
   "machine_id": "27214211676775"
 }

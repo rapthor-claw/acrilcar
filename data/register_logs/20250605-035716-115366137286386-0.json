@@ -33,5 +33,12 @@
     "username": "admin",
     "activity": "Elimino al usuario ID: 8",
     "sincronizado": 0
+  },
+  {
+    "id": 209,
+    "datetime": "2025-06-05 01:57:02",
+    "username": "admin",
+    "activity": "Elimino al usuario ID: 8",
+    "sincronizado": 0
   }
 ]

@@ -39,8 +39,24 @@
       "activity": "Creo el usuario: Express",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 285,
+      "datetime": "2025-06-05 15:33:42",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 286,
+      "datetime": "2025-06-05 15:40:22",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-05T09:33:31.534506",
-  "machine_id": "27214211676775"
+  "timestamp": "2025-06-05T17:40:31.595453",
+  "machine_id": "115366137286386"
 }

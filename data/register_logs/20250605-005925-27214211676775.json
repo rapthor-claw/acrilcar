@@ -111,8 +111,16 @@
       "activity": "Alta de Cliente: Ejemplo",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 275,
+      "datetime": "2025-06-05 06:59:21",
+      "username": "admin",
+      "activity": "Elimino cliente: Ejemplo",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-05T00:59:04.840394",
+  "timestamp": "2025-06-05T00:59:25.905321",
   "machine_id": "27214211676775"
 }

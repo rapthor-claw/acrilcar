@@ -31,8 +31,16 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 284,
+      "datetime": "2025-06-05 15:33:25",
+      "username": "admin",
+      "activity": "Creo el usuario: Express",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-05T09:33:01.017069",
+  "timestamp": "2025-06-05T09:33:31.534506",
   "machine_id": "27214211676775"
 }

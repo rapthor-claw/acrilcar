@@ -55,8 +55,24 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 287,
+      "datetime": "2025-06-05 15:43:11",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 288,
+      "datetime": "2025-06-05 15:45:54",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-05T09:44:08.992196",
-  "machine_id": "27214211676775"
+  "timestamp": "2025-06-05T17:46:28.790182",
+  "machine_id": "115366137286386"
 }

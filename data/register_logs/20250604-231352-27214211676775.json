@@ -321,9 +321,37 @@
       "username": "admin",
       "activity": "Elimino al usuario ID: 9",
       "sincronizado": 0
+    },
+    {
+      "id": 240,
+      "datetime": "2025-06-05 05:12:49",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 241,
+      "datetime": "2025-06-05 05:13:15",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 242,
+      "datetime": "2025-06-05 05:13:29",
+      "username": "admin",
+      "activity": "Elimino al usuario ID: 10",
+      "sincronizado": 0
+    },
+    {
+      "id": 243,
+      "datetime": "2025-06-05 05:13:35",
+      "username": "admin",
+      "activity": "Elimino al usuario ID: 9",
+      "sincronizado": 0
     }
   ],
   "deleted": [],
-  "timestamp": "2025-06-04T22:52:47.875138",
+  "timestamp": "2025-06-04T23:13:52.072040",
   "machine_id": "27214211676775"
 }

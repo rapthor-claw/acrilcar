@@ -349,9 +349,58 @@
       "username": "admin",
       "activity": "Elimino al usuario ID: 9",
       "sincronizado": 0
+    },
+    {
+      "id": 244,
+      "datetime": "2025-06-05 05:14:14",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 245,
+      "datetime": "2025-06-05 05:25:05",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 246,
+      "datetime": "2025-06-05 05:25:20",
+      "username": "admin",
+      "activity": "Elimino al usuario ID: 10",
+      "sincronizado": 0
+    },
+    {
+      "id": 247,
+      "datetime": "2025-06-05 05:28:57",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 248,
+      "datetime": "2025-06-05 05:29:06",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 249,
+      "datetime": "2025-06-05 05:30:25",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 250,
+      "datetime": "2025-06-05 05:30:37",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
     }
   ],
   "deleted": [],
-  "timestamp": "2025-06-04T23:13:52.072040",
+  "timestamp": "2025-06-04T23:30:43.138140",
   "machine_id": "27214211676775"
 }

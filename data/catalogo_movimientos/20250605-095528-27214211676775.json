@@ -1,0 +1,54 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "nombre": "SALIDA POR PAGOS POR MEDIO DE TARJETA",
+      "tipo": "egreso",
+      "descripcion": "PAGOS TARJETA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2,
+      "nombre": "GASTOS VARIOS",
+      "tipo": "egreso",
+      "descripcion": "GASTOS VARIOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3,
+      "nombre": "VALES A COLABORADORES",
+      "tipo": "egreso",
+      "descripcion": "VALES A COLABORADORES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4,
+      "nombre": "PAGO DE PAPELERIA",
+      "tipo": "egreso",
+      "descripcion": "PAGO DE PAPELERIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5,
+      "nombre": "SALIDA POR PAGOS POR MEDIO DE TRANSFERENCIA",
+      "tipo": "egreso",
+      "descripcion": "SALIDA POR PAGOS POR MEDIO DE TRANSFERENCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6,
+      "nombre": "PAGO DE ENVIO",
+      "tipo": "egreso",
+      "descripcion": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-06-05T09:55:28.784629",
+  "machine_id": "27214211676775"
+}

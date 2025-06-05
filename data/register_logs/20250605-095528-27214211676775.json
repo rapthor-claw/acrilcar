@@ -71,8 +71,56 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 289,
+      "datetime": "2025-06-05 15:54:00",
+      "username": "admin",
+      "activity": "Agrego movimiento: SALIDA POR PAGOS POR MEDIO DE TARJETA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 290,
+      "datetime": "2025-06-05 15:54:13",
+      "username": "admin",
+      "activity": "Agrego movimiento: GASTOS VARIOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 291,
+      "datetime": "2025-06-05 15:54:24",
+      "username": "admin",
+      "activity": "Agrego movimiento: VALES A COLABORADORES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 292,
+      "datetime": "2025-06-05 15:54:35",
+      "username": "admin",
+      "activity": "Agrego movimiento: PAGO DE PAPELERIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 293,
+      "datetime": "2025-06-05 15:54:50",
+      "username": "admin",
+      "activity": "Agrego movimiento: SALIDA POR PAGOS POR MEDIO DE TRANSFERENCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 294,
+      "datetime": "2025-06-05 15:55:19",
+      "username": "admin",
+      "activity": "Agrego movimiento: PAGO DE ENVIO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-05T17:46:28.790182",
-  "machine_id": "115366137286386"
+  "timestamp": "2025-06-05T09:55:28.794630",
+  "machine_id": "27214211676775"
 }

@@ -1,0 +1,695 @@
+[
+  {
+    "id": 101,
+    "datetime": "2025-05-05 16:19:08",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34991",
+    "sincronizado": 0
+  },
+  {
+    "id": 102,
+    "datetime": "2025-05-05 16:20:52",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Vidal Alarcón",
+    "sincronizado": 0
+  },
+  {
+    "id": 103,
+    "datetime": "2025-05-05 16:24:31",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34992",
+    "sincronizado": 0
+  },
+  {
+    "id": 104,
+    "datetime": "2025-05-05 16:25:04",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Aura Lila Ulloa",
+    "sincronizado": 0
+  },
+  {
+    "id": 105,
+    "datetime": "2025-05-05 16:25:50",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34995",
+    "sincronizado": 0
+  },
+  {
+    "id": 106,
+    "datetime": "2025-05-05 16:26:25",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Eduardo LacayO",
+    "sincronizado": 0
+  },
+  {
+    "id": 107,
+    "datetime": "2025-05-05 16:27:50",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34996",
+    "sincronizado": 0
+  },
+  {
+    "id": 108,
+    "datetime": "2025-05-12 21:19:23",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 109,
+    "datetime": "2025-05-12 21:24:30",
+    "username": "Allisson",
+    "activity": "Creo el usuario: jtoruno",
+    "sincronizado": 0
+  },
+  {
+    "id": 110,
+    "datetime": "2025-05-12 21:24:44",
+    "username": "Allisson",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 111,
+    "datetime": "2025-05-12 21:25:33",
+    "username": "jtoruno",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 112,
+    "datetime": "2025-05-12 21:26:00",
+    "username": "jtoruno",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 113,
+    "datetime": "2025-05-22 17:14:36",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 114,
+    "datetime": "2025-05-28 22:09:00",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 115,
+    "datetime": "2025-05-28 22:09:02",
+    "username": "admin",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 116,
+    "datetime": "2025-05-28 22:09:09",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 117,
+    "datetime": "2025-05-28 22:11:41",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 118,
+    "datetime": "2025-05-28 22:12:47",
+    "username": "admin",
+    "activity": "Cambio de contraseña",
+    "sincronizado": 0
+  },
+  {
+    "id": 119,
+    "datetime": "2025-05-28 22:12:47",
+    "username": "admin",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 120,
+    "datetime": "2025-05-28 22:12:56",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 121,
+    "datetime": "2025-05-28 22:20:25",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 122,
+    "datetime": "2025-05-28 22:20:38",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 123,
+    "datetime": "2025-05-28 22:21:11",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 124,
+    "datetime": "2025-05-28 22:23:34",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 125,
+    "datetime": "2025-05-28 22:34:09",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 126,
+    "datetime": "2025-05-28 22:34:21",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 127,
+    "datetime": "2025-05-28 22:37:12",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 128,
+    "datetime": "2025-05-28 22:38:46",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 129,
+    "datetime": "2025-05-28 22:48:50",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 130,
+    "datetime": "2025-05-28 22:50:29",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 131,
+    "datetime": "2025-05-28 23:01:54",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 132,
+    "datetime": "2025-05-28 23:03:35",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 133,
+    "datetime": "2025-05-28 23:04:27",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 134,
+    "datetime": "2025-05-28 23:06:15",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 135,
+    "datetime": "2025-05-28 23:06:29",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 136,
+    "datetime": "2025-05-28 23:06:41",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 137,
+    "datetime": "2025-05-28 23:19:36",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 138,
+    "datetime": "2025-05-28 23:49:24",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 139,
+    "datetime": "2025-06-04 17:50:38",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 140,
+    "datetime": "2025-06-04 17:50:57",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 141,
+    "datetime": "2025-06-04 17:59:32",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 142,
+    "datetime": "2025-06-04 17:59:44",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 143,
+    "datetime": "2025-06-04 18:01:26",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 144,
+    "datetime": "2025-06-04 18:01:40",
+    "username": "admin",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 145,
+    "datetime": "2025-06-04 18:06:41",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 146,
+    "datetime": "2025-06-04 18:06:56",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 147,
+    "datetime": "2025-06-04 18:08:57",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 148,
+    "datetime": "2025-06-04 18:09:03",
+    "username": "admin",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 149,
+    "datetime": "2025-06-04 18:16:13",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 150,
+    "datetime": "2025-06-04 18:28:56",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 151,
+    "datetime": "2025-06-04 18:29:10",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 152,
+    "datetime": "2025-06-04 18:29:56",
+    "username": "admin",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 153,
+    "datetime": "2025-06-04 18:35:26",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 154,
+    "datetime": "2025-06-04 18:36:19",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 155,
+    "datetime": "2025-06-04 18:36:50",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 156,
+    "datetime": "2025-06-04 18:38:16",
+    "username": "admin",
+    "activity": "Creo el usuario: Carlos",
+    "sincronizado": 0
+  },
+  {
+    "id": 157,
+    "datetime": "2025-06-04 18:38:30",
+    "username": "admin",
+    "activity": "Modifico accesos al usuario ID: 5",
+    "sincronizado": 0
+  },
+  {
+    "id": 158,
+    "datetime": "2025-06-04 18:38:33",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 159,
+    "datetime": "2025-06-04 18:38:52",
+    "username": "Carlos",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 160,
+    "datetime": "2025-06-04 18:45:16",
+    "username": "Carlos",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 161,
+    "datetime": "2025-06-04 18:45:34",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 162,
+    "datetime": "2025-06-04 18:50:58",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 163,
+    "datetime": "2025-06-04 18:54:20",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 164,
+    "datetime": "2025-06-04 18:57:39",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 165,
+    "datetime": "2025-06-04 18:59:27",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 166,
+    "datetime": "2025-06-04 19:01:27",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 167,
+    "datetime": "2025-06-04 19:01:46",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 168,
+    "datetime": "2025-06-04 19:14:28",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 169,
+    "datetime": "2025-06-04 19:15:16",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 170,
+    "datetime": "2025-06-04 19:21:15",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 171,
+    "datetime": "2025-06-04 19:22:39",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 172,
+    "datetime": "2025-06-04 19:27:52",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 173,
+    "datetime": "2025-06-04 19:28:16",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 174,
+    "datetime": "2025-06-04 19:38:25",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 175,
+    "datetime": "2025-06-04 20:20:18",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 176,
+    "datetime": "2025-06-04 20:20:42",
+    "username": "admin",
+    "activity": "Elimino al usuario ID: 5",
+    "sincronizado": 0
+  },
+  {
+    "id": 177,
+    "datetime": "2025-06-04 21:13:42",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 178,
+    "datetime": "2025-06-04 21:14:00",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 179,
+    "datetime": "2025-06-04 21:19:02",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 180,
+    "datetime": "2025-06-04 21:19:17",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 181,
+    "datetime": "2025-06-04 21:19:35",
+    "username": "admin",
+    "activity": "Creo el usuario: Carlos",
+    "sincronizado": 0
+  },
+  {
+    "id": 182,
+    "datetime": "2025-06-04 21:19:44",
+    "username": "admin",
+    "activity": "Modifico accesos al usuario ID: 6",
+    "sincronizado": 0
+  },
+  {
+    "id": 183,
+    "datetime": "2025-06-04 21:19:45",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 184,
+    "datetime": "2025-06-04 21:20:12",
+    "username": "Carlos",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 185,
+    "datetime": "2025-06-04 21:20:25",
+    "username": "Carlos",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 186,
+    "datetime": "2025-06-04 21:20:44",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 187,
+    "datetime": "2025-06-04 21:20:57",
+    "username": "admin",
+    "activity": "Elimino al usuario ID: 6",
+    "sincronizado": 0
+  },
+  {
+    "id": 188,
+    "datetime": "2025-06-04 21:20:59",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 189,
+    "datetime": "2025-06-04 21:22:57",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 190,
+    "datetime": "2025-06-04 21:23:29",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 191,
+    "datetime": "2025-06-05 00:17:11",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 192,
+    "datetime": "2025-06-05 00:17:38",
+    "username": "admin",
+    "activity": "Creo el usuario: Carlos",
+    "sincronizado": 0
+  },
+  {
+    "id": 193,
+    "datetime": "2025-06-05 00:17:50",
+    "username": "admin",
+    "activity": "Modifico accesos al usuario ID: 7",
+    "sincronizado": 0
+  },
+  {
+    "id": 194,
+    "datetime": "2025-06-05 00:18:11",
+    "username": "admin",
+    "activity": "Elimino al usuario ID: 7",
+    "sincronizado": 0
+  },
+  {
+    "id": 195,
+    "datetime": "2025-06-05 00:30:19",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 196,
+    "datetime": "2025-06-05 00:39:25",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 197,
+    "datetime": "2025-06-05 01:01:58",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 198,
+    "datetime": "2025-06-05 01:02:13",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 199,
+    "datetime": "2025-06-05 01:08:32",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "datetime": "2025-04-29 22:08:56",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 2,
+    "datetime": "2025-04-29 22:09:30",
+    "username": "admin",
+    "activity": "Creo el usuario: Allisson",
+    "sincronizado": 0
+  },
+  {
+    "id": 3,
+    "datetime": "2025-04-29 22:09:56",
+    "username": "admin",
+    "activity": "Modifico accesos al usuario ID: 2",
+    "sincronizado": 0
+  },
+  {
+    "id": 4,
+    "datetime": "2025-04-29 22:10:00",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 5,
+    "datetime": "2025-04-29 22:10:39",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 6,
+    "datetime": "2025-04-29 22:11:04",
+    "username": "Allisson",
+    "activity": "Cambio de contraseña",
+    "sincronizado": 0
+  },
+  {
+    "id": 7,
+    "datetime": "2025-04-29 22:11:04",
+    "username": "Allisson",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 8,
+    "datetime": "2025-04-29 22:11:29",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 9,
+    "datetime": "2025-04-29 22:12:41",
+    "username": "Allisson",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 10,
+    "datetime": "2025-04-29 22:33:27",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 11,
+    "datetime": "2025-04-29 22:28:24",
+    "username": "admin",
+    "activity": "Creo el usuario: Fabian",
+    "sincronizado": 0
+  },
+  {
+    "id": 12,
+    "datetime": "2025-04-29 22:28:42",
+    "username": "admin",
+    "activity": "Modifico accesos al usuario ID: 3",
+    "sincronizado": 0
+  },
+  {
+    "id": 13,
+    "datetime": "2025-04-29 22:29:02",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 14,
+    "datetime": "2025-04-29 22:30:12",
+    "username": "Fabian",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 15,
+    "datetime": "2025-04-29 22:31:45",
+    "username": "Fabian",
+    "activity": "Cambio de contraseña",
+    "sincronizado": 0
+  },
+  {
+    "id": 16,
+    "datetime": "2025-04-29 22:31:45",
+    "username": "Fabian",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 17,
+    "datetime": "2025-04-29 22:32:21",
+    "username": "Fabian",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 18,
+    "datetime": "2025-04-29 22:36:09",
+    "username": "Allisson",
+    "activity": "Modifico accesos al usuario ID: 3",
+    "sincronizado": 0
+  },
+  {
+    "id": 19,
+    "datetime": "2025-04-29 22:44:45",
+    "username": "Allisson",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 20,
+    "datetime": "2025-04-29 22:45:15",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 21,
+    "datetime": "2025-04-29 22:45:45",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Jonathan Guadamuz",
+    "sincronizado": 0
+  },
+  {
+    "id": 22,
+    "datetime": "2025-04-29 23:20:26",
+    "username": "Allisson",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 23,
+    "datetime": "2025-04-30 17:15:08",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 24,
+    "datetime": "2025-04-30 17:19:11",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Jordan Fabian",
+    "sincronizado": 0
+  },
+  {
+    "id": 25,
+    "datetime": "2025-04-30 17:27:01",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Juan Carlos ",
+    "sincronizado": 0
+  },
+  {
+    "id": 26,
+    "datetime": "2025-04-30 17:28:53",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Allisson Dayana",
+    "sincronizado": 0
+  },
+  {
+    "id": 27,
+    "datetime": "2025-04-30 17:31:29",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Jesus Alberto",
+    "sincronizado": 0
+  },
+  {
+    "id": 28,
+    "datetime": "2025-04-30 17:32:21",
+    "username": "Allisson",
+    "activity": "Actualizacion datos de Colaborador: Jordan Fabian",
+    "sincronizado": 0
+  },
+  {
+    "id": 29,
+    "datetime": "2025-04-30 17:35:24",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Javier Antonio",
+    "sincronizado": 0
+  },
+  {
+    "id": 30,
+    "datetime": "2025-04-30 17:37:33",
+    "username": "Allisson",
+    "activity": "Actualizacion datos de Colaborador: Juan Carlos ",
+    "sincronizado": 0
+  },
+  {
+    "id": 31,
+    "datetime": "2025-04-30 17:51:13",
+    "username": "Allisson",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 32,
+    "datetime": "2025-04-30 23:49:34",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 33,
+    "datetime": "2025-05-02 15:43:46",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: José Antonio Villateal",
+    "sincronizado": 0
+  },
+  {
+    "id": 34,
+    "datetime": "2025-05-02 15:44:37",
+    "username": "Allisson",
+    "activity": "Actualizo datos del cliente: José Antonio Villareal",
+    "sincronizado": 0
+  },
+  {
+    "id": 35,
+    "datetime": "2025-05-02 15:48:04",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34972",
+    "sincronizado": 0
+  },
+  {
+    "id": 36,
+    "datetime": "2025-05-02 15:48:46",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34972",
+    "sincronizado": 0
+  },
+  {
+    "id": 37,
+    "datetime": "2025-05-02 15:50:37",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Jiljana Barreda",
+    "sincronizado": 0
+  },
+  {
+    "id": 38,
+    "datetime": "2025-05-02 15:55:31",
+    "username": "Allisson",
+    "activity": "Modifico accesos al usuario ID: 3",
+    "sincronizado": 0
+  },
+  {
+    "id": 39,
+    "datetime": "2025-05-02 15:57:40",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Eduardo Antonio",
+    "sincronizado": 0
+  },
+  {
+    "id": 40,
+    "datetime": "2025-05-02 16:00:15",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Juan Francisco",
+    "sincronizado": 0
+  },
+  {
+    "id": 41,
+    "datetime": "2025-05-02 16:04:17",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Jason Alberto",
+    "sincronizado": 0
+  },
+  {
+    "id": 42,
+    "datetime": "2025-05-02 16:05:49",
+    "username": "Allisson",
+    "activity": "Actualizacion datos de Colaborador: Jason Alberto",
+    "sincronizado": 0
+  },
+  {
+    "id": 43,
+    "datetime": "2025-05-02 16:08:09",
+    "username": "Allisson",
+    "activity": "Actualizacion datos de Colaborador: Juan Francisco",
+    "sincronizado": 0
+  },
+  {
+    "id": 44,
+    "datetime": "2025-05-02 16:08:58",
+    "username": "Allisson",
+    "activity": "Actualizacion datos de Colaborador: Eduardo Antonio",
+    "sincronizado": 0
+  },
+  {
+    "id": 45,
+    "datetime": "2025-05-02 16:15:39",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34973",
+    "sincronizado": 0
+  },
+  {
+    "id": 46,
+    "datetime": "2025-05-02 16:16:14",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Gerry Antonio Mayorga",
+    "sincronizado": 0
+  },
+  {
+    "id": 47,
+    "datetime": "2025-05-02 16:17:46",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34974",
+    "sincronizado": 0
+  },
+  {
+    "id": 48,
+    "datetime": "2025-05-02 16:19:39",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34973",
+    "sincronizado": 0
+  },
+  {
+    "id": 49,
+    "datetime": "2025-05-02 16:20:55",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34974",
+    "sincronizado": 0
+  },
+  {
+    "id": 50,
+    "datetime": "2025-05-02 16:22:12",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Fabio Sanchez",
+    "sincronizado": 0
+  },
+  {
+    "id": 51,
+    "datetime": "2025-05-02 16:23:36",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34975",
+    "sincronizado": 0
+  },
+  {
+    "id": 52,
+    "datetime": "2025-05-02 16:23:59",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34975",
+    "sincronizado": 0
+  },
+  {
+    "id": 53,
+    "datetime": "2025-05-02 19:54:22",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Carlos Quintero",
+    "sincronizado": 0
+  },
+  {
+    "id": 54,
+    "datetime": "2025-05-02 19:59:02",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34976",
+    "sincronizado": 0
+  },
+  {
+    "id": 55,
+    "datetime": "2025-05-02 19:59:24",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34976",
+    "sincronizado": 0
+  },
+  {
+    "id": 56,
+    "datetime": "2025-05-02 20:01:36",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Donald Agustín Payan",
+    "sincronizado": 0
+  },
+  {
+    "id": 57,
+    "datetime": "2025-05-02 20:06:06",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34977",
+    "sincronizado": 0
+  },
+  {
+    "id": 58,
+    "datetime": "2025-05-02 20:11:02",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 59,
+    "datetime": "2025-05-02 20:11:28",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34977",
+    "sincronizado": 0
+  },
+  {
+    "id": 60,
+    "datetime": "2025-05-02 20:12:10",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Alberto Rivera",
+    "sincronizado": 0
+  },
+  {
+    "id": 61,
+    "datetime": "2025-05-02 20:13:15",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34978",
+    "sincronizado": 0
+  },
+  {
+    "id": 62,
+    "datetime": "2025-05-02 20:13:55",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34978",
+    "sincronizado": 0
+  },
+  {
+    "id": 63,
+    "datetime": "2025-05-02 20:14:22",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Jordan Cruz",
+    "sincronizado": 0
+  },
+  {
+    "id": 64,
+    "datetime": "2025-05-02 20:15:10",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34979",
+    "sincronizado": 0
+  },
+  {
+    "id": 65,
+    "datetime": "2025-05-02 20:15:27",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34979",
+    "sincronizado": 0
+  },
+  {
+    "id": 66,
+    "datetime": "2025-05-02 20:15:55",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Reynaldo Castro",
+    "sincronizado": 0
+  },
+  {
+    "id": 67,
+    "datetime": "2025-05-02 20:16:36",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34980",
+    "sincronizado": 0
+  },
+  {
+    "id": 68,
+    "datetime": "2025-05-02 20:16:51",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34980",
+    "sincronizado": 0
+  },
+  {
+    "id": 69,
+    "datetime": "2025-05-02 20:17:04",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Omar Pérez",
+    "sincronizado": 0
+  },
+  {
+    "id": 70,
+    "datetime": "2025-05-02 20:17:57",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34981",
+    "sincronizado": 0
+  },
+  {
+    "id": 71,
+    "datetime": "2025-05-02 20:18:18",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34981",
+    "sincronizado": 0
+  },
+  {
+    "id": 72,
+    "datetime": "2025-05-02 20:18:40",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Mauricio Zepeda",
+    "sincronizado": 0
+  },
+  {
+    "id": 73,
+    "datetime": "2025-05-02 20:19:20",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34982",
+    "sincronizado": 0
+  },
+  {
+    "id": 74,
+    "datetime": "2025-05-02 20:19:43",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34982",
+    "sincronizado": 0
+  },
+  {
+    "id": 75,
+    "datetime": "2025-05-02 20:21:40",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Tony Molina",
+    "sincronizado": 0
+  },
+  {
+    "id": 76,
+    "datetime": "2025-05-02 20:22:46",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34984",
+    "sincronizado": 0
+  },
+  {
+    "id": 77,
+    "datetime": "2025-05-02 20:24:48",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34984",
+    "sincronizado": 0
+  },
+  {
+    "id": 78,
+    "datetime": "2025-05-02 20:51:35",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: José Medrano",
+    "sincronizado": 0
+  },
+  {
+    "id": 79,
+    "datetime": "2025-05-02 20:53:06",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34985",
+    "sincronizado": 0
+  },
+  {
+    "id": 80,
+    "datetime": "2025-05-02 20:53:31",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34985",
+    "sincronizado": 0
+  },
+  {
+    "id": 81,
+    "datetime": "2025-05-02 20:57:37",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 82,
+    "datetime": "2025-05-02 21:25:30",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Manuel Blanco",
+    "sincronizado": 0
+  },
+  {
+    "id": 83,
+    "datetime": "2025-05-02 21:26:39",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34986",
+    "sincronizado": 0
+  },
+  {
+    "id": 84,
+    "datetime": "2025-05-02 21:27:07",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34986",
+    "sincronizado": 0
+  },
+  {
+    "id": 85,
+    "datetime": "2025-05-02 21:29:39",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Carlos García",
+    "sincronizado": 0
+  },
+  {
+    "id": 86,
+    "datetime": "2025-05-02 21:30:21",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34987",
+    "sincronizado": 0
+  },
+  {
+    "id": 87,
+    "datetime": "2025-05-02 21:30:55",
+    "username": "Allisson",
+    "activity": "Creo la orden de producción: 34987",
+    "sincronizado": 0
+  },
+  {
+    "id": 88,
+    "datetime": "2025-05-02 21:53:24",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 89,
+    "datetime": "2025-05-02 22:48:30",
+    "username": "Allisson",
+    "activity": "Alta de Colaboraor: Bruno Emmanuel",
+    "sincronizado": 0
+  },
+  {
+    "id": 90,
+    "datetime": "2025-05-02 22:49:43",
+    "username": "Allisson",
+    "activity": "Actualizacion datos de Colaborador: Bruno Emmanuel",
+    "sincronizado": 0
+  },
+  {
+    "id": 91,
+    "datetime": "2025-05-02 23:05:52",
+    "username": "Allisson",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 92,
+    "datetime": "2025-05-05 16:00:52",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 93,
+    "datetime": "2025-05-05 16:04:13",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 94,
+    "datetime": "2025-05-05 16:07:43",
+    "username": "Allisson",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 95,
+    "datetime": "2025-05-05 16:12:52",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Alcaldia de Tipitapa",
+    "sincronizado": 0
+  },
+  {
+    "id": 96,
+    "datetime": "2025-05-05 16:13:38",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Gustavo Flores",
+    "sincronizado": 0
+  },
+  {
+    "id": 97,
+    "datetime": "2025-05-05 16:15:46",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34988",
+    "sincronizado": 0
+  },
+  {
+    "id": 98,
+    "datetime": "2025-05-05 16:16:43",
+    "username": "Allisson",
+    "activity": "Creo la orden de trabajo: 34988",
+    "sincronizado": 0
+  },
+  {
+    "id": 99,
+    "datetime": "2025-05-05 16:17:05",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Iveth Moreno",
+    "sincronizado": 0
+  },
+  {
+    "id": 100,
+    "datetime": "2025-05-05 16:18:21",
+    "username": "Allisson",
+    "activity": "Alta de Cliente: Imelda Gómez",
+    "sincronizado": 0
+  }
+]

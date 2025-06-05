@@ -1,0 +1,41 @@
+{
+  "records": [
+    {
+      "user_id": 13,
+      "branch_name": "1 - Inicio",
+      "sub_branch_name": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "user_id": 13,
+      "branch_name": "3 - Clientes",
+      "sub_branch_name": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "user_id": 13,
+      "branch_name": "4 - Órdenes de Trabajo",
+      "sub_branch_name": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "user_id": 13,
+      "branch_name": "6 - Operaciones de Caja",
+      "sub_branch_name": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "user_id": 13,
+      "branch_name": "7 - Reportes Operativos",
+      "sub_branch_name": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-06-05T11:04:46.235245",
+  "machine_id": "53642720127680"
+}

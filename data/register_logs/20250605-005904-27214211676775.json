@@ -87,8 +87,32 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 272,
+      "datetime": "2025-06-05 06:55:09",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 273,
+      "datetime": "2025-06-05 06:55:27",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 274,
+      "datetime": "2025-06-05 06:58:52",
+      "username": "admin",
+      "activity": "Alta de Cliente: Ejemplo",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-05T00:54:59.791648",
+  "timestamp": "2025-06-05T00:59:04.840394",
   "machine_id": "27214211676775"
 }

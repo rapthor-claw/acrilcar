@@ -1,0 +1,30 @@
+[
+  {
+    "id": 200,
+    "datetime": "2025-06-05 01:11:47",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 201,
+    "datetime": "2025-06-05 01:28:40",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 202,
+    "datetime": "2025-06-05 01:26:55",
+    "username": "admin",
+    "activity": "Creo el usuario: Carlos",
+    "sincronizado": 0
+  },
+  {
+    "id": 203,
+    "datetime": "2025-06-05 01:27:23",
+    "username": "admin",
+    "activity": "Modifico accesos al usuario ID: 8",
+    "sincronizado": 0
+  }
+]

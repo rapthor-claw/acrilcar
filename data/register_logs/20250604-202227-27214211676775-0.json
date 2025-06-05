@@ -1,0 +1,114 @@
+[
+  {
+    "id": 204,
+    "datetime": "2025-06-05 01:52:07",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 205,
+    "datetime": "2025-06-05 01:55:01",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 206,
+    "datetime": "2025-06-05 01:31:04",
+    "username": "admin",
+    "activity": "Cierre de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 207,
+    "datetime": "2025-06-05 01:50:55",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 208,
+    "datetime": "2025-06-05 01:51:17",
+    "username": "admin",
+    "activity": "Elimino al usuario ID: 8",
+    "sincronizado": 0
+  },
+  {
+    "id": 209,
+    "datetime": "2025-06-05 01:57:02",
+    "username": "admin",
+    "activity": "Elimino al usuario ID: 8",
+    "sincronizado": 0
+  },
+  {
+    "id": 210,
+    "datetime": "2025-06-05 02:13:58",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 211,
+    "datetime": "2025-06-05 02:15:53",
+    "username": "admin",
+    "activity": "Creo el usuario: Carlos",
+    "sincronizado": 0
+  },
+  {
+    "id": 212,
+    "datetime": "2025-06-05 02:16:06",
+    "username": "admin",
+    "activity": "Modifico accesos al usuario ID: 9",
+    "sincronizado": 0
+  },
+  {
+    "id": 213,
+    "datetime": "2025-06-05 02:17:50",
+    "username": "admin",
+    "activity": "Cierre de Sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 214,
+    "datetime": "2025-06-05 02:18:39",
+    "username": "admin",
+    "activity": "Inicio de sesión",
+    "sincronizado": 0
+  },
+  {
+    "id": 215,
+    "datetime": "2025-06-05 02:18:53",
+    "username": "admin",
+    "activity": "Elimino al usuario ID: 9",
+    "sincronizado": 0
+  },
+  {
+    "id": 216,
+    "datetime": "2025-06-05 02:19:19",
+    "username": "admin",
+    "activity": "Creo el usuario: Sofia",
+    "sincronizado": 0
+  },
+  {
+    "id": 217,
+    "datetime": "2025-06-05 02:19:35",
+    "username": "admin",
+    "activity": "Modifico accesos al usuario ID: 10",
+    "sincronizado": 0
+  },
+  {
+    "id": 218,
+    "datetime": "2025-06-05 02:21:07",
+    "username": "admin",
+    "activity": "Elimino al usuario ID: 10",
+    "sincronizado": 0
+  },
+  {
+    "id": 219,
+    "datetime": "2025-06-05 02:22:18",
+    "username": "admin",
+    "activity": "Elimino al usuario ID: 10",
+    "sincronizado": 0
+  }
+]

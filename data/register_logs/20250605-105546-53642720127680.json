@@ -127,8 +127,24 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 296,
+      "datetime": "2025-06-05 16:45:32",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 297,
+      "datetime": "2025-06-05 16:55:33",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-05T18:45:19.204129",
-  "machine_id": "115366137286386"
+  "timestamp": "2025-06-05T10:55:46.694338",
+  "machine_id": "53642720127680"
 }

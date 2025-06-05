@@ -63,8 +63,32 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 269,
+      "datetime": "2025-06-05 06:54:36",
+      "username": "admin",
+      "activity": "Cambio de contraseña",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 270,
+      "datetime": "2025-06-05 06:54:36",
+      "username": "admin",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 271,
+      "datetime": "2025-06-05 06:54:53",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-05T00:53:53.043493",
+  "timestamp": "2025-06-05T00:54:59.791648",
   "machine_id": "27214211676775"
 }

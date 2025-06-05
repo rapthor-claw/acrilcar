@@ -1,6 +1,76 @@
 {
   "records": [
     {
+      "id": 1,
+      "datetime": "2025-06-05 03:30:43",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 2,
+      "datetime": "2025-06-05 03:30:51",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 3,
+      "datetime": "2025-06-05 03:34:54",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 4,
+      "datetime": "2025-06-05 03:35:19",
+      "username": "admin",
+      "activity": "Modifico accesos al usuario ID: 1",
+      "sincronizado": 0
+    },
+    {
+      "id": 5,
+      "datetime": "2025-06-05 03:35:21",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 6,
+      "datetime": "2025-06-05 03:35:32",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 7,
+      "datetime": "2025-06-05 03:35:39",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 8,
+      "datetime": "2025-06-05 03:37:39",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 9,
+      "datetime": "2025-06-05 03:39:57",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 10,
+      "datetime": "2025-06-05 03:40:10",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
+    },
+    {
       "id": 204,
       "datetime": "2025-06-05 01:52:07",
       "username": "admin",

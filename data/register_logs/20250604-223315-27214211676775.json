@@ -286,9 +286,16 @@
       "username": "admin",
       "activity": "Inicio de sesión",
       "sincronizado": 0
+    },
+    {
+      "id": 235,
+      "datetime": "2025-06-05 04:33:10",
+      "username": "admin",
+      "activity": "Elimino al usuario ID: 10",
+      "sincronizado": 0
     }
   ],
   "deleted": [],
-  "timestamp": "2025-06-04T22:32:55.162783",
+  "timestamp": "2025-06-04T22:33:15.330334",
   "machine_id": "27214211676775"
 }

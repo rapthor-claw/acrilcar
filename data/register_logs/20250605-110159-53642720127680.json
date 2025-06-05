@@ -143,8 +143,32 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 298,
+      "datetime": "2025-06-05 16:55:52",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 299,
+      "datetime": "2025-06-05 17:01:08",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 300,
+      "datetime": "2025-06-05 17:01:47",
+      "username": "Allisson",
+      "activity": "Creo el usuario: Yamileth",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-05T11:00:32.427874",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-06-05T11:01:59.028978",
+  "machine_id": "53642720127680"
 }

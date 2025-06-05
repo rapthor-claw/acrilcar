@@ -209,6 +209,20 @@
       "username": "admin",
       "activity": "Elimino al usuario ID: 10",
       "sincronizado": 0
+    },
+    {
+      "id": 224,
+      "datetime": "2025-06-05 03:47:57",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 225,
+      "datetime": "2025-06-05 04:00:39",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
     }
   ],
   "deleted": []

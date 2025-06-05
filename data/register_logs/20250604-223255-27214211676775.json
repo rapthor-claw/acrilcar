@@ -251,7 +251,44 @@
       "username": "admin",
       "activity": "Elimino al usuario ID: 10",
       "sincronizado": 0
+    },
+    {
+      "id": 230,
+      "datetime": "2025-06-05 04:04:06",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 231,
+      "datetime": "2025-06-05 04:18:53",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 232,
+      "datetime": "2025-06-05 04:19:03",
+      "username": "admin",
+      "activity": "Elimino al usuario ID: 10",
+      "sincronizado": 0
+    },
+    {
+      "id": 233,
+      "datetime": "2025-06-05 04:19:19",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0
+    },
+    {
+      "id": 234,
+      "datetime": "2025-06-05 04:32:45",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0
     }
   ],
-  "deleted": []
+  "deleted": [],
+  "timestamp": "2025-06-04T22:32:55.162783",
+  "machine_id": "27214211676775"
 }

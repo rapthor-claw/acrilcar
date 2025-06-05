@@ -199,8 +199,40 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 305,
+      "datetime": "2025-06-05 17:05:23",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 306,
+      "datetime": "2025-06-05 17:05:55",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 307,
+      "datetime": "2025-06-05 17:07:13",
+      "username": "Yamileth",
+      "activity": "Agrego movimiento: SALIDA POR DEPOSITOS BANCARIOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 308,
+      "datetime": "2025-06-05 17:08:01",
+      "username": "Yamileth",
+      "activity": "Agrego movimiento: RETIRO DE BANCO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-05T11:05:20.149921",
+  "timestamp": "2025-06-05T11:08:24.503701",
   "machine_id": "26830028058983"
 }

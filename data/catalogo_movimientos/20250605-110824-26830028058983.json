@@ -47,8 +47,24 @@
       "descripcion": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 7,
+      "nombre": "SALIDA POR DEPOSITOS BANCARIOS",
+      "tipo": "egreso",
+      "descripcion": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8,
+      "nombre": "RETIRO DE BANCO",
+      "tipo": "ingreso",
+      "descripcion": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-05T11:05:20.134276",
+  "timestamp": "2025-06-05T11:08:24.488079",
   "machine_id": "26830028058983"
 }

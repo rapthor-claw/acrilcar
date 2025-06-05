@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "id": 261,
+      "datetime": "2025-06-05 06:43:36",
+      "username": "admin",
+      "activity": "Elimino al usuario ID: 10",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 262,
+      "datetime": "2025-06-05 06:43:44",
+      "username": "admin",
+      "activity": "Elimino al usuario ID: 9",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 263,
+      "datetime": "2025-06-05 06:44:08",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 264,
+      "datetime": "2025-06-05 06:45:28",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 265,
+      "datetime": "2025-06-05 06:52:31",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 266,
+      "datetime": "2025-06-05 06:52:44",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 267,
+      "datetime": "2025-06-05 06:53:23",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 268,
+      "datetime": "2025-06-05 06:53:46",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-06-05T00:53:53.043493",
+  "machine_id": "27214211676775"
+}

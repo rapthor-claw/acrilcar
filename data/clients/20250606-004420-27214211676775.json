@@ -1176,8 +1176,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 131,
+      "name": "GENERICO",
+      "contact_1": "000000",
+      "contact_2": "000000",
+      "email": "generico@gmail.com",
+      "numero_ruc": "J001000000000000",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-06T00:02:49.636505",
+  "timestamp": "2025-06-06T00:44:20.817928",
   "machine_id": "27214211676775"
 }

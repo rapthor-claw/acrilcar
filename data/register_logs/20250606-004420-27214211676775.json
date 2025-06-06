@@ -1247,8 +1247,48 @@
       "activity": "Creo la orden de trabajo: 35008",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 436,
+      "datetime": "2025-06-06 06:15:19",
+      "username": "admin",
+      "activity": "Alta de Cliente: GENERICO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 437,
+      "datetime": "2025-06-06 06:16:12",
+      "username": "admin",
+      "activity": "Alta de Colaboraor: GENERICO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 438,
+      "datetime": "2025-06-06 06:20:25",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 439,
+      "datetime": "2025-06-06 06:43:28",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 440,
+      "datetime": "2025-06-06 06:44:10",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-06T00:02:49.648505",
+  "timestamp": "2025-06-06T00:44:20.835926",
   "machine_id": "27214211676775"
 }

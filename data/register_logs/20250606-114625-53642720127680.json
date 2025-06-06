@@ -1287,8 +1287,248 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 441,
+      "datetime": "2025-05-06 13:19:29",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35012",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 442,
+      "datetime": "2025-05-06 13:20:22",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35013",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 443,
+      "datetime": "2025-05-06 13:21:25",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35014",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 444,
+      "datetime": "2025-05-06 13:22:46",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35015",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 445,
+      "datetime": "2025-05-06 13:23:36",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35016",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 446,
+      "datetime": "2025-06-06 16:08:44",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35017",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 447,
+      "datetime": "2025-06-06 16:48:19",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35018",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 448,
+      "datetime": "2025-06-06 16:50:21",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35019",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 449,
+      "datetime": "2025-06-06 16:53:15",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35020",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 450,
+      "datetime": "2025-06-06 16:55:33",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35021",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 451,
+      "datetime": "2025-06-06 16:56:25",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35022",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 452,
+      "datetime": "2025-06-06 16:58:12",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35023",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 453,
+      "datetime": "2025-06-06 16:59:09",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35024",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 454,
+      "datetime": "2025-06-06 17:00:15",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35025",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 455,
+      "datetime": "2025-06-06 17:00:53",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35026",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 456,
+      "datetime": "2025-06-06 17:02:08",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35027",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 457,
+      "datetime": "2025-06-06 17:02:59",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35028",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 458,
+      "datetime": "2025-06-06 17:07:41",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35029",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 459,
+      "datetime": "2025-06-06 17:09:37",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35030",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 460,
+      "datetime": "2025-06-06 17:10:52",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35031",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 461,
+      "datetime": "2025-06-06 17:11:59",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35032",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 462,
+      "datetime": "2025-06-06 17:17:35",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35033",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 463,
+      "datetime": "2025-06-06 17:18:55",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35034",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 464,
+      "datetime": "2025-06-06 17:20:07",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35035",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 465,
+      "datetime": "2025-06-06 17:21:48",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35037",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 466,
+      "datetime": "2025-06-06 17:24:11",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35038",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 467,
+      "datetime": "2025-06-06 17:25:29",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35039",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 468,
+      "datetime": "2025-06-06 17:26:25",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35040",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 469,
+      "datetime": "2025-06-06 17:42:24",
+      "username": "Allisson",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 470,
+      "datetime": "2025-06-06 17:45:11",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-06T19:13:51.709036",
-  "machine_id": "115366137286386"
+  "timestamp": "2025-06-06T11:46:25.156855",
+  "machine_id": "53642720127680"
 }

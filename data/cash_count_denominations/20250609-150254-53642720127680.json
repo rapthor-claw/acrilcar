@@ -1,0 +1,71 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "id_user_cashier": 1,
+      "index_identifier": 100000001,
+      "fecha": "06-06-2025",
+      "nio_denominations": "1000",
+      "us_denominations": null,
+      "exchange_rate": 36.62,
+      "count": 3,
+      "subtotal": 3000.0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2,
+      "id_user_cashier": 1,
+      "index_identifier": 100000001,
+      "fecha": "06-06-2025",
+      "nio_denominations": "500",
+      "us_denominations": null,
+      "exchange_rate": 36.62,
+      "count": 10,
+      "subtotal": 5000.0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3,
+      "id_user_cashier": 1,
+      "index_identifier": 100000001,
+      "fecha": "06-06-2025",
+      "nio_denominations": "200",
+      "us_denominations": null,
+      "exchange_rate": 36.62,
+      "count": 2,
+      "subtotal": 400.0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4,
+      "id_user_cashier": 1,
+      "index_identifier": 100000001,
+      "fecha": "06-06-2025",
+      "nio_denominations": null,
+      "us_denominations": "100",
+      "exchange_rate": 36.62,
+      "count": 1,
+      "subtotal": 100.0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5,
+      "id_user_cashier": 1,
+      "index_identifier": 100000001,
+      "fecha": "06-06-2025",
+      "nio_denominations": null,
+      "us_denominations": "50",
+      "exchange_rate": 36.62,
+      "count": 3,
+      "subtotal": 150.0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-06-09T15:02:54.557222",
+  "machine_id": "53642720127680"
+}

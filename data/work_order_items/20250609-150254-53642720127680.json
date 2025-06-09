@@ -1,0 +1,270 @@
+{
+  "records": [
+    {
+      "id": 65,
+      "work_order_id": 35041,
+      "colaborator_id": 6,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 66,
+      "work_order_id": 35042,
+      "colaborator_id": 8,
+      "services": "['REP 2 STOP PARTE BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 67,
+      "work_order_id": 35043,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 68,
+      "work_order_id": 35044,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 69,
+      "work_order_id": 35045,
+      "colaborator_id": 5,
+      "services": "['PULIDO DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 70,
+      "work_order_id": 35046,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 71,
+      "work_order_id": 35047,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 STOP', 'ELAB DE PIDE VIA Y BASE Y MICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 72,
+      "work_order_id": 35048,
+      "colaborator_id": 6,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 73,
+      "work_order_id": 35049,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 74,
+      "work_order_id": 35050,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 75,
+      "work_order_id": 35051,
+      "colaborator_id": 5,
+      "services": "['REP 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 76,
+      "work_order_id": 35052,
+      "colaborator_id": 9,
+      "services": "['2 CORTES ACRILICOS DE 96.8 CM ANCHO X 0.49 ALTO DOBLEZ DE 0.05M']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 77,
+      "work_order_id": 35053,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 78,
+      "work_order_id": 35054,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 79,
+      "work_order_id": 35055,
+      "colaborator_id": 8,
+      "services": "['REP DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 80,
+      "work_order_id": 35056,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 81,
+      "work_order_id": 35057,
+      "colaborator_id": 8,
+      "services": "['ELAB STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 82,
+      "work_order_id": 35058,
+      "colaborator_id": 9,
+      "services": "['SUMINISTRO E INSTALCION DE 4 FRANJAS FROST']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 83,
+      "work_order_id": 35059,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO', 'ELAB DE 3 PIDE VIAS', 'PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 84,
+      "work_order_id": 35060,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP BUMPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 85,
+      "work_order_id": 35061,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 PIDE VIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 86,
+      "work_order_id": 35062,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 87,
+      "work_order_id": 35063,
+      "colaborator_id": 7,
+      "services": "['SELLADO DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 88,
+      "work_order_id": 35064,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 89,
+      "work_order_id": 35065,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 90,
+      "work_order_id": 35066,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 91,
+      "work_order_id": 35067,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 92,
+      "work_order_id": 35068,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS Y PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 93,
+      "work_order_id": 35069,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 94,
+      "work_order_id": 35070,
+      "colaborator_id": 9,
+      "services": "['CORTE DE 34X20 CM ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 95,
+      "work_order_id": 35071,
+      "colaborator_id": 9,
+      "services": "['ELAB DE1 REFLECTOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 96,
+      "work_order_id": 35072,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 97,
+      "work_order_id": 35073,
+      "colaborator_id": 8,
+      "services": "['CORTE DE ROMPEVIENTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-06-09T15:02:54.539146",
+  "machine_id": "53642720127680"
+}

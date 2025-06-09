@@ -1,0 +1,13 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "fecha": "06-06-2025",
+      "identifier": 100000001,
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-06-09T15:02:54.572588",
+  "machine_id": "53642720127680"
+}

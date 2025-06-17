@@ -1007,8 +1007,160 @@
       "activity": "Elimino cliente: ALFREDO ALEXANDER ULLOA",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 597,
+      "datetime": "2025-06-17 19:35:59",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FRENOS DE NICARAGUA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 598,
+      "datetime": "2025-06-17 19:36:22",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: AUDELIO SOLIS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 599,
+      "datetime": "2025-06-17 19:36:35",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FRANCISCO ROSALES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 600,
+      "datetime": "2025-06-17 19:37:18",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JOSE SALGADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 601,
+      "datetime": "2025-06-17 19:38:03",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ERICK CHAVARRIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 602,
+      "datetime": "2025-06-17 19:38:20",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: TALLER ALEMAN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 603,
+      "datetime": "2025-06-17 19:38:38",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: RONNEL LUMBI",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 604,
+      "datetime": "2025-06-17 19:38:54",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: KAREN HERNANDEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 605,
+      "datetime": "2025-06-17 19:39:16",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: NICARAGUAN DREAM VENTURES S,A",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 606,
+      "datetime": "2025-06-17 19:40:50",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: PABLO MORALES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 607,
+      "datetime": "2025-06-17 19:41:07",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JULIO CESAR CHAVEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 608,
+      "datetime": "2025-06-17 19:41:42",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CLAUDIA FABIOLA ESPINOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 609,
+      "datetime": "2025-06-17 19:42:25",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: EDGAR CAMPOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 610,
+      "datetime": "2025-06-17 19:44:28",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MAURO URCUYO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 611,
+      "datetime": "2025-06-17 19:44:44",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JAIRO BLANCO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 612,
+      "datetime": "2025-06-17 19:47:19",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: NIMAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 613,
+      "datetime": "2025-06-17 19:47:33",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: BLADIMIR ESPINO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 614,
+      "datetime": "2025-06-17 19:49:38",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LENIN ZUÑIGA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 615,
+      "datetime": "2025-06-17 19:50:22",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ELIEZER SANTIAGO ZAMBRANA ROCHA",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-17T13:35:13.268789",
+  "timestamp": "2025-06-17T13:51:05.232207",
   "machine_id": "53642720127680"
 }

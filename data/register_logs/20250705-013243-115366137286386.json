@@ -1,6 +1,22 @@
 {
   "records": [
     {
+      "id": 441,
+      "datetime": "2025-06-06 17:14:27",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 442,
+      "datetime": "2025-07-04 23:32:19",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
       "id": 471,
       "datetime": "2025-06-06 17:46:51",
       "username": "admin",
@@ -1161,6 +1177,6 @@
       "is_deleted": 0
     }
   ],
-  "timestamp": "2025-06-17T13:51:05.232207",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-07-05T01:32:43.034433",
+  "machine_id": "115366137286386"
 }

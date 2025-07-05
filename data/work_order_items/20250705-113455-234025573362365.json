@@ -527,8 +527,32 @@
       "services": "['ELAB 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 131,
+      "work_order_id": 99033,
+      "colaborator_id": 9,
+      "services": "['Pulido de focos']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 132,
+      "work_order_id": 99034,
+      "colaborator_id": 8,
+      "services": "['Elaborar rotulo']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 133,
+      "work_order_id": 99035,
+      "colaborator_id": 7,
+      "services": "['Pulido']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-05T02:45:40.685715",
-  "machine_id": "115366137286386"
+  "timestamp": "2025-07-05T11:34:55.722818",
+  "machine_id": "234025573362365"
 }

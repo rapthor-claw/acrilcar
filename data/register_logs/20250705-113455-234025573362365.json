@@ -1175,8 +1175,128 @@
       "activity": "Alta de Cliente: ELIEZER SANTIAGO ZAMBRANA ROCHA",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 616,
+      "datetime": "2025-07-05 00:48:06",
+      "username": "admin",
+      "activity": "Creo la orden de trabajo: 99033",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 617,
+      "datetime": "2025-07-05 00:49:31",
+      "username": "admin",
+      "activity": "Agrego movimiento: PAGO EFECTIVO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 618,
+      "datetime": "2025-07-05 00:49:55",
+      "username": "admin",
+      "activity": "Agrego movimiento: PAGO TARJETA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 619,
+      "datetime": "2025-07-05 00:51:14",
+      "username": "admin",
+      "activity": "Ingreso de caja para la orden: 99033 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 620,
+      "datetime": "2025-07-05 00:53:13",
+      "username": "admin",
+      "activity": "Ingreso de caja para la orden: 99033 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 621,
+      "datetime": "2025-07-05 00:54:35",
+      "username": "admin",
+      "activity": "Cerro la orden: 99033",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 622,
+      "datetime": "2025-07-05 00:58:03",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 623,
+      "datetime": "2025-07-05 00:59:23",
+      "username": "admin",
+      "activity": "Creo la orden de trabajo: 99034",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 624,
+      "datetime": "2025-07-05 01:00:16",
+      "username": "admin",
+      "activity": "Creo la orden de producción: 99034",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 625,
+      "datetime": "2025-07-05 01:04:05",
+      "username": "admin",
+      "activity": "Creo la orden de trabajo: 99035",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 626,
+      "datetime": "2025-07-05 01:12:05",
+      "username": "admin",
+      "activity": "Ingreso de caja para la orden: 99034 - monto: 6000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 627,
+      "datetime": "2025-07-05 01:14:52",
+      "username": "admin",
+      "activity": "Salida de caja, monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 628,
+      "datetime": "2025-07-05 01:16:14",
+      "username": "admin",
+      "activity": "Agrego movimiento: DEPOSITO BANCARIO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 629,
+      "datetime": "2025-07-05 01:30:25",
+      "username": "admin",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 630,
+      "datetime": "2025-07-05 17:34:20",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-05T02:45:41.170460",
-  "machine_id": "115366137286386"
+  "timestamp": "2025-07-05T11:34:55.767892",
+  "machine_id": "234025573362365"
 }

@@ -1,0 +1,58 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "fecha": "2025-07-05",
+      "descripcion": "Pago en efectivo al entregar",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "admin",
+      "order_id": 99033,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2,
+      "fecha": "2025-07-05",
+      "descripcion": "Cancela pago con tarjeta BAC",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "admin",
+      "order_id": 99033,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3,
+      "fecha": "2025-07-05",
+      "descripcion": "",
+      "monto": 6000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "admin",
+      "order_id": 99034,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4,
+      "fecha": "2025-07-05",
+      "descripcion": "Compra papeleria mes de Junio",
+      "monto": 900.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 4,
+      "user_id": "admin",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-07-05T11:34:55.738717",
+  "machine_id": "234025573362365"
+}

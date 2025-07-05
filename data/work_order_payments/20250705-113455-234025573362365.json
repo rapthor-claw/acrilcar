@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "work_order_id": 99033,
+      "payment_date": "2025-07-05",
+      "payment_method": "efectivo",
+      "payment": "admin",
+      "user_log_registration": 1000,
+      "note": "Pago en efectivo al entregar",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2,
+      "work_order_id": 99033,
+      "payment_date": "2025-07-05",
+      "payment_method": "tarjeta",
+      "payment": "admin",
+      "user_log_registration": 1000,
+      "note": "Cancela pago con tarjeta BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3,
+      "work_order_id": 99034,
+      "payment_date": "2025-07-05",
+      "payment_method": "efectivo",
+      "payment": "admin",
+      "user_log_registration": 6000,
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-07-05T11:34:55.730786",
+  "machine_id": "234025573362365"
+}

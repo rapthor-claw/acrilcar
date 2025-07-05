@@ -64,8 +64,60 @@
       "subtotal": 150.0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6,
+      "id_user_cashier": 1,
+      "index_identifier": 100000002,
+      "fecha": "06-07-2026",
+      "nio_denominations": "1000",
+      "us_denominations": null,
+      "exchange_rate": 37.0,
+      "count": 5,
+      "subtotal": 5000.0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7,
+      "id_user_cashier": 1,
+      "index_identifier": 100000002,
+      "fecha": "06-07-2026",
+      "nio_denominations": "50",
+      "us_denominations": null,
+      "exchange_rate": 37.0,
+      "count": 15,
+      "subtotal": 750.0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8,
+      "id_user_cashier": 1,
+      "index_identifier": 100000002,
+      "fecha": "06-07-2026",
+      "nio_denominations": null,
+      "us_denominations": "100",
+      "exchange_rate": 37.0,
+      "count": 2,
+      "subtotal": 200.0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9,
+      "id_user_cashier": 1,
+      "index_identifier": 100000002,
+      "fecha": "06-07-2026",
+      "nio_denominations": null,
+      "us_denominations": "20",
+      "exchange_rate": 37.0,
+      "count": 5,
+      "subtotal": 100.0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-05T02:45:40.920061",
-  "machine_id": "115366137286386"
+  "timestamp": "2025-07-05T11:34:55.748601",
+  "machine_id": "234025573362365"
 }

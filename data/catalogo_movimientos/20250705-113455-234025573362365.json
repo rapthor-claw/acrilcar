@@ -1,0 +1,30 @@
+{
+  "records": [
+    {
+      "id": 9,
+      "nombre": "PAGO EFECTIVO",
+      "tipo": "ingreso",
+      "descripcion": "PAGO EFECTIVO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10,
+      "nombre": "PAGO TARJETA",
+      "tipo": "ingreso",
+      "descripcion": "PAGO TARJETA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11,
+      "nombre": "DEPOSITO BANCARIO",
+      "tipo": "egreso",
+      "descripcion": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-07-05T11:34:55.743429",
+  "machine_id": "234025573362365"
+}

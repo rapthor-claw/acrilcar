@@ -1,0 +1,21 @@
+{
+  "records": [
+    {
+      "id": 20,
+      "work_order_id": "99034",
+      "start_date": "2025-05-04 02:58",
+      "end_date": "2025-06-11 16:00",
+      "colaborador_id": 1,
+      "client_id": 46,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• Elaborar rotulo\n",
+      "note": "ROTULO MONISA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-07-05T11:34:55.775898",
+  "machine_id": "234025573362365"
+}

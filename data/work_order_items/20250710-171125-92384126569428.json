@@ -767,8 +767,160 @@
       "services": "['ELAB DE PIDE VIA BLANCO RAYADO REP BASE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 161,
+      "work_order_id": 35634,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 162,
+      "work_order_id": 35635,
+      "colaborator_id": 4,
+      "services": "['PULIDO DE FOCOS', 'ELAB DE 1 STOP 1600c$']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 163,
+      "work_order_id": 35636,
+      "colaborator_id": 8,
+      "services": "['ELAB DE LUZ DE BUMPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 164,
+      "work_order_id": 35637,
+      "colaborator_id": 4,
+      "services": "['ELB DE STOP CON LED Y PULIDO DE TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 165,
+      "work_order_id": 35638,
+      "colaborator_id": 10,
+      "services": "['ELAB DE TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 166,
+      "work_order_id": 35639,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 167,
+      "work_order_id": 35640,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS CON MTTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 168,
+      "work_order_id": 35641,
+      "colaborator_id": 5,
+      "services": "['ELAB DE TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 169,
+      "work_order_id": 35642,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 170,
+      "work_order_id": 35643,
+      "colaborator_id": 7,
+      "services": "['SECADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 171,
+      "work_order_id": 35644,
+      "colaborator_id": 4,
+      "services": "['ELB DE STOP 1800 C$', 'ENVIOS Y PAGO DE ENCOMIENDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 172,
+      "work_order_id": 35645,
+      "colaborator_id": 9,
+      "services": "['CORTE Y ARMADO DE BUZON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 173,
+      "work_order_id": 35646,
+      "colaborator_id": 10,
+      "services": "['N/A']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 174,
+      "work_order_id": 35647,
+      "colaborator_id": 5,
+      "services": "['ELAB DE PIDE VIA Y UNO BASE Y MICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 175,
+      "work_order_id": 35648,
+      "colaborator_id": 10,
+      "services": "['ELAB DE 2 REFLECTORES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 176,
+      "work_order_id": 35649,
+      "colaborator_id": 2,
+      "services": "['REP DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 177,
+      "work_order_id": 35650,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCO, REP SELLADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 178,
+      "work_order_id": 35651,
+      "colaborator_id": 9,
+      "services": "['ELAB DE 200 PIEZAS PARA RAQUETA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 179,
+      "work_order_id": 35652,
+      "colaborator_id": 10,
+      "services": "['N/A']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-10T13:52:56.040341",
+  "timestamp": "2025-07-10T17:11:25.147401",
   "machine_id": "92384126569428"
 }

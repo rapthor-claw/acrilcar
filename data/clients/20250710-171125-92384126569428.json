@@ -1990,8 +1990,173 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 315,
+      "name": "GUILLERMO SABALLOS",
+      "contact_1": "89886926",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 316,
+      "name": "YASSER ESCORCIA",
+      "contact_1": "86103906",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 317,
+      "name": "NERY MATAMOROS",
+      "contact_1": "88391343",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 318,
+      "name": "ALVARO GARCIA",
+      "contact_1": "87864495",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 319,
+      "name": "ELIAS SANCHEZ",
+      "contact_1": "58757382",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 320,
+      "name": "JOSE ALFREDO CERDA",
+      "contact_1": "84852175",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 321,
+      "name": "EDDY ANTONIO MARTINEZ",
+      "contact_1": "86280628",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 322,
+      "name": "JOSEP RAMIREZ",
+      "contact_1": "86168098",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 323,
+      "name": "JOSE MENA",
+      "contact_1": "57999229",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 324,
+      "name": "ROGER FRANCISCO",
+      "contact_1": "0",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 325,
+      "name": "MULTISERVICIO SOLANO",
+      "contact_1": "82316318",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 326,
+      "name": "MANUEL SAENZ",
+      "contact_1": "89106000",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 327,
+      "name": "ELIZABETH ORTEGA",
+      "contact_1": "87392882",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 328,
+      "name": "ADOLFO MEDRANO",
+      "contact_1": "57896127",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 329,
+      "name": "JOSE DANIEL RUIZ",
+      "contact_1": "83599517",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-10T13:52:56.079219",
+  "timestamp": "2025-07-10T17:11:25.194953",
   "machine_id": "92384126569428"
 }

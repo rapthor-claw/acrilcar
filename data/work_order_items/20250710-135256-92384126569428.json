@@ -551,8 +551,224 @@
       "services": "['Pulido']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 134,
+      "work_order_id": 35606,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 135,
+      "work_order_id": 35607,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS CON REP DE PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 136,
+      "work_order_id": 35608,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 137,
+      "work_order_id": 35609,
+      "colaborator_id": 8,
+      "services": "['ELABORACION DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 138,
+      "work_order_id": 35610,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 139,
+      "work_order_id": 35611,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 140,
+      "work_order_id": 35613,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 141,
+      "work_order_id": 35614,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 142,
+      "work_order_id": 35615,
+      "colaborator_id": 10,
+      "services": "['SUMINISTRO DE 1 LITRO DE PEGA ACRILICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 143,
+      "work_order_id": 35616,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 144,
+      "work_order_id": 35617,
+      "colaborator_id": 7,
+      "services": "['PULIDO Y SELLADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 145,
+      "work_order_id": 35618,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 146,
+      "work_order_id": 35619,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 147,
+      "work_order_id": 35620,
+      "colaborator_id": 7,
+      "services": "['PULIDO Y SELLADO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 148,
+      "work_order_id": 35621,
+      "colaborator_id": 2,
+      "services": "['SECADO DE 1 FOCO', 'ELABORACION DE LATERAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 149,
+      "work_order_id": 35622,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 150,
+      "work_order_id": 35623,
+      "colaborator_id": 8,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 151,
+      "work_order_id": 35624,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 PIDE VIAS REP BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 152,
+      "work_order_id": 35625,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS  A VAPOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 153,
+      "work_order_id": 35626,
+      "colaborator_id": 7,
+      "services": "['SECADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 154,
+      "work_order_id": 35627,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 155,
+      "work_order_id": 35628,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 156,
+      "work_order_id": 35629,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 157,
+      "work_order_id": 35630,
+      "colaborator_id": 8,
+      "services": "['REPARACION DE 2 GABETAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 158,
+      "work_order_id": 35631,
+      "colaborator_id": 10,
+      "services": "['N/A']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 159,
+      "work_order_id": 35632,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 160,
+      "work_order_id": 35633,
+      "colaborator_id": 10,
+      "services": "['ELAB DE PIDE VIA BLANCO RAYADO REP BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-10T10:38:10.712502",
+  "timestamp": "2025-07-10T13:52:56.040341",
   "machine_id": "92384126569428"
 }

@@ -1295,8 +1295,472 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 631,
+      "datetime": "2025-07-10 15:48:50",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: EDDYLBERTO LACAYO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 632,
+      "datetime": "2025-07-10 15:49:01",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: EDDY LOPEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 633,
+      "datetime": "2025-07-10 15:49:32",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: PEDRO ANTONIO TREMINIO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 634,
+      "datetime": "2025-07-10 15:49:47",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: RAFAEL ANGEL GONZALEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 635,
+      "datetime": "2025-07-10 15:50:30",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ASALIA PALACIOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 636,
+      "datetime": "2025-07-10 15:50:41",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: OSORNO COLLEMAN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 637,
+      "datetime": "2025-07-10 16:01:06",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ALEXIS BALDIZON",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 638,
+      "datetime": "2025-07-10 16:01:40",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: RICARDO MARTINEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 639,
+      "datetime": "2025-07-10 16:02:11",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ANA JULIA RIVERA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 640,
+      "datetime": "2025-07-10 16:02:36",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: OBED CHAVARRIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 641,
+      "datetime": "2025-07-10 16:02:58",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: AMENCO MORALES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 642,
+      "datetime": "2025-07-10 16:03:18",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: VICTOR DE JESUS TELLEZ SANTANA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 643,
+      "datetime": "2025-07-10 16:03:30",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARTHA  ARGUELLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 644,
+      "datetime": "2025-07-10 16:04:15",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DISTRIBUIDORA SAN DIEGO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 645,
+      "datetime": "2025-07-10 16:04:29",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LEONARDO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 646,
+      "datetime": "2025-07-10 16:04:42",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: OMAR MARTINEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 647,
+      "datetime": "2025-07-10 16:04:55",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: GUILLERMO FONSECA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 648,
+      "datetime": "2025-07-10 16:05:22",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: AGUSTO VIVAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 649,
+      "datetime": "2025-07-10 16:05:36",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: SILVIO COREA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 650,
+      "datetime": "2025-07-10 16:05:49",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: TOMAS COREA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 651,
+      "datetime": "2025-07-10 16:06:11",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FATIMA QUIROZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 652,
+      "datetime": "2025-07-10 16:06:26",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MECANICA EXPRESS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 653,
+      "datetime": "2025-07-10 16:06:54",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: SILGUER S,A",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 654,
+      "datetime": "2025-07-10 16:07:10",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: GUNTHER SOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 655,
+      "datetime": "2025-07-10 16:07:32",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: NELSON TREMNIO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 656,
+      "datetime": "2025-07-10 16:09:06",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CLAUDIO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 657,
+      "datetime": "2025-07-10 16:10:19",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JAVIER SOTELO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 658,
+      "datetime": "2025-07-10 16:10:42",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: AIMSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 659,
+      "datetime": "2025-07-10 16:11:29",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MICHAEL ZAMORA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 660,
+      "datetime": "2025-07-10 16:14:27",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JOSE LEON ABURTO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 661,
+      "datetime": "2025-07-10 16:15:31",
+      "username": "Allisson",
+      "activity": "Elimino cliente: JOSE LEON ABURTO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 662,
+      "datetime": "2025-07-10 16:16:00",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: RAQUETEO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 663,
+      "datetime": "2025-07-10 16:16:16",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: PATRICIA MENDOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 664,
+      "datetime": "2025-07-10 16:16:54",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: HERIBERTO LUMBI",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 665,
+      "datetime": "2025-07-10 16:17:05",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JORGE AMADOR",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 666,
+      "datetime": "2025-07-10 16:17:19",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: RAMIRO SUAZO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 667,
+      "datetime": "2025-07-10 16:17:41",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: AGUSTO ENRIQUE SILES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 668,
+      "datetime": "2025-07-10 16:18:07",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FRANCISCO JAVIER SANG ROJAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 669,
+      "datetime": "2025-07-10 16:18:26",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: WILFREDO GONZALEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 670,
+      "datetime": "2025-07-10 16:18:40",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ANGEL QUIJANO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 671,
+      "datetime": "2025-07-10 16:19:15",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CARIBBEAN BLUE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 672,
+      "datetime": "2025-07-10 16:19:39",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LEONEL MERCADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 673,
+      "datetime": "2025-07-10 16:19:58",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARIA AUXILIADORA GOMEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 674,
+      "datetime": "2025-07-10 16:20:14",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: OSCAR MEDAL",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 675,
+      "datetime": "2025-07-10 16:29:25",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ALVARO REYES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 676,
+      "datetime": "2025-07-10 16:29:36",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ELVIS TINOCO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 677,
+      "datetime": "2025-07-10 16:29:51",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ALEXANDER FLETES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 678,
+      "datetime": "2025-07-10 16:30:08",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: TALLER LA SIERRIT",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 679,
+      "datetime": "2025-07-10 16:30:19",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ENTRENICA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 680,
+      "datetime": "2025-07-10 16:31:15",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CORTE SUPREMA DE JUSTICIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 681,
+      "datetime": "2025-07-10 16:31:37",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FREDDY GONZALEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 682,
+      "datetime": "2025-07-10 16:31:49",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MELVIN ROSALES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 683,
+      "datetime": "2025-07-10 16:32:11",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MOISES FLORES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 684,
+      "datetime": "2025-07-10 16:32:32",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: SERGIO OLIVAS GONZALEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 685,
+      "datetime": "2025-07-10 16:32:48",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ABEL BRIONES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 686,
+      "datetime": "2025-07-10 16:32:59",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JULIO POSADA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 687,
+      "datetime": "2025-07-10 16:33:15",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LILLIAM ROBLES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 688,
+      "datetime": "2025-07-10 16:37:49",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JEFFERSON ROJAS",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-05T11:34:55.767892",
-  "machine_id": "234025573362365"
+  "timestamp": "2025-07-10T10:38:10.766771",
+  "machine_id": "92384126569428"
 }

@@ -2221,8 +2221,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 336,
+      "name": "JULIO CASTILLO",
+      "contact_1": "86722702",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 337,
+      "name": "WILMER JOSE FLORES",
+      "contact_1": "57316826",
+      "contact_2": "84145968",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 338,
+      "name": "ANTONIO ESPINOZA",
+      "contact_1": "89323262",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 339,
+      "name": "MARCIA CORDERO",
+      "contact_1": "88257171",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 340,
+      "name": "SHIRLEY MARTINEZ",
+      "contact_1": "87960519",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 341,
+      "name": "JAVIER RODRIGUEZ",
+      "contact_1": "89885445",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 342,
+      "name": "ANGEL GARCIA",
+      "contact_1": "84619993",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-11T11:20:36.942600",
+  "timestamp": "2025-07-11T15:43:11.379618",
   "machine_id": "92384126569428"
 }

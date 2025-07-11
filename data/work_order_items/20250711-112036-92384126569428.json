@@ -919,8 +919,256 @@
       "services": "['N/A']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 180,
+      "work_order_id": 35653,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 1 FOCO CON REP ARO Y BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 181,
+      "work_order_id": 35654,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO CON MTTO INTERNO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 182,
+      "work_order_id": 35655,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 DAICO ANARANJADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 183,
+      "work_order_id": 35656,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 PARRILLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 184,
+      "work_order_id": 35657,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 185,
+      "work_order_id": 35658,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 186,
+      "work_order_id": 35660,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 187,
+      "work_order_id": 35661,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 188,
+      "work_order_id": 35662,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS CON REVISION DE FILTRACION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 189,
+      "work_order_id": 35663,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 190,
+      "work_order_id": 35664,
+      "colaborator_id": 8,
+      "services": "['REP DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 191,
+      "work_order_id": 35665,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 192,
+      "work_order_id": 35666,
+      "colaborator_id": 4,
+      "services": "['ELAB DE TERCERA LUZ c$700 PULIDO 2 FOCOS 1600c$']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 193,
+      "work_order_id": 35667,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS CAMBIO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 194,
+      "work_order_id": 35668,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 195,
+      "work_order_id": 35669,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 196,
+      "work_order_id": 35670,
+      "colaborator_id": 8,
+      "services": "['ELB DE 18 MICAS BLANCO DIAMANTADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 197,
+      "work_order_id": 35671,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 18 MICAS BLANCO DIAMANTADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 198,
+      "work_order_id": 35672,
+      "colaborator_id": 5,
+      "services": "['REP DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 199,
+      "work_order_id": 35673,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 200,
+      "work_order_id": 35674,
+      "colaborator_id": 8,
+      "services": "['ELAB DE FOCO CON MTTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 201,
+      "work_order_id": 35675,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 LATERAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 202,
+      "work_order_id": 35676,
+      "colaborator_id": 10,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 203,
+      "work_order_id": 35677,
+      "colaborator_id": 4,
+      "services": "['ELAB DE HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 204,
+      "work_order_id": 35678,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 205,
+      "work_order_id": 35680,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO Y PULIDO DE 1 CON REP DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 206,
+      "work_order_id": 35680,
+      "colaborator_id": 8,
+      "services": "['ELAB DE PIEZA SEGUN MUESTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 207,
+      "work_order_id": 35681,
+      "colaborator_id": 9,
+      "services": "['ELAB DE ROTULO NEON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 208,
+      "work_order_id": 35682,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 209,
+      "work_order_id": 35683,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 210,
+      "work_order_id": 35684,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-10T17:26:59.225915",
+  "timestamp": "2025-07-11T11:20:36.835308",
   "machine_id": "92384126569428"
 }

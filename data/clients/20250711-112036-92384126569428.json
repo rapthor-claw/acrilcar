@@ -2155,8 +2155,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 330,
+      "name": "JERRY NOVOA",
+      "contact_1": "82256020",
+      "contact_2": "83639932",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 331,
+      "name": "INTERCARGO",
+      "contact_1": "88839974",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 332,
+      "name": "ROTULADORA INDUSTRIAL",
+      "contact_1": "89590048",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 333,
+      "name": "LEVI AGUILAR",
+      "contact_1": "78067799",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 334,
+      "name": "CARLOS GALEANO",
+      "contact_1": "83850311",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 335,
+      "name": "CARLOS FLORES",
+      "contact_1": "81412417",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-10T17:26:59.266025",
+  "timestamp": "2025-07-11T11:20:36.942600",
   "machine_id": "92384126569428"
 }

@@ -5335,8 +5335,96 @@
       "activity": "Creo la orden de trabajo: 35783",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1129,
+      "datetime": "2025-07-14 19:55:53",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: INSTALACIONES TELEFONICAS DE NICARAGUA S,A",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1130,
+      "datetime": "2025-07-14 19:56:18",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: KEVIN CAMPOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1131,
+      "datetime": "2025-07-14 19:57:14",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35784",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1132,
+      "datetime": "2025-07-14 19:58:54",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35785",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1133,
+      "datetime": "2025-07-14 19:59:09",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35784",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1134,
+      "datetime": "2025-07-14 19:59:19",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35785",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1135,
+      "datetime": "2025-07-14 20:06:16",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: PRODECON",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1136,
+      "datetime": "2025-07-14 20:14:55",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35786",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1137,
+      "datetime": "2025-07-14 20:15:22",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35786",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1138,
+      "datetime": "2025-07-14 21:04:21",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: EDWIN GALLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1139,
+      "datetime": "2025-07-14 21:06:02",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35787",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T13:36:07.685974",
+  "timestamp": "2025-07-14T15:11:13.040059",
   "machine_id": "92384126569428"
 }

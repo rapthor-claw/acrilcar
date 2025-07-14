@@ -2294,8 +2294,53 @@
       "note": "BMW",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 173,
+      "work_order_id": "35784",
+      "start_date": "2025-07-14 13:56",
+      "end_date": "2025-07-16 16:30",
+      "colaborador_id": 2,
+      "client_id": 365,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP c$3200\n• REP DE ARO Y PULIDO DE 1 FOCO C$800\n",
+      "note": "ISUZU",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 174,
+      "work_order_id": "35785",
+      "start_date": "2025-07-14 13:57",
+      "end_date": "2025-07-15 17:00",
+      "colaborador_id": 2,
+      "client_id": 366,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE FOCO C$1700\n• MTTO DE 1 FOCO C$300\n",
+      "note": "LADA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 175,
+      "work_order_id": "35786",
+      "start_date": "2025-07-14 14:06",
+      "end_date": "2025-07-15 17:00",
+      "colaborador_id": 2,
+      "client_id": 367,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP\n",
+      "note": "DMAX",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T13:36:07.701695",
+  "timestamp": "2025-07-14T15:11:13.056199",
   "machine_id": "92384126569428"
 }

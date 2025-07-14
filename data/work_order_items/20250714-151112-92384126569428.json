@@ -1975,8 +1975,40 @@
       "services": "['PULIDO Y CROMO DE 2 HALOGENOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 312,
+      "work_order_id": 35784,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP c$3200', 'REP DE ARO Y PULIDO DE 1 FOCO C$800']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 313,
+      "work_order_id": 35785,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO C$1700', 'MTTO DE 1 FOCO C$300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 314,
+      "work_order_id": 35786,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 315,
+      "work_order_id": 35787,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T13:36:07.624649",
+  "timestamp": "2025-07-14T15:11:12.976002",
   "machine_id": "92384126569428"
 }

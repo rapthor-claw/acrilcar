@@ -2540,8 +2540,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 365,
+      "name": "INSTALACIONES TELEFONICAS DE NICARAGUA S,A",
+      "contact_1": "75302869",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 366,
+      "name": "KEVIN CAMPOS",
+      "contact_1": "58003809",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 367,
+      "name": "PRODECON",
+      "contact_1": "83524899",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 368,
+      "name": "EDWIN GALLO",
+      "contact_1": "86137770",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T13:36:07.671838",
+  "timestamp": "2025-07-14T15:11:13.024029",
   "machine_id": "92384126569428"
 }

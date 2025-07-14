@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "id": 9,
+      "nombre": "PAGO EFECTIVO",
+      "tipo": "ingreso",
+      "descripcion": "PAGO EFECTIVO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10,
+      "nombre": "PAGO TARJETA",
+      "tipo": "ingreso",
+      "descripcion": "PAGO TARJETA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11,
+      "nombre": "DEPOSITO BANCARIO",
+      "tipo": "egreso",
+      "descripcion": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 12,
+      "nombre": "SALIDA  POR PAGOS POR MEDIO DE TARJETA FICOHSA",
+      "tipo": "egreso",
+      "descripcion": "PAGO TARJETA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 13,
+      "nombre": "SALIDA POR PAGOS POR MEDIO DE TRANFERENCIA BANPRO",
+      "tipo": "egreso",
+      "descripcion": "SALIDA POR PAGOS POR MEDIO DE TRANFERENCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 14,
+      "nombre": "PAGO DE BASURA",
+      "tipo": "egreso",
+      "descripcion": "BOTAR BASURA DEL TALLER",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 15,
+      "nombre": "COMBUSTIBLE",
+      "tipo": "egreso",
+      "descripcion": "COMBUSTIBLE PARA VEHICULOS DE DON FRANK",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 16,
+      "nombre": "PAGO DE CEMENTERIO",
+      "tipo": "egreso",
+      "descripcion": "CEMENTERIO CUOTA MENSUAL DE MANTENIMIENTO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 17,
+      "nombre": "PAGO DE DISNORTE",
+      "tipo": "egreso",
+      "descripcion": "PAGO DE LUZ DEL TALLER 3143099",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 18,
+      "nombre": "PAGO DE DISNORTE",
+      "tipo": "egreso",
+      "descripcion": "PAGO DE LUZ DE LA CASA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 19,
+      "nombre": "PAGO TRANFERENCIA",
+      "tipo": "ingreso",
+      "descripcion": "TRANFERENCIA BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 20,
+      "nombre": "RETENCIONES",
+      "tipo": "egreso",
+      "descripcion": "RETENCION DEL 1 % Y 2%",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-07-14T15:11:16.708483",
+  "machine_id": "26830028058983"
+}

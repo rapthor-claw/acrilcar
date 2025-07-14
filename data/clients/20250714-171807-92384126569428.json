@@ -2584,8 +2584,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 369,
+      "name": "CESAR MAJANI",
+      "contact_1": "81167244",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 370,
+      "name": "JORGE ISAAC RIVERA",
+      "contact_1": "89635575",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T15:11:16.739726",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-14T17:18:07.986578",
+  "machine_id": "92384126569428"
 }

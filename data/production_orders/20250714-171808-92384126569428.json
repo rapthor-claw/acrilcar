@@ -2339,8 +2339,38 @@
       "note": "DMAX",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 176,
+      "work_order_id": "35788",
+      "start_date": "2025-07-14 16:15",
+      "end_date": "2025-07-16 16:30",
+      "colaborador_id": 2,
+      "client_id": 369,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 2 STOP\n",
+      "note": "HILUX",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 177,
+      "work_order_id": "35789",
+      "start_date": "2025-07-14 17:16",
+      "end_date": "2025-07-16 16:30",
+      "colaborador_id": 2,
+      "client_id": 370,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP CON CALADO TRANSPARENTE\n",
+      "note": "AGYA",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T15:11:16.786591",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-14T17:18:08.020003",
+  "machine_id": "92384126569428"
 }

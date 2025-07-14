@@ -5423,8 +5423,80 @@
       "activity": "Creo la orden de trabajo: 35787",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1140,
+      "datetime": "2025-07-14 21:18:47",
+      "username": "Allisson",
+      "activity": "Actualizacion datos de Colaborador: Eduardo Antonio",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1141,
+      "datetime": "2025-07-14 21:19:52",
+      "username": "Allisson",
+      "activity": "Alta de Colaboraor: JEFFREY ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1142,
+      "datetime": "2025-07-14 21:22:22",
+      "username": "Allisson",
+      "activity": "Alta de Colaboraor: ISAIAS FRANCISCO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1143,
+      "datetime": "2025-07-14 22:15:05",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CESAR MAJANI",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1144,
+      "datetime": "2025-07-14 22:16:08",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35788",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1145,
+      "datetime": "2025-07-14 22:16:29",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35788",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1146,
+      "datetime": "2025-07-14 23:16:50",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JORGE ISAAC RIVERA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1147,
+      "datetime": "2025-07-14 23:17:48",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35789",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1148,
+      "datetime": "2025-07-14 23:18:01",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35789",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T15:11:16.755347",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-14T17:18:08.005988",
+  "machine_id": "92384126569428"
 }

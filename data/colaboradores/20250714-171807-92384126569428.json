@@ -1,0 +1,44 @@
+{
+  "records": [
+    {
+      "id": 11,
+      "nombre": "JEFFREY ",
+      "apellido": "LAMPTON",
+      "telefono_personal": "85107987",
+      "documento_identidad": "",
+      "fecha_ingreso": "2025-07-14",
+      "nombre_contacto_emergencia": "",
+      "telefono_emergencia": "",
+      "fecha_baja": "",
+      "salario": 6500.0,
+      "is_active": 1,
+      "puesto": "PULIDO",
+      "fecha_nacimiento": "2025-07-14",
+      "numero_seguro_social": "",
+      "informacion_adicional": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 12,
+      "nombre": "ISAIAS FRANCISCO",
+      "apellido": "CASTILLO DOMINGUEZ",
+      "telefono_personal": "78750974",
+      "documento_identidad": "",
+      "fecha_ingreso": "2025-07-14",
+      "nombre_contacto_emergencia": "",
+      "telefono_emergencia": "",
+      "fecha_baja": "",
+      "salario": 5000.0,
+      "is_active": 1,
+      "puesto": "TECNICO ELABORADOR EN ACRILICO",
+      "fecha_nacimiento": "2025-07-14",
+      "numero_seguro_social": "",
+      "informacion_adicional": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-07-14T17:18:07.990584",
+  "machine_id": "92384126569428"
+}

@@ -1943,8 +1943,40 @@
       "services": "['ELAB DE STOP Y REP DEL OTRO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 308,
+      "work_order_id": 35781,
+      "colaborator_id": 8,
+      "services": "['NUMERO 0 EN ACRILICO 3 MM TRANSPARENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 309,
+      "work_order_id": 35732,
+      "colaborator_id": 8,
+      "services": "['ELAB DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 310,
+      "work_order_id": 35781,
+      "colaborator_id": 9,
+      "services": "['ELAB DE VENTANA  ACRILICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 311,
+      "work_order_id": 35783,
+      "colaborator_id": 7,
+      "services": "['PULIDO Y CROMO DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T12:06:46.221523",
+  "timestamp": "2025-07-14T13:36:07.624649",
   "machine_id": "92384126569428"
 }

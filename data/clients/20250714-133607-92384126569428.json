@@ -2518,8 +2518,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 363,
+      "name": "DAVID MOLINA",
+      "contact_1": "83297394",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 364,
+      "name": "JUAN VELASQUEZ",
+      "contact_1": "76012097",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T12:06:46.278661",
+  "timestamp": "2025-07-14T13:36:07.671838",
   "machine_id": "92384126569428"
 }

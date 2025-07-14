@@ -929,8 +929,38 @@
       "note": "ELAB DE LATERAL",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 82,
+      "work_order_id": "35677",
+      "start_date": "2025-07-05 10:45",
+      "end_date": "2025-07-07 10:45",
+      "colaborador_id": 2,
+      "client_id": 267,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE HALOGENO\n",
+      "note": "KIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 83,
+      "work_order_id": "35678",
+      "start_date": "2025-07-05 11:12",
+      "end_date": "2025-07-05 11:12",
+      "colaborador_id": 2,
+      "client_id": 268,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 2 FOCOS\n",
+      "note": "ISUZU DMAX",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T11:52:49.050313",
+  "timestamp": "2025-07-14T12:00:23.654957",
   "machine_id": "92384126569428"
 }

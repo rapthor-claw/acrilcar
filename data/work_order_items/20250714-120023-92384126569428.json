@@ -1927,8 +1927,16 @@
       "services": "['ELAB DE STOP TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 306,
+      "work_order_id": 35679,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO c$1800', 'PULIDO DE FOCO REP BASE C$ 800']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T11:52:48.939790",
+  "timestamp": "2025-07-14T12:00:23.496718",
   "machine_id": "92384126569428"
 }

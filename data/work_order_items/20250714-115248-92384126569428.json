@@ -1863,8 +1863,72 @@
       "services": "['ELAB DE STOP Y 2 DE BAUL c$3000', 'PULIDO DE 2 FOCOS Y 1 STOP c$ 1500']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 298,
+      "work_order_id": 35773,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 299,
+      "work_order_id": 35774,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 2 MICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 300,
+      "work_order_id": 35775,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 301,
+      "work_order_id": 35776,
+      "colaborator_id": 7,
+      "services": "['PULIDO Y SELLADO DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 302,
+      "work_order_id": 35777,
+      "colaborator_id": 7,
+      "services": "['REPARACION Y REFUERZO DE SOPORTES A 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 303,
+      "work_order_id": 35778,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 304,
+      "work_order_id": 35779,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO', 'PULIDO DE FOCO 800c$']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 305,
+      "work_order_id": 35780,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T11:17:34.010586",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-14T11:52:48.939790",
+  "machine_id": "92384126569428"
 }

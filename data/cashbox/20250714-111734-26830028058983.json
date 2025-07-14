@@ -51,8 +51,47 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5,
+      "fecha": "2025-07-14",
+      "descripcion": "CANCELO EL 01/07",
+      "monto": 2650.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35609,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6,
+      "fecha": "2025-07-14",
+      "descripcion": "CANCELO 01/07",
+      "monto": 2650.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35609,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7,
+      "fecha": "2025-07-14",
+      "descripcion": "CANCELO 01/07",
+      "monto": 1200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35611,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T11:17:41.778429",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-14T11:17:34.030618",
+  "machine_id": "26830028058983"
 }

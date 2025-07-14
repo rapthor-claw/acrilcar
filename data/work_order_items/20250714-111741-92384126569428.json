@@ -1751,8 +1751,120 @@
       "services": "['REP DE STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 284,
+      "work_order_id": 35612,
+      "colaborator_id": 7,
+      "services": "['REP DE BASE Y PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 285,
+      "work_order_id": 35760,
+      "colaborator_id": 8,
+      "services": "['ELAB DE PIDE VIA Y REP DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 286,
+      "work_order_id": 35761,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO RESELLAR, EL CROMO Y PULIR LA MICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 287,
+      "work_order_id": 35762,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 288,
+      "work_order_id": 35763,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 289,
+      "work_order_id": 35764,
+      "colaborator_id": 5,
+      "services": "['REP DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 290,
+      "work_order_id": 35765,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 291,
+      "work_order_id": 35766,
+      "colaborator_id": 2,
+      "services": "['ELAB DE PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 292,
+      "work_order_id": 35767,
+      "colaborator_id": 9,
+      "services": "['ELAB DE CUPULA PARA SANTO EN ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 293,
+      "work_order_id": 35768,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 294,
+      "work_order_id": 35769,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 295,
+      "work_order_id": 35770,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 296,
+      "work_order_id": 35771,
+      "colaborator_id": 4,
+      "services": "['ELAB DE LATERAL AMARILLO LISO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 297,
+      "work_order_id": 35772,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP Y 2 DE BAUL c$3000', 'PULIDO DE 2 FOCOS Y 1 STOP c$ 1500']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T10:53:06.855055",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-14T11:17:41.762417",
+  "machine_id": "92384126569428"
 }

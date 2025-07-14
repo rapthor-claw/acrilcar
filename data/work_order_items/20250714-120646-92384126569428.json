@@ -1935,8 +1935,16 @@
       "services": "['ELAB DE FOCO c$1800', 'PULIDO DE FOCO REP BASE C$ 800']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 307,
+      "work_order_id": 35688,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP Y REP DEL OTRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T12:00:23.496718",
+  "timestamp": "2025-07-14T12:06:46.221523",
   "machine_id": "92384126569428"
 }

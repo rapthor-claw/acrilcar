@@ -1858,8 +1858,85 @@
       "note": "CANCELO 14/07/25",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 170,
+      "work_order_id": 35794,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1700,
+      "note": "ROC 29494",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 171,
+      "work_order_id": 35795,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 3400,
+      "note": "ROC 29495 / BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 172,
+      "work_order_id": 35753,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 29496 / FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 173,
+      "work_order_id": 35799,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 300,
+      "note": "ROC 29497",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 174,
+      "work_order_id": 35759,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 2800,
+      "note": "ADELANTO DE STOP ROC 29498 / BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 175,
+      "work_order_id": 35791,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 29499",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 176,
+      "work_order_id": 35668,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 29500",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T12:03:07.072658",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-15T13:39:57.709790",
+  "machine_id": "26830028058983"
 }

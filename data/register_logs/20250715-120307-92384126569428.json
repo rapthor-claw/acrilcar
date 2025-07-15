@@ -6383,8 +6383,152 @@
       "activity": "Ingreso de caja para la orden: 35763 - monto: 3200",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1260,
+      "datetime": "2025-07-15 17:44:52",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JOSE ZAVALA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1261,
+      "datetime": "2025-07-15 17:45:28",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: YAMIL RUIZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1262,
+      "datetime": "2025-07-15 17:48:04",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1263,
+      "datetime": "2025-07-15 17:49:03",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35801",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1264,
+      "datetime": "2025-07-15 17:49:58",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35802",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1265,
+      "datetime": "2025-07-15 17:51:07",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35790",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1266,
+      "datetime": "2025-07-15 17:51:31",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35791",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1267,
+      "datetime": "2025-07-15 17:51:40",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35792",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1268,
+      "datetime": "2025-07-15 17:51:50",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35793",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1269,
+      "datetime": "2025-07-15 17:52:05",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35794",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1270,
+      "datetime": "2025-07-15 17:52:34",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35795",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1271,
+      "datetime": "2025-07-15 17:52:46",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35796",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1272,
+      "datetime": "2025-07-15 17:52:58",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35797",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1273,
+      "datetime": "2025-07-15 17:53:09",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35798",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1274,
+      "datetime": "2025-07-15 17:53:22",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35799",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1275,
+      "datetime": "2025-07-15 17:53:36",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1276,
+      "datetime": "2025-07-15 17:53:44",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35801",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1277,
+      "datetime": "2025-07-15 17:53:55",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35802",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T10:05:57.765861",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T12:03:07.210831",
+  "machine_id": "92384126569428"
 }

@@ -2804,8 +2804,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 389,
+      "name": "FRANCISCO PALACIOS",
+      "contact_1": "81771556",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 390,
+      "name": "JOVAN BENAVIDEZ",
+      "contact_1": "81510282",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 391,
+      "name": "HECTOR GUTIERREZ LOPEZ",
+      "contact_1": "77846072",
+      "contact_2": "22651384",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 392,
+      "name": "CLAUDIA DE LACAYO",
+      "contact_1": "888612000",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T15:44:38.276691",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T15:47:27.240554",
+  "machine_id": "92384126569428"
 }

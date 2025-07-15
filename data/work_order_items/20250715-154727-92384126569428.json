@@ -2191,8 +2191,40 @@
       "services": "['REP DE STOP CALADO BLANCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 339,
+      "work_order_id": 35809,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 340,
+      "work_order_id": 35810,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 341,
+      "work_order_id": 35811,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 342,
+      "work_order_id": 35812,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T15:44:38.198602",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T15:47:27.181145",
+  "machine_id": "92384126569428"
 }

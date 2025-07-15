@@ -2654,8 +2654,68 @@
       "note": "NP300",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 197,
+      "work_order_id": "35809",
+      "start_date": "2025-07-15 15:43",
+      "end_date": "2025-07-17 16:00",
+      "colaborador_id": 2,
+      "client_id": 389,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP\n",
+      "note": "H100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 198,
+      "work_order_id": "35810",
+      "start_date": "2025-07-15 15:44",
+      "end_date": "2025-07-15 15:44",
+      "colaborador_id": 2,
+      "client_id": 390,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• PULIDO DE FOCOS\n",
+      "note": "EON\t",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 199,
+      "work_order_id": "35811",
+      "start_date": "2025-07-15 15:44",
+      "end_date": "2025-07-16 15:44",
+      "colaborador_id": 2,
+      "client_id": 391,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP\n",
+      "note": "YARIS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 200,
+      "work_order_id": "35812",
+      "start_date": "2025-07-15 15:45",
+      "end_date": "2025-07-17 16:00",
+      "colaborador_id": 2,
+      "client_id": 392,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• REP DE STOP\n",
+      "note": "PRADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T15:44:38.339167",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T15:47:27.272173",
+  "machine_id": "92384126569428"
 }

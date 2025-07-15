@@ -2023,8 +2023,72 @@
       "services": "['ELAB DE STOP CON CALADO TRANSPARENTE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 318,
+      "work_order_id": 35790,
+      "colaborator_id": 10,
+      "services": "['ELAB DE 1 CAÑUELA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 319,
+      "work_order_id": 35791,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 320,
+      "work_order_id": 35792,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 321,
+      "work_order_id": 35793,
+      "colaborator_id": 8,
+      "services": "['ELAB DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 322,
+      "work_order_id": 35794,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 323,
+      "work_order_id": 35795,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 324,
+      "work_order_id": 35796,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 325,
+      "work_order_id": 35782,
+      "colaborator_id": 9,
+      "services": "['ELAB DE VENTANA ACRILICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T18:55:22.479571",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T09:45:21.762153",
+  "machine_id": "92384126569428"
 }

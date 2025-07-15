@@ -2606,8 +2606,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 371,
+      "name": "ALFREDO RAMIREZ",
+      "contact_1": "88509128",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 372,
+      "name": "JIMMY OSORIO",
+      "contact_1": "83798922",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 373,
+      "name": "SAUL ALANIZ GARCIA",
+      "contact_1": "82715483",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 374,
+      "name": "LUIS HERNANDEZ POVEDA",
+      "contact_1": "85855400",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 375,
+      "name": "LESTHER JOEL RAMIREZ",
+      "contact_1": "57426035",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 376,
+      "name": "DAVID BLANDON AREVALO",
+      "contact_1": "88537726",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 377,
+      "name": "TALLER ULLOA",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-14T18:55:22.557652",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T09:45:21.841187",
+  "machine_id": "92384126569428"
 }

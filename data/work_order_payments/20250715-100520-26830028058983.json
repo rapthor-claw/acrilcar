@@ -1704,8 +1704,162 @@
       "note": "CANCELO 14/07/25",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 156,
+      "work_order_id": 35782,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1000,
+      "note": "ADELANTO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 157,
+      "work_order_id": 35785,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2000,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 158,
+      "work_order_id": 35616,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1800,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 159,
+      "work_order_id": 35770,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 160,
+      "work_order_id": 35770,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 161,
+      "work_order_id": 35787,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1700,
+      "note": "CANCELO 14/07/25 FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 162,
+      "work_order_id": 35720,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "CANCELO 14/07/25 FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 163,
+      "work_order_id": 35788,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3600,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 164,
+      "work_order_id": 35769,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2800,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 165,
+      "work_order_id": 35771,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 350,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 166,
+      "work_order_id": 35789,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2000,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 167,
+      "work_order_id": 35765,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 168,
+      "work_order_id": 35768,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 169,
+      "work_order_id": 35763,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3200,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T09:46:30.657810",
+  "timestamp": "2025-07-15T10:05:20.512804",
   "machine_id": "26830028058983"
 }

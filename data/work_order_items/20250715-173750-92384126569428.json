@@ -2231,8 +2231,32 @@
       "services": "['ELAB DE 2 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 344,
+      "work_order_id": 35814,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 345,
+      "work_order_id": 35815,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO CON REP DE ARO BASE Y PATAS C$2200', 'PULIDO DE 1 FOCO CON REP DE PATAS Y MTTO CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 346,
+      "work_order_id": 35816,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T17:28:10.917971",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T17:37:50.282761",
+  "machine_id": "92384126569428"
 }

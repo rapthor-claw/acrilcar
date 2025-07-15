@@ -2729,8 +2729,53 @@
       "note": "ISUZU DMAX",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 202,
+      "work_order_id": "35814",
+      "start_date": "2025-07-15 17:13",
+      "end_date": "2025-07-17 16:00",
+      "colaborador_id": 2,
+      "client_id": 394,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP\n",
+      "note": "NISSAN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 203,
+      "work_order_id": "35815",
+      "start_date": "2025-07-15 17:14",
+      "end_date": "2025-07-17 16:30",
+      "colaborador_id": 2,
+      "client_id": 395,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE FOCO CON REP DE ARO BASE Y PATAS C$2200\n• PULIDO DE 1 FOCO CON REP DE PATAS Y MTTO CROMO\n",
+      "note": "SUZUKI ALTO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 204,
+      "work_order_id": "35816",
+      "start_date": "2025-07-15 17:15",
+      "end_date": "2025-07-17 17:00",
+      "colaborador_id": 2,
+      "client_id": 361,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE FOCO\n",
+      "note": "KIA SOUL",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T17:28:11.042938",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T17:37:50.393979",
+  "machine_id": "92384126569428"
 }

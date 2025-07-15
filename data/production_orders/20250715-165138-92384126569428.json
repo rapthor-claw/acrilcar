@@ -2714,8 +2714,23 @@
       "note": "PRADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 201,
+      "work_order_id": "35813",
+      "start_date": "2025-07-15 16:50",
+      "end_date": "2025-07-17 16:30",
+      "colaborador_id": 2,
+      "client_id": 393,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 2 STOP\n",
+      "note": "ISUZU DMAX",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T15:48:19.251255",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T16:51:38.144510",
+  "machine_id": "92384126569428"
 }

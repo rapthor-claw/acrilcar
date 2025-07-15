@@ -1495,8 +1495,217 @@
       "note": "CANCELO 11/07/25",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 137,
+      "work_order_id": 35731,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2500,
+      "note": "CANCELO 12/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 138,
+      "work_order_id": 35726,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1400,
+      "note": "CANCELO 12/07/25 BAC CORDOBAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 139,
+      "work_order_id": 35748,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3000,
+      "note": "CANCELO 12/07/2025",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 140,
+      "work_order_id": 35760,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1400,
+      "note": "CANCELO 12/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 141,
+      "work_order_id": 35761,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 800,
+      "note": "CANCELO 12/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 142,
+      "work_order_id": 35655,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1100,
+      "note": "CANCELO 12/07/2025",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 143,
+      "work_order_id": 35725,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 5000,
+      "note": "CANCELO 12/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 144,
+      "work_order_id": 35727,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3000,
+      "note": "CANCELO 12/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 145,
+      "work_order_id": 35767,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1158,
+      "note": "CANCELO 12/07/25, ABONO 20/06/25 TRANFERENCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 146,
+      "work_order_id": 35767,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1158,
+      "note": "CANCELO 12/07/25 ABONO 20/06 TRANFERENCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 147,
+      "work_order_id": 35706,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1000,
+      "note": "CACELO 12/07/25 ABONO 08/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 148,
+      "work_order_id": 35730,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 700,
+      "note": "CANCELO 12/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 149,
+      "work_order_id": 35762,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "CANCELO 12/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 150,
+      "work_order_id": 35718,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 200,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 151,
+      "work_order_id": 35773,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1800,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 152,
+      "work_order_id": 35772,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 4500,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 153,
+      "work_order_id": 35680,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1300,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 154,
+      "work_order_id": 35680,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1300,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 155,
+      "work_order_id": 35781,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1095,
+      "note": "CANCELO 14/07/25",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T09:46:39.410634",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-15T09:46:30.657810",
+  "machine_id": "26830028058983"
 }

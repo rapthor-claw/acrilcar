@@ -6871,8 +6871,16 @@
       "activity": "Creo la orden de producción: 35816",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1321,
+      "datetime": "2025-07-15 23:38:18",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35815 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T17:37:41.879441",
+  "timestamp": "2025-07-15T17:39:07.603372",
   "machine_id": "26830028058983"
 }

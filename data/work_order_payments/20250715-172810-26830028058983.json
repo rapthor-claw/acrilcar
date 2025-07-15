@@ -1957,8 +1957,107 @@
       "note": "ROC 29502",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 179,
+      "work_order_id": 35810,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 29503",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 180,
+      "work_order_id": 35757,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1800,
+      "note": "ROC 29504",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 181,
+      "work_order_id": 35791,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 29499",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 182,
+      "work_order_id": 35759,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 2800,
+      "note": "ROC 29498 BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 183,
+      "work_order_id": 35799,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 300,
+      "note": "ROC 29497",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 184,
+      "work_order_id": 35753,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 29496 FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 185,
+      "work_order_id": 35795,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 3400,
+      "note": "ROC 29495 BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 186,
+      "work_order_id": 35794,
+      "payment_date": "2025-07-15",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1700,
+      "note": "ROC 29494 FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 187,
+      "work_order_id": 35790,
+      "payment_date": "2025-07-15",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 900,
+      "note": "ROC 29505",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T16:51:37.973323",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-15T17:28:10.933561",
+  "machine_id": "26830028058983"
 }

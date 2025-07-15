@@ -6663,8 +6663,24 @@
       "activity": "Creo la orden de producción: 35807",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1295,
+      "datetime": "2025-07-15 20:33:37",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35804 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1296,
+      "datetime": "2025-07-15 20:34:25",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35776 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T14:32:22.987260",
+  "timestamp": "2025-07-15T14:34:41.193424",
   "machine_id": "26830028058983"
 }

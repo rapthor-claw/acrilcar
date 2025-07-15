@@ -2430,8 +2430,34 @@
       "order_id": "N/A",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 188,
+      "fecha": "2025-07-15",
+      "descripcion": "ADELANTO ELAB. STOP Y ELAB. PATA   ROC 29501",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35804,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 189,
+      "fecha": "2025-07-15",
+      "descripcion": "ROC 29502",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35776,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T14:32:22.909158",
+  "timestamp": "2025-07-15T14:34:41.118037",
   "machine_id": "26830028058983"
 }

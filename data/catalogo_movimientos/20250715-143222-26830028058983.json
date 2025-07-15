@@ -103,8 +103,24 @@
       "descripcion": "PAGO POR MEDIO DE CHEQUE",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 22,
+      "nombre": "FERRETERIA",
+      "tipo": "egreso",
+      "descripcion": "COMPRA DE MATERIA PRIMA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 23,
+      "nombre": "ALMUERZO",
+      "tipo": "ingreso",
+      "descripcion": "CASA DOÑA INGRID",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T14:23:05.630136",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-15T14:32:22.924761",
+  "machine_id": "26830028058983"
 }

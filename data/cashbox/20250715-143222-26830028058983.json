@@ -2378,8 +2378,60 @@
       "order_id": 35668,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 184,
+      "fecha": "2025-07-15",
+      "descripcion": "COMPRA DE LIJAS",
+      "monto": 115.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Yamileth",
+      "order_id": "N/A",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 185,
+      "fecha": "2025-07-15",
+      "descripcion": "ALMUERZO CASA DOÑA INGRID",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": "N/A",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 186,
+      "fecha": "2025-07-15",
+      "descripcion": "COMPRA DE FRUTAS DON FRANK",
+      "monto": 150.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": "N/A",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 187,
+      "fecha": "2025-07-15",
+      "descripcion": "RETIRO DE ENCOMIENDA EN M. MAYOREO Y PAGO DE BUS",
+      "monto": 200.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 6,
+      "user_id": "Yamileth",
+      "order_id": "N/A",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T14:23:05.630136",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-15T14:32:22.909158",
+  "machine_id": "26830028058983"
 }

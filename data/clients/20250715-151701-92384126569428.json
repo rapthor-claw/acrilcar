@@ -2793,8 +2793,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 388,
+      "name": "PABLO JOSE CUADRA",
+      "contact_1": "87810983",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T14:34:41.162148",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T15:17:01.554457",
+  "machine_id": "92384126569428"
 }

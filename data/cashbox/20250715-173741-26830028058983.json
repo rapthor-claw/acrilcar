@@ -2573,8 +2573,34 @@
       "order_id": 35790,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 199,
+      "fecha": "2025-07-15",
+      "descripcion": "COMPRA DE GOLOSO TRUSS P/BROCA FAC. CASA DEL PERNO 866744",
+      "monto": 67.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Yamileth",
+      "order_id": "N/A",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 200,
+      "fecha": "2025-07-15",
+      "descripcion": "COMPRA DE GOLOSOS P/BROCA 8X1 Y 8X 1/2 FACTURA DE LA CASA DEL PERNO 866741",
+      "monto": 104.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Yamileth",
+      "order_id": "N/A",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T17:37:50.311246",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-15T17:37:41.816975",
+  "machine_id": "26830028058983"
 }

@@ -2087,8 +2087,40 @@
       "services": "['ELAB DE VENTANA ACRILICA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 326,
+      "work_order_id": 35797,
+      "colaborator_id": 12,
+      "services": "['ELAB DE PIDE VIA BLANCO DIAMANTADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 327,
+      "work_order_id": 35798,
+      "colaborator_id": 8,
+      "services": "['REP DE RETROVISOR SIN ACABADOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 328,
+      "work_order_id": 35799,
+      "colaborator_id": 12,
+      "services": "['ELAB DE PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 329,
+      "work_order_id": 35759,
+      "colaborator_id": 2,
+      "services": "['ELAB STOP L200 c$2800', 'ELAB DE 2 STOP BASE Y MICA VOLKSWGEN c$ 2000', 'ELAB DE 2 PIDE VIAS BASE Y MICA VOLKSWAGEN C$1400']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T10:05:20.497155",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T10:05:48.184104",
+  "machine_id": "92384126569428"
 }

@@ -2143,8 +2143,48 @@
       "services": "['ELAB DE STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 333,
+      "work_order_id": 35803,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 334,
+      "work_order_id": 35804,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP CON REP DE PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 335,
+      "work_order_id": 35805,
+      "colaborator_id": 4,
+      "services": "['ELAB DE TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 336,
+      "work_order_id": 35806,
+      "colaborator_id": 5,
+      "services": "['PULIDO DE 2 FOCOS c$1400', 'REP DE STOP c$600']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 337,
+      "work_order_id": 35807,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS C$3000', 'ENVIO Y PAGO DE ENCOMIENDA c$300']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T13:39:57.694168",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T14:22:58.791618",
+  "machine_id": "92384126569428"
 }

@@ -2738,8 +2738,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 383,
+      "name": "CASTILLO ROJAS",
+      "contact_1": "86151995",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 384,
+      "name": "DENIS DIAZ",
+      "contact_1": "85060708",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 385,
+      "name": "MANUEL COLLADO HURTADO",
+      "contact_1": "7559660",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 386,
+      "name": "HENIER NAVARRETE",
+      "contact_1": "57113188",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 387,
+      "name": "KEVIN DUARTES",
+      "contact_1": "86457131",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T13:39:57.756653",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-15T14:22:58.834782",
+  "machine_id": "92384126569428"
 }

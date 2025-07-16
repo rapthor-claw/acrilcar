@@ -2638,8 +2638,34 @@
       "order_id": 35803,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 204,
+      "fecha": "2025-07-16",
+      "descripcion": "BANPRO CORDOBAS ARQ. 15/07/25",
+      "monto": 7799.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 7,
+      "user_id": "Yamileth",
+      "order_id": "N/A",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 205,
+      "fecha": "2025-07-16",
+      "descripcion": "BANPRO DOLARES U$140 ARQ.15/07/25",
+      "monto": 5110.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 7,
+      "user_id": "Yamileth",
+      "order_id": "N/A",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T19:43:13.292673",
+  "timestamp": "2025-07-16T17:58:41.741513",
   "machine_id": "26830028058983"
 }

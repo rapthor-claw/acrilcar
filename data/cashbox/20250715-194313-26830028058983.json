@@ -2612,8 +2612,34 @@
       "order_id": 35815,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 202,
+      "fecha": "2025-07-15",
+      "descripcion": "ROC 29507",
+      "monto": 900.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35775,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 203,
+      "fecha": "2025-07-15",
+      "descripcion": "ROC 29508",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35803,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-15T17:51:02.579301",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-15T19:43:13.292673",
+  "machine_id": "26830028058983"
 }

@@ -2255,8 +2255,312 @@
       "services": "['ELAB DE FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 347,
+      "work_order_id": 35817,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 348,
+      "work_order_id": 35818,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO 2 PIDE VIAS AMARILLO Y ELAB DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 349,
+      "work_order_id": 35819,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 350,
+      "work_order_id": 35820,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 351,
+      "work_order_id": 35821,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 352,
+      "work_order_id": 35822,
+      "colaborator_id": 12,
+      "services": "['REP DE 1 STOP C$600', 'PULIDO DE FOCO Y 3 MICAS 1900']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 353,
+      "work_order_id": 35823,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 354,
+      "work_order_id": 35824,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 355,
+      "work_order_id": 35825,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 356,
+      "work_order_id": 35826,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 357,
+      "work_order_id": 35827,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 358,
+      "work_order_id": 35828,
+      "colaborator_id": 8,
+      "services": "['REPARACION DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 359,
+      "work_order_id": 35829,
+      "colaborator_id": 12,
+      "services": "['ELAB DE VISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 360,
+      "work_order_id": 35830,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 361,
+      "work_order_id": 35831,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 362,
+      "work_order_id": 35832,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO CON MTTO DE CROMO PINTAR DE BASE NEGRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 363,
+      "work_order_id": 35833,
+      "colaborator_id": 2,
+      "services": "['ELAB DE PARRILLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 364,
+      "work_order_id": 35834,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP Y 2 MICAS DE RETROVISOR c$3000']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 365,
+      "work_order_id": 35835,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 366,
+      "work_order_id": 35836,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS MTTO DE CROMO, REVISION DE REGULADORES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 367,
+      "work_order_id": 35837,
+      "colaborator_id": 10,
+      "services": "['VENTA DE 1/4 ROJO LISO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 368,
+      "work_order_id": 35838,
+      "colaborator_id": 5,
+      "services": "['PULIDO DE 2 STOP LIMPIEZA INTERNA SELLADO Y REP DE MICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 369,
+      "work_order_id": 35839,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 370,
+      "work_order_id": 35840,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 2 PIDE VIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 371,
+      "work_order_id": 35841,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 372,
+      "work_order_id": 35842,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 373,
+      "work_order_id": 35843,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 374,
+      "work_order_id": 35844,
+      "colaborator_id": 8,
+      "services": "['ELAB DE FOCO CON REP DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 375,
+      "work_order_id": 35845,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP 3200C$', 'PULIDO DE STOP 400C$']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 376,
+      "work_order_id": 35846,
+      "colaborator_id": 5,
+      "services": "['REP DE 1 HALOGENO Y REO DE PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 377,
+      "work_order_id": 35848,
+      "colaborator_id": 11,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 378,
+      "work_order_id": 35849,
+      "colaborator_id": 10,
+      "services": "['PULIDO DE FOCOS CON ARO NEGRO Y LED BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 379,
+      "work_order_id": 35850,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 380,
+      "work_order_id": 35851,
+      "colaborator_id": 8,
+      "services": "['REP DE STOP Y PATA- TOYOTA TERCEL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 381,
+      "work_order_id": 35852,
+      "colaborator_id": 12,
+      "services": "['PULIDO DE 2 FOCOS CROMO Y QUITAR PIEZA INTERNA C$1500', 'ELAB DE 2 PIDE VIAS C$1200 - FRONTIER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 382,
+      "work_order_id": 35853,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 4 FOCOS TRACTOR c$3900 C/PAR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 383,
+      "work_order_id": 35854,
+      "colaborator_id": 11,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 384,
+      "work_order_id": 35855,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-16T18:07:50.945784",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-17T14:45:23.582474",
+  "machine_id": "92384126569428"
 }

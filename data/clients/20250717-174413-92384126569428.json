@@ -3266,8 +3266,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 432,
+      "name": "MICAR",
+      "contact_1": "76500084",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 433,
+      "name": "LEONEL SAMAYOA",
+      "contact_1": "84689291",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 434,
+      "name": "OSCAR MORENO",
+      "contact_1": "88766844",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 435,
+      "name": "RICHARD ARAUZ",
+      "contact_1": "89557920",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 436,
+      "name": "DESHON Y CÍA",
+      "contact_1": "87844384",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-17T14:45:23.660730",
+  "timestamp": "2025-07-17T17:44:13.493490",
   "machine_id": "92384126569428"
 }

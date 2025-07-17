@@ -2559,8 +2559,48 @@
       "services": "['ELAB DE 2 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 385,
+      "work_order_id": 35856,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO C$2600', 'ELAB DE CAÑUELA C$900', 'ELAB DE PORTA HALOGENO c$1200', 'ELAB DE 1 TAPA C$600', 'ELAB DE 1 PIEZA C$300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 386,
+      "work_order_id": 35857,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP - HYUNDAI ACCENT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 387,
+      "work_order_id": 35858,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 388,
+      "work_order_id": 35859,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP + ENVIO - KIA COMBI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 389,
+      "work_order_id": 35860,
+      "colaborator_id": 5,
+      "services": "['REP DE 2 ANTI VUELCOS EN FIBRA - T8']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-17T14:45:23.582474",
+  "timestamp": "2025-07-17T17:44:13.415922",
   "machine_id": "92384126569428"
 }

@@ -2100,8 +2100,30 @@
       "note": "ROC 29512 BAC CORDOBAS",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 192,
+      "work_order_id": 35778,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2500,
+      "note": "ROC 29514",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 193,
+      "work_order_id": 35750,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1700,
+      "note": "ROC 29515",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-16T18:04:02.788000",
+  "timestamp": "2025-07-16T18:06:40.189731",
   "machine_id": "26830028058983"
 }

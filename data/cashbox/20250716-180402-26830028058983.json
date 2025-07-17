@@ -2664,8 +2664,21 @@
       "order_id": "N/A",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 206,
+      "fecha": "2025-07-16",
+      "descripcion": "ROC 29512 BAC CORDOBAS",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 35780,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-16T18:00:27.566697",
+  "timestamp": "2025-07-16T18:04:02.803618",
   "machine_id": "26830028058983"
 }

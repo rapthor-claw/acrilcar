@@ -2089,8 +2089,19 @@
       "note": "ROC 29508",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 191,
+      "work_order_id": 35780,
+      "payment_date": "2025-07-16",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 29512 BAC CORDOBAS",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-16T18:00:27.551048",
+  "timestamp": "2025-07-16T18:04:02.788000",
   "machine_id": "26830028058983"
 }

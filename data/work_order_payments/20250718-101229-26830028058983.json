@@ -2122,8 +2122,162 @@
       "note": "ROC 29515",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 194,
+      "work_order_id": 35807,
+      "payment_date": "2025-07-16",
+      "payment_method": "transferencia",
+      "payment": "Yamileth",
+      "user_log_registration": 3300,
+      "note": "ROC 29520 BA C CORDOBAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 195,
+      "work_order_id": 35754,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 100,
+      "note": "ROC 29523 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 196,
+      "work_order_id": 35786,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1746,
+      "note": "ROC 29524 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 197,
+      "work_order_id": 35755,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 29525 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 198,
+      "work_order_id": 35783,
+      "payment_date": "2025-07-16",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 600,
+      "note": "ROC 29526 POS FICOHSA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 199,
+      "work_order_id": 35701,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2600,
+      "note": "ROC 29527 ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 200,
+      "work_order_id": 35704,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2900,
+      "note": "ROC 29528",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 201,
+      "work_order_id": 35792,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 29530",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 202,
+      "work_order_id": 35717,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 4300,
+      "note": "ROC 29531",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 203,
+      "work_order_id": 35793,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 29532",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 204,
+      "work_order_id": 35798,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 900,
+      "note": "ROC 29533",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 205,
+      "work_order_id": 35816,
+      "payment_date": "2025-07-16",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 2000,
+      "note": "ROC 29534 POS FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 206,
+      "work_order_id": 35779,
+      "payment_date": "2025-07-16",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 2000,
+      "note": "ROC 29535 POS FICOHSA CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 207,
+      "work_order_id": 35806,
+      "payment_date": "2025-07-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 600,
+      "note": "ROC 29536 ADELANTO DE PULIDO Y ELAB. PARTE AFECTADA ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-18T10:06:37.339403",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-18T10:12:29.639635",
+  "machine_id": "26830028058983"
 }

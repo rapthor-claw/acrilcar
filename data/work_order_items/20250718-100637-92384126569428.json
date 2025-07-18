@@ -2599,8 +2599,40 @@
       "services": "['REP DE 2 ANTI VUELCOS EN FIBRA - T8']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 390,
+      "work_order_id": 35861,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO Y PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 391,
+      "work_order_id": 35862,
+      "colaborator_id": 8,
+      "services": "['CAMBIO DE MICA Y REP DE PATAS A 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 392,
+      "work_order_id": 35863,
+      "colaborator_id": 10,
+      "services": "['10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 393,
+      "work_order_id": 35865,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 STOP- PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-17T17:44:13.415922",
+  "timestamp": "2025-07-18T10:06:37.302079",
   "machine_id": "92384126569428"
 }

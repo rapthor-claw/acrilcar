@@ -3321,8 +3321,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 437,
+      "name": "JOSE DENIS MARTINEZ",
+      "contact_1": "87136850",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 438,
+      "name": "GERMAN CACERES",
+      "contact_1": "86855856",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 439,
+      "name": "WALTER COREA",
+      "contact_1": "57641093",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 440,
+      "name": "KAREN FLORES",
+      "contact_1": "85856726",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 441,
+      "name": "SALVADOR SOTO",
+      "contact_1": "86965947",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-17T17:44:13.493490",
+  "timestamp": "2025-07-18T10:06:37.486481",
   "machine_id": "92384126569428"
 }

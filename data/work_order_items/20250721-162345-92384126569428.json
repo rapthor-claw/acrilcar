@@ -159,8 +159,16 @@
       "services": "['CORTE LASER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 414,
+      "work_order_id": 35869,
+      "colaborator_id": 4,
+      "services": "['REP DE 2 STOP Y PEGADO DE LATERAL- RUSH']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:05:26.956543",
+  "timestamp": "2025-07-21T16:23:45.058972",
   "machine_id": "92384126569428"
 }

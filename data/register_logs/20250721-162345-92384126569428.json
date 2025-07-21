@@ -583,8 +583,232 @@
       "activity": "Salida de caja, monto: 100",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1601,
+      "datetime": "2025-07-21 22:09:24",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35869",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1602,
+      "datetime": "2025-07-21 22:09:47",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35869 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1603,
+      "datetime": "2025-07-21 22:10:37",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35866",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1604,
+      "datetime": "2025-07-21 22:11:11",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35867",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1605,
+      "datetime": "2025-07-21 22:11:21",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35868",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1606,
+      "datetime": "2025-07-21 22:11:36",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35869",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1607,
+      "datetime": "2025-07-21 22:11:51",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35870",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1608,
+      "datetime": "2025-07-21 22:12:02",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35871",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1609,
+      "datetime": "2025-07-21 22:12:22",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35872",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1610,
+      "datetime": "2025-07-21 22:12:35",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35873",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1611,
+      "datetime": "2025-07-21 22:13:00",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35874",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1612,
+      "datetime": "2025-07-21 22:13:39",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35875",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1613,
+      "datetime": "2025-07-21 22:13:53",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35876",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1614,
+      "datetime": "2025-07-21 22:14:06",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35877",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1615,
+      "datetime": "2025-07-21 22:14:12",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35878",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1616,
+      "datetime": "2025-07-21 22:14:28",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35879",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1617,
+      "datetime": "2025-07-21 22:14:38",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35880",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1618,
+      "datetime": "2025-07-21 22:14:56",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35881",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1619,
+      "datetime": "2025-07-21 22:15:10",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35882",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1620,
+      "datetime": "2025-07-21 22:15:19",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35883",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1621,
+      "datetime": "2025-07-21 22:15:53",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35884",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1622,
+      "datetime": "2025-07-21 22:16:07",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35885",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1623,
+      "datetime": "2025-07-21 22:16:13",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35886",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1624,
+      "datetime": "2025-07-21 22:17:05",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1625,
+      "datetime": "2025-07-21 22:17:30",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 35886",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1626,
+      "datetime": "2025-07-21 22:18:36",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 35872",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1627,
+      "datetime": "2025-07-21 22:18:58",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 35871",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1628,
+      "datetime": "2025-07-21 22:19:17",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 35869",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:05:27.009541",
+  "timestamp": "2025-07-21T16:23:45.126208",
   "machine_id": "92384126569428"
 }

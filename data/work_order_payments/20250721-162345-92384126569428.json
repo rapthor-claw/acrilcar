@@ -230,8 +230,19 @@
       "note": "ROC 29594",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 275,
+      "work_order_id": 35869,
+      "payment_date": "2025-07-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1500,
+      "note": "ROC 29595",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:05:26.960560",
+  "timestamp": "2025-07-21T16:23:45.076825",
   "machine_id": "92384126569428"
 }

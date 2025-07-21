@@ -337,8 +337,21 @@
       "order_id": 693744,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 303,
+      "fecha": "2025-07-21",
+      "descripcion": "ROC 29595",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 35869,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:05:26.971887",
+  "timestamp": "2025-07-21T16:23:45.078832",
   "machine_id": "92384126569428"
 }

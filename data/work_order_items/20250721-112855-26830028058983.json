@@ -1,0 +1,118 @@
+{
+  "records": [
+    {
+      "id": 394,
+      "work_order_id": 35866,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP-HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 395,
+      "work_order_id": 35867,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP-HILUX c$1700', 'cargotrans c$ 300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 396,
+      "work_order_id": 35868,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS MTTO DE CROMO - MONTERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 397,
+      "work_order_id": 35870,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS - GALLOPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 398,
+      "work_order_id": 35871,
+      "colaborator_id": 5,
+      "services": "['ELAB DE TABLERO-MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 399,
+      "work_order_id": 35872,
+      "colaborator_id": 4,
+      "services": "['ELAB TERCERA  LUZ-EON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 400,
+      "work_order_id": 35873,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE STOP - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 401,
+      "work_order_id": 35874,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP - RUSH']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 402,
+      "work_order_id": 35875,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 403,
+      "work_order_id": 35876,
+      "colaborator_id": 4,
+      "services": "['ELAB DE CAÑUELA - FORD EXPLORER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 404,
+      "work_order_id": 35877,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCO- MOTO VENTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 405,
+      "work_order_id": 35878,
+      "colaborator_id": 7,
+      "services": "['SECADO Y SELLADO DE FOCO Y HALOGENO - AVANTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 406,
+      "work_order_id": 35879,
+      "colaborator_id": 5,
+      "services": "['REP DE RETROVISOR-HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 407,
+      "work_order_id": 35880,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HYUNDAI HD65']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-07-21T11:28:55.470945",
+  "machine_id": "26830028058983"
+}

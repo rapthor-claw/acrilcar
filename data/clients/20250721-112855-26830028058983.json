@@ -1,0 +1,160 @@
+{
+  "records": [
+    {
+      "id": 442,
+      "name": "ROMMEL",
+      "contact_1": "83321476",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 443,
+      "name": "FLOR OPORTA",
+      "contact_1": "86322218",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 444,
+      "name": "JONATHAN",
+      "contact_1": "85110495",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 445,
+      "name": "BILL SAENZ",
+      "contact_1": "86074705",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 446,
+      "name": "ROBERTO AVELLAN",
+      "contact_1": "81048188",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 447,
+      "name": "WILMER ZELEDON",
+      "contact_1": "75157706",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 448,
+      "name": "GUILLERMO ZACARIAS",
+      "contact_1": "82260359",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 449,
+      "name": "JULIO GONZALEZ",
+      "contact_1": "89945038",
+      "contact_2": "86890921",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 450,
+      "name": "JOSEP BENAVIDEZ",
+      "contact_1": "84301664",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 451,
+      "name": "JUAN CARLOS ORTEGA",
+      "contact_1": "89687076",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 452,
+      "name": "CRISTOPHER",
+      "contact_1": "86704292",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 453,
+      "name": "FRANKLIN MUÑOZ",
+      "contact_1": "85141415",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 454,
+      "name": "HOLLMAN BERMUDEZ",
+      "contact_1": "88246011",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 455,
+      "name": "MAURICIO DELGADO",
+      "contact_1": "88800111",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-07-21T11:28:55.502189",
+  "machine_id": "26830028058983"
+}

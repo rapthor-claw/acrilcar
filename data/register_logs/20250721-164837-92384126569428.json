@@ -807,8 +807,40 @@
       "activity": "Cerro la orden: 35869",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1629,
+      "datetime": "2025-07-21 22:23:51",
+      "username": "Allisson",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1630,
+      "datetime": "2025-07-21 22:46:55",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1631,
+      "datetime": "2025-07-21 22:48:07",
+      "username": "Allisson",
+      "activity": "Elimino movimiento, id: 8",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1632,
+      "datetime": "2025-07-21 22:48:23",
+      "username": "Allisson",
+      "activity": "Edito movimiento: ALMUERZO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:23:45.126208",
+  "timestamp": "2025-07-21T16:48:37.894282",
   "machine_id": "92384126569428"
 }

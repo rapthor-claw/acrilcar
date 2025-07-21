@@ -167,8 +167,32 @@
       "services": "['REP DE 2 STOP Y PEGADO DE LATERAL- RUSH']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 415,
+      "work_order_id": 35888,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 300 ARANDELAS BLANCO LECHOSO C/U $1']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 416,
+      "work_order_id": 35889,
+      "colaborator_id": 13,
+      "services": "['CORTE Y ARMADO DE CAJA DE 25X25 CM PARA GUANTES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 417,
+      "work_order_id": 35890,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP Y REP DEL OTRO - KIA RIO 2018']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:48:37.846715",
+  "timestamp": "2025-07-21T17:40:26.354981",
   "machine_id": "92384126569428"
 }

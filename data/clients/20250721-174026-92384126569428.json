@@ -219,8 +219,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 462,
+      "name": "JUAN BOLAÑOS",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "MIMAGEN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 463,
+      "name": "SCARLETH MORENO",
+      "contact_1": "84413583",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:48:37.894282",
+  "timestamp": "2025-07-21T17:40:26.400647",
   "machine_id": "92384126569428"
 }

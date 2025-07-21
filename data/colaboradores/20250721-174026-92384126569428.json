@@ -1,0 +1,44 @@
+{
+  "records": [
+    {
+      "id": 13,
+      "nombre": "ALDO",
+      "apellido": "PEREZ",
+      "telefono_personal": "8178-0676",
+      "documento_identidad": "001-070705-1007V",
+      "fecha_ingreso": "2025-07-21",
+      "nombre_contacto_emergencia": "Aldo Pérez",
+      "telefono_emergencia": "88817357",
+      "fecha_baja": "",
+      "salario": 0.0,
+      "is_active": 1,
+      "puesto": "ACRILICO",
+      "fecha_nacimiento": "2005-07-07",
+      "numero_seguro_social": "",
+      "informacion_adicional": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 14,
+      "nombre": "GENERICO",
+      "apellido": "GENERICO",
+      "telefono_personal": "88888888",
+      "documento_identidad": "0011212000000L",
+      "fecha_ingreso": "2025-07-21",
+      "nombre_contacto_emergencia": "GENERICO",
+      "telefono_emergencia": "88888888",
+      "fecha_baja": "",
+      "salario": 0.0,
+      "is_active": 1,
+      "puesto": "GENERICO",
+      "fecha_nacimiento": "1998-07-21",
+      "numero_seguro_social": "",
+      "informacion_adicional": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-07-21T17:40:26.400647",
+  "machine_id": "92384126569428"
+}

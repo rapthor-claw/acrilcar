@@ -241,8 +241,19 @@
       "note": "ROC 29595",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 276,
+      "work_order_id": 35889,
+      "payment_date": "2025-07-21",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 900,
+      "note": "ROC 29596\nPOS FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:48:37.846715",
+  "timestamp": "2025-07-21T17:40:26.368615",
   "machine_id": "92384126569428"
 }

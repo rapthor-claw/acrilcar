@@ -314,8 +314,53 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 273,
+      "work_order_id": "35888",
+      "start_date": "2025-07-21 16:58",
+      "end_date": "2025-07-22 16:58",
+      "colaborador_id": 2,
+      "client_id": 246,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 300 ARANDELAS BLANCO LECHOSO C/U $1\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 274,
+      "work_order_id": "35889",
+      "start_date": "2025-07-21 17:04",
+      "end_date": "2025-07-21 17:04",
+      "colaborador_id": 2,
+      "client_id": 462,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• CORTE Y ARMADO DE CAJA DE 25X25 CM PARA GUANTES\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 275,
+      "work_order_id": "35890",
+      "start_date": "2025-07-21 17:33",
+      "end_date": "2025-07-24 16:30",
+      "colaborador_id": 2,
+      "client_id": 463,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP Y REP DEL OTRO - KIA RIO 2018\n",
+      "note": "SE ENTREGO BUJIAS, SOLO DEJA CEPOS",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:48:37.909925",
+  "timestamp": "2025-07-21T17:40:26.422571",
   "machine_id": "92384126569428"
 }

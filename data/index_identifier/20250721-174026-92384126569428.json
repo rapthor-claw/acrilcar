@@ -6,8 +6,15 @@
       "identifier": 100000004,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5,
+      "fecha": "21-07-2025",
+      "identifier": 100000005,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:48:37.885983",
+  "timestamp": "2025-07-21T17:40:26.395335",
   "machine_id": "92384126569428"
 }

@@ -7,8 +7,16 @@
       "descripcion": "PAGO DE FACTURA INSS",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 25,
+      "nombre": "DOÑA INGRID",
+      "tipo": "egreso",
+      "descripcion": "GASTOS PERSONALES",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:48:37.873355",
+  "timestamp": "2025-07-21T17:40:26.384716",
   "machine_id": "92384126569428"
 }

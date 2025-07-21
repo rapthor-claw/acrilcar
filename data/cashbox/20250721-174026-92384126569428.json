@@ -350,8 +350,34 @@
       "order_id": 35869,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 304,
+      "fecha": "2025-07-21",
+      "descripcion": "ROC 29596\nPOS FICOHSA",
+      "monto": 900.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Allisson",
+      "order_id": 35889,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 305,
+      "fecha": "2025-07-21",
+      "descripcion": "GASTOS PERSONALES DE DOÑA INGRID ",
+      "monto": 1000.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "Allisson",
+      "order_id": 9991,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T16:48:37.864722",
+  "timestamp": "2025-07-21T17:40:26.380058",
   "machine_id": "92384126569428"
 }

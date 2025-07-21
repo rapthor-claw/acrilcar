@@ -272,8 +272,73 @@
       "order_id": 35886,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 298,
+      "fecha": "2025-07-21",
+      "descripcion": "ROC 29592",
+      "monto": 1400.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 35840,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 299,
+      "fecha": "2025-07-21",
+      "descripcion": "ROC 29593\nPOS BAC\nRETENCION 2% C$80 7789",
+      "monto": 0.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Allisson",
+      "order_id": 35784,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 300,
+      "fecha": "2025-07-21",
+      "descripcion": "ROC 29593",
+      "monto": 4000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Allisson",
+      "order_id": 35784,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 301,
+      "fecha": "2025-07-21",
+      "descripcion": "ROC 29594",
+      "monto": 300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 35871,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 302,
+      "fecha": "2025-07-21",
+      "descripcion": "COMPRA DE 1 TUBO DE ESTAÑO",
+      "monto": 100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Allisson",
+      "order_id": 693744,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T14:49:13.970675",
+  "timestamp": "2025-07-21T16:05:26.971887",
   "machine_id": "92384126569428"
 }

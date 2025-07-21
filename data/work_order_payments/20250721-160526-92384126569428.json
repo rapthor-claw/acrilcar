@@ -186,8 +186,52 @@
       "note": "ROC 29591",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 271,
+      "work_order_id": 35840,
+      "payment_date": "2025-07-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1400,
+      "note": "ROC 29592",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 272,
+      "work_order_id": 35784,
+      "payment_date": "2025-07-21",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 0,
+      "note": "ROC 29593\nPOS BAC\nRETENCION 2% C$80 7789",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 273,
+      "work_order_id": 35784,
+      "payment_date": "2025-07-21",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 4000,
+      "note": "ROC 29593",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 274,
+      "work_order_id": 35871,
+      "payment_date": "2025-07-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 300,
+      "note": "ROC 29594",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T14:49:13.946024",
+  "timestamp": "2025-07-21T16:05:26.960560",
   "machine_id": "92384126569428"
 }

@@ -8511,8 +8511,24 @@
       "activity": "Ingreso de caja para la orden: 35831 - monto: 2500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1526,
+      "datetime": "2025-07-19 00:13:23",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1527,
+      "datetime": "2025-07-21 14:31:21",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-18T18:13:09.806792",
+  "timestamp": "2025-07-21T08:31:49.428058",
   "machine_id": "26830028058983"
 }

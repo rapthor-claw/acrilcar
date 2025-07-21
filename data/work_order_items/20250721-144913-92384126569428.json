@@ -111,8 +111,56 @@
       "services": "['ELAB DE STOP - HYUNDAI HD65']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 408,
+      "work_order_id": 35881,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO - SUZUKI ALTO C$ 1600', 'PULIDO DE FOCO c$ 500']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 409,
+      "work_order_id": 35882,
+      "colaborator_id": 8,
+      "services": "['ELAB DE FOCO CON REP DE ARO - H100']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 410,
+      "work_order_id": 35883,
+      "colaborator_id": 12,
+      "services": "['REP DE COLA DE PATO - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 411,
+      "work_order_id": 35884,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 412,
+      "work_order_id": 35885,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - RUSH']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 413,
+      "work_order_id": 35886,
+      "colaborator_id": 9,
+      "services": "['CORTE LASER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T11:28:55.470945",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-21T14:49:13.924423",
+  "machine_id": "92384126569428"
 }

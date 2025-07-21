@@ -109,8 +109,85 @@
       "note": "ROC 29584",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 264,
+      "work_order_id": 35882,
+      "payment_date": "2025-07-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 2500,
+      "note": "ROC 29585",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 265,
+      "work_order_id": 35764,
+      "payment_date": "2025-07-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 300,
+      "note": "ROC 29586",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 266,
+      "work_order_id": 35883,
+      "payment_date": "2025-07-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 150,
+      "note": "ROC 29587",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 267,
+      "work_order_id": 35850,
+      "payment_date": "2025-07-21",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 1700,
+      "note": "ROC 29588\nRETENCION 5823  C$34\nTF BANPRO 70344060 REF 21/7/25 11:21 AM",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 268,
+      "work_order_id": 35884,
+      "payment_date": "2025-07-21",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 1600,
+      "note": "ROC 29589\nFICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 269,
+      "work_order_id": 35801,
+      "payment_date": "2025-07-21",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 2200,
+      "note": "ROC 29590\nPOS FICOHSA\nRETENCION 44c$ 14950\nRETENCION 22CC$280395",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 270,
+      "work_order_id": 35886,
+      "payment_date": "2025-07-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 730,
+      "note": "ROC 29591",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T11:28:55.486568",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-21T14:49:13.946024",
+  "machine_id": "92384126569428"
 }

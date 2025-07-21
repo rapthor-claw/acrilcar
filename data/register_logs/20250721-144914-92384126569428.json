@@ -311,8 +311,240 @@
       "activity": "Ingreso de caja para la orden: 35825 - monto: 1500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1567,
+      "datetime": "2025-07-21 17:30:44",
+      "username": "Allisson",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1568,
+      "datetime": "2025-07-21 17:31:18",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1569,
+      "datetime": "2025-07-21 17:36:14",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 360",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1570,
+      "datetime": "2025-07-21 17:37:18",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1571,
+      "datetime": "2025-07-21 18:49:06",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1572,
+      "datetime": "2025-07-21 18:50:18",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FATIMA CORDOBA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1573,
+      "datetime": "2025-07-21 18:50:34",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: AVICOLA LA BARRANCA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1574,
+      "datetime": "2025-07-21 18:50:48",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LUIS DELGADILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1575,
+      "datetime": "2025-07-21 18:50:58",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JOSE GARCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1576,
+      "datetime": "2025-07-21 18:52:07",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35881",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1577,
+      "datetime": "2025-07-21 18:52:42",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35882",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1578,
+      "datetime": "2025-07-21 18:53:40",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35883",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1579,
+      "datetime": "2025-07-21 18:54:14",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35884",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1580,
+      "datetime": "2025-07-21 18:57:48",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35882 - monto: 2500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1581,
+      "datetime": "2025-07-21 18:58:07",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35764 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1582,
+      "datetime": "2025-07-21 18:58:26",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35883 - monto: 150",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1583,
+      "datetime": "2025-07-21 19:00:05",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35850 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1584,
+      "datetime": "2025-07-21 19:00:58",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35884 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1585,
+      "datetime": "2025-07-21 19:03:23",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35801 - monto: 2200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1586,
+      "datetime": "2025-07-21 19:04:36",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 20",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1587,
+      "datetime": "2025-07-21 19:06:12",
+      "username": "Allisson",
+      "activity": "Agrego movimiento: INSS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1588,
+      "datetime": "2025-07-21 19:06:49",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 9000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1589,
+      "datetime": "2025-07-21 19:52:15",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARTIN MORENO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1590,
+      "datetime": "2025-07-21 19:53:00",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35885",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1591,
+      "datetime": "2025-07-21 19:57:05",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: VALLEY METRO SECURITY / G FORCE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1592,
+      "datetime": "2025-07-21 19:58:10",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35886",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1593,
+      "datetime": "2025-07-21 20:05:31",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35886 - monto: 730",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1594,
+      "datetime": "2025-07-21 20:34:02",
+      "username": "Allisson",
+      "activity": "Actualizo datos del cliente: HENRY SALGADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1595,
+      "datetime": "2025-07-21 20:48:40",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T11:28:55.517837",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-21T14:49:14.034400",
+  "machine_id": "92384126569428"
 }

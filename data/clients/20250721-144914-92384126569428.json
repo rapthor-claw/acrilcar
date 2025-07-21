@@ -153,8 +153,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 456,
+      "name": "FATIMA CORDOBA",
+      "contact_1": "88659708",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 457,
+      "name": "AVICOLA LA BARRANCA",
+      "contact_1": "77999731",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 458,
+      "name": "LUIS DELGADILLO",
+      "contact_1": "86339714",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 459,
+      "name": "JOSE GARCIA",
+      "contact_1": "88179929",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 460,
+      "name": "MARTIN MORENO",
+      "contact_1": "88865456",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 461,
+      "name": "VALLEY METRO SECURITY / G FORCE",
+      "contact_1": "88817357",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T11:28:55.502189",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-21T14:49:14.019945",
+  "machine_id": "92384126569428"
 }

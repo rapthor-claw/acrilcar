@@ -441,8 +441,60 @@
       "order_id": 35891,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 311,
+      "fecha": "2025-07-22",
+      "descripcion": " ROC 29603 ADELANTO ELAB. DE 2 PIDEVIAS Y REP. BASE",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35897,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 312,
+      "fecha": "2025-07-22",
+      "descripcion": "COMPRA DE RESINA CATALIZADA Y CATALIZADOR P/RESINA",
+      "monto": 480.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Yamileth",
+      "order_id": 124073,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 313,
+      "fecha": "2025-07-22",
+      "descripcion": "ALMUERZO CASA DOÑA INGRID",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "Yamileth",
+      "order_id": 9992,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 314,
+      "fecha": "2025-07-22",
+      "descripcion": "COMPRA DE BICARBONATO Y PRODUCTOS DE LIMPIEZA",
+      "monto": 200.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 9993,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T14:11:10.846821",
+  "timestamp": "2025-07-22T14:59:18.325999",
   "machine_id": "26830028058983"
 }

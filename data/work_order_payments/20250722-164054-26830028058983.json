@@ -351,8 +351,30 @@
       "note": "ROC 29606 CANCELACION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 286,
+      "work_order_id": 35845,
+      "payment_date": "2025-07-22",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 3600,
+      "note": "ROC 29607 CANCELACION POS FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 287,
+      "work_order_id": 35620,
+      "payment_date": "2025-07-22",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 29608 CANCELACION  POS FICOHSA ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T15:51:08.958721",
+  "timestamp": "2025-07-22T16:40:54.386661",
   "machine_id": "26830028058983"
 }

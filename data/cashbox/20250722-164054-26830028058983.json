@@ -571,8 +571,34 @@
       "order_id": 35899,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 321,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29607 CANCELACION POS FICOHSA",
+      "monto": 3600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 35845,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 322,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29608 CANCELACION  POS FICOHSA ",
+      "monto": 1600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 35620,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T15:51:08.974372",
+  "timestamp": "2025-07-22T16:40:54.402310",
   "machine_id": "26830028058983"
 }

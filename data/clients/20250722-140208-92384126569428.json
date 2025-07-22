@@ -285,8 +285,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 468,
+      "name": "ENMANUEL MORALES",
+      "contact_1": "57635436",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T14:01:14.136128",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-22T14:02:08.971423",
+  "machine_id": "92384126569428"
 }

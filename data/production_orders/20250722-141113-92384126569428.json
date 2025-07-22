@@ -434,8 +434,38 @@
       "note": "ENTREGADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 281,
+      "work_order_id": "35896",
+      "start_date": "2025-07-22 14:02",
+      "end_date": "2025-07-23 17:30",
+      "colaborador_id": 2,
+      "client_id": 468,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP - HILUX\n",
+      "note": "DEJA BUJIAS CEPOS Y TRABAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 282,
+      "work_order_id": "35897",
+      "start_date": "2025-07-22 14:09",
+      "end_date": "2025-07-23 09:00",
+      "colaborador_id": 2,
+      "client_id": 469,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE PIDE VIAS CON REP DE BASE - COROLLA\n",
+      "note": "SE ENTREGO BUJIAS Y CEPOS",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T14:02:08.998958",
+  "timestamp": "2025-07-22T14:11:13.496538",
   "machine_id": "92384126569428"
 }

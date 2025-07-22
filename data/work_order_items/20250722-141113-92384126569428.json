@@ -231,8 +231,24 @@
       "services": "['PULIDO DE STOP - HILUX']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 423,
+      "work_order_id": 35896,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 424,
+      "work_order_id": 35897,
+      "colaborator_id": 12,
+      "services": "['ELAB DE PIDE VIAS CON REP DE BASE - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T14:02:08.888714",
+  "timestamp": "2025-07-22T14:11:13.342696",
   "machine_id": "92384126569428"
 }

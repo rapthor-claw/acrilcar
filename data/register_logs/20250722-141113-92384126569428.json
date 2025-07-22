@@ -1175,8 +1175,48 @@
       "activity": "Ingreso de caja para la orden: 35891 - monto: 1600",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1675,
+      "datetime": "2025-07-22 20:03:14",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35896",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1676,
+      "datetime": "2025-07-22 20:03:36",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35896",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1677,
+      "datetime": "2025-07-22 20:09:23",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: WILTON NARVAEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1678,
+      "datetime": "2025-07-22 20:10:42",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35897",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1679,
+      "datetime": "2025-07-22 20:11:01",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35897",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T14:02:08.989384",
+  "timestamp": "2025-07-22T14:11:13.478593",
   "machine_id": "92384126569428"
 }

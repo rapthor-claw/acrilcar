@@ -191,8 +191,48 @@
       "services": "['ELAB DE STOP Y REP DEL OTRO - KIA RIO 2018']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 418,
+      "work_order_id": 35891,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 419,
+      "work_order_id": 35892,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 420,
+      "work_order_id": 35893,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 2 FOCOS - CASCADIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 421,
+      "work_order_id": 35894,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - HILUX c$1500', 'PULIDO DE 1 FOCO C$ 800']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 422,
+      "work_order_id": 35895,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T19:16:19.818644",
+  "timestamp": "2025-07-22T12:27:08.029859",
   "machine_id": "92384126569428"
 }

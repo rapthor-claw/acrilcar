@@ -241,8 +241,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 464,
+      "name": "TANIA GARCIA",
+      "contact_1": "88666902",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 465,
+      "name": "BELINYA SEQUEIRA",
+      "contact_1": "57928777",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 466,
+      "name": "HOSPITALITY S,A",
+      "contact_1": "89480446",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 467,
+      "name": "COMSERMULTENIC",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "J0310000386854",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-21T19:16:19.918775",
+  "timestamp": "2025-07-22T12:27:08.070658",
   "machine_id": "92384126569428"
 }

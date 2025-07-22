@@ -524,8 +524,53 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 287,
+      "work_order_id": "35902",
+      "start_date": "2025-07-22 15:46",
+      "end_date": "2025-07-24 16:00",
+      "colaborador_id": 2,
+      "client_id": 473,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 2 FOCOS - DYNA\n",
+      "note": "SE ENTREGO BUJIAS Y POLVERAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 288,
+      "work_order_id": "35903",
+      "start_date": "2025-07-22 16:00",
+      "end_date": "2025-07-23 16:30",
+      "colaborador_id": 2,
+      "client_id": 474,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• REP DE STOP - HIACE\n",
+      "note": "DEJA BUJIAS CEPOS Y EMPAQUES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 289,
+      "work_order_id": "35904",
+      "start_date": "2025-07-22 16:30",
+      "end_date": "2025-07-22 16:30",
+      "colaborador_id": 2,
+      "client_id": 475,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• PULIDO DE FOCOS\n",
+      "note": "HILUX",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T16:40:54.480400",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-22T16:42:59.416720",
+  "machine_id": "92384126569428"
 }

@@ -493,8 +493,86 @@
       "order_id": 9993,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 315,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29604 CANCELACION POS FICOHSA",
+      "monto": 800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 35899,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 316,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29605 CANCELACION ",
+      "monto": 800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35878,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 317,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29606 CANCELACION ",
+      "monto": 1400.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35870,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 318,
+      "fecha": "2025-07-22",
+      "descripcion": "PAGO ELAB. DE 2 FOCOS COLUMBIA  ROC 29597",
+      "monto": 8000.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 1,
+      "user_id": "Yamileth",
+      "order_id": 35605,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 319,
+      "fecha": "2025-07-22",
+      "descripcion": "PAGO REP. 1 RETROVISOR ROC 29600",
+      "monto": 200.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 12,
+      "user_id": "Yamileth",
+      "order_id": 35879,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 320,
+      "fecha": "2025-07-22",
+      "descripcion": "ELAB. 1 MICA DE RETROVISOR ROC 29604",
+      "monto": 800.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 12,
+      "user_id": "Yamileth",
+      "order_id": 35899,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T15:39:25.882269",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-22T15:51:08.974372",
+  "machine_id": "26830028058983"
 }

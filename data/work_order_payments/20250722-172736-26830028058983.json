@@ -373,8 +373,52 @@
       "note": "ROC 29608 CANCELACION  POS FICOHSA ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 288,
+      "work_order_id": 35904,
+      "payment_date": "2025-07-22",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 29609 CANCELACION POS FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 289,
+      "work_order_id": 35881,
+      "payment_date": "2025-07-22",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 2100,
+      "note": "ROC 29610 CANCELACION POS FICOHSA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 290,
+      "work_order_id": 35906,
+      "payment_date": "2025-07-22",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 29611 ADELANTO DE ELAB. STOP, MTTO STOP , MTTO CROMO INTERNO Y PULIDO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 291,
+      "work_order_id": 35876,
+      "payment_date": "2025-07-22",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1000,
+      "note": "ROC 29612 CANCELACION  POS FICOHSA ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T17:01:52.288973",
+  "timestamp": "2025-07-22T17:27:36.875324",
   "machine_id": "26830028058983"
 }

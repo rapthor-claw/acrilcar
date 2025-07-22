@@ -597,8 +597,86 @@
       "order_id": 35620,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 323,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29609 CANCELACION POS FICOHSA",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35904,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 324,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29610 CANCELACION POS FICOHSA ",
+      "monto": 2100.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 35881,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 325,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29611 ADELANTO DE ELAB. STOP, MTTO STOP , MTTO CROMO INTERNO Y PULIDO",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35906,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 326,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29612 CANCELACION  POS FICOHSA ",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 35876,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 327,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29610 CANCELACION ",
+      "monto": 2100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 12,
+      "user_id": "Yamileth",
+      "order_id": 35881,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 328,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29612 CANCELACION ",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 12,
+      "user_id": "Yamileth",
+      "order_id": 35876,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T17:01:52.304619",
+  "timestamp": "2025-07-22T17:27:36.890944",
   "machine_id": "26830028058983"
 }

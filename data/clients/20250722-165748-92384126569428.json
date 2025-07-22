@@ -384,8 +384,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 477,
+      "name": "JAIRO SALMERON",
+      "contact_1": "78708409",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T16:54:04.077432",
+  "timestamp": "2025-07-22T16:57:48.146921",
   "machine_id": "92384126569428"
 }

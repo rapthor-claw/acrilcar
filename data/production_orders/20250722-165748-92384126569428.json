@@ -569,8 +569,23 @@
       "note": "HILUX",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 290,
+      "work_order_id": "35906",
+      "start_date": "2025-07-22 16:54",
+      "end_date": "2025-07-23 16:30",
+      "colaborador_id": 2,
+      "client_id": 477,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP-HILUX 1800C$\n• PULIDO DE STOP- HILUX c$ 200\n• REP DE RETROVISOR, PEGAR TAPA - HILUX 300c$\n",
+      "note": "EL STOP PULIDO CORRE RIESGO DE QUE SE QUIEBRE O REVIENTE, PERO EN CASO QUE SUCEDA EL CLIENTE LE PONDRA CARETA O CROMO\nEN STOP ELABORADO NO DEJA BUJIAS, CEPOS SOLO QUEDAN PERNOS Y SE VA A BUSCAR UN PIN QUE LE FALTA\nEL STOP A PULIR LO TRAERA EN LA MAÑANA 8 AM 23/7/25",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T16:54:04.115695",
+  "timestamp": "2025-07-22T16:57:48.188107",
   "machine_id": "92384126569428"
 }

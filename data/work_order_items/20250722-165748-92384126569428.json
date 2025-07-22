@@ -311,8 +311,16 @@
       "services": "['ELAB DE FOCOS - NISSAN']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 433,
+      "work_order_id": 35906,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP-HILUX 1800C$', 'PULIDO DE STOP- HILUX c$ 200', 'REP DE RETROVISOR, PEGAR TAPA - HILUX 300c$']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T16:54:04.043615",
+  "timestamp": "2025-07-22T16:57:48.105681",
   "machine_id": "92384126569428"
 }

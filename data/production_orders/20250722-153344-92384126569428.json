@@ -464,8 +464,68 @@
       "note": "SE ENTREGO BUJIAS Y CEPOS",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 283,
+      "work_order_id": "35898",
+      "start_date": "2025-07-22 14:33",
+      "end_date": "2025-07-23 16:00",
+      "colaborador_id": 2,
+      "client_id": 470,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• REP DE 2 STOP - GRAND I10\n",
+      "note": "NO DEJA BUJIAS NI CEPOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 284,
+      "work_order_id": "35899",
+      "start_date": "2025-07-22 15:02",
+      "end_date": "2025-07-23 16:30",
+      "colaborador_id": 2,
+      "client_id": 471,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• mica de retrovisr mas led L200\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 285,
+      "work_order_id": "35900",
+      "start_date": "2025-07-22 15:03",
+      "end_date": "2025-07-23 17:00",
+      "colaborador_id": 2,
+      "client_id": 472,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP REP BASE - HONDA FIT\n",
+      "note": "DEJA MUESTRA\nNO DEJA BUJIAS NI CEPOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 286,
+      "work_order_id": "35901",
+      "start_date": "2025-07-22 15:06",
+      "end_date": "2025-07-22 15:06",
+      "colaborador_id": 2,
+      "client_id": 246,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 200 PIEZAS ADICIONALES PARA PORTA RAQUETAS c$20C/U\n• COMPLEMEMTO OT 35651\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T14:59:18.747683",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-22T15:33:44.452451",
+  "machine_id": "92384126569428"
 }

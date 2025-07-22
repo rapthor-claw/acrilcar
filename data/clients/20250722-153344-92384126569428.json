@@ -307,8 +307,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 470,
+      "name": "ALVARO BERRIOS",
+      "contact_1": "85552465",
+      "contact_2": "57131682",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 471,
+      "name": "TALLER EFI",
+      "contact_1": "76277893",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 472,
+      "name": "OMAR GUDIEL",
+      "contact_1": "89620317",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T14:59:18.700859",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-22T15:33:44.424369",
+  "machine_id": "92384126569428"
 }

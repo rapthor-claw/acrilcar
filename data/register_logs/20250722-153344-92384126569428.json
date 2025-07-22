@@ -1247,8 +1247,64 @@
       "activity": "Salida de caja, monto: 200",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1684,
+      "datetime": "2025-07-22 21:03:27",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: OMAR GUDIEL",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1685,
+      "datetime": "2025-07-22 21:04:33",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1686,
+      "datetime": "2025-07-22 21:05:13",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35898",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1687,
+      "datetime": "2025-07-22 21:05:22",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35899",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1688,
+      "datetime": "2025-07-22 21:05:43",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1689,
+      "datetime": "2025-07-22 21:08:01",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35901",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1690,
+      "datetime": "2025-07-22 21:08:14",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35901",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T14:59:18.732061",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-22T15:33:44.442215",
+  "machine_id": "92384126569428"
 }

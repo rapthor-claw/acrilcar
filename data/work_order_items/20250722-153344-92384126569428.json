@@ -247,8 +247,40 @@
       "services": "['ELAB DE PIDE VIAS CON REP DE BASE - COROLLA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 425,
+      "work_order_id": 35898,
+      "colaborator_id": 2,
+      "services": "['REP DE 2 STOP - GRAND I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 426,
+      "work_order_id": 35899,
+      "colaborator_id": 8,
+      "services": "['mica de retrovisr mas led L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 427,
+      "work_order_id": 35900,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP REP BASE - HONDA FIT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 428,
+      "work_order_id": 35901,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 200 PIEZAS ADICIONALES PARA PORTA RAQUETAS c$20C/U', 'COMPLEMEMTO OT 35651']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T14:59:18.294702",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-22T15:33:44.371622",
+  "machine_id": "92384126569428"
 }

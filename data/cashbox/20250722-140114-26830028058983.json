@@ -376,8 +376,73 @@
       "order_id": 9991,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 306,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29598 CANCELACION ",
+      "monto": 700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35805,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 307,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29599 CANCELACION TRANF.BAC  301436389",
+      "monto": 2000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 19,
+      "user_id": "Yamileth",
+      "order_id": 35830,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 308,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29600 CANCELACION POS FICOHSA ",
+      "monto": 200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 35879,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 309,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29601 CANCELACION ",
+      "monto": 200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35895,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 310,
+      "fecha": "2025-07-22",
+      "descripcion": "ROC 29602 CANCELACION ",
+      "monto": 1600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35891,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T12:34:37.124388",
+  "timestamp": "2025-07-22T14:01:14.089262",
   "machine_id": "26830028058983"
 }

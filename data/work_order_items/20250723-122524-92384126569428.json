@@ -319,8 +319,128 @@
       "services": "['ELAB DE STOP-HILUX 1800C$', 'PULIDO DE STOP- HILUX c$ 200', 'REP DE RETROVISOR, PEGAR TAPA - HILUX 300c$']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 434,
+      "work_order_id": 35907,
+      "colaborator_id": 7,
+      "services": "['REP DE PATAS A FOCOS, DESTAPADO Y SELLADO DE 1 REPARAR REGULADORES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 435,
+      "work_order_id": 35908,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIDE VIA - GALLOPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 436,
+      "work_order_id": 35909,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - SUZUKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 437,
+      "work_order_id": 35910,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 438,
+      "work_order_id": 35912,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - N400']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 439,
+      "work_order_id": 35913,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 25 PORTA ACRILICOS 12X4 CM DE ANCHO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 440,
+      "work_order_id": 35914,
+      "colaborator_id": 8,
+      "services": "['REP DE STOP - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 441,
+      "work_order_id": 35915,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - HINO 300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 442,
+      "work_order_id": 35916,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE STOP - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 443,
+      "work_order_id": 35917,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS - HONDA FIT C$ 1600', 'ENVIO AL MAYOREO C$ 150']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 444,
+      "work_order_id": 35918,
+      "colaborator_id": 2,
+      "services": "['ELAB DE TERCERA LUZ - NISSAN FRONTIER C$ 800', 'ENVIO JALAPA C$ 150']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 445,
+      "work_order_id": 35919,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 446,
+      "work_order_id": 35920,
+      "colaborator_id": 8,
+      "services": "['ELAB DE FOCOS c$ 3500 - SUZUKI VITARA', 'VENTA DE BUJIAS LED c$ 3478']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 447,
+      "work_order_id": 35921,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 448,
+      "work_order_id": 35922,
+      "colaborator_id": 4,
+      "services": "['ELAB DE HALOGENO - SANTA FE', 'PULIDO DE HALOGENO c$ 400']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-22T17:27:36.875324",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-23T12:25:24.307142",
+  "machine_id": "92384126569428"
 }

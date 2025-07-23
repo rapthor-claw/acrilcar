@@ -1887,8 +1887,72 @@
       "activity": "Ingreso de caja para la orden: 35862 - monto: 1000",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1764,
+      "datetime": "2025-07-23 22:02:37",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: PABLO VALLE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1765,
+      "datetime": "2025-07-23 22:02:58",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ERVIN BARRANTES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1766,
+      "datetime": "2025-07-23 22:03:23",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ELEAZER CARRION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1767,
+      "datetime": "2025-07-23 22:03:40",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LUNA ARQUITECTOS S,A",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1768,
+      "datetime": "2025-07-23 22:04:49",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: TALLER BACA MOTORS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1769,
+      "datetime": "2025-07-23 22:05:13",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: WILLIAM DELGADO MARTINEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1770,
+      "datetime": "2025-07-23 22:05:34",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ALLEN SEQUEIRA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1771,
+      "datetime": "2025-07-23 22:11:30",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35923",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-23T16:06:32.468660",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-23T16:12:31.681447",
+  "machine_id": "92384126569428"
 }

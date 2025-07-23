@@ -560,8 +560,173 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 495,
+      "name": "LESTHER TORRES",
+      "contact_1": "87999192",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 496,
+      "name": "AUTOMOTRIZ NAVARRETE",
+      "contact_1": "76424815",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 497,
+      "name": "AUXILIADORA JARQUIN",
+      "contact_1": "86252672",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 498,
+      "name": "HENRY LOPEZ",
+      "contact_1": "85775679",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 499,
+      "name": "GUNIER ORTIZ",
+      "contact_1": "81818263",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 500,
+      "name": "FRANCISCO RIVAS",
+      "contact_1": "84042583",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 501,
+      "name": "CAMINO DE ESPERANZA",
+      "contact_1": "89778215",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 502,
+      "name": "ELI CERNA",
+      "contact_1": "88696061",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 503,
+      "name": "PABLO VALLE",
+      "contact_1": "76464179",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 504,
+      "name": "ERVIN BARRANTES",
+      "contact_1": "86866114",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 505,
+      "name": "ELEAZER CARRION",
+      "contact_1": "87849997",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 506,
+      "name": "LUNA ARQUITECTOS S,A",
+      "contact_1": "87226771",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 507,
+      "name": "TALLER BACA MOTORS",
+      "contact_1": "57885525",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 508,
+      "name": "WILLIAM DELGADO MARTINEZ",
+      "contact_1": "88304629",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 509,
+      "name": "ALLEN SEQUEIRA",
+      "contact_1": "82903866",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-23T16:06:32.343654",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-23T16:12:31.663788",
+  "machine_id": "92384126569428"
 }

@@ -2135,8 +2135,160 @@
       "activity": "Creo la orden de trabajo: 35943",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1795,
+      "datetime": "2025-07-23 22:51:30",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35923",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1796,
+      "datetime": "2025-07-23 22:52:09",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35924",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1797,
+      "datetime": "2025-07-23 22:52:33",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35925",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1798,
+      "datetime": "2025-07-23 22:52:42",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35926",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1799,
+      "datetime": "2025-07-23 22:53:02",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35927",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1800,
+      "datetime": "2025-07-23 22:53:09",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35928",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1801,
+      "datetime": "2025-07-23 22:53:18",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35929",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1802,
+      "datetime": "2025-07-23 22:53:28",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35930",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1803,
+      "datetime": "2025-07-23 22:53:51",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35931",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1804,
+      "datetime": "2025-07-23 22:53:58",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35932",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1805,
+      "datetime": "2025-07-23 22:54:19",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35934",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1806,
+      "datetime": "2025-07-23 22:54:36",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35936",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1807,
+      "datetime": "2025-07-23 22:54:45",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35937",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1808,
+      "datetime": "2025-07-23 22:54:58",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35938",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1809,
+      "datetime": "2025-07-23 22:55:43",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35939",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1810,
+      "datetime": "2025-07-23 22:55:51",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35940",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1811,
+      "datetime": "2025-07-23 22:57:19",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35941",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1812,
+      "datetime": "2025-07-23 22:57:31",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35942",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1813,
+      "datetime": "2025-07-23 22:57:38",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35943",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-23T16:51:10.308813",
+  "timestamp": "2025-07-23T16:59:44.747783",
   "machine_id": "92384126569428"
 }

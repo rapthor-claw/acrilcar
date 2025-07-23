@@ -725,8 +725,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 510,
+      "name": "PEDRO ORTIZ",
+      "contact_1": "84358998",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-23T16:12:31.663788",
+  "timestamp": "2025-07-23T16:33:40.539786",
   "machine_id": "92384126569428"
 }

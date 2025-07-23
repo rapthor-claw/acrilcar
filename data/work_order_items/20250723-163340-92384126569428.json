@@ -455,8 +455,144 @@
       "services": "['REP DE STOP PARTE AFECTADA - LAND CRUISER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 451,
+      "work_order_id": 35924,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO CON REVESTIMIENTO DE CROMO - HINO FG']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 452,
+      "work_order_id": 35925,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP - NP300', 'ENVIO c$ 200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 453,
+      "work_order_id": 35926,
+      "colaborator_id": 8,
+      "services": "['ELAB DE SROP 2 - COROLLA 79']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 454,
+      "work_order_id": 35927,
+      "colaborator_id": 4,
+      "services": "['REP DE PIEZA ACRILICA C$ 400', 'DESTAPADO Y MTTO DE CROMO Y SELLADO DE FOCO - ACCENT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 455,
+      "work_order_id": 35928,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 3 EXHIBIDORES PARA CONO c$1800 C/U MEDIDAS: 40 ALTO X 40 FONDO X 30 ANCHO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 456,
+      "work_order_id": 35929,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - VERSA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 457,
+      "work_order_id": 35930,
+      "colaborator_id": 13,
+      "services": "['ELAB DE TAPA ACRILICA EN 4 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 458,
+      "work_order_id": 35931,
+      "colaborator_id": 12,
+      "services": "['ELAB DE TERCERA LUZ, CON REP DE BASE - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 459,
+      "work_order_id": 35932,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS Y 4 FOCOS - TUCSON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 460,
+      "work_order_id": 35933,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 461,
+      "work_order_id": 35934,
+      "colaborator_id": 8,
+      "services": "['ELAB DE FOCO, COMPLEMENTO OT 35077', 'S-10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 462,
+      "work_order_id": 35935,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 463,
+      "work_order_id": 35936,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 464,
+      "work_order_id": 35937,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP LADO PASAJERO - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 465,
+      "work_order_id": 35938,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO REVISAR REGULADOR - BYD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 466,
+      "work_order_id": 35939,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 2 FOCOS CON REP DE ARO Y PATAS - KIA PREGIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 467,
+      "work_order_id": 35940,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - KIA MORNING']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-23T16:12:31.610977",
+  "timestamp": "2025-07-23T16:33:40.480616",
   "machine_id": "92384126569428"
 }

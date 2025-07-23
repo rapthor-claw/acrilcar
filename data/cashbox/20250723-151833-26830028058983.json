@@ -675,8 +675,21 @@
       "order_id": 35876,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 329,
+      "fecha": "2025-07-23",
+      "descripcion": "ROC 29613 CANCELACION POS BAC",
+      "monto": 1200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 35880,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-23T12:25:24.336738",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-23T15:18:33.918338",
+  "machine_id": "26830028058983"
 }

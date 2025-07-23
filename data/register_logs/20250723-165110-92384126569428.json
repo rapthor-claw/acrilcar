@@ -2095,8 +2095,48 @@
       "activity": "Alta de Cliente: PEDRO ORTIZ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1790,
+      "datetime": "2025-07-23 22:35:14",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35941",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1791,
+      "datetime": "2025-07-23 22:38:44",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARVIN PALACIOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1792,
+      "datetime": "2025-07-23 22:49:26",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: HUMBERTO SOBALVARRO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1793,
+      "datetime": "2025-07-23 22:50:28",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35942",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1794,
+      "datetime": "2025-07-23 22:51:05",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35943",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-23T16:33:40.551958",
+  "timestamp": "2025-07-23T16:51:10.308813",
   "machine_id": "92384126569428"
 }

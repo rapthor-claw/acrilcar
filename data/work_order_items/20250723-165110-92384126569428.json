@@ -591,8 +591,32 @@
       "services": "['ELAB DE STOP - KIA MORNING']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 468,
+      "work_order_id": 35941,
+      "colaborator_id": 5,
+      "services": "['REP DE PATAS A 1 PIEZA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 469,
+      "work_order_id": 35942,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 4 PIDE VIAS CON REP DE PATAS - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 470,
+      "work_order_id": 35943,
+      "colaborator_id": 7,
+      "services": "['SECADO Y SELLADO DE 1 FOCO - MERCEDES BENZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-23T16:33:40.480616",
+  "timestamp": "2025-07-23T16:51:10.260735",
   "machine_id": "92384126569428"
 }

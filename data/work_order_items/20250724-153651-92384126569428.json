@@ -671,8 +671,80 @@
       "services": "['ELAB DE 2 FOCOS c$ 2500 - VOLVO', 'VENTA DE BOMBILLOS $ 60']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 478,
+      "work_order_id": 35950,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 FOCO - KIA SOUL C$ 2400', 'PULIDO DE FOCO, ARO NEGRO C$ 700']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 479,
+      "work_order_id": 35951,
+      "colaborator_id": 12,
+      "services": "['SUMINISTRO DE 1 LITRO DE SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 480,
+      "work_order_id": 35952,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 1 VISOR TRANSPARENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 481,
+      "work_order_id": 35953,
+      "colaborator_id": 8,
+      "services": "['ELB DE 2 HALOGENOS ANARANJADOS - HONDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 482,
+      "work_order_id": 35955,
+      "colaborator_id": 9,
+      "services": "['10 JUEGOS DE LETRAS CHEVRON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 483,
+      "work_order_id": 35956,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE STOP - APV']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 484,
+      "work_order_id": 35957,
+      "colaborator_id": 5,
+      "services": "['PULIDO DE FOCOS Y LED BLANCA c$2600', 'ELAB DE 2 STOP Y 1 PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 485,
+      "work_order_id": 35958,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 486,
+      "work_order_id": 35959,
+      "colaborator_id": 8,
+      "services": "['ELAB DE FOCO CON MTTO DE CROMO- JMC']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-24T11:09:05.764463",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-24T15:36:51.499847",
+  "machine_id": "92384126569428"
 }

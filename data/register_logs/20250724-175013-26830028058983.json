@@ -2687,8 +2687,136 @@
       "activity": "Creo la orden de producción: 35959",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1864,
+      "datetime": "2025-07-24 22:51:57",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35951 - monto: 1460",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1865,
+      "datetime": "2025-07-24 22:52:54",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35856 - monto: 5600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1866,
+      "datetime": "2025-07-24 22:57:08",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35953 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1867,
+      "datetime": "2025-07-24 23:16:27",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35898 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1868,
+      "datetime": "2025-07-24 23:22:48",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35844 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1869,
+      "datetime": "2025-07-24 23:23:23",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35955 - monto: 1200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1870,
+      "datetime": "2025-07-24 23:24:09",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35925 - monto: 3800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1871,
+      "datetime": "2025-07-24 23:24:46",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35907 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1872,
+      "datetime": "2025-07-24 23:25:26",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35947 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1873,
+      "datetime": "2025-07-24 23:26:05",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35905 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1874,
+      "datetime": "2025-07-24 23:26:58",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35707 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1875,
+      "datetime": "2025-07-24 23:31:19",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35890 - monto: 2100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1876,
+      "datetime": "2025-07-24 23:36:33",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35912 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1877,
+      "datetime": "2025-07-24 23:40:00",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35836 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1878,
+      "datetime": "2025-07-24 23:40:33",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35943 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1879,
+      "datetime": "2025-07-24 23:49:45",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35956 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-24T16:51:11.399533",
+  "timestamp": "2025-07-24T17:50:13.926989",
   "machine_id": "26830028058983"
 }

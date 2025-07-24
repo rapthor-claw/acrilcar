@@ -758,8 +758,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 513,
+      "name": "ISABEL GUTIERREZ NOVOA",
+      "contact_1": "58218266",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 514,
+      "name": "LEO DANIEL CERDA",
+      "contact_1": "89733059",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 515,
+      "name": "OPERACIONES FAMILIARES S,A",
+      "contact_1": "83911212",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 516,
+      "name": "FABIO VARGAS",
+      "contact_1": "89110317",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 517,
+      "name": "LEONEL SAMAYOA",
+      "contact_1": "88282713",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-23T17:24:28.396356",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-24T11:03:40.996481",
+  "machine_id": "92384126569428"
 }

@@ -1,0 +1,17 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "date": "2025-07-24",
+      "user_id": 2,
+      "order_id": 35906,
+      "discount_mont": 200.0,
+      "discount_percentage": 8.695652173913043,
+      "description": "EL STOP PULIDO NO LO TRAJO EL CLIENTE ASI QUE NO SE REALIZO EL TRABAJO, COMPROBANTE DE FIRMA AUTORIZADO EN OT EN FISICO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-07-24T11:03:40.989606",
+  "machine_id": "92384126569428"
+}

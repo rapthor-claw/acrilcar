@@ -615,8 +615,64 @@
       "services": "['SECADO Y SELLADO DE 1 FOCO - MERCEDES BENZ']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 471,
+      "work_order_id": 35944,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 70 DIVISIONES EN ACRILICO 10 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 472,
+      "work_order_id": 35945,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX 3L']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 473,
+      "work_order_id": 35946,
+      "colaborator_id": 8,
+      "services": "['ELABORACION DE STOP - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 474,
+      "work_order_id": 35947,
+      "colaborator_id": 13,
+      "services": "['ELABORACION DE TAPA ACRILICA CON CAMBIO DE BISAGRA Y 1 LLAVIN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 475,
+      "work_order_id": 35948,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE STOP BUMPER - BT50']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 476,
+      "work_order_id": 35949,
+      "colaborator_id": 5,
+      "services": "['PULIDO DE STOP c$ 700', 'ELAB DE 2 PIDE VIAS BLANCO RAYADO LAND CRUISER C$1000']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 477,
+      "work_order_id": 35911,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS c$ 2500 - VOLVO', 'VENTA DE BOMBILLOS $ 60']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-23T17:24:28.333870",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-24T11:03:40.930325",
+  "machine_id": "92384126569428"
 }

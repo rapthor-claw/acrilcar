@@ -2463,8 +2463,48 @@
       "activity": "Creo la orden de producción: 35911",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1836,
+      "datetime": "2025-07-24 00:51:03",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 490",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1837,
+      "datetime": "2025-07-24 00:51:47",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1838,
+      "datetime": "2025-07-24 00:52:18",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1839,
+      "datetime": "2025-07-24 00:55:20",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1840,
+      "datetime": "2025-07-24 17:07:46",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-24T11:03:41.013588",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-07-24T11:09:05.873799",
+  "machine_id": "26830028058983"
 }

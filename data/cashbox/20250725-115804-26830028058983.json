@@ -1572,8 +1572,34 @@
       "order_id": 10004,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 398,
+      "fecha": "2025-07-24",
+      "descripcion": "ROC 29654 CANCELACION",
+      "monto": 2000.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 1,
+      "user_id": "Yamileth",
+      "order_id": 35905,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 399,
+      "fecha": "2025-07-24",
+      "descripcion": "ROC 29657 CANCELACION",
+      "monto": 2100.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 12,
+      "user_id": "Yamileth",
+      "order_id": 35890,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-24T18:04:43.968564",
+  "timestamp": "2025-07-25T11:58:04.140704",
   "machine_id": "26830028058983"
 }

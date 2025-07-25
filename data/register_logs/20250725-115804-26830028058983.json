@@ -2895,8 +2895,40 @@
       "activity": "Salida de caja, monto: 200",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1890,
+      "datetime": "2025-07-25 00:06:57",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1891,
+      "datetime": "2025-07-25 00:07:47",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 2100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1892,
+      "datetime": "2025-07-25 00:18:34",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1893,
+      "datetime": "2025-07-25 16:34:21",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-24T18:04:44.031049",
+  "timestamp": "2025-07-25T11:58:04.218811",
   "machine_id": "26830028058983"
 }

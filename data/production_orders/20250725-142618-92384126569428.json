@@ -1469,8 +1469,53 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 350,
+      "work_order_id": "0008",
+      "start_date": "2025-07-25 14:21",
+      "end_date": "2025-07-25 17:00",
+      "colaborador_id": 2,
+      "client_id": 539,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• PULIDO DE 1 STOP Y ELABORACION DE 1 STOP - SENTRA\n",
+      "note": "LA OP EN FISICO, TIENE COMO DESCRIPCION EL PULIDO DE 2 FOCOS, PERO NO SE DESINSTALARON Y NO SE VAN A PULIR, SOLO SE REALIZARN LOS STOP, POR UN TOTAL DE 1700c$",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 351,
+      "work_order_id": "0009",
+      "start_date": "2025-07-25 14:22",
+      "end_date": "2025-07-26 13:00",
+      "colaborador_id": 2,
+      "client_id": 540,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP- HILUX\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 352,
+      "work_order_id": "0010",
+      "start_date": "2025-07-25 14:23",
+      "end_date": "2025-07-25 14:23",
+      "colaborador_id": 2,
+      "client_id": 541,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• CORTE DE ROMPE VIENTO - YBR Z\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-25T13:59:08.762015",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-25T14:26:18.776128",
+  "machine_id": "92384126569428"
 }

@@ -1033,8 +1033,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 539,
+      "name": "LUIS MONTOYA",
+      "contact_1": "86134137",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 540,
+      "name": "EMILIO NAVARRO",
+      "contact_1": "78507444",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 541,
+      "name": "JACK ANDREY JUAREZ",
+      "contact_1": "7661-6308",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-25T13:59:08.715163",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-25T14:26:18.744624",
+  "machine_id": "92384126569428"
 }

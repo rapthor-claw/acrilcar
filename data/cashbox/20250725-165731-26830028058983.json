@@ -1845,8 +1845,86 @@
       "order_id": 35948,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 419,
+      "fecha": "2025-07-25",
+      "descripcion": "ROC 29677 CANCELACION",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35892,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 420,
+      "fecha": "2025-07-25",
+      "descripcion": "ROC 29678 CANCELACION",
+      "monto": 1600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35940,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 421,
+      "fecha": "2025-07-25",
+      "descripcion": "COMPRA DE PERNOS",
+      "monto": 25.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 868392,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 422,
+      "fecha": "2025-07-25",
+      "descripcion": "COMPRA DE ALUMINIO",
+      "monto": 65.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 697135,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 423,
+      "fecha": "2025-07-25",
+      "descripcion": "ALMUERZO CASA DOÑA INGRID",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10005,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 424,
+      "fecha": "2025-07-25",
+      "descripcion": "ENVIO DE ENCOMIENDA M. MAYOREO",
+      "monto": 180.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 6,
+      "user_id": "Yamileth",
+      "order_id": 10006,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-25T15:56:16.441170",
+  "timestamp": "2025-07-25T16:57:31.090450",
   "machine_id": "26830028058983"
 }

@@ -743,8 +743,96 @@
       "services": "['ELAB DE FOCO CON MTTO DE CROMO- JMC']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 487,
+      "work_order_id": 35960,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE CAÑUELA - MERCEDES BENZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 488,
+      "work_order_id": 35961,
+      "colaborator_id": 7,
+      "services": "['CROMADO DE 1 FOCO - TERCEL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 489,
+      "work_order_id": 35962,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 490,
+      "work_order_id": 35963,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 491,
+      "work_order_id": 1,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE MICA DE RETROVISOR - YUTOUNG']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 492,
+      "work_order_id": 2,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 8 TAPAS - GRAND VITARA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 493,
+      "work_order_id": 3,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP - SUZUKI AEREO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 494,
+      "work_order_id": 4,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP PARTE ROJA - TERCEL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 495,
+      "work_order_id": 5,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - ACCENT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 496,
+      "work_order_id": 6,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - HIACE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 497,
+      "work_order_id": 7,
+      "colaborator_id": 8,
+      "services": "['ELAB DE COLA DE PATO - ACCENT', 'LED A COLA DE PATO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-25T11:58:04.125111",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-25T12:43:09.330890",
+  "machine_id": "92384126569428"
 }

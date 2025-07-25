@@ -923,8 +923,118 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 528,
+      "name": "EYNARD GUTIERREZ",
+      "contact_1": "88821315",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 529,
+      "name": "JULIO HERNANDEZ",
+      "contact_1": "8590-1840",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 530,
+      "name": "HASSEL URBINA",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 531,
+      "name": "LESLIE BUITRAGO",
+      "contact_1": "58135385",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 532,
+      "name": "GERMAN EMILIO ZAMORA",
+      "contact_1": "74473811",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 533,
+      "name": "FELIX MENDEZ",
+      "contact_1": "88838030",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 534,
+      "name": "ROLANDO LOPEZ",
+      "contact_1": "83247983",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 536,
+      "name": "JESSENIA ARIAS",
+      "contact_1": "88095866",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 537,
+      "name": "DANIEL BAIN",
+      "contact_1": "88095866",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 538,
+      "name": "WILMER NUÑEZ",
+      "contact_1": "87306999",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-25T11:58:04.187569",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-25T12:43:09.394616",
+  "machine_id": "92384126569428"
 }

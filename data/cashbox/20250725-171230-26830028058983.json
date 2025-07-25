@@ -1923,8 +1923,21 @@
       "order_id": 10006,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 425,
+      "fecha": "2025-07-25",
+      "descripcion": "ROC 29679 CANCELACION",
+      "monto": 1700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 8,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-25T16:57:55.582483",
+  "timestamp": "2025-07-25T17:12:30.558287",
   "machine_id": "26830028058983"
 }

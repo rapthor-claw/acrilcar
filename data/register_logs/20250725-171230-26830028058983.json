@@ -3191,8 +3191,16 @@
       "activity": "Salida de caja, monto: 180",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1927,
+      "datetime": "2025-07-25 23:12:06",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0008 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-25T16:57:55.660618",
+  "timestamp": "2025-07-25T17:12:30.636422",
   "machine_id": "26830028058983"
 }

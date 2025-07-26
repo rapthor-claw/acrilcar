@@ -3207,8 +3207,136 @@
       "activity": "Creo la orden de producción: 0011",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1929,
+      "datetime": "2025-07-26 15:09:23",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LAGOS Y VOLCANES REAL STATE S.A.",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1930,
+      "datetime": "2025-07-26 15:19:56",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 35964",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1931,
+      "datetime": "2025-07-26 17:00:54",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MANUEL SANDIGO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1932,
+      "datetime": "2025-07-26 17:25:40",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0012",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1933,
+      "datetime": "2025-07-26 17:27:16",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARLON ZELAYA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1934,
+      "datetime": "2025-07-26 17:29:35",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 35965",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1935,
+      "datetime": "2025-07-26 17:32:38",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARIA EUGENIA GUIDO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1936,
+      "datetime": "2025-07-26 17:34:29",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0013",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1937,
+      "datetime": "2025-07-26 17:35:19",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MIGUEL ANGEL MOLINA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1938,
+      "datetime": "2025-07-26 17:38:14",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0014",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1939,
+      "datetime": "2025-07-26 21:05:01",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DENIS QUANT",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1940,
+      "datetime": "2025-07-26 21:06:26",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0015",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1941,
+      "datetime": "2025-07-26 21:07:08",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALCIDES PEREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1942,
+      "datetime": "2025-07-26 21:09:13",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 35966",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1943,
+      "datetime": "2025-07-26 21:10:05",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: GABRIEL MARTINEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1944,
+      "datetime": "2025-07-26 21:14:17",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 35967",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-26T08:56:21.678613",
+  "timestamp": "2025-07-26T15:18:31.024708",
   "machine_id": "26830028058983"
 }

@@ -1077,8 +1077,96 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 543,
+      "name": "LAGOS Y VOLCANES REAL STATE S.A.",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 544,
+      "name": "MANUEL SANDIGO",
+      "contact_1": "85933343",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 545,
+      "name": "MARLON ZELAYA",
+      "contact_1": "58713597",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 546,
+      "name": "MARIA EUGENIA GUIDO",
+      "contact_1": "88863674",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 547,
+      "name": "MIGUEL ANGEL MOLINA",
+      "contact_1": "88834188",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 548,
+      "name": "DENIS QUANT",
+      "contact_1": "87986372",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 549,
+      "name": "ALCIDES PEREZ",
+      "contact_1": "77996478",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 550,
+      "name": "GABRIEL MARTINEZ",
+      "contact_1": "83937671",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-26T08:56:21.663002",
+  "timestamp": "2025-07-26T15:18:31.009088",
   "machine_id": "26830028058983"
 }

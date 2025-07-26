@@ -863,8 +863,72 @@
       "services": "['ELAB DE MICA DE RETROVISOR - FORD']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 502,
+      "work_order_id": 35964,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE PUERTA DE LANCHA Y TAPA DESCARGUE DE DESAGUE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 503,
+      "work_order_id": 12,
+      "colaborator_id": 8,
+      "services": "['ELABORACION DE 1 FOCO MTTO CROMO Y ARO SE VUELVE A PONER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 504,
+      "work_order_id": 35965,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 505,
+      "work_order_id": 13,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 PATA DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 506,
+      "work_order_id": 14,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP TOTALES AHUMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 507,
+      "work_order_id": 15,
+      "colaborator_id": 5,
+      "services": "['ELABORACION Y REPARACION DE 2 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 508,
+      "work_order_id": 35966,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 509,
+      "work_order_id": 35967,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE BOMBA DE GASOLINA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-26T08:56:21.584885",
+  "timestamp": "2025-07-26T15:18:30.930979",
   "machine_id": "26830028058983"
 }

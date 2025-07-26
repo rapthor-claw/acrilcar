@@ -1514,8 +1514,23 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 353,
+      "work_order_id": "0011",
+      "start_date": "2025-07-25 15:42",
+      "end_date": "2025-07-26 14:00",
+      "colaborador_id": 2,
+      "client_id": 542,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE MICA DE RETROVISOR - FORD\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-25T18:10:56.395244",
+  "timestamp": "2025-07-25T18:12:26.509939",
   "machine_id": "92384126569428"
 }

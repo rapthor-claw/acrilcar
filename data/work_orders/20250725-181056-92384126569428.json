@@ -1497,8 +1497,22 @@
       "note": null,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 501,
+      "work_order_id": "0011",
+      "start_date": "2025-07-25 15:42",
+      "end_date": "2025-07-26 14:00",
+      "user_id": 2,
+      "client_id": 542,
+      "colaborador_id": 2,
+      "total_cost": 400.0,
+      "order_status": "abierta",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-25T17:12:30.527198",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-25T18:10:56.301415",
+  "machine_id": "92384126569428"
 }

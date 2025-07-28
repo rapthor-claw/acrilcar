@@ -1418,8 +1418,52 @@
       "note": "ROC 29706",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 383,
+      "work_order_id": 35960,
+      "payment_date": "2025-07-28",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 300,
+      "note": "ROC 29707",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 384,
+      "work_order_id": 35945,
+      "payment_date": "2025-07-28",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 500,
+      "note": "ROC 29708",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 385,
+      "work_order_id": 17,
+      "payment_date": "2025-07-28",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 1800,
+      "note": "ROC 29709\nPOS FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 386,
+      "work_order_id": 20,
+      "payment_date": "2025-07-28",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 1900,
+      "note": "ROC 29710\nTF CUENTA BAC C$",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T16:06:06.731075",
+  "timestamp": "2025-07-28T16:48:26.128748",
   "machine_id": "92384126569428"
 }

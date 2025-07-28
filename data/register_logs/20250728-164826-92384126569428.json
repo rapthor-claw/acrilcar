@@ -4303,8 +4303,72 @@
       "activity": "Cerro la orden: 0016",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2066,
+      "datetime": "2025-07-28 22:17:51",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35960 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2067,
+      "datetime": "2025-07-28 22:18:00",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 35960",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2068,
+      "datetime": "2025-07-28 22:26:08",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35945 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2069,
+      "datetime": "2025-07-28 22:26:52",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 35945",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2070,
+      "datetime": "2025-07-28 22:47:21",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0017 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2071,
+      "datetime": "2025-07-28 22:47:52",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0020 - monto: 1900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2072,
+      "datetime": "2025-07-28 22:48:01",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0017",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2073,
+      "datetime": "2025-07-28 22:48:10",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0020",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T16:06:06.853204",
+  "timestamp": "2025-07-28T16:48:26.283990",
   "machine_id": "92384126569428"
 }

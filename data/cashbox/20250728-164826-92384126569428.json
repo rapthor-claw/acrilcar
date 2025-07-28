@@ -2521,8 +2521,60 @@
       "order_id": 16,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 471,
+      "fecha": "2025-07-28",
+      "descripcion": "ROC 29707",
+      "monto": 300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 35960,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 472,
+      "fecha": "2025-07-28",
+      "descripcion": "ROC 29708",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 35945,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 473,
+      "fecha": "2025-07-28",
+      "descripcion": "ROC 29709\nPOS FICOHSA",
+      "monto": 1800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Allisson",
+      "order_id": 17,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 474,
+      "fecha": "2025-07-28",
+      "descripcion": "ROC 29710\nTF CUENTA BAC C$",
+      "monto": 1900.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 19,
+      "user_id": "Allisson",
+      "order_id": 20,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T16:06:06.756236",
+  "timestamp": "2025-07-28T16:48:26.161812",
   "machine_id": "92384126569428"
 }

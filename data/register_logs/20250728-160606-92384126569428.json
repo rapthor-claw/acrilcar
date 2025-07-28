@@ -4079,8 +4079,232 @@
       "activity": "Salida de caja, monto: 500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2038,
+      "datetime": "2025-07-28 20:16:39",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: EDWIN MORAGA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2039,
+      "datetime": "2025-07-28 20:16:53",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JIMMY ROSTRAN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2040,
+      "datetime": "2025-07-28 20:17:32",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0025",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2041,
+      "datetime": "2025-07-28 20:18:21",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0026",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2042,
+      "datetime": "2025-07-28 20:18:31",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0025",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2043,
+      "datetime": "2025-07-28 20:18:35",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0026",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2044,
+      "datetime": "2025-07-28 20:32:43",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DIONISIO CASTILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2045,
+      "datetime": "2025-07-28 20:33:25",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35974",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2046,
+      "datetime": "2025-07-28 20:34:13",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35974",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2047,
+      "datetime": "2025-07-28 20:46:49",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35952 - monto: 250",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2048,
+      "datetime": "2025-07-28 20:47:04",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 35952",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2049,
+      "datetime": "2025-07-28 21:16:13",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MIGUEL BLANDON",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2050,
+      "datetime": "2025-07-28 21:16:46",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0027",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2051,
+      "datetime": "2025-07-28 21:18:30",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0027",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2052,
+      "datetime": "2025-07-28 21:19:44",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35942 - monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2053,
+      "datetime": "2025-07-28 21:24:10",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2054,
+      "datetime": "2025-07-28 21:39:55",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35968",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2055,
+      "datetime": "2025-07-28 21:40:07",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35968",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2056,
+      "datetime": "2025-07-28 21:40:22",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35968 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2057,
+      "datetime": "2025-07-28 21:42:15",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 980",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2058,
+      "datetime": "2025-07-28 21:42:23",
+      "username": "Allisson",
+      "activity": "Elimino movimiento, id: 1",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2059,
+      "datetime": "2025-07-28 21:42:27",
+      "username": "Allisson",
+      "activity": "Elimino movimiento, id: 5",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2060,
+      "datetime": "2025-07-28 21:42:32",
+      "username": "Allisson",
+      "activity": "Elimino movimiento, id: 12",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2061,
+      "datetime": "2025-07-28 21:42:53",
+      "username": "Allisson",
+      "activity": "Elimino movimiento, id: 13",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2062,
+      "datetime": "2025-07-28 21:43:31",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 35968",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2063,
+      "datetime": "2025-07-28 21:53:08",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0028",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2064,
+      "datetime": "2025-07-28 22:01:21",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0016 - monto: 1900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2065,
+      "datetime": "2025-07-28 22:01:30",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0016",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T13:26:11.829158",
+  "timestamp": "2025-07-28T16:06:06.853204",
   "machine_id": "92384126569428"
 }

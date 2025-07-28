@@ -2443,8 +2443,86 @@
       "order_id": 10016,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 465,
+      "fecha": "2025-07-28",
+      "descripcion": "ROC 29703",
+      "monto": 250.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 35952,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 466,
+      "fecha": "2025-07-28",
+      "descripcion": "ROC 29704\t\nPOS BAC",
+      "monto": 1400.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Allisson",
+      "order_id": 35942,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 467,
+      "fecha": "2025-07-28",
+      "descripcion": "ENCOMIENDA HACIA LEON (CAJAS 13 UNIDADES)\n",
+      "monto": 100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 6,
+      "user_id": "Allisson",
+      "order_id": 10017,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 468,
+      "fecha": "2025-07-28",
+      "descripcion": "ROC 29705",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 35968,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 469,
+      "fecha": "2025-07-28",
+      "descripcion": "1 GALON DE RESINA POLIESTER\n1 YARDA DE TELA\n(PINTOR)",
+      "monto": 980.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Allisson",
+      "order_id": 100370,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 470,
+      "fecha": "2025-07-28",
+      "descripcion": "ROC 29706",
+      "monto": 1900.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 16,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T13:26:11.726875",
+  "timestamp": "2025-07-28T16:06:06.756236",
   "machine_id": "92384126569428"
 }

@@ -1308,8 +1308,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 566,
+      "name": "EDWIN MORAGA",
+      "contact_1": "88961874",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 567,
+      "name": "JIMMY ROSTRAN",
+      "contact_1": "85684924",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 568,
+      "name": "DIONISIO CASTILLO",
+      "contact_1": "86881551",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 569,
+      "name": "MIGUEL BLANDON",
+      "contact_1": "76156363",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T13:26:11.803572",
+  "timestamp": "2025-07-28T16:06:06.826008",
   "machine_id": "92384126569428"
 }

@@ -1023,8 +1023,56 @@
       "services": "['ELABORACION DE 1 STOP - HILUX']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 522,
+      "work_order_id": 25,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 PIDE VIA - COROLLA 95']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 523,
+      "work_order_id": 26,
+      "colaborator_id": 2,
+      "services": "['ELABORACIÓN DE 1 FOCO - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 524,
+      "work_order_id": 35974,
+      "colaborator_id": 7,
+      "services": "['DESTAPADO Y SELLADO DE 1 STOP - FORD SCAPE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 525,
+      "work_order_id": 27,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 2 PIDE VIAS - H100']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 526,
+      "work_order_id": 35968,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS Y REVISAR SOPORTES - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 527,
+      "work_order_id": 28,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE PIDE VIA BASE Y MICA - GALLOPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T13:26:11.694792",
+  "timestamp": "2025-07-28T16:06:06.712096",
   "machine_id": "92384126569428"
 }

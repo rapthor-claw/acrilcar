@@ -927,8 +927,104 @@
       "services": "['REPARACION DE BOMBA DE GASOLINA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 510,
+      "work_order_id": 35969,
+      "colaborator_id": 15,
+      "services": "['PULIDO DE 2 FOCOS A VAPOR - KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 511,
+      "work_order_id": 16,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE STOP - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 512,
+      "work_order_id": 17,
+      "colaborator_id": 8,
+      "services": "['ELABORACION DE STOP - KIA SOLUTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 513,
+      "work_order_id": 18,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE MICA ROJO Y AMARILLO- CARGADOR FRONTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 514,
+      "work_order_id": 19,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE FOCO - CHEVROLETH']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 515,
+      "work_order_id": 35970,
+      "colaborator_id": 11,
+      "services": "['PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 516,
+      "work_order_id": 35971,
+      "colaborator_id": 15,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 517,
+      "work_order_id": 20,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE FOCO - MAZDA 3']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 518,
+      "work_order_id": 21,
+      "colaborator_id": 2,
+      "services": "['ELB DE 2 STOP Y 2 FOCOS - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 519,
+      "work_order_id": 22,
+      "colaborator_id": 8,
+      "services": "['ELABORACIÓN DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 520,
+      "work_order_id": 23,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE FOCO - NISSAN NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 521,
+      "work_order_id": 24,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T09:19:54.851334",
+  "timestamp": "2025-07-28T13:26:11.694792",
   "machine_id": "92384126569428"
 }

@@ -1297,8 +1297,85 @@
       "note": "ROC 29695 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 372,
+      "work_order_id": 35916,
+      "payment_date": "2025-07-28",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 800,
+      "note": "ROC 29696\nPOS FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 373,
+      "work_order_id": 35970,
+      "payment_date": "2025-07-28",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 800,
+      "note": "ROC 29697\nPOS FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 374,
+      "work_order_id": 35949,
+      "payment_date": "2025-07-28",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1700,
+      "note": "ROC 29698",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 375,
+      "work_order_id": 35938,
+      "payment_date": "2025-07-28",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 2000,
+      "note": "ROC 29699",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 376,
+      "work_order_id": 24,
+      "payment_date": "2025-07-28",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1800,
+      "note": "ROC 29700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 377,
+      "work_order_id": 35959,
+      "payment_date": "2025-07-28",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 2800,
+      "note": "ROC 29701\nPOS BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 378,
+      "work_order_id": 35969,
+      "payment_date": "2025-07-28",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 1500,
+      "note": "ROC 29702\nPOS BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T09:19:54.861445",
+  "timestamp": "2025-07-28T13:26:11.708058",
   "machine_id": "92384126569428"
 }

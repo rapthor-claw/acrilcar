@@ -37,8 +37,27 @@
       "informacion_adicional": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 15,
+      "nombre": "OMAR",
+      "apellido": "",
+      "telefono_personal": "86830791",
+      "documento_identidad": "0000000000000X",
+      "fecha_ingreso": "2025-07-28",
+      "nombre_contacto_emergencia": "S/I",
+      "telefono_emergencia": "00000000",
+      "fecha_baja": "",
+      "salario": 7500.0,
+      "is_active": 1,
+      "puesto": "PULIDOR",
+      "fecha_nacimiento": "2000-07-28",
+      "numero_seguro_social": "",
+      "informacion_adicional": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T09:19:54.924734",
+  "timestamp": "2025-07-28T13:26:11.812927",
   "machine_id": "92384126569428"
 }

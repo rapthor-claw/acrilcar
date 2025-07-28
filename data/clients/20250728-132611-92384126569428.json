@@ -1165,8 +1165,151 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 551,
+      "name": "JOYNER LAZO",
+      "contact_1": "89317000",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 552,
+      "name": "RAQUEL VANESSA DAVILA",
+      "contact_1": "89122818",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 553,
+      "name": "CERRO NEGRO",
+      "contact_1": "86154489",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 554,
+      "name": "OSCAR ALVARADO",
+      "contact_1": "58418046",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 555,
+      "name": "ALVARO FLORES",
+      "contact_1": "81683495",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "TRACSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 556,
+      "name": "CARLOS CASTILLO SOLORZANO",
+      "contact_1": "84784131",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 557,
+      "name": "MILTON SALAZAR",
+      "contact_1": "88486172",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 558,
+      "name": "JONATHAN ABARCA",
+      "contact_1": "84210627",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 559,
+      "name": "TYRON CASTRO",
+      "contact_1": "86969133",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 560,
+      "name": "RODOLFO ESCOBAR",
+      "contact_1": "81289830",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 561,
+      "name": "MARCOS CISNEROS",
+      "contact_1": "86326945",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 562,
+      "name": "SOLUCIONES UNIVERSALES",
+      "contact_1": "86364763",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 565,
+      "name": "OSCAR LOPEZ",
+      "contact_1": "83669638",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T09:19:54.914199",
+  "timestamp": "2025-07-28T13:26:11.803572",
   "machine_id": "92384126569428"
 }

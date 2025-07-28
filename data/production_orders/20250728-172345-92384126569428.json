@@ -1904,8 +1904,23 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 379,
+      "work_order_id": "35972",
+      "start_date": "2025-07-28 17:02",
+      "end_date": "2025-07-28 17:02",
+      "colaborador_id": 2,
+      "client_id": 570,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "cerrada",
+      "tasks_details": "• PULIDO DE 1 FOCO- COROLL\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T16:48:26.315922",
+  "timestamp": "2025-07-28T17:23:45.980248",
   "machine_id": "92384126569428"
 }

@@ -2573,8 +2573,34 @@
       "order_id": 20,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 475,
+      "fecha": "2025-07-28",
+      "descripcion": "ROC 29711",
+      "monto": 800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 35972,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 476,
+      "fecha": "2025-07-28",
+      "descripcion": "JAVIER CASTILLO",
+      "monto": 100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 3,
+      "user_id": "Allisson",
+      "order_id": 12661,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T16:48:26.161812",
+  "timestamp": "2025-07-28T17:23:45.847661",
   "machine_id": "92384126569428"
 }

@@ -4367,8 +4367,56 @@
       "activity": "Cerro la orden: 0020",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2074,
+      "datetime": "2025-07-28 23:02:25",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FRANCISCO RIOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2075,
+      "datetime": "2025-07-28 23:03:16",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35972",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2076,
+      "datetime": "2025-07-28 23:03:27",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35972",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2077,
+      "datetime": "2025-07-28 23:03:47",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 35972 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2078,
+      "datetime": "2025-07-28 23:05:18",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2079,
+      "datetime": "2025-07-28 23:07:22",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 35972",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T16:48:26.283990",
+  "timestamp": "2025-07-28T17:23:45.949358",
   "machine_id": "92384126569428"
 }

@@ -1071,8 +1071,16 @@
       "services": "['ELABORACION DE PIDE VIA BASE Y MICA - GALLOPER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 528,
+      "work_order_id": 35972,
+      "colaborator_id": 15,
+      "services": "['PULIDO DE 1 FOCO- COROLL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T16:48:26.098144",
+  "timestamp": "2025-07-28T17:23:45.808354",
   "machine_id": "92384126569428"
 }

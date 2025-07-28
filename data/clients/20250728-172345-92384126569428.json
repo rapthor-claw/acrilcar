@@ -1352,8 +1352,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 570,
+      "name": "FRANCISCO RIOS",
+      "contact_1": "0",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-28T16:48:26.250857",
+  "timestamp": "2025-07-28T17:23:45.911449",
   "machine_id": "92384126569428"
 }

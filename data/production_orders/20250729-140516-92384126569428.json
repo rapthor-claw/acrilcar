@@ -2114,8 +2114,23 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 393,
+      "work_order_id": "0039",
+      "start_date": "2025-07-29 14:00",
+      "end_date": "2025-07-31 15:12",
+      "colaborador_id": 2,
+      "client_id": 582,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• REPARACION DE 1 STOP - RUSH\n• PINTURA DE PIEZA c$ 800\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T14:04:03.106837",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-29T14:05:16.249055",
+  "machine_id": "92384126569428"
 }

@@ -1079,8 +1079,112 @@
       "services": "['PULIDO DE 1 FOCO- COROLL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 529,
+      "work_order_id": 35975,
+      "colaborator_id": 7,
+      "services": "['SECADO DE FOCO - LEXUS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 530,
+      "work_order_id": 35976,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 531,
+      "work_order_id": 35977,
+      "colaborator_id": 11,
+      "services": "['PULIDO DE 2 FOCOS, 1 PIDE VIA SELLADO MICA REVENTADA - HINO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 532,
+      "work_order_id": 29,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP AHUMADO - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 533,
+      "work_order_id": 31,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 534,
+      "work_order_id": 32,
+      "colaborator_id": 8,
+      "services": "['ELABORACION DE 1 HALOGENO - NEW VERNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 535,
+      "work_order_id": 33,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 536,
+      "work_order_id": 34,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE FOCO - SANYONG']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 537,
+      "work_order_id": 35,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP - PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 538,
+      "work_order_id": 36,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 539,
+      "work_order_id": 35978,
+      "colaborator_id": 7,
+      "services": "['REP DE SOPORTES A 1 STOP - H100']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 540,
+      "work_order_id": 37,
+      "colaborator_id": 8,
+      "services": "['ELAB DE STOP - NAVARA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 541,
+      "work_order_id": 38,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE STOP - FORD RANGER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T10:35:05.787508",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-29T11:59:01.156475",
+  "machine_id": "92384126569428"
 }

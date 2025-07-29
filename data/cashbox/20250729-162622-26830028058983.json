@@ -2963,8 +2963,21 @@
       "order_id": 10024,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 505,
+      "fecha": "2025-07-29",
+      "descripcion": "COMPRA DE PEGAS LOCAS",
+      "monto": 100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10025,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T16:19:40.328078",
+  "timestamp": "2025-07-29T16:26:22.366275",
   "machine_id": "26830028058983"
 }

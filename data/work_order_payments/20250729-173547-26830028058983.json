@@ -1605,8 +1605,85 @@
       "note": "ROC 29725 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 400,
+      "work_order_id": 41,
+      "payment_date": "2025-07-29",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 700,
+      "note": "ROC 29726 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 401,
+      "work_order_id": 21,
+      "payment_date": "2025-07-29",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 5600,
+      "note": "ROC 29727 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 402,
+      "work_order_id": 25,
+      "payment_date": "2025-07-29",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 400,
+      "note": "ROC 29729 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 403,
+      "work_order_id": 35983,
+      "payment_date": "2025-07-29",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1000,
+      "note": "ROC 29730 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 404,
+      "work_order_id": 35974,
+      "payment_date": "2025-07-29",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 500,
+      "note": "ROC 29731 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 405,
+      "work_order_id": 26,
+      "payment_date": "2025-07-29",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 29732 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 406,
+      "work_order_id": 15,
+      "payment_date": "2025-07-29",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 800,
+      "note": "ROC 29733 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T17:30:28.499249",
+  "timestamp": "2025-07-29T17:35:47.827818",
   "machine_id": "26830028058983"
 }

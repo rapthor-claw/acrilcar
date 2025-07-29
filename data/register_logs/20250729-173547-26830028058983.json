@@ -4999,8 +4999,72 @@
       "activity": "Creo la orden de producción: 0044",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2153,
+      "datetime": "2025-07-29 23:31:26",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0041 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2154,
+      "datetime": "2025-07-29 23:31:52",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2155,
+      "datetime": "2025-07-29 23:32:32",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0021 - monto: 5600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2156,
+      "datetime": "2025-07-29 23:33:17",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0025 - monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2157,
+      "datetime": "2025-07-29 23:34:04",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35983 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2158,
+      "datetime": "2025-07-29 23:34:39",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35974 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2159,
+      "datetime": "2025-07-29 23:35:13",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0026 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2160,
+      "datetime": "2025-07-29 23:35:38",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0015 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T17:30:28.592977",
+  "timestamp": "2025-07-29T17:35:47.921548",
   "machine_id": "26830028058983"
 }

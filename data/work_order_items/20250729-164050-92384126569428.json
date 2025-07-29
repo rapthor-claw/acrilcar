@@ -1191,8 +1191,72 @@
       "services": "['REPARACION DE 1 STOP - RUSH', 'PINTURA DE PIEZA c$ 800']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 543,
+      "work_order_id": 35979,
+      "colaborator_id": 13,
+      "services": "['ELAB DE ROTULO CAJA DE LUZ BLANCO / ROJO WELLAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 544,
+      "work_order_id": 35980,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 545,
+      "work_order_id": 35981,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS REP MICA - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 546,
+      "work_order_id": 35982,
+      "colaborator_id": 15,
+      "services": "['PULIDO DE FOCO CON REP DE BASE - PULSAR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 547,
+      "work_order_id": 35983,
+      "colaborator_id": 14,
+      "services": "['ELAB DE ESPEJOS RETROVISOR - MERCEDES BENZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 548,
+      "work_order_id": 40,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - AVEO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 549,
+      "work_order_id": 41,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE TABLERO - TERRACAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 550,
+      "work_order_id": 43,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T16:26:22.335005",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-29T16:40:50.926432",
+  "machine_id": "92384126569428"
 }

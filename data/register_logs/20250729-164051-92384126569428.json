@@ -4935,8 +4935,48 @@
       "activity": "Salida de caja, monto: 100",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2145,
+      "datetime": "2025-07-29 22:40:08",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0043",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2146,
+      "datetime": "2025-07-29 22:40:28",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35979",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2147,
+      "datetime": "2025-07-29 22:40:35",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35981",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2148,
+      "datetime": "2025-07-29 22:40:40",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35982",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2149,
+      "datetime": "2025-07-29 22:40:45",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 35983",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T16:26:22.428733",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-29T16:40:51.005394",
+  "machine_id": "92384126569428"
 }

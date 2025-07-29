@@ -2599,8 +2599,47 @@
       "order_id": 12661,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 477,
+      "fecha": "2025-07-29",
+      "descripcion": "ROC 29712  CANCELACION",
+      "monto": 3800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 35853,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 478,
+      "fecha": "2025-07-29",
+      "descripcion": "ROC 29712 CANCELACION ",
+      "monto": 3800.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 12,
+      "user_id": "Yamileth",
+      "order_id": 35853,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 479,
+      "fecha": "2025-07-29",
+      "descripcion": "ROC 29713 CANCELACION ",
+      "monto": 2000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35866,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T09:56:39.281389",
+  "timestamp": "2025-07-29T10:35:05.818652",
   "machine_id": "26830028058983"
 }

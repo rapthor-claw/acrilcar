@@ -4415,8 +4415,32 @@
       "activity": "Cerro la orden: 35972",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2080,
+      "datetime": "2025-07-29 16:28:18",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35853 - monto: 3800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2081,
+      "datetime": "2025-07-29 16:28:49",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 3800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2082,
+      "datetime": "2025-07-29 16:34:40",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35866 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T09:56:39.359467",
+  "timestamp": "2025-07-29T10:35:05.881136",
   "machine_id": "26830028058983"
 }

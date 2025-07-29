@@ -2234,8 +2234,23 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 401,
+      "work_order_id": "0044",
+      "start_date": "2025-07-29 17:21",
+      "end_date": "2025-07-31 16:30",
+      "colaborador_id": 2,
+      "client_id": 590,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 2 STOP Y 2 FOCOS - TOYOTA\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T16:40:51.021521",
+  "timestamp": "2025-07-29T17:23:09.824295",
   "machine_id": "92384126569428"
 }

@@ -4975,8 +4975,32 @@
       "activity": "Creo la orden de producción: 35983",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2150,
+      "datetime": "2025-07-29 23:20:48",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LIZBETH LOPEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2151,
+      "datetime": "2025-07-29 23:22:13",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0044",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2152,
+      "datetime": "2025-07-29 23:22:26",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0044",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T16:40:51.005394",
+  "timestamp": "2025-07-29T17:23:09.808336",
   "machine_id": "92384126569428"
 }

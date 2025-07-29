@@ -1255,8 +1255,16 @@
       "services": "['ELAB DE STOP - HILUX']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 551,
+      "work_order_id": 44,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP Y 2 FOCOS - TOYOTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T16:40:50.926432",
+  "timestamp": "2025-07-29T17:23:09.729038",
   "machine_id": "92384126569428"
 }

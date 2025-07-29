@@ -4727,8 +4727,80 @@
       "activity": "Creo la orden de producción: 35978",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2119,
+      "datetime": "2025-07-29 19:54:44",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35976 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2120,
+      "datetime": "2025-07-29 19:56:00",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35958 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2121,
+      "datetime": "2025-07-29 19:57:59",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2122,
+      "datetime": "2025-07-29 19:59:06",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35957 - monto: 6000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2123,
+      "datetime": "2025-07-29 20:00:35",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 6000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2124,
+      "datetime": "2025-07-29 20:01:20",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35902 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2125,
+      "datetime": "2025-07-29 20:02:17",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35978 - monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2126,
+      "datetime": "2025-07-29 20:03:07",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0034 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2127,
+      "datetime": "2025-07-29 20:03:45",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0037 - monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T13:53:21.789486",
+  "timestamp": "2025-07-29T14:04:03.091216",
   "machine_id": "26830028058983"
 }

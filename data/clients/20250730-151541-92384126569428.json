@@ -1583,8 +1583,173 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 591,
+      "name": "JAIME GARCIA",
+      "contact_1": "87878697",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 592,
+      "name": "MARVIN CRUZ",
+      "contact_1": "89114691",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 593,
+      "name": "REINA MARTINEZ",
+      "contact_1": "81099262",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 594,
+      "name": "FRANCISCO BRIONES",
+      "contact_1": "89886756",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 595,
+      "name": "DAVID HERNANDEZ",
+      "contact_1": "77142311",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 596,
+      "name": "LUIS ANTONIO JARQUIN",
+      "contact_1": "87295086",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 597,
+      "name": "CARLOS OPORTA",
+      "contact_1": "83875214",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 598,
+      "name": "DENIS RODRIGUEZ CRUZ",
+      "contact_1": "84854270",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 599,
+      "name": "JENNIFER GAITAN",
+      "contact_1": "87468080",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 600,
+      "name": "CARLOS ESPINOZA",
+      "contact_1": "81000794",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 601,
+      "name": "RODOLFO ESCOBAR",
+      "contact_1": "81289830",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 602,
+      "name": "EMMANUEL MORALES",
+      "contact_1": "57635436",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 603,
+      "name": "EMILIO LOPEZ",
+      "contact_1": "89662373",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 604,
+      "name": "JUAN MENDOZA",
+      "contact_1": "89695325",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 605,
+      "name": "RICKY ARAUZ",
+      "contact_1": "85451122",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T17:35:47.905953",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-30T15:15:41.690159",
+  "machine_id": "92384126569428"
 }

@@ -1263,8 +1263,152 @@
       "services": "['ELAB DE 2 STOP Y 2 FOCOS - TOYOTA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 552,
+      "work_order_id": 45,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 553,
+      "work_order_id": 46,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 554,
+      "work_order_id": 47,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 2 FOCOS CON REP DE PATAS - KIA MORNING']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 555,
+      "work_order_id": 48,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 FOCOS Y 2 LATERALES - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 556,
+      "work_order_id": 49,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 HALOGENOS - STA FE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 557,
+      "work_order_id": 50,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 558,
+      "work_order_id": "35984 // 0051",
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO CON REP DE ARO - MERCEDES BENZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 559,
+      "work_order_id": 35985,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 560,
+      "work_order_id": 35986,
+      "colaborator_id": 7,
+      "services": "['PULIDO Y MANTENIMIENTO DE 2 HALOGENOS - AVANTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 561,
+      "work_order_id": 35987,
+      "colaborator_id": 13,
+      "services": "['ELAB DE EXHIBIDOR c$ 1800, ELAB DE 2 PORTA CONOS c$2400 ELAB DE PESA CONO c$700']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 562,
+      "work_order_id": "35988 // 0052",
+      "colaborator_id": 8,
+      "services": "['REP DE STOP - MAZDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 563,
+      "work_order_id": "35989 // 0053",
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 HALOGENOS CON MTTO DE CROMO - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 564,
+      "work_order_id": "35990 // 0054",
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 565,
+      "work_order_id": "35991 // 0055",
+      "colaborator_id": 5,
+      "services": "['ELAB DE PIDE VIA - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 566,
+      "work_order_id": 35992,
+      "colaborator_id": 11,
+      "services": "['PULIDO DE FOCOS - KIA SOUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 567,
+      "work_order_id": "35993 // 0056",
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP Y 1 DE BUMPER - KIA SPORTGE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 568,
+      "work_order_id": "35994 // 0057",
+      "colaborator_id": 8,
+      "services": "['ELAB DE FOCO - GENESIS KA 150']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 569,
+      "work_order_id": "35995 // 0058",
+      "colaborator_id": 12,
+      "services": "['REP DE 2 STOP - ACCENT']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-29T17:35:47.812197",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-30T15:15:41.546075",
+  "machine_id": "92384126569428"
 }

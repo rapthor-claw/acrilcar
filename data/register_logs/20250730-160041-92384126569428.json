@@ -5455,8 +5455,40 @@
       "activity": "Creo la orden de producción: 35995 // 0058",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2210,
+      "datetime": "2025-07-30 21:55:56",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARLENE DEL SOCORRO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2211,
+      "datetime": "2025-07-30 21:56:06",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARIO ESCOBAR",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2212,
+      "datetime": "2025-07-30 21:57:01",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35996",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2213,
+      "datetime": "2025-07-30 21:58:04",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 35997 // 0059",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-30T15:15:53.548633",
+  "timestamp": "2025-07-30T16:00:41.035638",
   "machine_id": "92384126569428"
 }

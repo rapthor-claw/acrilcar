@@ -1748,8 +1748,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 606,
+      "name": "MARLENE DEL SOCORRO",
+      "contact_1": "87935631",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 607,
+      "name": "MARIO ESCOBAR",
+      "contact_1": "82176673",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-30T15:15:53.531765",
+  "timestamp": "2025-07-30T16:00:40.996084",
   "machine_id": "92384126569428"
 }

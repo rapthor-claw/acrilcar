@@ -1423,8 +1423,16 @@
       "services": "['ELAB DE 2 PIEZAS DE TABLERO -CB1']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 572,
+      "work_order_id": "35998 // 0060",
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 PIDE VIA AMARILLO RAYADO - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-30T17:25:53.429481",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-30T17:26:52.750736",
+  "machine_id": "92384126569428"
 }

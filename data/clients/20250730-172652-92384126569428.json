@@ -1770,8 +1770,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 608,
+      "name": "ERNESTO SANTANA",
+      "contact_1": "8245688",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-30T17:25:53.523213",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-30T17:26:52.813654",
+  "machine_id": "92384126569428"
 }

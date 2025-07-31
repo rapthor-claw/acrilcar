@@ -1781,8 +1781,151 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 609,
+      "name": "JUAN CARLOS PAVON",
+      "contact_1": "88751900",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 610,
+      "name": "JONATHAN TORREZ",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 611,
+      "name": "MOTO SERVICIO TERRY",
+      "contact_1": "88050220",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 612,
+      "name": "TANIA HIDALGO",
+      "contact_1": "82984385",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 613,
+      "name": "MILTON RIVER",
+      "contact_1": "81717404",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 614,
+      "name": "ALVARO LOVO",
+      "contact_1": "84233845",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 615,
+      "name": "DAYSI MEZA",
+      "contact_1": "82554381",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 616,
+      "name": "FONDILAC",
+      "contact_1": "84742168",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 617,
+      "name": "ELIEZER RODRIGUEZ",
+      "contact_1": "77564552",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 618,
+      "name": "DENIS ARROLIGA",
+      "contact_1": "81669802",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 620,
+      "name": "CARLOS RODRIGUEZ",
+      "contact_1": "87187221",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 621,
+      "name": "YADER ROSTRAN",
+      "contact_1": "82196023",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 622,
+      "name": "MARCO ANTONIO TAPIA GONZALEZ",
+      "contact_1": "57920309",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-31T16:19:56.949752",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-31T16:20:45.503408",
+  "machine_id": "92384126569428"
 }

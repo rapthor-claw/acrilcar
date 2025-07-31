@@ -5751,8 +5751,168 @@
       "activity": "Ingreso de caja para la orden: 35937 - monto: 700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2247,
+      "datetime": "2025-07-31 21:14:54",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FONDILAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2248,
+      "datetime": "2025-07-31 21:15:06",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ELIEZER RODRIGUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2249,
+      "datetime": "2025-07-31 21:15:58",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DENIS ARROLIGA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2250,
+      "datetime": "2025-07-31 21:16:21",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CARLOS RODRIGUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2251,
+      "datetime": "2025-07-31 21:16:47",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CARLOS RODRIGUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2252,
+      "datetime": "2025-07-31 21:17:00",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: YADER ROSTRAN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2253,
+      "datetime": "2025-07-31 21:19:56",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0061",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2254,
+      "datetime": "2025-07-31 21:20:34",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0062",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2255,
+      "datetime": "2025-07-31 21:24:56",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0063",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2256,
+      "datetime": "2025-07-31 21:26:12",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0064",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2257,
+      "datetime": "2025-07-31 21:41:50",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0065",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2258,
+      "datetime": "2025-07-31 21:42:33",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0066",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2259,
+      "datetime": "2025-07-31 21:43:25",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0067",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2260,
+      "datetime": "2025-07-31 21:44:08",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0068",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2261,
+      "datetime": "2025-07-31 21:44:55",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0069",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2262,
+      "datetime": "2025-07-31 21:45:54",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0070",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2263,
+      "datetime": "2025-07-31 21:46:46",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0071",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2264,
+      "datetime": "2025-07-31 22:04:35",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARCO ANTONIO TAPIA GONZALEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2265,
+      "datetime": "2025-07-31 22:05:53",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0072",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2266,
+      "datetime": "2025-07-31 22:07:31",
+      "username": "Allisson",
+      "activity": "Elimino cliente: CARLOS RODRIGUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-31T16:19:56.996601",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-31T16:20:45.527179",
+  "machine_id": "92384126569428"
 }

@@ -1431,8 +1431,128 @@
       "services": "['ELAB DE 2 PIDE VIA AMARILLO RAYADO - KIA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 573,
+      "work_order_id": 35999,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS - AVANTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 574,
+      "work_order_id": 36000,
+      "colaborator_id": 11,
+      "services": "['PULIDO DE FOCO - ACCENT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 575,
+      "work_order_id": 36001,
+      "colaborator_id": 9,
+      "services": "['CORTES ACRILICOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 576,
+      "work_order_id": 61,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE STOP - MOTO DAYUN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 577,
+      "work_order_id": 62,
+      "colaborator_id": 8,
+      "services": "['ELABORACION DE STOP - MOTO YAMAHA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 578,
+      "work_order_id": 63,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 PIDE VIAS - MOTO SUZUKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 579,
+      "work_order_id": 64,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - KIA SPORTGE c$ 2050', 'ENVIO A ESTELI C$ 150']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 580,
+      "work_order_id": 65,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE TERCERA LUZ ROJO LISO C$800 NP300', 'INSTALACION DE LED C$ 200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 581,
+      "work_order_id": 66,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP -MAZDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 582,
+      "work_order_id": 67,
+      "colaborator_id": 8,
+      "services": "['ELAB DE 2 PIDE VIAS AMARILLO DIAMANTADO Y BLANCO RAYADO CON MTTO DE CROMO - MAZDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 583,
+      "work_order_id": 68,
+      "colaborator_id": 12,
+      "services": "['ELAB DE BOTA AGUA - TACOMA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 584,
+      "work_order_id": 69,
+      "colaborator_id": 4,
+      "services": "['PULIDO DE FOCOS C$ 600 - HINO', 'ELAB DE 2 PIDE VIAS C$ 900']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 585,
+      "work_order_id": 70,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 586,
+      "work_order_id": 71,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 587,
+      "work_order_id": 72,
+      "colaborator_id": 8,
+      "services": "['MODIFICACION DE 1 PARRILLA - CORONA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-31T16:19:56.871657",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-31T16:20:45.436040",
+  "machine_id": "92384126569428"
 }

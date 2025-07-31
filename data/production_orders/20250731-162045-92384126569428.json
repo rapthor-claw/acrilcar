@@ -2519,8 +2519,53 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 420,
+      "work_order_id": "35999",
+      "start_date": "2025-07-31 15:06",
+      "end_date": "2025-07-31 16:00",
+      "colaborador_id": 2,
+      "client_id": 609,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• PULIDO DE FOCOS - AVANTE\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 421,
+      "work_order_id": "36000",
+      "start_date": "2025-07-31 15:06",
+      "end_date": "2025-07-31 15:06",
+      "colaborador_id": 2,
+      "client_id": 536,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• PULIDO DE FOCO - ACCENT\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 422,
+      "work_order_id": "36001",
+      "start_date": "2025-07-31 15:07",
+      "end_date": "2025-07-31 15:07",
+      "colaborador_id": 2,
+      "client_id": 610,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• CORTES ACRILICOS\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-07-31T16:19:57.012221",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-07-31T16:20:45.549193",
+  "machine_id": "92384126569428"
 }

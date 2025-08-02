@@ -3626,8 +3626,86 @@
       "order_id": 35950,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 556,
+      "fecha": "2025-08-02",
+      "descripcion": "ROC 29771 CANCELACION",
+      "monto": 1600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 35999,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 557,
+      "fecha": "2025-08-02",
+      "descripcion": "ROC 29775 CANCELACION ",
+      "monto": 900.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 63,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 558,
+      "fecha": "2025-08-02",
+      "descripcion": "ROC 29775 CANCELACION",
+      "monto": 900.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 12,
+      "user_id": "Yamileth",
+      "order_id": 63,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 559,
+      "fecha": "2025-08-02",
+      "descripcion": "ROC 29776 CANCELACION",
+      "monto": 5600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 44,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 560,
+      "fecha": "2025-08-02",
+      "descripcion": "ALMUERZO CASA DOÑA INGRID",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "Yamileth",
+      "order_id": 10031,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 561,
+      "fecha": "2025-08-02",
+      "descripcion": "GASTOS DON FRNAK",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10032,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-02T11:59:47.727681",
+  "timestamp": "2025-08-02T13:20:28.184772",
   "machine_id": "26830028058983"
 }

@@ -1924,8 +1924,162 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 623,
+      "name": "ALEJANDRO CERNA",
+      "contact_1": "58730063",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 624,
+      "name": "MARCOS ANTONIO IGLESIAS",
+      "contact_1": "86492199",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 625,
+      "name": "SAUL VALLEJOS",
+      "contact_1": "88809050",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 626,
+      "name": "VICTOR ESPINALES",
+      "contact_1": "87170586",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 627,
+      "name": "HAZELL HERNANDEZ",
+      "contact_1": "77781138",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 628,
+      "name": "JOSE MORALES SAMPSON",
+      "contact_1": "85923836",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 629,
+      "name": "ARTURO TABLADA",
+      "contact_1": "88544703",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 630,
+      "name": "PEDRO HEMLOCK",
+      "contact_1": "88245409",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 631,
+      "name": "AUTOS HARRYS",
+      "contact_1": "83770540",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 632,
+      "name": "LUIS GUIDO",
+      "contact_1": "87683157",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 633,
+      "name": "AUTOS PEREIRA",
+      "contact_1": "82547253",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 634,
+      "name": "VICTOR ESPINALES",
+      "contact_1": "87170586",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 635,
+      "name": "ROBERTO SANCHEZ",
+      "contact_1": "58820837",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 636,
+      "name": "MARIA ELENA ZAMORA",
+      "contact_1": "76202180",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-02T13:20:28.231636",
+  "timestamp": "2025-08-02T15:01:04.589000",
   "machine_id": "26830028058983"
 }

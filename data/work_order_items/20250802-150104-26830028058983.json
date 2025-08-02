@@ -1551,8 +1551,120 @@
       "services": "['MODIFICACION DE 1 PARRILLA - CORONA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 588,
+      "work_order_id": 73,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 589,
+      "work_order_id": 74,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 PIDEVIA  AMARILLO LISO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 590,
+      "work_order_id": 75,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 591,
+      "work_order_id": 77,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 592,
+      "work_order_id": 78,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 FOCOS ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 593,
+      "work_order_id": 79,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 PIDEVIAS Y LATERALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 594,
+      "work_order_id": 80,
+      "colaborator_id": 5,
+      "services": "['ELABORACION COMPLETA DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 595,
+      "work_order_id": 81,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE TACOMETRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 596,
+      "work_order_id": 360002,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 597,
+      "work_order_id": 36003,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 598,
+      "work_order_id": 36004,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 599,
+      "work_order_id": 36005,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS Y 1 STOP MTTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 600,
+      "work_order_id": 36006,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 601,
+      "work_order_id": 82,
+      "colaborator_id": 12,
+      "services": "['ELABORACION TOTAL DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-02T13:20:28.153529",
+  "timestamp": "2025-08-02T15:01:04.510880",
   "machine_id": "26830028058983"
 }

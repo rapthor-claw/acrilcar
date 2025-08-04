@@ -519,8 +519,80 @@
       "activity": "Ingreso de caja para la orden: 0073 - monto: 3200",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2396,
+      "datetime": "2025-08-04 23:29:13",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36005 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2397,
+      "datetime": "2025-08-04 23:30:22",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2398,
+      "datetime": "2025-08-04 23:31:05",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 533",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2399,
+      "datetime": "2025-08-04 23:31:36",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2400,
+      "datetime": "2025-08-04 23:32:09",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2401,
+      "datetime": "2025-08-04 23:32:39",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2402,
+      "datetime": "2025-08-04 23:33:09",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 80",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2403,
+      "datetime": "2025-08-04 23:33:34",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2404,
+      "datetime": "2025-08-04 23:34:07",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 550",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-04T17:28:13.228997",
+  "timestamp": "2025-08-04T17:34:14.862370",
   "machine_id": "26830028058983"
 }

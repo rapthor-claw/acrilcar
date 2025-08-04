@@ -47,8 +47,32 @@
       "services": "['ELABORACION DE 1 FOCO Y 1 ROMPE VIENTO - TVS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 608,
+      "work_order_id": 89,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 PIDE VIA - FORD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 609,
+      "work_order_id": 36007,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS Y 2 HALOGENOS - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 610,
+      "work_order_id": 36008,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 8 EXHIBIDORES PEQUEÑOS $ 50C/U', 'ELAB DE 7 EXHIBIDORES GRANDES $ 170', 'ELAB DE 16 EXHIBIDORES MEDIANOS $ 140']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-04T15:30:39.636469",
+  "timestamp": "2025-08-04T15:36:46.378854",
   "machine_id": "92384126569428"
 }

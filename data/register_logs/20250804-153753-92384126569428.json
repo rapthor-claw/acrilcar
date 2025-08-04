@@ -343,8 +343,40 @@
       "activity": "Creo la orden de trabajo: 36008",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2374,
+      "datetime": "2025-08-04 21:37:29",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36009",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2375,
+      "datetime": "2025-08-04 21:37:39",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36007",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2376,
+      "datetime": "2025-08-04 21:37:44",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36008",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2377,
+      "datetime": "2025-08-04 21:37:49",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36009",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-04T15:36:46.408738",
+  "timestamp": "2025-08-04T15:37:53.642271",
   "machine_id": "92384126569428"
 }

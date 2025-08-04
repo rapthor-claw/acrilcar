@@ -1,6 +1,14 @@
 {
   "records": [
     {
+      "id": 2280,
+      "datetime": "2025-08-04 16:35:18",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
       "id": 2332,
       "datetime": "2025-08-02 21:28:44",
       "username": "Yamileth",
@@ -129,6 +137,6 @@
       "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-02T15:41:45.981515",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-04T12:00:21.244253",
+  "machine_id": "92384126569428"
 }

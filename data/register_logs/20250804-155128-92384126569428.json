@@ -471,8 +471,24 @@
       "activity": "Creo la orden de producción: 0089",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2390,
+      "datetime": "2025-08-04 21:51:09",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36010",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2391,
+      "datetime": "2025-08-04 21:51:18",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36010",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-04T15:48:11.819609",
+  "timestamp": "2025-08-04T15:51:28.947572",
   "machine_id": "92384126569428"
 }

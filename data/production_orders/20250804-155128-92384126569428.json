@@ -269,8 +269,23 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 452,
+      "work_order_id": "36010",
+      "start_date": "2025-08-04 15:50",
+      "end_date": "2025-08-04 16:00",
+      "colaborador_id": 2,
+      "client_id": 628,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• SUMINISTRO DE NEON BLANCO COMPLEMENTO OT 36010 - MITSUBISHI\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-04T15:48:11.826785",
+  "timestamp": "2025-08-04T15:51:28.954828",
   "machine_id": "92384126569428"
 }

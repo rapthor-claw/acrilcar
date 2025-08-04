@@ -487,8 +487,40 @@
       "activity": "Creo la orden de producción: 36010",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2392,
+      "datetime": "2025-08-04 23:25:45",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36008 - monto: 70080",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2393,
+      "datetime": "2025-08-04 23:26:22",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35986 - monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2394,
+      "datetime": "2025-08-04 23:27:19",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 35703 - monto: 600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2395,
+      "datetime": "2025-08-04 23:27:49",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0073 - monto: 3200",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-04T15:51:28.947572",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-04T17:28:13.228997",
+  "machine_id": "26830028058983"
 }

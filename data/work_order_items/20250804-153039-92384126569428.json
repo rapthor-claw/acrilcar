@@ -1,0 +1,54 @@
+{
+  "records": [
+    {
+      "id": 602,
+      "work_order_id": 83,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 603,
+      "work_order_id": 84,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS Y 2 STOP MAS ENVIO - FOTON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 604,
+      "work_order_id": 85,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS Y 2 LATERALES Y PULIDO DE 2 PIDE VIAS - DODGE CARAVAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 605,
+      "work_order_id": 86,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - MAZDA 6']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 606,
+      "work_order_id": 87,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP CON REP DE BASE Y MTTO DE CROMADO - ISUZU']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 607,
+      "work_order_id": 88,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO Y 1 ROMPE VIENTO - TVS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-08-04T15:30:39.636469",
+  "machine_id": "92384126569428"
+}

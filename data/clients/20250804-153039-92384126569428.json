@@ -1,0 +1,50 @@
+{
+  "records": [
+    {
+      "id": 637,
+      "name": "JOSE ANTONIO MIRANDA",
+      "contact_1": "85241052",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 638,
+      "name": "CARLOS DAVID HERRERA",
+      "contact_1": "57945637",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 639,
+      "name": "GABRIEL PONCE",
+      "contact_1": "81862940",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 640,
+      "name": "JUAN NAVARRETE",
+      "contact_1": "87168185",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-08-04T15:30:39.659790",
+  "machine_id": "92384126569428"
+}

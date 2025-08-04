@@ -1,0 +1,90 @@
+{
+  "records": [
+    {
+      "id": 602,
+      "work_order_id": "0083",
+      "start_date": "2025-08-04 14:23",
+      "end_date": "2025-08-04 14:23",
+      "user_id": 2,
+      "client_id": 488,
+      "colaborador_id": 14,
+      "total_cost": 0.0,
+      "order_status": "abierta",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 603,
+      "work_order_id": "0084",
+      "start_date": "2025-08-04 14:25",
+      "end_date": "2025-08-05 16:30",
+      "user_id": 2,
+      "client_id": 527,
+      "colaborador_id": 4,
+      "total_cost": 6800.0,
+      "order_status": "abierta",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 604,
+      "work_order_id": "0085",
+      "start_date": "2025-08-04 14:28",
+      "end_date": "2025-08-05 16:30",
+      "user_id": 2,
+      "client_id": 637,
+      "colaborador_id": 5,
+      "total_cost": 3200.0,
+      "order_status": "abierta",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 605,
+      "work_order_id": "0086",
+      "start_date": "2025-08-04 14:29",
+      "end_date": "2025-08-05 16:00",
+      "user_id": 2,
+      "client_id": 638,
+      "colaborador_id": 2,
+      "total_cost": 4400.0,
+      "order_status": "abierta",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 606,
+      "work_order_id": "0087",
+      "start_date": "2025-08-04 14:30",
+      "end_date": "2025-08-05 16:30",
+      "user_id": 2,
+      "client_id": 639,
+      "colaborador_id": 12,
+      "total_cost": 2200.0,
+      "order_status": "abierta",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 607,
+      "work_order_id": "0088",
+      "start_date": "2025-08-04 14:31",
+      "end_date": "2025-08-05 16:00",
+      "user_id": 2,
+      "client_id": 640,
+      "colaborador_id": 4,
+      "total_cost": 1400.0,
+      "order_status": "abierta",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-08-04T15:30:39.628666",
+  "machine_id": "92384126569428"
+}

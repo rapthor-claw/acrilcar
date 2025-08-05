@@ -1023,8 +1023,24 @@
       "activity": "Creo la orden de trabajo: 0110",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2459,
+      "datetime": "2025-08-05 22:39:08",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ZEUS CHAMBERLAIN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2460,
+      "datetime": "2025-08-05 22:40:12",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0111",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-05T16:29:24.427215",
+  "timestamp": "2025-08-05T16:40:39.042313",
   "machine_id": "26830028058983"
 }

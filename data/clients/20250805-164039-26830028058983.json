@@ -395,8 +395,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 673,
+      "name": "ZEUS CHAMBERLAIN",
+      "contact_1": "89939958",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-05T16:29:24.411595",
+  "timestamp": "2025-08-05T16:40:39.026661",
   "machine_id": "26830028058983"
 }

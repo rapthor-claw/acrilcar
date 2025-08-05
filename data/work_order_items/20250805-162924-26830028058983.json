@@ -175,8 +175,144 @@
       "services": "['ELABORACION DE 4 MICAS, 2 ROJAS Y 2 AMARILLAS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 624,
+      "work_order_id": 36012,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 625,
+      "work_order_id": 36013,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 626,
+      "work_order_id": 36014,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 627,
+      "work_order_id": 36015,
+      "colaborator_id": 14,
+      "services": "['ELABOACION DE CAJA  ACRILICA DE 10 MM DE ESPESOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 628,
+      "work_order_id": 36016,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO, PULIDO DE 1 STOP Y RESELLADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 629,
+      "work_order_id": 36017,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 630,
+      "work_order_id": "36018 // 0101",
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP Y 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 631,
+      "work_order_id": "36019 // 0102",
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO Y REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 632,
+      "work_order_id": "36020 // 0103",
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 6 MICS 3 IZQUIERDAS Y 3 DERECHAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 633,
+      "work_order_id": "36021 // 0104",
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS CON MTTO CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 634,
+      "work_order_id": "36022 // 0105",
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE  1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 635,
+      "work_order_id": 106,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 LATERAL AMARILLO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 636,
+      "work_order_id": 107,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 637,
+      "work_order_id": 108,
+      "colaborator_id": 4,
+      "services": "['PARTE BLANCA PULIDO Y MTTO CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 638,
+      "work_order_id": 109,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 639,
+      "work_order_id": 36023,
+      "colaborator_id": 9,
+      "services": "['CORTE ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 640,
+      "work_order_id": 110,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP TOTAL Y 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-05T15:01:19.710630",
+  "timestamp": "2025-08-05T16:29:24.380379",
   "machine_id": "26830028058983"
 }

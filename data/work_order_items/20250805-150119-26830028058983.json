@@ -103,8 +103,80 @@
       "services": "['ELAB DE STOP - KIA MORNING']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 615,
+      "work_order_id": 91,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE PATAS Y REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 616,
+      "work_order_id": 92,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS CON REPARACION DE BASE Y CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 617,
+      "work_order_id": 94,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE BASE Y MICA DE BUMPER DE RETROCESO, BASE Y MICA DE LATERAL DE BAUL Y PARTE AFECTADA ROJA DE RETROCESO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 618,
+      "work_order_id": 95,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 619,
+      "work_order_id": 96,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 620,
+      "work_order_id": 97,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 621,
+      "work_order_id": 98,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 MICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 622,
+      "work_order_id": 99,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 623,
+      "work_order_id": 100,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 4 MICAS, 2 ROJAS Y 2 AMARILLAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-05T14:03:34.879316",
+  "timestamp": "2025-08-05T15:01:19.710630",
   "machine_id": "26830028058983"
 }

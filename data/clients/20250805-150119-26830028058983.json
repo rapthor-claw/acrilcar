@@ -109,8 +109,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 647,
+      "name": "ALEJANDRO GONZALEZ",
+      "contact_1": "58874623",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 648,
+      "name": "CRISTHIAN RODRIGUEZ87936446",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 649,
+      "name": "DENIS DIAZ",
+      "contact_1": "85060708",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 650,
+      "name": "AMADO ORDOÑEZ",
+      "contact_1": "58374330",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 651,
+      "name": "GUSTAVO FARIÑAS",
+      "contact_1": "89500214",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 652,
+      "name": "ULISES HERNANDEZ",
+      "contact_1": "77248554",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 653,
+      "name": "AUTOMOTRIZ NAVARRETE",
+      "contact_1": "76424815",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 654,
+      "name": "DARWIN DIAZ",
+      "contact_1": "85977898",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 655,
+      "name": "FANOR ROBLES",
+      "contact_1": "81219258",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-05T14:03:34.927114",
+  "timestamp": "2025-08-05T15:01:19.741901",
   "machine_id": "26830028058983"
 }

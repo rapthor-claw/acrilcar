@@ -1052,8 +1052,21 @@
       "order_id": 12666,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 644,
+      "fecha": "2025-08-05",
+      "descripcion": "ROC 29830 CANCELACION",
+      "monto": 350.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 89,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-05T17:34:27.219198",
+  "timestamp": "2025-08-05T17:41:05.284159",
   "machine_id": "26830028058983"
 }

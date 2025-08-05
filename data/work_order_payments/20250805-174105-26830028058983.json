@@ -538,8 +538,19 @@
       "note": "ROC 29829 CANCELACION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 489,
+      "work_order_id": 89,
+      "payment_date": "2025-08-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 350,
+      "note": "ROC 29830 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-05T17:34:27.203661",
+  "timestamp": "2025-08-05T17:41:05.268536",
   "machine_id": "26830028058983"
 }

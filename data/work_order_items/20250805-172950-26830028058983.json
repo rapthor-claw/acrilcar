@@ -319,8 +319,24 @@
       "services": "['ELABORACION DE 1 STOP TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 642,
+      "work_order_id": 36024,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 643,
+      "work_order_id": 112,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-05T16:40:38.995419",
+  "timestamp": "2025-08-05T17:29:50.818507",
   "machine_id": "26830028058983"
 }

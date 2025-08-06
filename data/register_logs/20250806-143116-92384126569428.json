@@ -1815,8 +1815,32 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2558,
+      "datetime": "2025-08-06 19:43:30",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0039",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2559,
+      "datetime": "2025-08-06 20:01:41",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0025",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2560,
+      "datetime": "2025-08-06 20:10:48",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 35843",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-06T13:41:42.356560",
+  "timestamp": "2025-08-06T14:31:16.979318",
   "machine_id": "92384126569428"
 }

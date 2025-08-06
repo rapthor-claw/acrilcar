@@ -463,8 +463,40 @@
       "services": "['CORTE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 660,
+      "work_order_id": 126,
+      "colaborator_id": 2,
+      "services": "['ELB DE 2 MICAS- TOYOTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 661,
+      "work_order_id": 127,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - RUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 662,
+      "work_order_id": 128,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP - BT50 c$ 3500', 'ENVIO DE LA OT 0109 Y 0128 C$ 150']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 663,
+      "work_order_id": 129,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - CLICK']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-06T16:42:37.850004",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-06T17:02:31.785968",
+  "machine_id": "92384126569428"
 }

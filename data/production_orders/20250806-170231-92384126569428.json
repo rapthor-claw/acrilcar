@@ -524,8 +524,68 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 469,
+      "work_order_id": "0126",
+      "start_date": "2025-08-06 16:25",
+      "end_date": "2025-08-07 16:30",
+      "colaborador_id": 2,
+      "client_id": 693,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELB DE 2 MICAS- TOYOTA\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 470,
+      "work_order_id": "0127",
+      "start_date": "2025-08-06 16:26",
+      "end_date": "2025-08-08 16:30",
+      "colaborador_id": 2,
+      "client_id": 694,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP - RUNNER\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 471,
+      "work_order_id": "0128",
+      "start_date": "2025-08-06 16:26",
+      "end_date": "2025-08-08 16:00",
+      "colaborador_id": 2,
+      "client_id": 670,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 2 STOP - BT50 c$ 3500\n• ENVIO DE LA OT 0109 Y 0128 C$ 150\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 472,
+      "work_order_id": "0129",
+      "start_date": "2025-08-06 16:27",
+      "end_date": "2025-08-07 16:30",
+      "colaborador_id": 2,
+      "client_id": 695,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE FOCO - CLICK\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-06T16:42:37.912468",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-06T17:02:31.850137",
+  "machine_id": "92384126569428"
 }

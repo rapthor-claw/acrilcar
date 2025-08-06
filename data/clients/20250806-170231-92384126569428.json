@@ -615,8 +615,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 693,
+      "name": "EDIN OROZCO",
+      "contact_1": "81145824",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 694,
+      "name": "FULL SERVICE",
+      "contact_1": "87611478",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 695,
+      "name": "GUILLERMO ABARCA",
+      "contact_1": "88061351",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-06T16:42:37.881225",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-06T17:02:31.817944",
+  "machine_id": "92384126569428"
 }

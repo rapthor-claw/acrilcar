@@ -1927,8 +1927,16 @@
       "activity": "Creo la orden de producción: 0129",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2572,
+      "datetime": "2025-08-06 23:04:04",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36029",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-06T17:02:31.834050",
+  "timestamp": "2025-08-06T17:04:10.543071",
   "machine_id": "92384126569428"
 }

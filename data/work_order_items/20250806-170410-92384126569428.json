@@ -495,8 +495,16 @@
       "services": "['ELAB DE FOCO - CLICK']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 664,
+      "work_order_id": 36029,
+      "colaborator_id": 9,
+      "services": "['ELAB DE 10 JUEGOS DE LETRA PVC 8 MM CHEVRON']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-06T17:02:31.785968",
+  "timestamp": "2025-08-06T17:04:10.467829",
   "machine_id": "92384126569428"
 }

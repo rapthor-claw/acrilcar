@@ -335,8 +335,136 @@
       "services": "['ELABORACION DE 2 PIDEVIAS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 644,
+      "work_order_id": 113,
+      "colaborator_id": 5,
+      "services": "['ELB DE STOP - I20']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 645,
+      "work_order_id": 115,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 646,
+      "work_order_id": 116,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - ISUZU']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 647,
+      "work_order_id": 117,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - JUEGO MECANICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 648,
+      "work_order_id": 118,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO CON REP DE ARO - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 649,
+      "work_order_id": 119,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - BUS MERCEDES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 650,
+      "work_order_id": 120,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP Y PULIDO DEL OTRO - PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 651,
+      "work_order_id": 121,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP DIAMANTADO - TOYOTA 2000']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 652,
+      "work_order_id": 122,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP TRANSPAENTE SEGUN FOTO - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 653,
+      "work_order_id": 123,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 654,
+      "work_order_id": 124,
+      "colaborator_id": 4,
+      "services": "['ELAB DE REFLECTOR ROJO - SCION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 655,
+      "work_order_id": 125,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 656,
+      "work_order_id": 36025,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS ARO NEGRO Y MTTO DE CROMO - I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 657,
+      "work_order_id": 36026,
+      "colaborator_id": 15,
+      "services": "['ELAB DE 60 PIEZAS ACRILICAS DORADAS c$25C/U']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 658,
+      "work_order_id": 36027,
+      "colaborator_id": 13,
+      "services": "['60 PIEZAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 659,
+      "work_order_id": 36028,
+      "colaborator_id": 9,
+      "services": "['CORTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-06T12:19:19.096786",
+  "timestamp": "2025-08-06T13:41:42.285693",
   "machine_id": "92384126569428"
 }

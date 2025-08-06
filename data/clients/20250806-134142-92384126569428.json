@@ -428,8 +428,195 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 676,
+      "name": "MARIA ELENA SANDIGO",
+      "contact_1": "58151176",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 677,
+      "name": "JALAPA",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 678,
+      "name": "JUAN CARCACHE",
+      "contact_1": "83835929",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 679,
+      "name": "REYNALDO ROMERO",
+      "contact_1": "85559742",
+      "contact_2": "57405780",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 680,
+      "name": "DDJ PARK",
+      "contact_1": "57202449",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 681,
+      "name": "MARVIN TORRES",
+      "contact_1": "88064511",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 682,
+      "name": "OSCAR CRUZ SALMERON",
+      "contact_1": "89900944",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 683,
+      "name": "DAVID ROSALES",
+      "contact_1": "77372767",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 684,
+      "name": "JUAN SANDOVAL",
+      "contact_1": "86413239",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 685,
+      "name": "ABEL PARRALES",
+      "contact_1": "76143083",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 686,
+      "name": "URIEL ZAVALA",
+      "contact_1": "89927900",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 687,
+      "name": "DIANA ABURTO",
+      "contact_1": "88428735",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 688,
+      "name": "HUGO GUTIERREZ",
+      "contact_1": "83543630",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 689,
+      "name": "JOSE TOMAS LEZAMA",
+      "contact_1": "87997956",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 690,
+      "name": "JAIRO WONG",
+      "contact_1": "78442671",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 691,
+      "name": "ALVARO NAVARRETE ",
+      "contact_1": "84616801",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "BENDICION DE DIOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 692,
+      "name": "CRISTIAN RUIZ",
+      "contact_1": "0",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-06T12:19:19.148072",
+  "timestamp": "2025-08-06T13:41:42.337650",
   "machine_id": "92384126569428"
 }

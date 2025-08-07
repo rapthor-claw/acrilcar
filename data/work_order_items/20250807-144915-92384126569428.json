@@ -503,8 +503,128 @@
       "services": "['ELAB DE 10 JUEGOS DE LETRA PVC 8 MM CHEVRON']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 665,
+      "work_order_id": 36030,
+      "colaborator_id": 15,
+      "services": "['PULIDO DE 2 FOCOS - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 666,
+      "work_order_id": 36031,
+      "colaborator_id": 7,
+      "services": "['SECADO Y SELLDO DE 1 FOCO - KIA CELTOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 667,
+      "work_order_id": 36032,
+      "colaborator_id": 15,
+      "services": "['PULIDO DE 1 FOCO - SCION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 668,
+      "work_order_id": 36033,
+      "colaborator_id": 15,
+      "services": "['PULIDO DE FOCOS - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 669,
+      "work_order_id": 36034,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO - I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 670,
+      "work_order_id": 36035,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 671,
+      "work_order_id": 130,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 672,
+      "work_order_id": 131,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 673,
+      "work_order_id": 132,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 FOCO - TUCSON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 674,
+      "work_order_id": 133,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 4 PIDE VIAS (1 BASE Y MICA) - KIA PRIDE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 675,
+      "work_order_id": 134,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP 2 - DYNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 676,
+      "work_order_id": 135,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 PIDE VIAS AMARILLOS - TERCEL 82']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 677,
+      "work_order_id": 136,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - L200 C$ 2700', 'ENVIO DDF LA ROCARGO 8C LAGO, 4 C ABAJO 1/2 LAGO CASA VERDE PORTON NEGRO - C$ 150']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 678,
+      "work_order_id": 137,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - PULSAR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 679,
+      "work_order_id": 138,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - SUZUKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-07T11:30:42.353341",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-07T14:49:15.597822",
+  "machine_id": "92384126569428"
 }

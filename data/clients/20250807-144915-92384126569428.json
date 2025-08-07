@@ -648,8 +648,173 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 696,
+      "name": "GUSTAVO ADOLFO CALERO",
+      "contact_1": "78777170",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 697,
+      "name": "MICHAEL FARIÑAS",
+      "contact_1": "82469971",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 698,
+      "name": "GIOMAR ALVARADO",
+      "contact_1": "88743483",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 699,
+      "name": "ICS",
+      "contact_1": "77105753",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 700,
+      "name": "MANUEL SALVADOR ZUÑIGA",
+      "contact_1": "58501496",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 701,
+      "name": "DAVID ROSALES",
+      "contact_1": "77372767",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 702,
+      "name": "HENRRIETTE GUADAMUZ",
+      "contact_1": "86709847",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 703,
+      "name": "ROBERTO LOPEZ",
+      "contact_1": "75255940",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 704,
+      "name": "JONATHAN ZUÑIGA",
+      "contact_1": "86858425",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 705,
+      "name": "GUILLERMO LEMUS VEGA",
+      "contact_1": "82161806",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 706,
+      "name": "FERRETERIA JENNY",
+      "contact_1": "85358746",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 707,
+      "name": "ANTONIO ESPINOZA",
+      "contact_1": "89323262",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 708,
+      "name": "CELSO LARGAESPADA",
+      "contact_1": "87263555",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 709,
+      "name": "CHRISTIAN JIMENEZ",
+      "contact_1": "86447455",
+      "contact_2": "77364065",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 710,
+      "name": "HENRY GARCIA",
+      "contact_1": "87020150",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-07T11:30:42.400179",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-07T14:49:15.727883",
+  "machine_id": "92384126569428"
 }

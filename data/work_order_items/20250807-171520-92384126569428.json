@@ -623,8 +623,32 @@
       "services": "['ELAB DE STOP - SUZUKI']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 680,
+      "work_order_id": 36036,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 681,
+      "work_order_id": 139,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - DODGE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 682,
+      "work_order_id": 140,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP DE BAUL - KIA RIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-07T17:13:57.229255",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-07T17:15:20.986686",
+  "machine_id": "92384126569428"
 }

@@ -2727,8 +2727,32 @@
       "activity": "Salida de caja, monto: 500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2672,
+      "datetime": "2025-08-07 23:15:02",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36019 // 0102 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2673,
+      "datetime": "2025-08-07 23:15:34",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36024 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2674,
+      "datetime": "2025-08-07 23:16:00",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0112 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-07T17:15:21.080562",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-07T17:16:29.874080",
+  "machine_id": "26830028058983"
 }

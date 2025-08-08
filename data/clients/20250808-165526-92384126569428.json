@@ -846,8 +846,129 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 714,
+      "name": "JUAN ZUÑIGA",
+      "contact_1": "87250912",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 715,
+      "name": "LUJAES MONTECARLO",
+      "contact_1": "89089128",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 716,
+      "name": "WILFREDO MEJIA",
+      "contact_1": "88551598",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 717,
+      "name": "ALVARO TIJERINO",
+      "contact_1": "89196157",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 719,
+      "name": "AUTOS HARRYS",
+      "contact_1": "83770540",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 720,
+      "name": "MARIO PARAMO",
+      "contact_1": "87229381",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 721,
+      "name": "NOLAN EZEQUIEL MALTEZ",
+      "contact_1": "57535275",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 722,
+      "name": "LUIS RIZO",
+      "contact_1": "89829096",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 723,
+      "name": "ARMELIO FONSECA",
+      "contact_1": "77502508",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 724,
+      "name": "LUIS CACERES MENDOZA",
+      "contact_1": "82196023",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 725,
+      "name": "CRISTINO",
+      "contact_1": "88850646",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-07T17:16:29.858455",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-08T16:55:26.259587",
+  "machine_id": "92384126569428"
 }

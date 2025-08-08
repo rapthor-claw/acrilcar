@@ -647,8 +647,112 @@
       "services": "['ELAB DE 2 STOP DE BAUL - KIA RIO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 683,
+      "work_order_id": 36037,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS REVISION Y SELLADO - FOR TUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 684,
+      "work_order_id": 141,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - COMPLEMENTO OT 36037 - FOR TUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 685,
+      "work_order_id": 142,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 HALOGENO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 686,
+      "work_order_id": 143,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - MOTO TVS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 687,
+      "work_order_id": 36038,
+      "colaborator_id": 7,
+      "services": "['INSTALACION DE LED A 2 FOCOS Y PULIDO - K3']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 688,
+      "work_order_id": 114,
+      "colaborator_id": 2,
+      "services": "['ELB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 689,
+      "work_order_id": 36040,
+      "colaborator_id": 7,
+      "services": "['CROMADO DE 2 FOCOS - RUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 690,
+      "work_order_id": 144,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP - HONDA CB 190']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 691,
+      "work_order_id": 145,
+      "colaborator_id": 5,
+      "services": "['ELAB DE TAPA - SANTA FE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 692,
+      "work_order_id": 146,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 4 STOP - MONTA CARGA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 693,
+      "work_order_id": 147,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 694,
+      "work_order_id": 148,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP Y ELB DE MICA DE RETROVISOR - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 695,
+      "work_order_id": 149,
+      "colaborator_id": 4,
+      "services": "['REP DE RETROVISOR - YARIS CROSS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-07T17:16:29.811561",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-08T16:55:26.216544",
+  "machine_id": "92384126569428"
 }

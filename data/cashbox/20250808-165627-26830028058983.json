@@ -1910,8 +1910,73 @@
       "order_id": 112,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 710,
+      "fecha": "2025-08-08",
+      "descripcion": "ROC 29876 CANCELACION",
+      "monto": 2910.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 110,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 711,
+      "fecha": "2025-08-08",
+      "descripcion": "ROC 29876",
+      "monto": 2910.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 1,
+      "user_id": "Yamileth",
+      "order_id": 110,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 712,
+      "fecha": "2025-08-08",
+      "descripcion": "RETENCION DEL 1 % No. 364381717",
+      "monto": 30.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 20,
+      "user_id": "Yamileth",
+      "order_id": 110,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 713,
+      "fecha": "2025-08-08",
+      "descripcion": "RETENCION DEL 2%  No. 39210",
+      "monto": 60.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 20,
+      "user_id": "Yamileth",
+      "order_id": 110,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 714,
+      "fecha": "2025-08-08",
+      "descripcion": "ROC  29878",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 1,
+      "user_id": "Yamileth",
+      "order_id": 145,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-08T16:55:26.237079",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-08T16:56:27.481027",
+  "machine_id": "26830028058983"
 }

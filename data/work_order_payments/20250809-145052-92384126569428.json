@@ -1044,8 +1044,217 @@
       "note": "ROC 29876 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 535,
+      "work_order_id": 141,
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1700,
+      "note": "ROC 29892",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 536,
+      "work_order_id": 36037,
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1800,
+      "note": "ROC 29893",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 537,
+      "work_order_id": 92,
+      "payment_date": "2025-08-09",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 4600,
+      "note": "ROC 29894\nPOS BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 538,
+      "work_order_id": 150,
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 2500,
+      "note": "ROC 29895",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 539,
+      "work_order_id": 78,
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 5400,
+      "note": "ROC 29896",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 540,
+      "work_order_id": "36021 // 0104",
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1750,
+      "note": "ROC 29897",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 541,
+      "work_order_id": 137,
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 900,
+      "note": "ROC 29898",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 542,
+      "work_order_id": 84,
+      "payment_date": "2025-08-09",
+      "payment_method": "deposito",
+      "payment": "Allisson",
+      "user_log_registration": 6800,
+      "note": "ROC 29899\nDEP BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 543,
+      "work_order_id": 109,
+      "payment_date": "2025-08-09",
+      "payment_method": "deposito",
+      "payment": "Allisson",
+      "user_log_registration": 2200,
+      "note": "ROC 29900\nDEP BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 544,
+      "work_order_id": 128,
+      "payment_date": "2025-08-09",
+      "payment_method": "deposito",
+      "payment": "Allisson",
+      "user_log_registration": 3650,
+      "note": "ROC 29901\nDEP BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 545,
+      "work_order_id": 151,
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 2550,
+      "note": "ROC 29902",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 546,
+      "work_order_id": 36036,
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1600,
+      "note": "ROC 29903",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 547,
+      "work_order_id": 36042,
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1600,
+      "note": "ROC 29904\n",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 548,
+      "work_order_id": 142,
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 400,
+      "note": "ROC 29905",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 549,
+      "work_order_id": 138,
+      "payment_date": "2025-08-09",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 1400,
+      "note": "ROC 29906\nPOS BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 550,
+      "work_order_id": 36043,
+      "payment_date": "2025-08-09",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 740,
+      "note": "ROC 29907\nPOS BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 551,
+      "work_order_id": 122,
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 3000,
+      "note": "ROC 29908",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 552,
+      "work_order_id": 36041,
+      "payment_date": "2025-08-09",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 800,
+      "note": "ROC 29909\nPOS BAC ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 553,
+      "work_order_id": 36041,
+      "payment_date": "2025-08-09",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 800,
+      "note": "ROC 29909",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-08T16:57:14.708047",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-09T14:50:52.253022",
+  "machine_id": "92384126569428"
 }

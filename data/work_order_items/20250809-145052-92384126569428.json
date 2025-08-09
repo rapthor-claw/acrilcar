@@ -751,8 +751,80 @@
       "services": "['REP DE RETROVISOR - YARIS CROSS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 696,
+      "work_order_id": 150,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - VENUE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 697,
+      "work_order_id": 151,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP - T100', 'ENVIO A JALAPA 150C$']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 698,
+      "work_order_id": 36041,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 699,
+      "work_order_id": 36042,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO - SENTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 700,
+      "work_order_id": 152,
+      "colaborator_id": 4,
+      "services": "['REP DE HALOGENO - KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 701,
+      "work_order_id": 153,
+      "colaborator_id": 5,
+      "services": "['ELB DE FOCO - VENUE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 702,
+      "work_order_id": 36043,
+      "colaborator_id": 14,
+      "services": "['VENTA DE SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 703,
+      "work_order_id": 154,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCOS Y 2 HALOGENOS - JMC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 704,
+      "work_order_id": 155,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-08T16:57:14.708047",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-09T14:50:52.244150",
+  "machine_id": "92384126569428"
 }

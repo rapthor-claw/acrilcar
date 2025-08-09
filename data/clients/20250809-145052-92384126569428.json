@@ -967,8 +967,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 726,
+      "name": "BRYAN PÉREZ",
+      "contact_1": "86869142",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 727,
+      "name": "NOEL RODRIGUEZ BUSTAMANTE",
+      "contact_1": "89115826",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 728,
+      "name": "DAVID OTERO",
+      "contact_1": "86114309",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 729,
+      "name": "NESTOR VASQUEZ",
+      "contact_1": "88932185",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 730,
+      "name": "BAYARDO MONTES",
+      "contact_1": "86765779",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 731,
+      "name": "ALVARO JOSE ROJAS",
+      "contact_1": "86724558",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 732,
+      "name": "SIEES",
+      "contact_1": "0",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 733,
+      "name": "DISTRIBUIDORA EL CHELE",
+      "contact_1": "81810057",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 734,
+      "name": "ALVIN RAFAEL GARCIA RAMOS",
+      "contact_1": "78723018",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-08T16:57:14.770503",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-09T14:50:52.301439",
+  "machine_id": "92384126569428"
 }

@@ -2378,8 +2378,47 @@
       "order_id": 36047,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 746,
+      "fecha": "2025-08-11",
+      "descripcion": "ROC 29919 (EFECTIVO)",
+      "monto": 2150.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 170,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 747,
+      "fecha": "2025-08-11",
+      "descripcion": "ROC 29920 (CANCELACION)",
+      "monto": 700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 35832,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 748,
+      "fecha": "2025-08-11",
+      "descripcion": "ROC 29921 (CANCELACION)",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 36048,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-11T12:32:19.536682",
+  "timestamp": "2025-08-11T13:10:17.838183",
   "machine_id": "92384126569428"
 }

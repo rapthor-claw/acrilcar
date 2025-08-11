@@ -1341,8 +1341,41 @@
       "note": "ROC 29918 (CANCELACION)",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 562,
+      "work_order_id": 170,
+      "payment_date": "2025-08-11",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 2150,
+      "note": "ROC 29919 (EFECTIVO)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 563,
+      "work_order_id": 35832,
+      "payment_date": "2025-08-11",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 700,
+      "note": "ROC 29920 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 564,
+      "work_order_id": 36048,
+      "payment_date": "2025-08-11",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1000,
+      "note": "ROC 29921 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-11T12:32:19.506490",
+  "timestamp": "2025-08-11T13:10:17.794543",
   "machine_id": "92384126569428"
 }

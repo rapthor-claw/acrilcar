@@ -1066,8 +1066,184 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 735,
+      "name": "JAVIER TORUÑO",
+      "contact_1": "88563772",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 736,
+      "name": "JIMMY LOPEZ",
+      "contact_1": "76464179",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 737,
+      "name": "MARVIN GONZALEZ",
+      "contact_1": "57873980",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 738,
+      "name": "NELSON ARANA",
+      "contact_1": "76560255",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 739,
+      "name": "MAURICIO ZEPEDA",
+      "contact_1": "86532825",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 740,
+      "name": "GIOVANNI MARTINEZ",
+      "contact_1": "89686617",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 741,
+      "name": "YASSER",
+      "contact_1": "75086847",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 742,
+      "name": "SILVIA ESPINOZA",
+      "contact_1": "82290955",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 743,
+      "name": "MARLON ESCALANTE",
+      "contact_1": "84341671",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 744,
+      "name": "ERLING PALACIOS",
+      "contact_1": "83207293",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 745,
+      "name": "JOSE ADAN GUTIERREZ",
+      "contact_1": "75216694",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 746,
+      "name": "ALFONSO TORRES",
+      "contact_1": "78252643",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 747,
+      "name": "FERNANDO CHAVEZ",
+      "contact_1": "88085407",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 748,
+      "name": "CARLOS RAMIREZ",
+      "contact_1": "84992035",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 749,
+      "name": "JOSE SANTOS REYES GALEANO",
+      "contact_1": "87818254",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 750,
+      "name": "RENE JARQUIN ESPINOZA",
+      "contact_1": "88359023",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-09T14:50:52.301439",
+  "timestamp": "2025-08-11T12:32:19.596610",
   "machine_id": "92384126569428"
 }

@@ -823,8 +823,152 @@
       "services": "['ELAB DE STOP - HILUX']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 705,
+      "work_order_id": 156,
+      "colaborator_id": 4,
+      "services": "['SECADO DE 2 FOCOS C$ 800', 'ELAB DE 1 STOP - HYUNDAI ACCENT BLUE - 2500C$']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 706,
+      "work_order_id": 157,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS CON REP DE ARO - GMC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 707,
+      "work_order_id": 158,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP BAUL - TUCSON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 708,
+      "work_order_id": 159,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 709,
+      "work_order_id": 160,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - SUZUKI ALTO C$ 1500', 'PULIDO DE 1 FOCO C$ 300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 710,
+      "work_order_id": 161,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCO C$4000 - M2 FREIGHTLINER', 'LED DOBLE FUNCION C$1500']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 711,
+      "work_order_id": 162,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 712,
+      "work_order_id": 163,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP TOTAL - LANCER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 713,
+      "work_order_id": 164,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS - KIA MORNING']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 714,
+      "work_order_id": 165,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP DONDE VAN CEPOS - TIIDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 715,
+      "work_order_id": 166,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 HALOGENOS - TUCSON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 716,
+      "work_order_id": 167,
+      "colaborator_id": 12,
+      "services": "['REP DE ARO Y BASE A 1 FOCO - DYNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 717,
+      "work_order_id": 168,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 718,
+      "work_order_id": 36039,
+      "colaborator_id": 7,
+      "services": "['REP DE STOP - KICKS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 719,
+      "work_order_id": 36044,
+      "colaborator_id": 15,
+      "services": "['PULIDO DE 2 FOCOS, SELLADO Y MTTO INTERNO - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 720,
+      "work_order_id": 36045,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS Y REVISION DE LED - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 721,
+      "work_order_id": 36046,
+      "colaborator_id": 13,
+      "services": "['LOGO EN ACRILICO DORADO CON BASE EN BLANCO LECHOSO MEDIDAS: 32 CM ANCHO X 33 CM ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 722,
+      "work_order_id": 36047,
+      "colaborator_id": 13,
+      "services": "['CORTE DE 3 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-09T14:50:52.244150",
+  "timestamp": "2025-08-11T12:32:19.483312",
   "machine_id": "92384126569428"
 }

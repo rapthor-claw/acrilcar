@@ -4127,8 +4127,32 @@
       "activity": "Ingreso de caja para la orden: 36048 - monto: 1000",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2847,
+      "datetime": "2025-08-11 19:16:00",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 350",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2848,
+      "datetime": "2025-08-11 19:16:25",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 130",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2849,
+      "datetime": "2025-08-11 19:16:45",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-11T13:10:17.922526",
+  "timestamp": "2025-08-11T13:29:32.286895",
   "machine_id": "92384126569428"
 }

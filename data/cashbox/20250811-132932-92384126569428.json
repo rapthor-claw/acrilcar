@@ -2417,8 +2417,47 @@
       "order_id": 36048,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 749,
+      "fecha": "2025-08-11",
+      "descripcion": "1/4 DE CEMENTO DE CONTACTO",
+      "monto": 350.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Allisson",
+      "order_id": 698966,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 750,
+      "fecha": "2025-08-11",
+      "descripcion": "2 CINTA DE ALUMINIO",
+      "monto": 130.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Allisson",
+      "order_id": 699020,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 751,
+      "fecha": "2025-08-11",
+      "descripcion": "ALMUERZO CASA",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "Allisson",
+      "order_id": "RCC 10064",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-11T13:10:17.838183",
+  "timestamp": "2025-08-11T13:29:32.239385",
   "machine_id": "92384126569428"
 }

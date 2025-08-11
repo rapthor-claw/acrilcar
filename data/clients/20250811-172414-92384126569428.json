@@ -1264,8 +1264,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 753,
+      "name": "OSCAR CASTILLO",
+      "contact_1": "58894535",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 754,
+      "name": "MOISES",
+      "contact_1": "88794076",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 755,
+      "name": "ORLANDO SANCHEZ",
+      "contact_1": "86809710",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 756,
+      "name": "JORGE RAFAEL CASTELLON",
+      "contact_1": "87705418",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-11T13:29:32.274608",
+  "timestamp": "2025-08-11T17:24:14.403294",
   "machine_id": "92384126569428"
 }

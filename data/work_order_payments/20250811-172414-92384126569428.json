@@ -1374,8 +1374,74 @@
       "note": "ROC 29921 (CANCELACION)",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 565,
+      "work_order_id": 88,
+      "payment_date": "2025-08-11",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1400,
+      "note": "ROC 29922 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 566,
+      "work_order_id": 165,
+      "payment_date": "2025-08-11",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 300,
+      "note": "ROC 29923 (CANCELCIÓN)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 567,
+      "work_order_id": 153,
+      "payment_date": "2025-08-11",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 2000,
+      "note": "ROC 29924\nTF BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 568,
+      "work_order_id": 36044,
+      "payment_date": "2025-08-11",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 100,
+      "note": "ROC 29925 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 569,
+      "work_order_id": 107,
+      "payment_date": "2025-08-11",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 2500,
+      "note": "ROC 29926 (CANCELACION) \nPOS BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 570,
+      "work_order_id": 156,
+      "payment_date": "2025-08-11",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 2500,
+      "note": "ROC 29927 (CANCELACION) ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-11T13:29:32.229021",
+  "timestamp": "2025-08-11T17:24:14.334080",
   "machine_id": "92384126569428"
 }

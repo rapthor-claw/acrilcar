@@ -4151,8 +4151,208 @@
       "activity": "Salida de caja, monto: 500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2850,
+      "datetime": "2025-08-11 20:08:38",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: OSCAR CASTILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2851,
+      "datetime": "2025-08-11 20:09:20",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0172",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2852,
+      "datetime": "2025-08-11 20:09:27",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0172",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2853,
+      "datetime": "2025-08-11 20:09:55",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0088 - monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2854,
+      "datetime": "2025-08-11 20:10:31",
+      "username": "Allisson",
+      "activity": "Agrego movimiento: GAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2855,
+      "datetime": "2025-08-11 20:11:02",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 2300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2856,
+      "datetime": "2025-08-11 20:49:28",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0049",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2857,
+      "datetime": "2025-08-11 21:59:17",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0165 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2858,
+      "datetime": "2025-08-11 22:00:15",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0153 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2859,
+      "datetime": "2025-08-11 22:01:50",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36044 - monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2860,
+      "datetime": "2025-08-11 22:53:09",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0153",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2861,
+      "datetime": "2025-08-11 22:53:24",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 36044",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2862,
+      "datetime": "2025-08-11 22:54:25",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0107 - monto: 2500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2863,
+      "datetime": "2025-08-11 22:55:44",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0156 - monto: 2500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2864,
+      "datetime": "2025-08-11 22:59:21",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2865,
+      "datetime": "2025-08-11 22:59:34",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2866,
+      "datetime": "2025-08-11 23:00:23",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MOISES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2867,
+      "datetime": "2025-08-11 23:00:35",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ORLANDO SANCHEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2868,
+      "datetime": "2025-08-11 23:00:48",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JORGE RAFAEL CASTELLON",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2869,
+      "datetime": "2025-08-11 23:01:45",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0173",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2870,
+      "datetime": "2025-08-11 23:02:15",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0174",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2871,
+      "datetime": "2025-08-11 23:02:51",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0175",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2872,
+      "datetime": "2025-08-11 23:03:07",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0173",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2873,
+      "datetime": "2025-08-11 23:03:13",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0174",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2874,
+      "datetime": "2025-08-11 23:03:19",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0175",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-11T13:29:32.286895",
+  "timestamp": "2025-08-11T17:24:14.416761",
   "machine_id": "92384126569428"
 }

@@ -999,8 +999,40 @@
       "services": "['PULIDO SELLADO Y REP DE MICA DE 1 FOCO Y 1 STOP - COROLLA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 727,
+      "work_order_id": 172,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 MICAS DE PIDE VIAS - BLUEBIRD BUS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 728,
+      "work_order_id": 173,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP Y 2 FOCOS - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 729,
+      "work_order_id": 174,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 730,
+      "work_order_id": 175,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP Y 2 PIDE VIAS - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-11T13:29:32.218541",
+  "timestamp": "2025-08-11T17:24:14.325508",
   "machine_id": "92384126569428"
 }

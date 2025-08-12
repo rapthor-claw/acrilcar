@@ -1031,8 +1031,80 @@
       "services": "['ELAB DE 2 STOP Y 2 PIDE VIAS - LAND CRUISER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 731,
+      "work_order_id": 176,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 732,
+      "work_order_id": 177,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - MOTO RAYBAR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 733,
+      "work_order_id": 178,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 734,
+      "work_order_id": 179,
+      "colaborator_id": 12,
+      "services": "['REP DE 1 FOCO - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 735,
+      "work_order_id": 180,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 736,
+      "work_order_id": 181,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP - HIACE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 737,
+      "work_order_id": 182,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP - CAMRY']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 738,
+      "work_order_id": 183,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 PIDE VIAS C$1200', 'PULIDO DE 2 FOCOS - HINO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 739,
+      "work_order_id": 36050,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 4 FOCOS CON REP BASE - AVANTE Y AE110']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-12T12:07:26.087916",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-12T13:52:41.689493",
+  "machine_id": "92384126569428"
 }

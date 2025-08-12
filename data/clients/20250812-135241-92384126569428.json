@@ -1308,8 +1308,96 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 757,
+      "name": "NICAUTO",
+      "contact_1": "85534078",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 758,
+      "name": "DANIEL LOPEZ",
+      "contact_1": "77580420",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 759,
+      "name": "JAZMINA NAVARRETE",
+      "contact_1": "86884651",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 760,
+      "name": "TALLER EL GUATUZO",
+      "contact_1": "82505304",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 761,
+      "name": "ERNESTO MORALES",
+      "contact_1": "84261140",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 762,
+      "name": "FERNANDO MEDINA",
+      "contact_1": "57626368",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 763,
+      "name": "HARRY TREMINIO",
+      "contact_1": "87356815",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 764,
+      "name": "MARILETH TORUÑO",
+      "contact_1": "88455570",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-12T12:07:26.166050",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-12T13:52:41.731331",
+  "machine_id": "92384126569428"
 }

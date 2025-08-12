@@ -4351,8 +4351,24 @@
       "activity": "Creo la orden de producción: 0175",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2875,
+      "datetime": "2025-08-11 23:24:16",
+      "username": "Allisson",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2876,
+      "datetime": "2025-08-12 15:38:19",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-12T08:52:04.890119",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-12T09:38:34.258176",
+  "machine_id": "92384126569428"
 }

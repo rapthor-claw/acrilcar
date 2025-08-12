@@ -1589,8 +1589,38 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 540,
+      "work_order_id": "0184",
+      "start_date": "2025-08-12 15:19",
+      "end_date": "2025-08-14 16:00",
+      "colaborador_id": 2,
+      "client_id": 765,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 2 FOCOS - MAC\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 541,
+      "work_order_id": "0185",
+      "start_date": "2025-08-12 15:20",
+      "end_date": "2025-08-13 16:00",
+      "colaborador_id": 2,
+      "client_id": 766,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE FOCO - KIA PICANTO\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-12T15:21:17.173106",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-12T15:22:25.679507",
+  "machine_id": "92384126569428"
 }

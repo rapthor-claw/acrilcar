@@ -1103,8 +1103,24 @@
       "services": "['PULIDO DE 4 FOCOS CON REP BASE - AVANTE Y AE110']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 740,
+      "work_order_id": 184,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS - MAC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 741,
+      "work_order_id": 185,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-12T15:21:17.063728",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-12T15:22:25.602580",
+  "machine_id": "92384126569428"
 }

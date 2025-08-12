@@ -2638,8 +2638,60 @@
       "order_id": 168,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 766,
+      "fecha": "2025-08-12",
+      "descripcion": "ROC 29932 CANCELACION",
+      "monto": 1200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 179,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 767,
+      "fecha": "2025-08-12",
+      "descripcion": "ROC 29933 CANCELACION",
+      "monto": 1800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 19,
+      "user_id": "Yamileth",
+      "order_id": 159,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 768,
+      "fecha": "2025-08-12",
+      "descripcion": "ADELANTO DE REPARACION DE 2 STOP",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 181,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 769,
+      "fecha": "2025-08-12",
+      "descripcion": "ROC 29936 CANCELACION",
+      "monto": 700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 143,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-12T13:52:10.626282",
+  "timestamp": "2025-08-12T14:07:29.594204",
   "machine_id": "26830028058983"
 }

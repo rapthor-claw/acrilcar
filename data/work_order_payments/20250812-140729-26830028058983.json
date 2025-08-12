@@ -1484,8 +1484,52 @@
       "note": "ROC 29931 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 575,
+      "work_order_id": 179,
+      "payment_date": "2025-08-12",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1200,
+      "note": "ROC 29932 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 576,
+      "work_order_id": 159,
+      "payment_date": "2025-08-12",
+      "payment_method": "transferencia",
+      "payment": "Yamileth",
+      "user_log_registration": 1800,
+      "note": "ROC 29933 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 577,
+      "work_order_id": 181,
+      "payment_date": "2025-08-12",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1000,
+      "note": "ADELANTO DE REPARACION DE 2 STOP",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 578,
+      "work_order_id": 143,
+      "payment_date": "2025-08-12",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 700,
+      "note": "ROC 29936 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-12T13:52:10.610658",
+  "timestamp": "2025-08-12T14:07:29.578556",
   "machine_id": "26830028058983"
 }

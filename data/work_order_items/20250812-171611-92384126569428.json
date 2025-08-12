@@ -1119,8 +1119,24 @@
       "services": "['ELAB DE FOCO - KIA PICANTO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 742,
+      "work_order_id": 36051,
+      "colaborator_id": 14,
+      "services": "['ELAB DE 6 HABLADORES TAMAÑO CARTA c$270 C/U']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 743,
+      "work_order_id": 186,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - ACCENT']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-12T17:14:47.538990",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-12T17:16:11.409620",
+  "machine_id": "92384126569428"
 }

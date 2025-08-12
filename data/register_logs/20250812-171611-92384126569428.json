@@ -4647,8 +4647,32 @@
       "activity": "Ingreso de caja para la orden: 0185 - monto: 1000",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2912,
+      "datetime": "2025-08-12 22:04:33",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36051",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2913,
+      "datetime": "2025-08-12 22:04:58",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JAIME JAVIER",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2914,
+      "datetime": "2025-08-12 22:05:31",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0186",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-12T17:14:47.632686",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-12T17:16:11.470991",
+  "machine_id": "92384126569428"
 }

@@ -4639,8 +4639,16 @@
       "activity": "Creo la orden de producción: 0185",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2911,
+      "datetime": "2025-08-12 21:23:44",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0185 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-12T15:22:30.839807",
+  "timestamp": "2025-08-12T15:23:53.325816",
   "machine_id": "26830028058983"
 }

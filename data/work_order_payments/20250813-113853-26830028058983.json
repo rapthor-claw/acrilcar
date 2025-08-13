@@ -1594,8 +1594,85 @@
       "note": "ROC 29942 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 585,
+      "work_order_id": 189,
+      "payment_date": "2025-08-13",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 600,
+      "note": "ROC 29943 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 586,
+      "work_order_id": 190,
+      "payment_date": "2025-08-13",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3650,
+      "note": "ROC 29944  ADELANTO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 587,
+      "work_order_id": 191,
+      "payment_date": "2025-08-13",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 29945 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 588,
+      "work_order_id": 166,
+      "payment_date": "2025-08-13",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 800,
+      "note": "ROC 29946 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 589,
+      "work_order_id": 36054,
+      "payment_date": "2025-08-13",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1300,
+      "note": "ROC 29947 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 590,
+      "work_order_id": 154,
+      "payment_date": "2025-08-13",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 6000,
+      "note": "ROC 29948 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 591,
+      "work_order_id": 167,
+      "payment_date": "2025-08-13",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 500,
+      "note": "ROC 29949 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-13T10:45:47.639958",
+  "timestamp": "2025-08-13T11:38:53.204104",
   "machine_id": "26830028058983"
 }

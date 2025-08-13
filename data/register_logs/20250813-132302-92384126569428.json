@@ -5351,8 +5351,24 @@
       "activity": "Creo la orden de trabajo: 0194",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3000,
+      "datetime": "2025-08-13 19:22:52",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0193",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3001,
+      "datetime": "2025-08-13 19:22:57",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0194",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-13T13:22:37.051701",
+  "timestamp": "2025-08-13T13:23:02.155621",
   "machine_id": "92384126569428"
 }

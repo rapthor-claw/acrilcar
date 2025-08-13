@@ -1784,8 +1784,38 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 553,
+      "work_order_id": "0193",
+      "start_date": "2025-08-13 13:19",
+      "end_date": "2025-08-14 11:00",
+      "colaborador_id": 2,
+      "client_id": 778,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP - HILUX c$1700\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 554,
+      "work_order_id": "0194",
+      "start_date": "2025-08-13 13:20",
+      "end_date": "2025-08-16 14:00",
+      "colaborador_id": 2,
+      "client_id": 779,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 2 FOCOS - ELANTRA\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-13T13:22:37.072904",
+  "timestamp": "2025-08-13T13:23:02.171075",
   "machine_id": "92384126569428"
 }

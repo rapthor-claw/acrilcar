@@ -5007,8 +5007,352 @@
       "activity": "Ingreso de caja para la orden: 0069 - monto: 1500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2957,
+      "datetime": "2025-08-13 17:18:24",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0048",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2958,
+      "datetime": "2025-08-13 17:18:33",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0047",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2959,
+      "datetime": "2025-08-13 17:18:41",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0046",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2960,
+      "datetime": "2025-08-13 17:18:50",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0045",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2961,
+      "datetime": "2025-08-13 17:19:02",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0044",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2962,
+      "datetime": "2025-08-13 17:19:12",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0043",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2963,
+      "datetime": "2025-08-13 17:19:40",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0041",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2964,
+      "datetime": "2025-08-13 17:19:48",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0040",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2965,
+      "datetime": "2025-08-13 17:20:10",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0038",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2966,
+      "datetime": "2025-08-13 17:20:20",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0037",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2967,
+      "datetime": "2025-08-13 17:20:29",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0036",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2968,
+      "datetime": "2025-08-13 17:20:48",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0034",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2969,
+      "datetime": "2025-08-13 17:21:00",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0033",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2970,
+      "datetime": "2025-08-13 17:21:09",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0032",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2971,
+      "datetime": "2025-08-13 17:21:22",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0031",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2972,
+      "datetime": "2025-08-13 17:21:44",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0028",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2973,
+      "datetime": "2025-08-13 17:22:00",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0026",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2974,
+      "datetime": "2025-08-13 17:22:17",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0024",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2975,
+      "datetime": "2025-08-13 17:22:27",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0023",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2976,
+      "datetime": "2025-08-13 17:22:37",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0022",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2977,
+      "datetime": "2025-08-13 17:22:53",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0020",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2978,
+      "datetime": "2025-08-13 17:23:06",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0019",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2979,
+      "datetime": "2025-08-13 17:23:15",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0018",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2980,
+      "datetime": "2025-08-13 17:23:23",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0017",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2981,
+      "datetime": "2025-08-13 17:23:32",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0016",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2982,
+      "datetime": "2025-08-13 17:23:39",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0015",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2983,
+      "datetime": "2025-08-13 17:23:51",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0014",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2984,
+      "datetime": "2025-08-13 17:24:00",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0013",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2985,
+      "datetime": "2025-08-13 17:24:09",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0012",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2986,
+      "datetime": "2025-08-13 17:24:16",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0011",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2987,
+      "datetime": "2025-08-13 17:24:27",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0010",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2988,
+      "datetime": "2025-08-13 17:24:37",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0009",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2989,
+      "datetime": "2025-08-13 17:24:48",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0008",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2990,
+      "datetime": "2025-08-13 17:25:03",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0007",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2991,
+      "datetime": "2025-08-13 17:25:20",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0005",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2992,
+      "datetime": "2025-08-13 17:25:30",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0004",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2993,
+      "datetime": "2025-08-13 17:25:40",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0003",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2994,
+      "datetime": "2025-08-13 17:25:47",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0002",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2995,
+      "datetime": "2025-08-13 17:25:54",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0001",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2996,
+      "datetime": "2025-08-13 19:19:28",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MICHAEL JOSE LOPEZ GUTIERREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2997,
+      "datetime": "2025-08-13 19:19:42",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: RUDY RIZO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2998,
+      "datetime": "2025-08-13 19:20:34",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0193",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2999,
+      "datetime": "2025-08-13 19:21:33",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0194",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-13T12:36:58.507983",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-13T13:22:37.051701",
+  "machine_id": "92384126569428"
 }

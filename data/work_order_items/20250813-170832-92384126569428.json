@@ -1231,8 +1231,24 @@
       "services": "['ELAB DE 2 FOCOS - ELANTRA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 756,
+      "work_order_id": 36056,
+      "colaborator_id": 7,
+      "services": "['PULIDO Y MTTO DE CROMO A 2 FOCOS, PEGAR SOPORTE - COLUMBIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 757,
+      "work_order_id": 195,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - RUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-13T15:07:15.479874",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-13T17:08:32.369855",
+  "machine_id": "92384126569428"
 }

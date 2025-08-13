@@ -1814,8 +1814,38 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 555,
+      "work_order_id": "36056",
+      "start_date": "2025-08-13 14:41",
+      "end_date": "2025-08-15 16:30",
+      "colaborador_id": 2,
+      "client_id": 780,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• PULIDO Y MTTO DE CROMO A 2 FOCOS, PEGAR SOPORTE - COLUMBIA\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 556,
+      "work_order_id": "0195",
+      "start_date": "2025-08-13 14:42",
+      "end_date": "2025-08-15 16:30",
+      "colaborador_id": 2,
+      "client_id": 781,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP - RUNNER\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-13T15:07:15.589196",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-13T17:08:32.457820",
+  "machine_id": "92384126569428"
 }

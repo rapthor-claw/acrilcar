@@ -1561,8 +1561,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 780,
+      "name": "YADER RAMIREZ",
+      "contact_1": "88293313",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 781,
+      "name": "FRANCISCO ",
+      "contact_1": "82264294",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-13T15:07:15.542331",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-13T17:08:32.427076",
+  "machine_id": "92384126569428"
 }

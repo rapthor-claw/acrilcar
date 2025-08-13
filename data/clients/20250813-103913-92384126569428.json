@@ -1440,8 +1440,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 769,
+      "name": "FREDDY GOMEZ",
+      "contact_1": "58760242",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 770,
+      "name": "MARIA LOPEZ",
+      "contact_1": "86856872",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 771,
+      "name": "CONCENSO NACIONAL DEL CAFE",
+      "contact_1": "22701457",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 772,
+      "name": "FUERZA NAVAL",
+      "contact_1": "89110876",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 773,
+      "name": "LEONTE PALACIOS",
+      "contact_1": "57210912",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 774,
+      "name": "JOSE LUIS GOMEZ",
+      "contact_1": "57592750",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 775,
+      "name": "ROSA CALDERA ",
+      "contact_1": "84149646",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 776,
+      "name": "CARLOS AGUILAR",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 777,
+      "name": "CAIRO CASANOVA",
+      "contact_1": "86914437",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-13T09:28:38.525598",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-13T10:39:13.566405",
+  "machine_id": "92384126569428"
 }

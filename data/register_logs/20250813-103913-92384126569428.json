@@ -4839,8 +4839,96 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2936,
+      "datetime": "2025-08-13 16:36:31",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36051",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2937,
+      "datetime": "2025-08-13 16:36:38",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36052",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2938,
+      "datetime": "2025-08-13 16:36:43",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36054",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2939,
+      "datetime": "2025-08-13 16:36:56",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36055",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2940,
+      "datetime": "2025-08-13 16:37:20",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0186",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2941,
+      "datetime": "2025-08-13 16:37:25",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0187",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2942,
+      "datetime": "2025-08-13 16:37:31",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0188",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2943,
+      "datetime": "2025-08-13 16:37:37",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0189",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2944,
+      "datetime": "2025-08-13 16:37:42",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0190",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2945,
+      "datetime": "2025-08-13 16:37:47",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0191",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2946,
+      "datetime": "2025-08-13 16:37:54",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0192",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-13T09:28:38.556842",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-13T10:39:13.590223",
+  "machine_id": "92384126569428"
 }

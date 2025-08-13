@@ -4991,8 +4991,24 @@
       "activity": "Ingreso de caja para la orden: 0167 - monto: 500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2955,
+      "datetime": "2025-08-13 18:03:48",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0123 - monto: 3400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2956,
+      "datetime": "2025-08-13 18:04:09",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0069 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-13T11:38:53.282171",
+  "timestamp": "2025-08-13T12:04:14.226580",
   "machine_id": "26830028058983"
 }

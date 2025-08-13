@@ -3249,8 +3249,86 @@
       "order_id": 12678,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 813,
+      "fecha": "2025-08-13",
+      "descripcion": "ROC 29956 CANCELACION",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 181,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 814,
+      "fecha": "2025-08-13",
+      "descripcion": "ROC 29957 CANCELACION",
+      "monto": 2600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 174,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 815,
+      "fecha": "2025-08-13",
+      "descripcion": "ENCOMIENDA  A CIUDAD BELEN",
+      "monto": 180.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 6,
+      "user_id": "Yamileth",
+      "order_id": 10079,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 816,
+      "fecha": "2025-08-13",
+      "descripcion": "COMPRA DE GOLOSOS",
+      "monto": 407.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Yamileth",
+      "order_id": 871380,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 817,
+      "fecha": "2025-08-13",
+      "descripcion": "COMUSTIBLE MOTO BRUNO",
+      "monto": 130.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 15,
+      "user_id": "Yamileth",
+      "order_id": 10080,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 818,
+      "fecha": "2025-08-13",
+      "descripcion": "COMPRA DE ESCUADRA METALICA",
+      "monto": 170.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Yamileth",
+      "order_id": 64267,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-13T17:08:32.389439",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-13T17:17:30.825636",
+  "machine_id": "26830028058983"
 }

@@ -5863,8 +5863,80 @@
       "activity": "Ingreso de caja para la orden: 0202 - monto: 800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3064,
+      "datetime": "2025-08-14 20:59:24",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0206 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3065,
+      "datetime": "2025-08-14 21:00:02",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0207 - monto: 2200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3066,
+      "datetime": "2025-08-14 21:00:32",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0208 - monto: 2300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3067,
+      "datetime": "2025-08-14 21:01:01",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0172 - monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3068,
+      "datetime": "2025-08-14 21:01:46",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36020 // 0103 - monto: 4400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3069,
+      "datetime": "2025-08-14 21:02:57",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36038 - monto: 3100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3070,
+      "datetime": "2025-08-14 21:03:34",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0157 - monto: 5000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3071,
+      "datetime": "2025-08-14 21:04:03",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 5000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3072,
+      "datetime": "2025-08-14 21:05:40",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0132 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-14T15:32:19.311200",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-14T15:33:29.663696",
+  "machine_id": "26830028058983"
 }

@@ -2039,8 +2039,68 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 570,
+      "work_order_id": "0210",
+      "start_date": "2025-08-14 15:29",
+      "end_date": "2025-08-16 14:00",
+      "colaborador_id": 2,
+      "client_id": 796,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP - COROLLA\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 571,
+      "work_order_id": "36057",
+      "start_date": "2025-08-14 15:30",
+      "end_date": "2025-08-14 15:30",
+      "colaborador_id": 2,
+      "client_id": 797,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• PULIDO DE STOP - TRACKER\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 572,
+      "work_order_id": "36058",
+      "start_date": "2025-08-14 15:30",
+      "end_date": "2025-08-14 16:30",
+      "colaborador_id": 2,
+      "client_id": 798,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE CORTE DE 4 MM\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 573,
+      "work_order_id": "36059",
+      "start_date": "2025-08-14 15:31",
+      "end_date": "2025-08-19 16:00",
+      "colaborador_id": 2,
+      "client_id": 799,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 2 PAPELERAS EN 4 MM\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-14T17:11:13.691558",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-14T17:47:10.835585",
+  "machine_id": "92384126569428"
 }

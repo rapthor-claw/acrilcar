@@ -1351,8 +1351,40 @@
       "services": "['ELAB DE FOCO - SCION XA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 771,
+      "work_order_id": 210,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 772,
+      "work_order_id": 36057,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE STOP - TRACKER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 773,
+      "work_order_id": 36058,
+      "colaborator_id": 9,
+      "services": "['ELAB DE CORTE DE 4 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 774,
+      "work_order_id": 36059,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 2 PAPELERAS EN 4 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-14T14:58:11.563112",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-14T15:32:19.247555",
+  "machine_id": "92384126569428"
 }

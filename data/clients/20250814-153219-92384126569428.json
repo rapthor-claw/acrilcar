@@ -1737,8 +1737,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 796,
+      "name": "JORGE GRANERA",
+      "contact_1": "88854972",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 797,
+      "name": "OSCAR RIVAS",
+      "contact_1": "0",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 798,
+      "name": "CARLOS MANZANARES",
+      "contact_1": "84086025",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 799,
+      "name": "ULTRAVAL",
+      "contact_1": "87642971",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-14T14:58:11.625597",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-14T15:32:19.295089",
+  "machine_id": "92384126569428"
 }

@@ -1583,8 +1583,162 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 782,
+      "name": "MARTINEZ ENDEREZADO",
+      "contact_1": "58863796",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 783,
+      "name": "LARRY JAVIER PEREZ",
+      "contact_1": "82514497",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 784,
+      "name": "BAYARDO",
+      "contact_1": "88714220",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 785,
+      "name": "YORLIN",
+      "contact_1": "89196473",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 786,
+      "name": "HECTOR MUNGUIA",
+      "contact_1": "58793242",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 787,
+      "name": "CARLOS MEZA",
+      "contact_1": "88244936",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 788,
+      "name": "MANUEL ALEJANDRO GONZALEZ",
+      "contact_1": "88413691",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 789,
+      "name": "JOSE PEREZ",
+      "contact_1": "89468581",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 790,
+      "name": "DANIEL LOPEZ",
+      "contact_1": "77580420",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 791,
+      "name": "INDENICSA",
+      "contact_1": "89757452",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 792,
+      "name": "ALEXANDER",
+      "contact_1": "58877214",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 793,
+      "name": "MOISES MENDIETA",
+      "contact_1": "82637264",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 794,
+      "name": "MARIA REYES",
+      "contact_1": "83515906",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 795,
+      "name": "MILTON MEJIA",
+      "contact_1": "85144912",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-14T13:29:42.206949",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-14T14:11:25.528045",
+  "machine_id": "92384126569428"
 }

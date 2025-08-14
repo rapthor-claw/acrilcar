@@ -1247,8 +1247,112 @@
       "services": "['ELAB DE STOP - RUNNER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 758,
+      "work_order_id": 197,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP PARTE BLANCA Y ROJA - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 759,
+      "work_order_id": 198,
+      "colaborator_id": 2,
+      "services": "['ELAB DE TABLERO - MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 760,
+      "work_order_id": 199,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP AHUMADO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 761,
+      "work_order_id": 200,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - SWIFT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 762,
+      "work_order_id": 201,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP Y MICA DE RETROVISOR - KIA RIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 763,
+      "work_order_id": 202,
+      "colaborator_id": 2,
+      "services": "['ELAB DE PIEZA CONTRARIA - GREAT WALL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 764,
+      "work_order_id": 203,
+      "colaborator_id": 12,
+      "services": "['PEGADO DE MICA MAS REPARACION DE 1 FOCO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 765,
+      "work_order_id": 204,
+      "colaborator_id": 4,
+      "services": "['ELB DE VISOR AHUMADO - CASCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 766,
+      "work_order_id": 205,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO CON REP DE ARO - PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 767,
+      "work_order_id": 206,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HONDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 768,
+      "work_order_id": 207,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 FOCO CON REP DE ARO - KIA RIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 769,
+      "work_order_id": 208,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - c$2200 CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 770,
+      "work_order_id": 209,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - SCION XA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-14T13:29:42.128819",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-14T14:11:25.469736",
+  "machine_id": "92384126569428"
 }

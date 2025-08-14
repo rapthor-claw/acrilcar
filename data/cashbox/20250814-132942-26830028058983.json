@@ -3418,8 +3418,86 @@
       "order_id": 115,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 826,
+      "fecha": "2025-08-14",
+      "descripcion": "PAGO BASURA DEL TALLER",
+      "monto": 300.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 14,
+      "user_id": "Yamileth",
+      "order_id": 10081,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 827,
+      "fecha": "2025-08-14",
+      "descripcion": "GASTOS DON FRANK (COMP´RA DE LED Y OTROS)",
+      "monto": 1200.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 14,
+      "user_id": "Yamileth",
+      "order_id": 10082,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 828,
+      "fecha": "2025-08-14",
+      "descripcion": "COMPRA DE PRODUCTOS DE LIMPIEZA",
+      "monto": 160.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10083,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 829,
+      "fecha": "2025-08-14",
+      "descripcion": "ALMUERZO CASA DOÑA INGRID",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "Yamileth",
+      "order_id": 10084,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 830,
+      "fecha": "2025-08-14",
+      "descripcion": "ENVIO DE ENCOMIENDA A CHICHIGALPA",
+      "monto": 100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 6,
+      "user_id": "Yamileth",
+      "order_id": 10085,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 831,
+      "fecha": "2025-08-14",
+      "descripcion": "TRABAJOS A REALIZAR POR DON GABRIEL-PINTOR A NISSAN DATSUN",
+      "monto": 1000.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10086,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-14T10:19:43.794481",
+  "timestamp": "2025-08-14T13:29:42.160090",
   "machine_id": "26830028058983"
 }

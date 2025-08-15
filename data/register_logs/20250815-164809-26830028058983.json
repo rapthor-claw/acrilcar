@@ -6311,8 +6311,24 @@
       "activity": "Creo la orden de producción: 36066",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3120,
+      "datetime": "2025-08-15 22:46:51",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0185 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3121,
+      "datetime": "2025-08-15 22:47:32",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36050 - monto: 2400",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-15T16:02:13.094409",
+  "timestamp": "2025-08-15T16:48:09.215120",
   "machine_id": "26830028058983"
 }

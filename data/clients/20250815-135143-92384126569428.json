@@ -1792,8 +1792,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 801,
+      "name": "NORLAN DANIEL PEREZ MAYORGA",
+      "contact_1": "82692726",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 802,
+      "name": "BYRON",
+      "contact_1": "78655914",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 803,
+      "name": "HOLLMAN ESPINOZA",
+      "contact_1": "87704250",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-15T11:36:06.260627",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-15T13:51:43.366806",
+  "machine_id": "92384126569428"
 }

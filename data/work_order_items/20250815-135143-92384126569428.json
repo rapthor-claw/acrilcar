@@ -1391,8 +1391,40 @@
       "services": "['SECADO Y SELLADO DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 776,
+      "work_order_id": 212,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS C$3000 - KIA K2700', 'VENTA DE H4 C$ 3700']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 777,
+      "work_order_id": 213,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 778,
+      "work_order_id": 214,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO CON REP DE ARO - CAMRY C$ 2500', 'PULIDO DE 1 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 779,
+      "work_order_id": 215,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP CON REP DE BASE - DMAX']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-15T11:36:06.182521",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-15T13:51:43.237634",
+  "machine_id": "92384126569428"
 }

@@ -4003,8 +4003,60 @@
       "order_id": 36050,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 871,
+      "fecha": "2025-08-15",
+      "descripcion": "ROC 29989 CANCELACION ",
+      "monto": 200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 204,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 872,
+      "fecha": "2025-08-15",
+      "descripcion": "ROC 29990 CANCELACION ",
+      "monto": 300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 213,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 873,
+      "fecha": "2025-08-15",
+      "descripcion": "VENTA  DE MATERIAL",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10095,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 874,
+      "fecha": "2025-08-15",
+      "descripcion": "COMPLEMENTO NOMINA DE AGOSTO 1 QUINCENA",
+      "monto": 800.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10094,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-15T16:48:09.012035",
+  "timestamp": "2025-08-15T17:08:59.246523",
   "machine_id": "26830028058983"
 }

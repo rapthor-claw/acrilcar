@@ -1383,8 +1383,16 @@
       "services": "['ELAB DE 2 PAPELERAS EN 4 MM']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 775,
+      "work_order_id": 36061,
+      "colaborator_id": 14,
+      "services": "['SECADO Y SELLADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-14T17:47:10.748614",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-15T11:36:02.755982",
+  "machine_id": "26830028058983"
 }

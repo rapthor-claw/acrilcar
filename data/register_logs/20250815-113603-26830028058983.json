@@ -5991,8 +5991,40 @@
       "activity": "Salida de caja, monto: 3000",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3080,
+      "datetime": "2025-08-14 23:11:22",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3081,
+      "datetime": "2025-08-15 14:16:44",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3082,
+      "datetime": "2025-08-15 15:00:51",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: RAMON SAENZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3083,
+      "datetime": "2025-08-15 15:06:06",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36061",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-14T17:47:10.819830",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-15T11:36:03.005935",
+  "machine_id": "26830028058983"
 }

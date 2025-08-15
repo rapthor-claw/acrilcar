@@ -1781,8 +1781,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 800,
+      "name": "RAMON SAENZ",
+      "contact_1": "58588888",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-14T17:47:10.803698",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-15T11:36:02.834091",
+  "machine_id": "26830028058983"
 }

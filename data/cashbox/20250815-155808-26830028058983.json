@@ -3886,8 +3886,73 @@
       "order_id": 192,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 862,
+      "fecha": "2025-08-15",
+      "descripcion": "ROC 29982 CANCELACION ",
+      "monto": 1600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 36026,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 863,
+      "fecha": "2025-08-15",
+      "descripcion": "ROC 29982",
+      "monto": 1600.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 1,
+      "user_id": "Yamileth",
+      "order_id": 36026,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 864,
+      "fecha": "2025-08-15",
+      "descripcion": "ROC 29984 CANCELACION ",
+      "monto": 3200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 182,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 865,
+      "fecha": "2025-08-15",
+      "descripcion": "ALMUERZO CASA DOÑA INGRID",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 1,
+      "user_id": "Yamileth",
+      "order_id": 10091,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 866,
+      "fecha": "2025-08-15",
+      "descripcion": "COMPRA DE ESTAÑO",
+      "monto": 100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10092,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-15T15:58:50.189723",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-15T15:58:08.473897",
+  "machine_id": "26830028058983"
 }

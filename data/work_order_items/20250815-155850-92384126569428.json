@@ -1423,8 +1423,64 @@
       "services": "['ELAB DE STOP CON REP DE BASE - DMAX']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 780,
+      "work_order_id": 36061,
+      "colaborator_id": 7,
+      "services": "['SECADO DE 1 FOCO Y SELLADO - NISSAN VERSA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 781,
+      "work_order_id": 36062,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO E INSTALACION DE CINTAS LED -']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 782,
+      "work_order_id": 36063,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 783,
+      "work_order_id": 36064,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 2 CAJAS ACRILICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 784,
+      "work_order_id": 36055,
+      "colaborator_id": 15,
+      "services": "['PULIDO DE 2 FOCOS CON REP DE REGULADORES - PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 785,
+      "work_order_id": 36066,
+      "colaborator_id": 9,
+      "services": "['CORTE ACRILICO DORADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 786,
+      "work_order_id": 216,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP - GRAND I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-15T15:01:21.430645",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-15T15:58:50.162002",
+  "machine_id": "92384126569428"
 }

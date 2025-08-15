@@ -6159,8 +6159,96 @@
       "activity": "Salida de caja, monto: 1700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3101,
+      "datetime": "2025-08-15 20:03:11",
+      "username": "Allisson",
+      "activity": "Elimino cliente: NIMAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3102,
+      "datetime": "2025-08-15 20:03:42",
+      "username": "Allisson",
+      "activity": "Elimino cliente: NIMAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3103,
+      "datetime": "2025-08-15 20:40:39",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36061",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3104,
+      "datetime": "2025-08-15 21:53:37",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36062",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3105,
+      "datetime": "2025-08-15 21:54:16",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36063",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3106,
+      "datetime": "2025-08-15 21:55:01",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36064",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3107,
+      "datetime": "2025-08-15 21:56:31",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MIGUEL OSORIO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3108,
+      "datetime": "2025-08-15 21:56:48",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: RAQUEL MARTINEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3109,
+      "datetime": "2025-08-15 21:57:39",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36055",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3110,
+      "datetime": "2025-08-15 21:58:16",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36066",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3111,
+      "datetime": "2025-08-15 21:58:44",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0216",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-15T15:01:21.524345",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-15T15:58:50.241028",
+  "machine_id": "92384126569428"
 }

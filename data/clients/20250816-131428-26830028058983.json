@@ -1891,8 +1891,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 811,
+      "name": "MARCELINA LOPEZ",
+      "contact_1": "86851100",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 812,
+      "name": "ILEANA CASTILLO",
+      "contact_1": "88472626",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 813,
+      "name": "LUIS BRIONES",
+      "contact_1": "88443071",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 814,
+      "name": "OMAR ANTONIO URBINA",
+      "contact_1": "84721385",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 815,
+      "name": "MANUEL LEON",
+      "contact_1": "88853854",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 816,
+      "name": "ERICKSON JARQUIN",
+      "contact_1": "76866925",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 817,
+      "name": "MILTON MEJIA ",
+      "contact_1": "85144912",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 818,
+      "name": "JAIRO DOMINGO CALERO",
+      "contact_1": "88390666",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 819,
+      "name": "PABLO CUADRA",
+      "contact_1": "81007505",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-16T08:18:41.335186",
+  "timestamp": "2025-08-16T13:14:28.100277",
   "machine_id": "26830028058983"
 }

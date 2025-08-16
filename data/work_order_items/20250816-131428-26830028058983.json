@@ -1479,8 +1479,80 @@
       "services": "['REP DE STOP - GRAND I10']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 787,
+      "work_order_id": 217,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 STOP PARTE BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 788,
+      "work_order_id": 218,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 789,
+      "work_order_id": 219,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 790,
+      "work_order_id": 220,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 791,
+      "work_order_id": 36067,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 792,
+      "work_order_id": 221,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO CON MANENIMINETO INTERNO Y REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 793,
+      "work_order_id": 222,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 794,
+      "work_order_id": 223,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE 1 STOP PARTE AMARILLA Y BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 795,
+      "work_order_id": 224,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE 2 RETROVISORES CON PERNO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-16T08:18:41.241468",
+  "timestamp": "2025-08-16T13:14:28.022176",
   "machine_id": "26830028058983"
 }

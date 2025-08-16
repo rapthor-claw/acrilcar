@@ -6391,8 +6391,24 @@
       "activity": "Salida de caja, monto: 800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3130,
+      "datetime": "2025-08-15 23:09:02",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3131,
+      "datetime": "2025-08-16 14:18:30",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-15T17:08:59.309008",
+  "timestamp": "2025-08-16T08:18:41.350785",
   "machine_id": "26830028058983"
 }

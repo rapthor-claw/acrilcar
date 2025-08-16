@@ -2221,8 +2221,30 @@
       "note": "ROC 30001 ADELANTO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 642,
+      "work_order_id": 200,
+      "payment_date": "2025-08-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 30004 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 643,
+      "work_order_id": 217,
+      "payment_date": "2025-08-16",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 700,
+      "note": "ROC 30003 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-16T13:55:20.112098",
+  "timestamp": "2025-08-16T14:17:18.484363",
   "machine_id": "26830028058983"
 }

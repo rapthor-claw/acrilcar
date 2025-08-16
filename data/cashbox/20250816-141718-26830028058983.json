@@ -4276,8 +4276,34 @@
       "order_id": 10097,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 892,
+      "fecha": "2025-08-16",
+      "descripcion": "ROC 30004 CANCELACION",
+      "monto": 1600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 200,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 893,
+      "fecha": "2025-08-16",
+      "descripcion": "ROC 30003 CANCELACION ",
+      "monto": 700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 217,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-16T13:55:20.127727",
+  "timestamp": "2025-08-16T14:17:18.499982",
   "machine_id": "26830028058983"
 }

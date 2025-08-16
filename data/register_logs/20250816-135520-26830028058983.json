@@ -6711,8 +6711,24 @@
       "activity": "Salida de caja, monto: 151",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3170,
+      "datetime": "2025-08-16 19:47:21",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: CARLOS LATINO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3171,
+      "datetime": "2025-08-16 19:51:14",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0225",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-16T13:14:28.115923",
+  "timestamp": "2025-08-16T13:55:20.190204",
   "machine_id": "26830028058983"
 }

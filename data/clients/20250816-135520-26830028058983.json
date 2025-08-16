@@ -1990,8 +1990,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 820,
+      "name": "CARLOS LATINO",
+      "contact_1": "88039339",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-16T13:14:28.100277",
+  "timestamp": "2025-08-16T13:55:20.174584",
   "machine_id": "26830028058983"
 }

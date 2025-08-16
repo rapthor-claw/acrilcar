@@ -1551,8 +1551,16 @@
       "services": "['REPARACION DE 2 RETROVISORES CON PERNO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 796,
+      "work_order_id": 225,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-16T13:14:28.022176",
+  "timestamp": "2025-08-16T13:55:20.096477",
   "machine_id": "26830028058983"
 }

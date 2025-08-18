@@ -7247,8 +7247,16 @@
       "activity": "Salida de caja, monto: 3400",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3237,
+      "datetime": "2025-08-18 23:24:39",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T17:22:29.426383",
+  "timestamp": "2025-08-18T17:24:46.707287",
   "machine_id": "26830028058983"
 }

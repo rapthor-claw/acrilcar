@@ -4588,8 +4588,21 @@
       "order_id": 219,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 916,
+      "fecha": "2025-08-18",
+      "descripcion": "VALE A JUAN RAMIREZ",
+      "monto": 200.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 3,
+      "user_id": "Yamileth",
+      "order_id": 12680,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T17:22:29.348262",
+  "timestamp": "2025-08-18T17:24:46.644795",
   "machine_id": "26830028058983"
 }

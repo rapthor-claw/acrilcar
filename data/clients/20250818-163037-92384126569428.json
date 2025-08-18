@@ -2133,8 +2133,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 833,
+      "name": "CRISTIAN MENDOZA",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T16:25:28.970882",
+  "timestamp": "2025-08-18T16:30:37.760310",
   "machine_id": "92384126569428"
 }

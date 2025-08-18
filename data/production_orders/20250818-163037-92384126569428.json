@@ -2579,8 +2579,23 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 606,
+      "work_order_id": "36072",
+      "start_date": "2025-08-18 16:29",
+      "end_date": "2025-08-18 16:29",
+      "colaborador_id": 2,
+      "client_id": 833,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• PULIDO DE 1 FOCO - HYUNDAI\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T16:25:29.019929",
+  "timestamp": "2025-08-18T16:30:37.841624",
   "machine_id": "92384126569428"
 }

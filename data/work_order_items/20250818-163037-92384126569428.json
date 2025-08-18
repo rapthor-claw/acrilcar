@@ -1671,8 +1671,16 @@
       "services": "['ELAB DE FOCO - EON']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 811,
+      "work_order_id": 36072,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T16:25:28.888515",
+  "timestamp": "2025-08-18T16:30:37.638059",
   "machine_id": "92384126569428"
 }

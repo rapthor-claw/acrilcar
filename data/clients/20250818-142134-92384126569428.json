@@ -2045,8 +2045,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 825,
+      "name": "DAVID VASQUEZ",
+      "contact_1": "88387539",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 826,
+      "name": "ROBERTO MUNGUIA",
+      "contact_1": "87503952",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 827,
+      "name": "SERGIO FONSECA",
+      "contact_1": "77748745",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T14:20:25.847768",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-18T14:21:34.854367",
+  "machine_id": "92384126569428"
 }

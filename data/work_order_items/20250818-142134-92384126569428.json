@@ -1607,8 +1607,32 @@
       "services": "['CAMBIO DE TARJETA A 1 FOCO - COROLLA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 803,
+      "work_order_id": 36071,
+      "colaborator_id": 7,
+      "services": "['CROMADO Y REP DE BASE A 1 HALOGENO - KIA MORNING']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 804,
+      "work_order_id": 229,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP Y 2 PIDE VIAS C$4,400 - CAMION', 'PULIDO DE 2 PIDE VIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 805,
+      "work_order_id": 230,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 TABLERO - CAMION ISUZU']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T14:20:25.769660",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-18T14:21:34.771634",
+  "machine_id": "92384126569428"
 }

@@ -6991,8 +6991,40 @@
       "activity": "Ingreso de caja para la orden: 36058 - monto: 1300",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3205,
+      "datetime": "2025-08-18 19:30:12",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0228",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3206,
+      "datetime": "2025-08-18 19:30:19",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0229",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3207,
+      "datetime": "2025-08-18 19:30:25",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0230",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3208,
+      "datetime": "2025-08-18 19:30:40",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36071",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T14:20:25.863394",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-18T14:21:34.872335",
+  "machine_id": "92384126569428"
 }

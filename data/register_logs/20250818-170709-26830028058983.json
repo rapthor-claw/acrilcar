@@ -7199,8 +7199,24 @@
       "activity": "Ingreso de caja para la orden: 0184 - monto: 0",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3231,
+      "datetime": "2025-08-18 23:06:37",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0194 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3232,
+      "datetime": "2025-08-18 23:06:59",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T16:52:00.126440",
+  "timestamp": "2025-08-18T17:07:09.812494",
   "machine_id": "26830028058983"
 }

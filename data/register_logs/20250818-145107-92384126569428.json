@@ -7023,8 +7023,24 @@
       "activity": "Creo la orden de producción: 36071",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3209,
+      "datetime": "2025-08-18 20:38:01",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ADRIAN SOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3210,
+      "datetime": "2025-08-18 20:39:03",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0211",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T14:45:46.292916",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-18T14:51:07.418663",
+  "machine_id": "92384126569428"
 }

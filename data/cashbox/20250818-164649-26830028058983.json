@@ -4432,8 +4432,47 @@
       "order_id": 36058,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 904,
+      "fecha": "2025-08-18",
+      "descripcion": "ROC CANCELACION",
+      "monto": 700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 230,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 905,
+      "fecha": "2025-08-18",
+      "descripcion": "ROC 36069 CANCELACION ",
+      "monto": 1300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36069,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 906,
+      "fecha": "2025-08-18",
+      "descripcion": "COMPRA DE HOJA DE SIERRA MANUAL",
+      "monto": 92.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 872121,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T16:30:37.701330",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-18T16:46:49.180268",
+  "machine_id": "26830028058983"
 }

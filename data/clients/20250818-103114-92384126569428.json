@@ -2001,8 +2001,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 821,
+      "name": "CECILIA REYES",
+      "contact_1": "76917969",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 822,
+      "name": "FIDEL LANUZA",
+      "contact_1": "89423338",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T10:10:47.687988",
+  "timestamp": "2025-08-18T10:31:14.268836",
   "machine_id": "92384126569428"
 }

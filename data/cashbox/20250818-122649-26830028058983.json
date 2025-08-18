@@ -4354,8 +4354,73 @@
       "order_id": 212,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 898,
+      "fecha": "2025-08-18",
+      "descripcion": "ROC 30007 CANCELAION ",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 226,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 899,
+      "fecha": "2025-08-18",
+      "descripcion": "ROC 30008 CANCELACION ",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 228,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 900,
+      "fecha": "2025-08-18",
+      "descripcion": "ROC 30009 CANCELACION ",
+      "monto": 800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36070,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 901,
+      "fecha": "2025-08-18",
+      "descripcion": "COMPRA DE LIJAS ",
+      "monto": 180.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Yamileth",
+      "order_id": 34201,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 902,
+      "fecha": "2025-08-18",
+      "descripcion": "ALMUERZO CASA DOÑA INGRID",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "Yamileth",
+      "order_id": 10098,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T12:15:52.066783",
+  "timestamp": "2025-08-18T12:26:49.906058",
   "machine_id": "26830028058983"
 }

@@ -1639,8 +1639,24 @@
       "services": "['REP STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 807,
+      "work_order_id": 231,
+      "colaborator_id": 4,
+      "services": "['ELAB STOP - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 808,
+      "work_order_id": 232,
+      "colaborator_id": 5,
+      "services": "['ELAB 2 PIDE VIAS BLANCO DIAMANTADO C$ 700 - COROLLA', 'PULIDO DE 2 FOCOS CON MTTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T14:51:07.338358",
+  "timestamp": "2025-08-18T15:35:10.877161",
   "machine_id": "92384126569428"
 }

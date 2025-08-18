@@ -2089,8 +2089,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 829,
+      "name": "YAMIL GOMEZ",
+      "contact_1": "85929029",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 830,
+      "name": "DAVID SANDOVAL",
+      "contact_1": "85600953",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T14:51:07.406275",
+  "timestamp": "2025-08-18T15:35:10.935030",
   "machine_id": "92384126569428"
 }

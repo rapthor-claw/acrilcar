@@ -4419,8 +4419,21 @@
       "order_id": 10098,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 903,
+      "fecha": "2025-08-18",
+      "descripcion": "ROC 30010 CANCELACION ",
+      "monto": 1300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36058,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T12:26:49.906058",
+  "timestamp": "2025-08-18T13:09:33.881519",
   "machine_id": "26830028058983"
 }

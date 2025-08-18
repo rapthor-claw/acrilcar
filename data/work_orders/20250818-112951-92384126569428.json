@@ -2785,8 +2785,36 @@
       "note": null,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 801,
+      "work_order_id": "0228",
+      "start_date": "2025-08-18 11:00",
+      "end_date": "2025-08-19 14:00",
+      "user_id": 2,
+      "client_id": 823,
+      "colaborador_id": 4,
+      "total_cost": 500.0,
+      "order_status": "abierta",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 802,
+      "work_order_id": "36070",
+      "start_date": "2025-08-18 11:25",
+      "end_date": "2025-08-18 15:00",
+      "user_id": 2,
+      "client_id": 824,
+      "colaborador_id": 7,
+      "total_cost": 800.0,
+      "order_status": "procesando",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T10:31:14.095301",
+  "timestamp": "2025-08-18T11:29:51.057275",
   "machine_id": "92384126569428"
 }

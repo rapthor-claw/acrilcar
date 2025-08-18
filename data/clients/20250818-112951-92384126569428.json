@@ -2023,8 +2023,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 823,
+      "name": "MARIO RUIZ",
+      "contact_1": "57706264",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 824,
+      "name": "JUSTIN",
+      "contact_1": "82862374",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T10:31:14.268836",
+  "timestamp": "2025-08-18T11:29:51.221828",
   "machine_id": "92384126569428"
 }

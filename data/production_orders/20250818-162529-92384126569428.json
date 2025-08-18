@@ -2549,8 +2549,38 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 604,
+      "work_order_id": "0233",
+      "start_date": "2025-08-18 16:23",
+      "end_date": "2025-08-19 16:30",
+      "colaborador_id": 2,
+      "client_id": 831,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP - MAZDA 323\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 605,
+      "work_order_id": "0234",
+      "start_date": "2025-08-18 16:24",
+      "end_date": "2025-08-19 16:00",
+      "colaborador_id": 2,
+      "client_id": 832,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE FOCO - EON\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T15:35:10.962771",
+  "timestamp": "2025-08-18T16:25:29.019929",
   "machine_id": "92384126569428"
 }

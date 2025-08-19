@@ -4718,8 +4718,21 @@
       "order_id": "D2508196007012",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 926,
+      "fecha": "2025-08-19",
+      "descripcion": "ROC 30023 CANCELACION ",
+      "monto": 2200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36062,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-19T11:52:43.530353",
+  "timestamp": "2025-08-19T12:05:59.378987",
   "machine_id": "26830028058983"
 }

@@ -1679,8 +1679,72 @@
       "services": "['PULIDO DE 1 FOCO - HYUNDAI']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 812,
+      "work_order_id": 235,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - N400']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 813,
+      "work_order_id": 236,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - MOTO YAMAHA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 814,
+      "work_order_id": 237,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 815,
+      "work_order_id": 238,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS - KIA RIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 816,
+      "work_order_id": 239,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 817,
+      "work_order_id": 36073,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS CON REVISION DE FILTRACION Y SELLADO DE 1 STOP - AGYA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 818,
+      "work_order_id": 36074,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - TUCSON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 819,
+      "work_order_id": 36075,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - FORD']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-19T10:56:17.503693",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-19T11:33:08.299382",
+  "machine_id": "92384126569428"
 }

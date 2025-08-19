@@ -7775,8 +7775,16 @@
       "activity": "Ingreso de caja para la orden: 0227 - monto: 1300",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3303,
+      "datetime": "2025-08-19 23:09:38",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0224 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-19T17:06:13.381247",
+  "timestamp": "2025-08-19T17:09:47.907240",
   "machine_id": "26830028058983"
 }

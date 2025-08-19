@@ -7255,8 +7255,32 @@
       "activity": "Salida de caja, monto: 200",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3238,
+      "datetime": "2025-08-18 23:24:50",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3239,
+      "datetime": "2025-08-18 23:34:05",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3240,
+      "datetime": "2025-08-19 16:55:14",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-18T17:24:46.707287",
+  "timestamp": "2025-08-19T10:56:17.644280",
   "machine_id": "26830028058983"
 }

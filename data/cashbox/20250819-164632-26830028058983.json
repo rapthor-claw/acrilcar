@@ -4731,8 +4731,86 @@
       "order_id": 36062,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 927,
+      "fecha": "2025-08-19",
+      "descripcion": "ROC 30025 CANCELACION ",
+      "monto": 2800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 195,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 928,
+      "fecha": "2025-08-19",
+      "descripcion": "ROC 30025",
+      "monto": 2800.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 12,
+      "user_id": "Yamileth",
+      "order_id": 195,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 929,
+      "fecha": "2025-08-19",
+      "descripcion": "TRABAJO DATSUN",
+      "monto": 1000.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10101,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 930,
+      "fecha": "2025-08-19",
+      "descripcion": "ALMUERZO CASA DOÑA INGRID",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "Yamileth",
+      "order_id": 10102,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 931,
+      "fecha": "2025-08-19",
+      "descripcion": "CANCELACION DE FACTURA DEL 12 DE AGOSTO ",
+      "monto": 300.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 367230,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 932,
+      "fecha": "2025-08-19",
+      "descripcion": "VALE A JUAN RAMIREZ",
+      "monto": 200.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 3,
+      "user_id": "Yamileth",
+      "order_id": 12681,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-19T14:03:48.168770",
+  "timestamp": "2025-08-19T16:46:32.111011",
   "machine_id": "26830028058983"
 }

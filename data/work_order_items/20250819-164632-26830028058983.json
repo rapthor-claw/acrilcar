@@ -1743,8 +1743,88 @@
       "services": "['PULIDO DE 2 FOCOS - FORD']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 820,
+      "work_order_id": 36076,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 821,
+      "work_order_id": 36077,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 822,
+      "work_order_id": 240,
+      "colaborator_id": 4,
+      "services": "['ELBORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 823,
+      "work_order_id": 241,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP PARTE BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 824,
+      "work_order_id": 242,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE TERCERA LUZ ROJO RAYADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 825,
+      "work_order_id": 243,
+      "colaborator_id": 4,
+      "services": "['ELABRACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 826,
+      "work_order_id": 244,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 827,
+      "work_order_id": 245,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 LATERALES Y PULIDO DE 2 LATERALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 828,
+      "work_order_id": 246,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP TRASERO MICA  AHUMADA, PULIDO DE 2 FOCOS CON INST. LED Y VTA. LED H4']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 829,
+      "work_order_id": 36078,
+      "colaborator_id": 9,
+      "services": "['CORTE ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-19T14:03:48.137559",
+  "timestamp": "2025-08-19T16:46:32.079766",
   "machine_id": "26830028058983"
 }

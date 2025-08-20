@@ -1927,8 +1927,16 @@
       "services": "['ELAB DE 2 PIDE VIAS Y 2 STOP - ECLIPSE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 843,
+      "work_order_id": 257,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 PIDE VIAS - H100']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-20T15:51:04.981957",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-20T17:06:55.143803",
+  "machine_id": "92384126569428"
 }

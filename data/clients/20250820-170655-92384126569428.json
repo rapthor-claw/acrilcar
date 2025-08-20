@@ -2485,8 +2485,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 865,
+      "name": "MANUEL GARCIA",
+      "contact_1": "89845040",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-20T15:51:05.075684",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-20T17:06:55.216636",
+  "machine_id": "92384126569428"
 }

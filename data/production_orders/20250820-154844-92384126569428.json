@@ -2849,8 +2849,38 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 624,
+      "work_order_id": "0255",
+      "start_date": "2025-08-20 15:18",
+      "end_date": "2025-08-21 16:30",
+      "colaborador_id": 2,
+      "client_id": 862,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 2 STOP - ISUZU\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 625,
+      "work_order_id": "0256",
+      "start_date": "2025-08-20 15:47",
+      "end_date": "2025-08-22 16:30",
+      "colaborador_id": 2,
+      "client_id": 864,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 2 PIDE VIAS Y 2 STOP - ECLIPSE\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-20T15:20:14.646211",
+  "timestamp": "2025-08-20T15:48:44.903787",
   "machine_id": "92384126569428"
 }

@@ -8087,8 +8087,40 @@
       "activity": "Creo la orden de trabajo: 0255",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3342,
+      "datetime": "2025-08-20 21:46:52",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: NESTOR SABALLOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3343,
+      "datetime": "2025-08-20 21:47:54",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0256",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3344,
+      "datetime": "2025-08-20 21:48:16",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0255",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3345,
+      "datetime": "2025-08-20 21:48:21",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0256",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-20T15:20:14.597461",
+  "timestamp": "2025-08-20T15:48:44.873815",
   "machine_id": "92384126569428"
 }

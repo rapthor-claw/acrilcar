@@ -2419,8 +2419,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 859,
+      "name": "JAIME PICADO",
+      "contact_1": "83363783",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 860,
+      "name": "MARVIN MORALES",
+      "contact_1": "87880229",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 861,
+      "name": "RICHARD",
+      "contact_1": "78679645",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-20T14:08:45.099390",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-20T14:09:46.702941",
+  "machine_id": "92384126569428"
 }

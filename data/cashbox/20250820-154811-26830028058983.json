@@ -5186,8 +5186,47 @@
       "order_id": 205,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 962,
+      "fecha": "2025-08-20",
+      "descripcion": "ROC 30044 CANCELACION ",
+      "monto": 1100.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 253,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 963,
+      "fecha": "2025-08-20",
+      "descripcion": "ENVIO DE ENCOMIENDA A SOMOTO",
+      "monto": 170.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 6,
+      "user_id": "Yamileth",
+      "order_id": 10104,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 964,
+      "fecha": "2025-08-20",
+      "descripcion": "ROC 30045 CANCELACION ",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 231,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-20T15:48:44.807032",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-20T15:48:11.865701",
+  "machine_id": "26830028058983"
 }

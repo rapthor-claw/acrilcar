@@ -2573,8 +2573,30 @@
       "note": "ROC 30033 CANCELACION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 674,
+      "work_order_id": 222,
+      "payment_date": "2025-08-19",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 900,
+      "note": "ROC 30034 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 675,
+      "work_order_id": 239,
+      "payment_date": "2025-08-19",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2600,
+      "note": "ROC 30035 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-19T17:09:47.829133",
+  "timestamp": "2025-08-20T11:21:04.668620",
   "machine_id": "26830028058983"
 }

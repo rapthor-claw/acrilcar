@@ -2342,8 +2342,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 852,
+      "name": "SUZUKI",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 853,
+      "name": "HUGO BRIONES ",
+      "contact_1": "78338287",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 854,
+      "name": "EJERCITO DE NICARAGUA",
+      "contact_1": "83562524",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 855,
+      "name": "ARLETHA MATERNA",
+      "contact_1": "81320429",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 856,
+      "name": "EJERCITO DE NICARAGUA",
+      "contact_1": "88726025",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 857,
+      "name": "JAVIER PEREZ",
+      "contact_1": "86181120",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 858,
+      "name": "AGNER LUGO GONZAGA",
+      "contact_1": "75034372",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-19T17:09:47.891623",
+  "timestamp": "2025-08-20T11:21:04.734467",
   "machine_id": "26830028058983"
 }

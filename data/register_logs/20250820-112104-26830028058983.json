@@ -7783,8 +7783,144 @@
       "activity": "Ingreso de caja para la orden: 0224 - monto: 700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3304,
+      "datetime": "2025-08-19 23:15:59",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0222 - monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3305,
+      "datetime": "2025-08-19 23:28:29",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0239 - monto: 2600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3306,
+      "datetime": "2025-08-20 16:26:56",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3307,
+      "datetime": "2025-08-20 17:07:44",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: SUZUKI",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3308,
+      "datetime": "2025-08-20 17:09:25",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0247",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3309,
+      "datetime": "2025-08-20 17:10:04",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: HUGO BRIONES ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3310,
+      "datetime": "2025-08-20 17:11:03",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0248",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3311,
+      "datetime": "2025-08-20 17:11:36",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: EJERCITO DE NICARAGUA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3312,
+      "datetime": "2025-08-20 17:12:38",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0249",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3313,
+      "datetime": "2025-08-20 17:13:20",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ARLETHA MATERNA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3314,
+      "datetime": "2025-08-20 17:14:25",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0250",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3315,
+      "datetime": "2025-08-20 17:15:05",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: EJERCITO DE NICARAGUA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3316,
+      "datetime": "2025-08-20 17:16:23",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0251",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3317,
+      "datetime": "2025-08-20 17:17:27",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JAVIER PEREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3318,
+      "datetime": "2025-08-20 17:19:12",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36079",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3319,
+      "datetime": "2025-08-20 17:19:49",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: AGNER LUGO GONZAGA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3320,
+      "datetime": "2025-08-20 17:20:43",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36080",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-19T17:09:47.907240",
+  "timestamp": "2025-08-20T11:21:04.768708",
   "machine_id": "26830028058983"
 }

@@ -1823,8 +1823,64 @@
       "services": "['CORTE ACRILICO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 830,
+      "work_order_id": 247,
+      "colaborator_id": 5,
+      "services": "['ELABORACION PARTE AFECTADA STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 831,
+      "work_order_id": 248,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 832,
+      "work_order_id": 249,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP TOTAL TRASERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 833,
+      "work_order_id": 250,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP Y STOP DE BUMPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 834,
+      "work_order_id": 251,
+      "colaborator_id": 5,
+      "services": "['ELABORACION STOP PARTE BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 835,
+      "work_order_id": 36079,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 836,
+      "work_order_id": 36080,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO DERECHO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-19T17:09:47.813540",
+  "timestamp": "2025-08-20T11:21:04.653660",
   "machine_id": "26830028058983"
 }

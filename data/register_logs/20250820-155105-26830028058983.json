@@ -8119,8 +8119,32 @@
       "activity": "Creo la orden de producción: 0256",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3346,
+      "datetime": "2025-08-20 21:49:39",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0256 - monto: 4400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3347,
+      "datetime": "2025-08-20 21:50:27",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 4400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3348,
+      "datetime": "2025-08-20 21:51:00",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0236 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-20T15:48:11.928158",
+  "timestamp": "2025-08-20T15:51:05.091333",
   "machine_id": "26830028058983"
 }

@@ -8143,8 +8143,200 @@
       "activity": "Ingreso de caja para la orden: 0236 - monto: 700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3349,
+      "datetime": "2025-08-21 15:51:38",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3350,
+      "datetime": "2025-08-21 17:57:39",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MAURICIO DELGADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3351,
+      "datetime": "2025-08-21 17:57:57",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JEREMIAS VELASQUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3352,
+      "datetime": "2025-08-21 17:58:37",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DANIEL GONZALEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3353,
+      "datetime": "2025-08-21 17:58:58",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: NAPOLEON GARCIA FLORES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3354,
+      "datetime": "2025-08-21 18:00:14",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0258",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3355,
+      "datetime": "2025-08-21 18:00:59",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0259",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3356,
+      "datetime": "2025-08-21 18:01:37",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0260",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3357,
+      "datetime": "2025-08-21 18:02:38",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0261",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3358,
+      "datetime": "2025-08-21 18:09:54",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LC CONSTRUYEN S,A",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3359,
+      "datetime": "2025-08-21 18:11:32",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0262",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3360,
+      "datetime": "2025-08-21 18:15:05",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36083",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3361,
+      "datetime": "2025-08-21 18:17:23",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JOSE VASQUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3362,
+      "datetime": "2025-08-21 18:17:34",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ELIDA GUTIERREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3363,
+      "datetime": "2025-08-21 18:19:15",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36084",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3364,
+      "datetime": "2025-08-21 18:19:53",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36085",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3365,
+      "datetime": "2025-08-21 18:21:37",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0258",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3366,
+      "datetime": "2025-08-21 18:21:42",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0259",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3367,
+      "datetime": "2025-08-21 18:21:48",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0260",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3368,
+      "datetime": "2025-08-21 18:21:53",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0261",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3369,
+      "datetime": "2025-08-21 18:21:58",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0262",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3370,
+      "datetime": "2025-08-21 18:22:08",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36083",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3371,
+      "datetime": "2025-08-21 18:22:14",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36084",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3372,
+      "datetime": "2025-08-21 18:22:20",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36085",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-20T17:06:55.229442",
+  "timestamp": "2025-08-21T13:43:26.805978",
   "machine_id": "92384126569428"
 }

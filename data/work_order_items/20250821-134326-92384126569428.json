@@ -1935,8 +1935,72 @@
       "services": "['ELAB DE 2 PIDE VIAS - H100']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 844,
+      "work_order_id": 258,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP Y 2 MICAS - CAMION MERCEDES BENZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 845,
+      "work_order_id": 259,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 PIDE VIAS - NISSAN XTERRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 846,
+      "work_order_id": 260,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 PIDE VIAS Y 2 STOP MATERIAL LISO - NISSAN SENTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 847,
+      "work_order_id": 261,
+      "colaborator_id": 4,
+      "services": "['ELAB DE REFLECTOR Y REP DE STOP - GREAT WALL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 848,
+      "work_order_id": 262,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 849,
+      "work_order_id": 36083,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 HALOGENOS - SUZUKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 850,
+      "work_order_id": 36084,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - GRAND I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 851,
+      "work_order_id": 36085,
+      "colaborator_id": 13,
+      "services": "['LIMPIEZA DE STOP - SENTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-20T17:06:55.143803",
+  "timestamp": "2025-08-21T13:43:26.722282",
   "machine_id": "92384126569428"
 }

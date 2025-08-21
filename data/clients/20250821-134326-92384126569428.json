@@ -2496,8 +2496,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 866,
+      "name": "MAURICIO DELGADO",
+      "contact_1": "88800111",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 867,
+      "name": "JEREMIAS VELASQUEZ",
+      "contact_1": "84307954",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 868,
+      "name": "DANIEL GONZALEZ",
+      "contact_1": "76701205",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 869,
+      "name": "NAPOLEON GARCIA FLORES",
+      "contact_1": "84220531",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 870,
+      "name": "LC CONSTRUYEN S,A",
+      "contact_1": "85650770",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 871,
+      "name": "JOSE VASQUEZ",
+      "contact_1": "88110008",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 872,
+      "name": "ELIDA GUTIERREZ",
+      "contact_1": "84511871",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-20T17:06:55.216636",
+  "timestamp": "2025-08-21T13:43:26.779166",
   "machine_id": "92384126569428"
 }

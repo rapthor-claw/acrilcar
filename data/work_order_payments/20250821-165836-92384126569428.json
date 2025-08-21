@@ -2793,8 +2793,30 @@
       "note": "ROC 30056 (CANCELACION)",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 694,
+      "work_order_id": 264,
+      "payment_date": "2025-08-21",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 600,
+      "note": "ROC 30058 (CANCELACIÓN)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 695,
+      "work_order_id": 248,
+      "payment_date": "2025-08-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1600,
+      "note": "roc 30059 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-21T14:22:42.535785",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-21T16:58:36.021969",
+  "machine_id": "92384126569428"
 }

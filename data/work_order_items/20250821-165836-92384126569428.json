@@ -1999,8 +1999,32 @@
       "services": "['LIMPIEZA DE STOP - SENTRA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 852,
+      "work_order_id": 263,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP CON REP DE BASE - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 853,
+      "work_order_id": 264,
+      "colaborator_id": 12,
+      "services": "['ELAB 1 PIDE VIA - DYNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 854,
+      "work_order_id": 265,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO CON REP DE ARO Y BASE - HONDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-21T14:22:42.520168",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-21T16:58:36.004053",
+  "machine_id": "92384126569428"
 }

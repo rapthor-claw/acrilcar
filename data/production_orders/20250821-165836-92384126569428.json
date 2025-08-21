@@ -3014,8 +3014,23 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 635,
+      "work_order_id": "0263",
+      "start_date": "2025-08-21 15:39",
+      "end_date": "2025-08-23 12:00",
+      "colaborador_id": 2,
+      "client_id": 873,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP CON REP DE BASE - CHEVROLET\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-21T14:22:42.681578",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-21T16:58:36.095574",
+  "machine_id": "92384126569428"
 }

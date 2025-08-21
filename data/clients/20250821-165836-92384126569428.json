@@ -2573,8 +2573,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 873,
+      "name": "OSCAR ROMERO",
+      "contact_1": "89627650",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 874,
+      "name": "FRANKLIN RADAMES GAITAN",
+      "contact_1": "57818954",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 875,
+      "name": "ALEX SANCHEZ",
+      "contact_1": "83807571",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-21T14:22:42.634709",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-21T16:58:36.065369",
+  "machine_id": "92384126569428"
 }

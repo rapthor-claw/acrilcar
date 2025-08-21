@@ -8423,8 +8423,24 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3384,
+      "datetime": "2025-08-21 20:20:27",
+      "username": "Allisson",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3385,
+      "datetime": "2025-08-21 20:22:30",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-21T14:20:22.608413",
+  "timestamp": "2025-08-21T14:22:42.665981",
   "machine_id": "26830028058983"
 }

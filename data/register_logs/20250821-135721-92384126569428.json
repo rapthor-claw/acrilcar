@@ -8335,8 +8335,80 @@
       "activity": "Creo la orden de producción: 36085",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3373,
+      "datetime": "2025-08-21 19:45:40",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0236",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3374,
+      "datetime": "2025-08-21 19:46:47",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36076 - monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3375,
+      "datetime": "2025-08-21 19:49:43",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0171 - monto: 6900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3376,
+      "datetime": "2025-08-21 19:50:23",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36085 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3377,
+      "datetime": "2025-08-21 19:54:49",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0259 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3378,
+      "datetime": "2025-08-21 19:55:48",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36083 - monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3379,
+      "datetime": "2025-08-21 19:56:14",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0199 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3380,
+      "datetime": "2025-08-21 19:56:41",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3381,
+      "datetime": "2025-08-21 19:57:03",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 260",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-21T13:43:26.805978",
+  "timestamp": "2025-08-21T13:57:21.467121",
   "machine_id": "92384126569428"
 }

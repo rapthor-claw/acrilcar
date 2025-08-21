@@ -2727,8 +2727,74 @@
       "note": "ROC 30047 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 688,
+      "work_order_id": 36076,
+      "payment_date": "2025-08-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 400,
+      "note": "ROC 30051 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 689,
+      "work_order_id": 171,
+      "payment_date": "2025-08-21",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 6900,
+      "note": "ROC 30052 (CANCELACION)\nTF BAC \nRETENCION 2% 138C$ #4803",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 690,
+      "work_order_id": 36085,
+      "payment_date": "2025-08-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 500,
+      "note": "ROC 30053 (CANCELACIÓN)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 691,
+      "work_order_id": 259,
+      "payment_date": "2025-08-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 500,
+      "note": "ROC 30054 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 692,
+      "work_order_id": 36083,
+      "payment_date": "2025-08-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 400,
+      "note": "ROC 30055 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 693,
+      "work_order_id": 199,
+      "payment_date": "2025-08-21",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 2800,
+      "note": "ROC 30056 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-21T13:43:26.731998",
+  "timestamp": "2025-08-21T13:57:21.403276",
   "machine_id": "92384126569428"
 }

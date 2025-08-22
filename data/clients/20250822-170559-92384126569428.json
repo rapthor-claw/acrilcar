@@ -2606,8 +2606,140 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 876,
+      "name": "ELY RODRIGUEZ GUZMAN",
+      "contact_1": "57652125",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 877,
+      "name": "JUSTO ZELEDON BENAVIDEZ",
+      "contact_1": "86256272",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 878,
+      "name": "ERNESTO HERNANDEZ",
+      "contact_1": "85986748",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 879,
+      "name": "MOISES ENRIQUE MENA",
+      "contact_1": "81150171",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 880,
+      "name": "BASCULAS DINARTE",
+      "contact_1": "58049140",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 881,
+      "name": "KARIM FERNANDEZ",
+      "contact_1": "85264396",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 882,
+      "name": "ROLANDO BARBOSA",
+      "contact_1": "83698518",
+      "contact_2": "75558128",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 883,
+      "name": "CARLOS SELVA",
+      "contact_1": "84236970",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 884,
+      "name": "CASA MARTINEZ",
+      "contact_1": "57470543",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 885,
+      "name": "YAMILETH MENDOZA",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 886,
+      "name": "VIDAL ALARCON",
+      "contact_1": "89703250",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 887,
+      "name": "AVICOLA YEMA DE ORO",
+      "contact_1": "87384482",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-21T16:58:07.131593",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-22T17:05:59.376671",
+  "machine_id": "92384126569428"
 }

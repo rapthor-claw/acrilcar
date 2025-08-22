@@ -2815,8 +2815,151 @@
       "note": "roc 30059 (CANCELACION)",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 696,
+      "work_order_id": 36086,
+      "payment_date": "2025-08-22",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1600,
+      "note": "ROC 30062 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 697,
+      "work_order_id": 36084,
+      "payment_date": "2025-08-22",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1600,
+      "note": "ROC 30063 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 698,
+      "work_order_id": 267,
+      "payment_date": "2025-08-22",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 3200,
+      "note": "ROC 30064 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 699,
+      "work_order_id": 36088,
+      "payment_date": "2025-08-22",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 2373,
+      "note": "ROC 30065 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 700,
+      "work_order_id": 36075,
+      "payment_date": "2025-08-22",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 700,
+      "note": "ROC 30066 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 701,
+      "work_order_id": 238,
+      "payment_date": "2025-08-22",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 2000,
+      "note": "ROC 30067 (CANCELACION) \nTF BAC C$",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 702,
+      "work_order_id": 271,
+      "payment_date": "2025-08-22",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1050,
+      "note": "ROC 30068 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 703,
+      "work_order_id": 245,
+      "payment_date": "2025-08-22",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 800,
+      "note": "ROC 30069",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 704,
+      "work_order_id": 233,
+      "payment_date": "2025-08-22",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1400,
+      "note": "ROC 30070 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 705,
+      "work_order_id": 252,
+      "payment_date": "2025-08-22",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 3150,
+      "note": "ROC 30071 (CANCELACION)\nTF LAFISE C$",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 706,
+      "work_order_id": 244,
+      "payment_date": "2025-08-22",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 1700,
+      "note": "ROC 30072 (CANCELACION)\nPOS BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 707,
+      "work_order_id": 229,
+      "payment_date": "2025-08-22",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 4800,
+      "note": "ROC 30073 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 708,
+      "work_order_id": 261,
+      "payment_date": "2025-08-22",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 900,
+      "note": "ROC 30074 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-21T16:58:07.069106",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-22T17:05:59.303689",
+  "machine_id": "92384126569428"
 }

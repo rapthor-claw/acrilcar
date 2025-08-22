@@ -2023,8 +2023,112 @@
       "services": "['ELAB DE FOCO CON REP DE ARO Y BASE - HONDA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 855,
+      "work_order_id": 252,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP Y ENVIO - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 856,
+      "work_order_id": 266,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 857,
+      "work_order_id": 267,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO - LAND CRUISER C$2500', 'PULIDO DE FOCO - C$700']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 858,
+      "work_order_id": 269,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - ECLIPSE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 859,
+      "work_order_id": 270,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - K2700']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 860,
+      "work_order_id": 271,
+      "colaborator_id": 2,
+      "services": "['ELAB DE TABLERO - BUS MARCOPOLO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 861,
+      "work_order_id": 272,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 862,
+      "work_order_id": 273,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 863,
+      "work_order_id": 36086,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 864,
+      "work_order_id": 36087,
+      "colaborator_id": 14,
+      "services": "['REP DE TAPAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 865,
+      "work_order_id": 36088,
+      "colaborator_id": 14,
+      "services": "['VENTA DE LAMINA $65']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 866,
+      "work_order_id": 36089,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 100 BOLSILLOS SEGUN MUESTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 867,
+      "work_order_id": 36090,
+      "colaborator_id": 13,
+      "services": "['ELAB DE CORTE EN 4 MM SEGUN MUESTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-21T16:58:07.053485",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-22T17:05:59.283895",
+  "machine_id": "92384126569428"
 }

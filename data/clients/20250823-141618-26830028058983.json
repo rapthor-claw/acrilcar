@@ -2738,8 +2738,118 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 888,
+      "name": "LUIS TAPIA",
+      "contact_1": "58431678",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 889,
+      "name": "JULIO GUEVARA",
+      "contact_1": "88199567",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 890,
+      "name": "CARLOS ESPINOZA",
+      "contact_1": "87472535",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 891,
+      "name": "JOSE LUIS GUTIERREZ",
+      "contact_1": "89194729",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 892,
+      "name": "GRUPO RODRIGUEZ ",
+      "contact_1": "81828739",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 893,
+      "name": "ALVARO ESCOBAR",
+      "contact_1": "89293626",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 894,
+      "name": "SALOMON CHAVARRIA",
+      "contact_1": "77914080",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 895,
+      "name": "ARLETHA MATERNA",
+      "contact_1": "81320429",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 896,
+      "name": "RAFAEL VALDIVIA",
+      "contact_1": "84276135",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 897,
+      "name": "DENLEY S.A.",
+      "contact_1": "78333091",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-23T11:44:22.805693",
+  "timestamp": "2025-08-23T14:16:18.853561",
   "machine_id": "26830028058983"
 }

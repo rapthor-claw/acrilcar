@@ -2127,8 +2127,80 @@
       "services": "['ELAB DE CORTE EN 4 MM SEGUN MUESTRA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 868,
+      "work_order_id": 274,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 869,
+      "work_order_id": 275,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 870,
+      "work_order_id": 276,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 871,
+      "work_order_id": 277,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 4 PIDE VIAS Y PULIDO DE 4 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 872,
+      "work_order_id": 278,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP Y PULIDO DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 873,
+      "work_order_id": 279,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 874,
+      "work_order_id": 281,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 875,
+      "work_order_id": 36092,
+      "colaborator_id": 9,
+      "services": "['CORTE ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 876,
+      "work_order_id": 282,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-23T11:44:22.711970",
+  "timestamp": "2025-08-23T14:16:18.775454",
   "machine_id": "26830028058983"
 }

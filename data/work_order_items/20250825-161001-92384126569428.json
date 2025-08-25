@@ -2199,8 +2199,128 @@
       "services": "['REPARACION DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 877,
+      "work_order_id": 283,
+      "colaborator_id": 4,
+      "services": "['REP DE RETROVISOR-']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 878,
+      "work_order_id": 284,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP Y PONER PERNOS - TOYOTA COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 879,
+      "work_order_id": 285,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - SENTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 880,
+      "work_order_id": 36093,
+      "colaborator_id": 7,
+      "services": "['SECADO Y SELLADO DE 2 FOCOS LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 881,
+      "work_order_id": 286,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP Y 2 PIDE VIAS - TOYOTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 882,
+      "work_order_id": 287,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIDE VIA - KIA SPORTAGE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 883,
+      "work_order_id": 288,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP - APV']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 884,
+      "work_order_id": 289,
+      "colaborator_id": 2,
+      "services": "['REP DE RETROVISOR - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 885,
+      "work_order_id": 290,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 PIDE VIAS - KIA AVELLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 886,
+      "work_order_id": 291,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - MOTO GENESIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 887,
+      "work_order_id": 292,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP BAUL - KIA RIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 888,
+      "work_order_id": 36094,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO PINTAR BORDE EN NEGRO -CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 889,
+      "work_order_id": 293,
+      "colaborator_id": 2,
+      "services": "['ELAB DE VISOR TRANSPARENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 890,
+      "work_order_id": 36095,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 HALOGENO - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 891,
+      "work_order_id": 294,
+      "colaborator_id": 12,
+      "services": "['ELAB DE VISOR TRANSPARENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-25T09:56:14.657251",
+  "timestamp": "2025-08-25T16:10:01.623924",
   "machine_id": "92384126569428"
 }

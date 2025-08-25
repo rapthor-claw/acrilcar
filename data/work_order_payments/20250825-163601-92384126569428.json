@@ -3233,8 +3233,19 @@
       "note": "ROC 30108\n(CANCELACION)",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 734,
+      "work_order_id": 254,
+      "payment_date": "2025-08-25",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 2800,
+      "note": "ROC 30109 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-25T16:10:01.650642",
+  "timestamp": "2025-08-25T16:36:01.515689",
   "machine_id": "92384126569428"
 }

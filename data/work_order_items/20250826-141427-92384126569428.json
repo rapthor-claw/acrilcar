@@ -2319,8 +2319,80 @@
       "services": "['ELAB DE VISOR TRANSPARENTE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 892,
+      "work_order_id": 36096,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 893,
+      "work_order_id": 36097,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 894,
+      "work_order_id": 295,
+      "colaborator_id": 4,
+      "services": "['ELAB DE MICA -SUBARU LEGACY']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 895,
+      "work_order_id": 297,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP CON REP DE PATAS - H100']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 896,
+      "work_order_id": 298,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 FOCOS - SUZUKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 897,
+      "work_order_id": 299,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP - I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 898,
+      "work_order_id": 301,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP CON REP DE BASE - FOR RUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 899,
+      "work_order_id": 302,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - SPARK']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 900,
+      "work_order_id": 303,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-25T16:36:01.491593",
+  "timestamp": "2025-08-26T14:14:27.868820",
   "machine_id": "92384126569428"
 }

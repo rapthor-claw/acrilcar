@@ -9879,8 +9879,232 @@
       "activity": "Ingreso de caja para la orden: 0254 - monto: 2800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3566,
+      "datetime": "2025-08-26 19:53:55",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3567,
+      "datetime": "2025-08-26 19:56:07",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARCOS LAZO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3568,
+      "datetime": "2025-08-26 19:56:41",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36096",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3569,
+      "datetime": "2025-08-26 19:58:03",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36097",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3570,
+      "datetime": "2025-08-26 19:58:49",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JAVIER BETANCO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3571,
+      "datetime": "2025-08-26 19:59:00",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JOINER LAZO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3572,
+      "datetime": "2025-08-26 19:59:13",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MELKING JARQUIN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3573,
+      "datetime": "2025-08-26 19:59:27",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DENIS IZAGUIRRE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3574,
+      "datetime": "2025-08-26 19:59:51",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LINDA ROMERO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3575,
+      "datetime": "2025-08-26 20:00:04",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARLON AGUILAR",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3576,
+      "datetime": "2025-08-26 20:00:18",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: HORLING BOBADILLA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3577,
+      "datetime": "2025-08-26 20:00:36",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARVIN CANTILLANO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3578,
+      "datetime": "2025-08-26 20:00:56",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: SERVICIO AUTOMOTRIZ BARBERENA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3579,
+      "datetime": "2025-08-26 20:05:21",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0295",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3580,
+      "datetime": "2025-08-26 20:06:17",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0297",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3581,
+      "datetime": "2025-08-26 20:07:13",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0298",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3582,
+      "datetime": "2025-08-26 20:07:57",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0299",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3583,
+      "datetime": "2025-08-26 20:08:40",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0301",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3584,
+      "datetime": "2025-08-26 20:12:36",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0302",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3585,
+      "datetime": "2025-08-26 20:13:10",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0303",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3586,
+      "datetime": "2025-08-26 20:13:31",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0294",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3587,
+      "datetime": "2025-08-26 20:13:39",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0295",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3588,
+      "datetime": "2025-08-26 20:13:46",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0297",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3589,
+      "datetime": "2025-08-26 20:13:52",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0298",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3590,
+      "datetime": "2025-08-26 20:13:59",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0299",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3591,
+      "datetime": "2025-08-26 20:14:06",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0301",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3592,
+      "datetime": "2025-08-26 20:14:12",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0302",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3593,
+      "datetime": "2025-08-26 20:14:17",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0303",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-25T16:36:01.613584",
+  "timestamp": "2025-08-26T14:14:27.963198",
   "machine_id": "92384126569428"
 }

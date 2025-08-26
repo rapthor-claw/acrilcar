@@ -2980,8 +2980,118 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 911,
+      "name": "MARCOS LAZO",
+      "contact_1": "86981251",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 912,
+      "name": "JAVIER BETANCO",
+      "contact_1": "58534133",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 913,
+      "name": "JOINER LAZO",
+      "contact_1": "89317000",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 914,
+      "name": "MELKING JARQUIN",
+      "contact_1": "57920336",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 915,
+      "name": "DENIS IZAGUIRRE",
+      "contact_1": "88608627",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 916,
+      "name": "LINDA ROMERO",
+      "contact_1": "88643136",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 917,
+      "name": "MARLON AGUILAR",
+      "contact_1": "86299804",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 918,
+      "name": "HORLING BOBADILLA",
+      "contact_1": "88765106",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 919,
+      "name": "MARVIN CANTILLANO",
+      "contact_1": "83242045",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 920,
+      "name": "SERVICIO AUTOMOTRIZ BARBERENA",
+      "contact_1": "88851412",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-25T16:36:01.599319",
+  "timestamp": "2025-08-26T14:14:27.943197",
   "machine_id": "92384126569428"
 }

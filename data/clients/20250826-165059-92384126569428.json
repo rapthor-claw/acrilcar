@@ -3090,8 +3090,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 921,
+      "name": "REYNA MEDRANO",
+      "contact_1": "57111850",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 922,
+      "name": "GUILLERMO PORRAS",
+      "contact_1": "84776282",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 923,
+      "name": "JOSE LUIS GUTIERREZ",
+      "contact_1": "89194729",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 924,
+      "name": "GUSTAVO CALERO",
+      "contact_1": "78777170",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-26T15:33:11.455816",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-26T16:50:59.704826",
+  "machine_id": "92384126569428"
 }

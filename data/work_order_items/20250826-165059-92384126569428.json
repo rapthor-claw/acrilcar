@@ -2391,8 +2391,48 @@
       "services": "['ELAB DE 2 FOCOS - HILUX']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 901,
+      "work_order_id": 304,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO CON REP DE BASE - KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 902,
+      "work_order_id": 305,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP Y 2 PIDE VIAS PULIDO DE FOCOS - DAEWOOD FINO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 903,
+      "work_order_id": 306,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP PARTE AFECTADA - COROLLA CROSS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 904,
+      "work_order_id": 307,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP - VERNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 905,
+      "work_order_id": 36098,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-26T15:33:11.362096",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-26T16:50:59.550429",
+  "machine_id": "92384126569428"
 }

@@ -3244,8 +3244,96 @@
       "note": "ROC 30109 (CANCELACION)",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 735,
+      "work_order_id": 36096,
+      "payment_date": "2025-08-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "roc 30110 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 736,
+      "work_order_id": 275,
+      "payment_date": "2025-08-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3400,
+      "note": "ROC 30111 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 737,
+      "work_order_id": 36081,
+      "payment_date": "2025-08-26",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 30112 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 738,
+      "work_order_id": 35893,
+      "payment_date": "2025-08-26",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 4900,
+      "note": "ROC 30113 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 739,
+      "work_order_id": 281,
+      "payment_date": "2025-08-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2300,
+      "note": "ROC 30114 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 740,
+      "work_order_id": 36094,
+      "payment_date": "2025-08-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 900,
+      "note": "ROC 30115 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 741,
+      "work_order_id": 303,
+      "payment_date": "2025-08-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3000,
+      "note": "ROC 30116 ADELANTO ELAB. DE 2 FOCOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 742,
+      "work_order_id": 291,
+      "payment_date": "2025-08-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 800,
+      "note": "ROC 30117 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-26T14:22:28.761384",
+  "timestamp": "2025-08-26T15:33:11.377712",
   "machine_id": "26830028058983"
 }

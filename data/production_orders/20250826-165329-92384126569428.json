@@ -3584,8 +3584,23 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 673,
+      "work_order_id": "0296",
+      "start_date": "2025-08-26 16:52",
+      "end_date": "2025-08-28 16:00",
+      "colaborador_id": 2,
+      "client_id": 913,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE FOCO REP PATAS - L200\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-26T16:51:28.939201",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-26T16:53:29.687228",
+  "machine_id": "92384126569428"
 }

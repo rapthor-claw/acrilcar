@@ -2439,8 +2439,72 @@
       "services": "['ELAB DE FOCO REP PATAS - L200']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 907,
+      "work_order_id": 308,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP Y 2 FOCOS Y 2 PIDE VIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 908,
+      "work_order_id": 309,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - GREAT WALL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 909,
+      "work_order_id": 310,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP Y ELAB DE PIDE VIA - COASTER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 910,
+      "work_order_id": 311,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 911,
+      "work_order_id": 313,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 3 STOP - RUSH']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 912,
+      "work_order_id": 314,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 913,
+      "work_order_id": 315,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP - DMAX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 914,
+      "work_order_id": 316,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP Y PULIDO DE 2 FOCOS- YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-26T16:53:29.400492",
+  "timestamp": "2025-08-27T13:36:14.099500",
   "machine_id": "92384126569428"
 }

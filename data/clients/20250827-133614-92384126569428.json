@@ -3134,8 +3134,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 925,
+      "name": "CESAR RODRIGUEZ",
+      "contact_1": "82438399",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 926,
+      "name": "DIXON CASTRO",
+      "contact_1": "88543097",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 927,
+      "name": "KEVIN MORALES",
+      "contact_1": "77034800",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 928,
+      "name": "TALLER AUTOTECH",
+      "contact_1": "84023726",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 929,
+      "name": "ERVIN MALTEZ",
+      "contact_1": "84373949",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 930,
+      "name": "ARVIN MENDEZ",
+      "contact_1": "86410994",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 931,
+      "name": "JANN JIMENEZ",
+      "contact_1": "88552262",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-26T16:53:29.590072",
+  "timestamp": "2025-08-27T13:36:14.185557",
   "machine_id": "92384126569428"
 }

@@ -10255,8 +10255,144 @@
       "activity": "Ingreso de caja para la orden: 0293 - monto: 300",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3613,
+      "datetime": "2025-08-26 23:29:44",
+      "username": "Allisson",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3614,
+      "datetime": "2025-08-27 15:39:49",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3615,
+      "datetime": "2025-08-27 18:08:10",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0308",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3616,
+      "datetime": "2025-08-27 19:26:32",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CESAR RODRIGUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3617,
+      "datetime": "2025-08-27 19:26:56",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DIXON CASTRO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3618,
+      "datetime": "2025-08-27 19:27:43",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: KEVIN MORALES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3619,
+      "datetime": "2025-08-27 19:28:14",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: TALLER AUTOTECH",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3620,
+      "datetime": "2025-08-27 19:28:34",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ERVIN MALTEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3621,
+      "datetime": "2025-08-27 19:29:28",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ARVIN MENDEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3622,
+      "datetime": "2025-08-27 19:30:24",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JANN JIMENEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3623,
+      "datetime": "2025-08-27 19:31:24",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0309",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3624,
+      "datetime": "2025-08-27 19:32:05",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0310",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3625,
+      "datetime": "2025-08-27 19:32:48",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0311",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3626,
+      "datetime": "2025-08-27 19:33:36",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0313",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3627,
+      "datetime": "2025-08-27 19:34:09",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0314",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3628,
+      "datetime": "2025-08-27 19:34:45",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0315",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3629,
+      "datetime": "2025-08-27 19:35:30",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0316",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-26T16:53:29.632069",
+  "timestamp": "2025-08-27T13:36:14.205588",
   "machine_id": "92384126569428"
 }

@@ -10535,8 +10535,40 @@
       "activity": "Ingreso de caja para la orden: 0309 - monto: 3000",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3648,
+      "datetime": "2025-08-27 23:23:20",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36104",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3649,
+      "datetime": "2025-08-27 23:23:53",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36105",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3650,
+      "datetime": "2025-08-27 23:24:35",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36106",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3651,
+      "datetime": "2025-08-27 23:25:38",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36091",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-27T17:19:49.226614",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-27T17:25:46.159075",
+  "machine_id": "92384126569428"
 }

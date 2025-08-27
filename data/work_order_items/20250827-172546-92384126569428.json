@@ -2551,8 +2551,48 @@
       "services": "['ELAB DE FOCO - JMC']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 921,
+      "work_order_id": 36103,
+      "colaborator_id": 14,
+      "services": "['VENTA DE 4 HABLADORES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 922,
+      "work_order_id": 36104,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y CROMO DE 2 FOCOS - SENTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 923,
+      "work_order_id": 36105,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE FOCOS PINTURA NEGRA - N300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 924,
+      "work_order_id": 36106,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 3 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 925,
+      "work_order_id": 36091,
+      "colaborator_id": 13,
+      "services": "['REP DE TAPA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-27T17:19:49.117260",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-27T17:25:46.048155",
+  "machine_id": "92384126569428"
 }

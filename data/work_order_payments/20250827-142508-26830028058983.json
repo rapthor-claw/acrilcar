@@ -3376,8 +3376,30 @@
       "note": "ROC 30123 CANCELACION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 747,
+      "work_order_id": 304,
+      "payment_date": "2025-08-26",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 2000,
+      "note": "ROC 30118 ADELANTO DE ELABORACION DE 1 FOCO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 748,
+      "work_order_id": 305,
+      "payment_date": "2025-08-26",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 3600,
+      "note": "ROC 30119 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-27T13:36:14.118923",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-27T14:25:08.233438",
+  "machine_id": "26830028058983"
 }

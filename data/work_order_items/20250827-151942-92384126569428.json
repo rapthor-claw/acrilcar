@@ -2503,8 +2503,56 @@
       "services": "['ELAB DE 2 STOP Y PULIDO DE 2 FOCOS- YARIS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 915,
+      "work_order_id": 36099,
+      "colaborator_id": 9,
+      "services": "['CORTE DE 60X60']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 916,
+      "work_order_id": 36100,
+      "colaborator_id": 12,
+      "services": "['COMPLEMENTO OT 0211 CHBETAS - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 917,
+      "work_order_id": 36101,
+      "colaborator_id": 9,
+      "services": "['VENTA DE 1 LITRO DE SOLVENTE $40']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 918,
+      "work_order_id": 36102,
+      "colaborator_id": 13,
+      "services": "['ELAB DE CIRCULO PARA MANOMETRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 919,
+      "work_order_id": 317,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP MATERIAL LISO - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 920,
+      "work_order_id": 318,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO - JMC']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-27T15:12:04.291315",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-27T15:19:42.852725",
+  "machine_id": "92384126569428"
 }

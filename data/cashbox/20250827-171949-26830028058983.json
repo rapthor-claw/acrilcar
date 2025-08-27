@@ -6577,8 +6577,73 @@
       "order_id": 36090,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1069,
+      "fecha": "2025-08-27",
+      "descripcion": "ROC 30141 EL RECIBO ESTA POR C$2,150 POR QUE SE PAGO ENVIO POR C$150.00",
+      "monto": 2000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 296,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1070,
+      "fecha": "2025-08-27",
+      "descripcion": "ROC 30142 CANCELACION",
+      "monto": 800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 299,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1071,
+      "fecha": "2025-08-27",
+      "descripcion": "ROC 30142",
+      "monto": 800.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 12,
+      "user_id": "Yamileth",
+      "order_id": 299,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1072,
+      "fecha": "2025-08-27",
+      "descripcion": "ROC 30143 CANCELACION ",
+      "monto": 800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 303,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1073,
+      "fecha": "2025-08-27",
+      "descripcion": "ROC 30144 CANCELACION",
+      "monto": 3000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 309,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-27T16:56:54.735452",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-27T17:19:49.148476",
+  "machine_id": "26830028058983"
 }

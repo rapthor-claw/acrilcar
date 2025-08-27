@@ -3519,8 +3519,52 @@
       "note": "ROC 30137 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 760,
+      "work_order_id": 296,
+      "payment_date": "2025-08-27",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2000,
+      "note": "ROC 30141 EL RECIBO ESTA POR C$2,150 POR QUE SE PAGO ENVIO POR C$150.00",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 761,
+      "work_order_id": 299,
+      "payment_date": "2025-08-27",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 800,
+      "note": "ROC 30142 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 762,
+      "work_order_id": 303,
+      "payment_date": "2025-08-27",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 800,
+      "note": "ROC 30143 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 763,
+      "work_order_id": 309,
+      "payment_date": "2025-08-27",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3000,
+      "note": "ROC 30144 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-27T16:56:54.727530",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-27T17:19:49.132878",
+  "machine_id": "26830028058983"
 }

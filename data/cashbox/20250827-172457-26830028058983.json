@@ -6642,8 +6642,47 @@
       "order_id": 309,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1074,
+      "fecha": "2025-08-27",
+      "descripcion": "ROC 30132 CANCELACION",
+      "monto": 1300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 10,
+      "user_id": "Yamileth",
+      "order_id": 36099,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1075,
+      "fecha": "2025-08-27",
+      "descripcion": "ROC 30132",
+      "monto": 1300.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 1,
+      "user_id": "Yamileth",
+      "order_id": 36099,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1076,
+      "fecha": "2025-08-27",
+      "descripcion": "ROC 30133 CANCELACION",
+      "monto": 200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36100,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-27T17:25:46.097701",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-08-27T17:24:57.421169",
+  "machine_id": "26830028058983"
 }

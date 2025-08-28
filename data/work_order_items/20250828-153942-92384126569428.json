@@ -2591,8 +2591,104 @@
       "services": "['REP DE TAPA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 926,
+      "work_order_id": 319,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 927,
+      "work_order_id": 321,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - RUSH']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 928,
+      "work_order_id": 322,
+      "colaborator_id": 2,
+      "services": "['ELAB DE PARRILLA LED - ECLIPSE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 929,
+      "work_order_id": 323,
+      "colaborator_id": 12,
+      "services": "['ELB DE 2 FOCOS Y 2 STOP - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 930,
+      "work_order_id": 324,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS Y 2 PIDE VIAS CON REP DE BASE - JMC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 931,
+      "work_order_id": 325,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 FOCO - MAZDA CX5']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 932,
+      "work_order_id": 326,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 TABLERO - INTER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 933,
+      "work_order_id": 327,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO CON REP - HONDA CIVIC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 934,
+      "work_order_id": 328,
+      "colaborator_id": 4,
+      "services": "['ELAB DE MICA DE RETROVISOR MAS LED - BYD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 935,
+      "work_order_id": 36107,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 VISOR - CASCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 936,
+      "work_order_id": 36108,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO - BYD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 937,
+      "work_order_id": 36109,
+      "colaborator_id": 13,
+      "services": "['CORTE PVC Y ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-27T17:44:01.130019",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-28T15:39:42.249518",
+  "machine_id": "92384126569428"
 }

@@ -3618,8 +3618,151 @@
       "note": "ROC 30145 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 769,
+      "work_order_id": 321,
+      "payment_date": "2025-08-28",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 3150,
+      "note": "ROC 30146 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 770,
+      "work_order_id": 323,
+      "payment_date": "2025-08-28",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 5000,
+      "note": "ROC 30147 ADELANTO E FOCOS Y STOP",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 771,
+      "work_order_id": 324,
+      "payment_date": "2025-08-28",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3650,
+      "note": "ROC 30148 ADELANTO DE ELABORACION DE 2 FOCOS Y 2 PIDEVIAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 772,
+      "work_order_id": 36102,
+      "payment_date": "2025-08-28",
+      "payment_method": "transferencia",
+      "payment": "Yamileth",
+      "user_log_registration": 200,
+      "note": "ROC 30149 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 773,
+      "work_order_id": 36098,
+      "payment_date": "2025-08-28",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 0,
+      "note": "ROC 30150 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 774,
+      "work_order_id": 286,
+      "payment_date": "2025-08-28",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 3000,
+      "note": "ROC 30151 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 775,
+      "work_order_id": 289,
+      "payment_date": "2025-08-28",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 300,
+      "note": "ROC 30152 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 776,
+      "work_order_id": 326,
+      "payment_date": "2025-08-28",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1000,
+      "note": "ROC 30153 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 777,
+      "work_order_id": 324,
+      "payment_date": "2025-08-28",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 750,
+      "note": "ROC 30154 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 778,
+      "work_order_id": 36107,
+      "payment_date": "2025-08-28",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 100,
+      "note": "ROC 30155 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 779,
+      "work_order_id": 323,
+      "payment_date": "2025-08-28",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1400,
+      "note": "ROC 30157 ADELANTO DE FOCOS Y STOP",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 780,
+      "work_order_id": 311,
+      "payment_date": "2025-08-28",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 5000,
+      "note": "ROC 30158 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 781,
+      "work_order_id": 36105,
+      "payment_date": "2025-08-28",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 600,
+      "note": "ROC 30159 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-28T16:44:23.596256",
+  "timestamp": "2025-08-28T17:15:13.704391",
   "machine_id": "26830028058983"
 }

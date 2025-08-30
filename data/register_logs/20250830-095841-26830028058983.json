@@ -10983,8 +10983,80 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3704,
+      "datetime": "2025-08-29 21:09:45",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3705,
+      "datetime": "2025-08-29 21:10:31",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 140",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3706,
+      "datetime": "2025-08-29 21:11:32",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3707,
+      "datetime": "2025-08-29 21:12:17",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 10136",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3708,
+      "datetime": "2025-08-29 21:13:09",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3709,
+      "datetime": "2025-08-29 23:20:16",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 225",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3710,
+      "datetime": "2025-08-29 23:20:36",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3711,
+      "datetime": "2025-08-29 23:26:36",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3712,
+      "datetime": "2025-08-30 15:55:44",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-29T14:14:49.811252",
+  "timestamp": "2025-08-30T09:58:41.632288",
   "machine_id": "26830028058983"
 }

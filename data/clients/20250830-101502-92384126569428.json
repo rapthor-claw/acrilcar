@@ -3387,8 +3387,129 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 948,
+      "name": "CRISTOPHER HERNANDEZ",
+      "contact_1": "84265453",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 949,
+      "name": "INDULAC",
+      "contact_1": "81896853",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 950,
+      "name": "JOEL CARRANZA",
+      "contact_1": "76347934",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 951,
+      "name": "WILLIAM MENDEZ",
+      "contact_1": "77690409",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 952,
+      "name": "ISMAEL ROBLETO",
+      "contact_1": "83787126",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 953,
+      "name": "HECTOR ARCIA",
+      "contact_1": "87936446",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 954,
+      "name": "MAURICIO CALERO",
+      "contact_1": "78545296",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 955,
+      "name": "SOBEYDA MARTINEZ",
+      "contact_1": "57262541",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 956,
+      "name": "TRANSPORTE SIRA",
+      "contact_1": "83963917",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 957,
+      "name": "WILFREDO DIAZ",
+      "contact_1": "81600022",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 958,
+      "name": "ROBERTO ROMERO",
+      "contact_1": "89702395",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-30T09:58:41.601030",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-30T10:15:02.725556",
+  "machine_id": "92384126569428"
 }

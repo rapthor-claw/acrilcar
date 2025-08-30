@@ -2687,8 +2687,152 @@
       "services": "['CORTE PVC Y ACRILICO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 938,
+      "work_order_id": 36110,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS CON REP DE BASE Y SELLADO DE FILTRACION - HAJMA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 939,
+      "work_order_id": 36111,
+      "colaborator_id": 13,
+      "services": "['REP DE EXHIBIDOR (PEGAR BISAGRAS)']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 940,
+      "work_order_id": 36112,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - HONDA CIVIC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 941,
+      "work_order_id": 329,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 HALOGENOS C$800', 'PULIDO DE 2 FOCOS - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 942,
+      "work_order_id": 330,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - EON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 943,
+      "work_order_id": 331,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP - SUNNY']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 944,
+      "work_order_id": 332,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIDE VIA CON REP DE BSE Y ELAB DE 1 PIDE VIA SOLO MICA - MAZDA 323']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 945,
+      "work_order_id": 333,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 REFLECTORES - AGYA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 946,
+      "work_order_id": 280,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS Y 3 PIDE VIAS 3800C$', 'PULIDO DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 947,
+      "work_order_id": 334,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 PIDE VIAS C$1400', 'PULIDO DE 2 FOCOS - DYNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 948,
+      "work_order_id": 335,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 949,
+      "work_order_id": 336,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - DMAX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 950,
+      "work_order_id": 337,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP EN MATERIAL RAYADO - MONTA CARGA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 951,
+      "work_order_id": 338,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 952,
+      "work_order_id": 339,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 4 STOP - RAV4']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 953,
+      "work_order_id": 340,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 954,
+      "work_order_id": 36113,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE STOP REP PATAS Y PONER CHABETAS - l200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 955,
+      "work_order_id": 36114,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 HALOGENO - GRAND I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-30T09:58:41.507307",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-08-30T10:15:02.634128",
+  "machine_id": "92384126569428"
 }

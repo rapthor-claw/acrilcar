@@ -2831,8 +2831,72 @@
       "services": "['PULIDO DE 1 HALOGENO - GRAND I10']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 956,
+      "work_order_id": 341,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP MAS PERNOS,1 PIDEVIA CON RECONSTRUCCION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 957,
+      "work_order_id": 342,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 958,
+      "work_order_id": 343,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP BUMPER CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 959,
+      "work_order_id": 344,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 960,
+      "work_order_id": 345,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE PARTE AFECTADA Y 1 LATERAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 961,
+      "work_order_id": 346,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 962,
+      "work_order_id": 347,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 HALOGENO MAS REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 963,
+      "work_order_id": 36115,
+      "colaborator_id": 9,
+      "services": "['REPARACION DE PUERTA DE LAVADORA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-30T10:14:56.963157",
+  "timestamp": "2025-08-30T11:19:52.176180",
   "machine_id": "26830028058983"
 }

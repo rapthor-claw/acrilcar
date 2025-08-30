@@ -3508,8 +3508,96 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 959,
+      "name": "REYNALDO TRAÑA",
+      "contact_1": "77760431",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 960,
+      "name": "URIEL ZAVALA",
+      "contact_1": "58421410",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 961,
+      "name": "AUTO SERVICIO SANTA ANA",
+      "contact_1": "89826359",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 962,
+      "name": "CARLOS MORALES",
+      "contact_1": "76203141",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 963,
+      "name": "HAMILTON PAYAN",
+      "contact_1": "75483470",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 964,
+      "name": "ALFREDO SALINAS",
+      "contact_1": "89833811",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 965,
+      "name": "MARIO MOJICA ",
+      "contact_1": "84588822",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 966,
+      "name": "MARIO LOPEZ",
+      "contact_1": "57416802",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-30T10:14:57.056863",
+  "timestamp": "2025-08-30T11:19:52.269931",
   "machine_id": "26830028058983"
 }

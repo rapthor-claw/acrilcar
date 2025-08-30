@@ -95,8 +95,16 @@
       "descripcion": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 38,
+      "nombre": "SALIDA DE PAGOS POR MEDIO DE TRANFERENCIA LA FISE",
+      "tipo": "egreso",
+      "descripcion": "SALIDA DE PAGOS POR MEDIO DE TRANFERENCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-08-30T11:19:52.238661",
+  "timestamp": "2025-08-30T12:10:10.196099",
   "machine_id": "26830028058983"
 }

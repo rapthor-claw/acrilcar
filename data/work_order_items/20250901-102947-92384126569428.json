@@ -2895,8 +2895,64 @@
       "services": "['REPARACION DE PUERTA DE LAVADORA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 964,
+      "work_order_id": 348,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP Y 1 PIDE VIA - H100']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 965,
+      "work_order_id": 349,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIEZA - MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 966,
+      "work_order_id": 350,
+      "colaborator_id": 5,
+      "services": "['ELAB DE VISOR AHUMADO - MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 967,
+      "work_order_id": 351,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP PARTE ROJA - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 968,
+      "work_order_id": 36116,
+      "colaborator_id": 13,
+      "services": "['ELAB DE TROFROS IMPRESION FULL COLOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 969,
+      "work_order_id": 312,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - KIA RIO C$1600', 'PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 970,
+      "work_order_id": 320,
+      "colaborator_id": 4,
+      "services": "['VISOR AHUMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-01T09:58:47.531864",
+  "timestamp": "2025-09-01T10:29:47.172337",
   "machine_id": "92384126569428"
 }

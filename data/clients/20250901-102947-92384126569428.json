@@ -3596,8 +3596,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 967,
+      "name": "MARIO ZUÑIGA",
+      "contact_1": "82004018",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 968,
+      "name": "ARACELLY MARTINEZ",
+      "contact_1": "57579880",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 969,
+      "name": "JUAN SILVA",
+      "contact_1": "84853204",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 970,
+      "name": "CARLOS GOMEZ",
+      "contact_1": "77325245",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 971,
+      "name": "CONIMOTO",
+      "contact_1": "77325245",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 972,
+      "name": "LEO FRENOS",
+      "contact_1": "83786027",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-01T09:58:47.652551",
+  "timestamp": "2025-09-01T10:29:47.298287",
   "machine_id": "92384126569428"
 }

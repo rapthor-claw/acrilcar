@@ -3805,8 +3805,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 986,
+      "name": "FRANCISCO TORRES",
+      "contact_1": "77197009",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-01T16:58:39.888762",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-01T17:00:07.810553",
+  "machine_id": "92384126569428"
 }

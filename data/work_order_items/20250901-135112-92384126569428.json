@@ -2951,8 +2951,80 @@
       "services": "['VISOR AHUMADO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 971,
+      "work_order_id": 352,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 972,
+      "work_order_id": 353,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 MICAS DE RETROVISOR EN AMARILLO - DMAX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 973,
+      "work_order_id": 354,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP - DMAX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 974,
+      "work_order_id": 355,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS - HONDA CIVIC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 975,
+      "work_order_id": 356,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 PIEZAS CONTRARIAS - HAIMA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 976,
+      "work_order_id": 357,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP PARTE AMARILLA - DAIHATSUN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 977,
+      "work_order_id": 358,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - L200 C$2800', 'PULIDO DEL OTRO STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 978,
+      "work_order_id": 359,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 979,
+      "work_order_id": 360,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 PIDE VIAS - IZUSU C$ 1600', 'PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-01T10:29:47.172337",
+  "timestamp": "2025-09-01T13:51:12.941883",
   "machine_id": "92384126569428"
 }

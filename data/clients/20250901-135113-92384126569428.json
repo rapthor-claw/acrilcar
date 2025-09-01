@@ -3662,8 +3662,96 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 973,
+      "name": "KEVIN MEDRANO",
+      "contact_1": "85460412",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 974,
+      "name": "JAVIER BLANDON",
+      "contact_1": "86590628",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 975,
+      "name": "MARTIN OPORTA",
+      "contact_1": "58874317",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 976,
+      "name": "JIMMY GONZALEZ",
+      "contact_1": "87963305",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 977,
+      "name": "ALCIDES SOTELO",
+      "contact_1": "84893809",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 978,
+      "name": "MOISES ALVAREZ",
+      "contact_1": "88993611",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 979,
+      "name": "EDGAR MONGE",
+      "contact_1": "76122365",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 980,
+      "name": "MAYNOR CASTRO",
+      "contact_1": "86333186",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-01T10:29:47.298287",
+  "timestamp": "2025-09-01T13:51:13.013984",
   "machine_id": "92384126569428"
 }

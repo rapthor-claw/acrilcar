@@ -3750,8 +3750,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 981,
+      "name": "MIURY ALEXA CHAVEZ",
+      "contact_1": "76329438",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 982,
+      "name": "JUAN NAVAS",
+      "contact_1": "0",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 983,
+      "name": "DILAN GARCIA",
+      "contact_1": "58302487",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 984,
+      "name": "BRANDON VASQUEZ",
+      "contact_1": "88141653",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 985,
+      "name": "VICTOR TERCERO",
+      "contact_1": "88737325",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-01T13:51:03.774182",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-01T16:10:10.016215",
+  "machine_id": "92384126569428"
 }

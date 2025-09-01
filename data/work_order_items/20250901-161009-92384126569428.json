@@ -3023,8 +3023,48 @@
       "services": "['ELAB DE 2 PIDE VIAS - IZUSU C$ 1600', 'PULIDO DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 980,
+      "work_order_id": 361,
+      "colaborator_id": 2,
+      "services": "['ELAB FOCO - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 981,
+      "work_order_id": 36117,
+      "colaborator_id": 7,
+      "services": "['CMBIO DE BUJIAS - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 982,
+      "work_order_id": 363,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 983,
+      "work_order_id": 364,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 PIDE VIAS - MAZDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 984,
+      "work_order_id": 365,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 PIDE VIA - COASTER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-01T13:51:03.631396",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-01T16:10:09.936365",
+  "machine_id": "92384126569428"
 }

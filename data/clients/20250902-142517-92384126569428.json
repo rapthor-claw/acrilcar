@@ -3904,8 +3904,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 995,
+      "name": "JEAN CARLOS FUNEZ ESTRADA",
+      "contact_1": "77155199",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 996,
+      "name": "BISMARCK GRIJALVA",
+      "contact_1": "84080961",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T11:57:44.713772",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-02T14:25:17.014403",
+  "machine_id": "92384126569428"
 }

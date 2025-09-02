@@ -4544,8 +4544,38 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 737,
+      "work_order_id": "0374",
+      "start_date": "2025-09-02 13:45",
+      "end_date": "2025-09-03 13:00",
+      "colaborador_id": 2,
+      "client_id": 995,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE TERCERA LUZ - HILUX\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 738,
+      "work_order_id": "0375",
+      "start_date": "2025-09-02 13:46",
+      "end_date": "2025-09-03 16:00",
+      "colaborador_id": 2,
+      "client_id": 996,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE STOP TOTAL - NP300\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T11:57:44.791878",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-02T14:25:17.077756",
+  "machine_id": "92384126569428"
 }

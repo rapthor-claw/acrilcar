@@ -3151,8 +3151,24 @@
       "services": "['SUMINISTRO DE 2 CORTES ACRILICOS DE 3 MM DE ESPESOR CON MEDIDAS: 76.5 CM DE DIAMETRO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 996,
+      "work_order_id": 374,
+      "colaborator_id": 2,
+      "services": "['ELAB DE TERCERA LUZ - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 997,
+      "work_order_id": 375,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP TOTAL - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T11:57:44.620081",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-02T14:25:16.919149",
+  "machine_id": "92384126569428"
 }

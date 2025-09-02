@@ -12687,8 +12687,56 @@
       "activity": "Creo la orden de producción: 0372",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3917,
+      "datetime": "2025-09-02 19:44:30",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JEAN CARLOS FUNEZ ESTRADA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3918,
+      "datetime": "2025-09-02 19:45:12",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: BISMARCK GRIJALVA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3919,
+      "datetime": "2025-09-02 19:46:05",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0374",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3920,
+      "datetime": "2025-09-02 19:46:39",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0375",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3921,
+      "datetime": "2025-09-02 19:46:53",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0374",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3922,
+      "datetime": "2025-09-02 19:47:00",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0375",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T11:57:44.745030",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-02T14:25:17.030106",
+  "machine_id": "92384126569428"
 }

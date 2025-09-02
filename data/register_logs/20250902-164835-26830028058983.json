@@ -12799,8 +12799,80 @@
       "activity": "Creo la orden de trabajo: 0376",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3931,
+      "datetime": "2025-09-02 21:55:37",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0223 - monto: 350",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3932,
+      "datetime": "2025-09-02 21:56:41",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0360 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3933,
+      "datetime": "2025-09-02 22:01:32",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 175",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3934,
+      "datetime": "2025-09-02 22:02:01",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3935,
+      "datetime": "2025-09-02 22:18:39",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0361 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3936,
+      "datetime": "2025-09-02 22:20:20",
+      "username": "Yamileth",
+      "activity": "Agrego movimiento: PAGO TARJETA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3937,
+      "datetime": "2025-09-02 22:21:26",
+      "username": "Yamileth",
+      "activity": "Agrego movimiento: SALIDA DE PAGOS POR MEDIO DE TARJETA FICOHSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3938,
+      "datetime": "2025-09-02 22:22:43",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3939,
+      "datetime": "2025-09-02 22:33:40",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0357 - monto: 600",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T16:49:43.782467",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-02T16:48:35.206040",
+  "machine_id": "26830028058983"
 }

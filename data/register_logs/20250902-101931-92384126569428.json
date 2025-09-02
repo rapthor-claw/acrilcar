@@ -12551,8 +12551,96 @@
       "activity": "Salida de caja, monto: 259",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3900,
+      "datetime": "2025-09-02 16:03:09",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DONALD RIVERA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3901,
+      "datetime": "2025-09-02 16:03:45",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0371",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3902,
+      "datetime": "2025-09-02 16:16:07",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0368",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3903,
+      "datetime": "2025-09-02 16:16:13",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0369",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3904,
+      "datetime": "2025-09-02 16:16:21",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0370",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3905,
+      "datetime": "2025-09-02 16:16:29",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 0371",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3906,
+      "datetime": "2025-09-02 16:16:38",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36120",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3907,
+      "datetime": "2025-09-02 16:17:26",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3908,
+      "datetime": "2025-09-02 16:18:36",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36118",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3909,
+      "datetime": "2025-09-02 16:19:10",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36119",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3910,
+      "datetime": "2025-09-02 16:19:21",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36119",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-01T17:15:01.350568",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-02T10:19:31.812481",
+  "machine_id": "92384126569428"
 }

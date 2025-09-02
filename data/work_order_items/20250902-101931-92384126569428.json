@@ -3071,8 +3071,72 @@
       "services": "['ELAB DE FOCO - HRV', 'PULIDO DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 986,
+      "work_order_id": 367,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 987,
+      "work_order_id": 368,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 988,
+      "work_order_id": 369,
+      "colaborator_id": 4,
+      "services": "['ELAB DE ROMPEVIENTO - MOTO KAWASAKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 989,
+      "work_order_id": 370,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 990,
+      "work_order_id": 36120,
+      "colaborator_id": 7,
+      "services": "['PEGADO Y PULIDO DE 1 STOP - KIA RIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 991,
+      "work_order_id": 371,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 4 PIDE VIAS - UD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 992,
+      "work_order_id": 36118,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 993,
+      "work_order_id": 36119,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-01T17:15:01.241212",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-02T10:19:31.706817",
+  "machine_id": "92384126569428"
 }

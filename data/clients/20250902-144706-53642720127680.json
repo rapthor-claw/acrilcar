@@ -3926,8 +3926,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 997,
+      "name": "OSWALDO BERMUDEZ",
+      "contact_1": "87599594",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T14:45:22.754512",
+  "timestamp": "2025-09-02T14:47:06.043436",
   "machine_id": "53642720127680"
 }

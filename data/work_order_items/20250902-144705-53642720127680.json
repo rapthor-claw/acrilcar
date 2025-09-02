@@ -3167,8 +3167,16 @@
       "services": "['ELAB DE STOP TOTAL - NP300']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 998,
+      "work_order_id": 36122,
+      "colaborator_id": 7,
+      "services": "['PULIDO Y CROMADO DE 2 HALOGENOS -CLICK']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T14:45:22.622381",
+  "timestamp": "2025-09-02T14:47:05.952575",
   "machine_id": "53642720127680"
 }

@@ -12759,8 +12759,32 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3926,
+      "datetime": "2025-09-02 20:45:50",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: OSWALDO BERMUDEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3927,
+      "datetime": "2025-09-02 20:46:50",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36122",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3928,
+      "datetime": "2025-09-02 20:46:59",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36122",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T14:45:22.807609",
+  "timestamp": "2025-09-02T14:47:06.068961",
   "machine_id": "53642720127680"
 }

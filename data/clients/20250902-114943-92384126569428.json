@@ -3882,8 +3882,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 993,
+      "name": "ALVIN ESPINOZA",
+      "contact_1": "86173462",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 994,
+      "name": "ARROLIGA ARAGON",
+      "contact_1": "77691057",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T10:19:31.788338",
+  "timestamp": "2025-09-02T11:49:43.737690",
   "machine_id": "92384126569428"
 }

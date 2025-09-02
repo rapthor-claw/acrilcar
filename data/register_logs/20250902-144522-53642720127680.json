@@ -12735,8 +12735,32 @@
       "activity": "Creo la orden de producción: 0375",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3923,
+      "datetime": "2025-09-02 20:43:46",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3924,
+      "datetime": "2025-09-02 20:44:00",
+      "username": "Allisson",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3925,
+      "datetime": "2025-09-02 20:45:12",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T14:25:17.030106",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-09-02T14:45:22.807609",
+  "machine_id": "53642720127680"
 }

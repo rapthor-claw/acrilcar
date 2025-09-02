@@ -12783,8 +12783,24 @@
       "activity": "Creo la orden de producción: 36122",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3929,
+      "datetime": "2025-09-02 22:14:53",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: RONNY CASTILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3930,
+      "datetime": "2025-09-02 22:15:33",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0376",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T14:47:06.068961",
+  "timestamp": "2025-09-02T16:49:43.782467",
   "machine_id": "53642720127680"
 }

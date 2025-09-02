@@ -3937,8 +3937,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 998,
+      "name": "RONNY CASTILLO",
+      "contact_1": "78421389",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T14:47:06.043436",
+  "timestamp": "2025-09-02T16:49:43.763727",
   "machine_id": "53642720127680"
 }

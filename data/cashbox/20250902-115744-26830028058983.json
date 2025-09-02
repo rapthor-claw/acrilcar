@@ -8306,8 +8306,21 @@
       "order_id": 1523693,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1202,
+      "fecha": "2025-09-02",
+      "descripcion": "ROC 30171",
+      "monto": 136.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 20,
+      "user_id": "Yamileth",
+      "order_id": 261,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-02T11:49:43.689967",
-  "machine_id": "92384126569428"
+  "timestamp": "2025-09-02T11:57:44.651287",
+  "machine_id": "26830028058983"
 }

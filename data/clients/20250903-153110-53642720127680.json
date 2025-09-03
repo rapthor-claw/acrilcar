@@ -3948,8 +3948,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 999,
+      "name": "TORRETEL SERVICES",
+      "contact_1": "83963226",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1000,
+      "name": "CRESENCIO GUIDO",
+      "contact_1": "84483308",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1001,
+      "name": "EBELIO ALGUERA",
+      "contact_1": "88727368",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1002,
+      "name": "SALOMON CHAVARRIA",
+      "contact_1": "77914080",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1003,
+      "name": "DONALD RIVERA",
+      "contact_1": "77727248",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1004,
+      "name": "TRACSA",
+      "contact_1": "81683495",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1005,
+      "name": "VICENTE NAVAS",
+      "contact_1": "85107008",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-03T14:07:49.115197",
+  "timestamp": "2025-09-03T15:31:10.841282",
   "machine_id": "53642720127680"
 }

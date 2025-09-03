@@ -12871,8 +12871,216 @@
       "activity": "Ingreso de caja para la orden: 0357 - monto: 600",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3940,
+      "datetime": "2025-09-03 20:19:32",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: TORRETEL SERVICES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3941,
+      "datetime": "2025-09-03 20:19:52",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CRESENCIO GUIDO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3942,
+      "datetime": "2025-09-03 20:20:35",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: EBELIO ALGUERA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3943,
+      "datetime": "2025-09-03 20:20:52",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: SALOMON CHAVARRIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3944,
+      "datetime": "2025-09-03 20:21:28",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DONALD RIVERA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3945,
+      "datetime": "2025-09-03 20:24:01",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0377",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3946,
+      "datetime": "2025-09-03 20:24:59",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0378",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3947,
+      "datetime": "2025-09-03 20:28:57",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0379",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3948,
+      "datetime": "2025-09-03 20:31:11",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0380",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3949,
+      "datetime": "2025-09-03 20:33:03",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0381",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3950,
+      "datetime": "2025-09-03 20:34:55",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0382",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3951,
+      "datetime": "2025-09-03 20:43:26",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0383",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3952,
+      "datetime": "2025-09-03 20:44:21",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0384",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3953,
+      "datetime": "2025-09-03 20:47:56",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: TRACSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3954,
+      "datetime": "2025-09-03 20:49:16",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0385",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3955,
+      "datetime": "2025-09-03 20:53:51",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: VICENTE NAVAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3956,
+      "datetime": "2025-09-03 20:55:45",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36123",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3957,
+      "datetime": "2025-09-03 20:56:50",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36124",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3958,
+      "datetime": "2025-09-03 21:08:36",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0339 - monto: 6400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3959,
+      "datetime": "2025-09-03 21:09:21",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0327 - monto: 2600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3960,
+      "datetime": "2025-09-03 21:10:04",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36115 - monto: 1300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3961,
+      "datetime": "2025-09-03 21:10:56",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0378 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3962,
+      "datetime": "2025-09-03 21:11:21",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0306 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3963,
+      "datetime": "2025-09-03 21:15:07",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 0306",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3964,
+      "datetime": "2025-09-03 21:18:47",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0383 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3965,
+      "datetime": "2025-09-03 21:19:49",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0352 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-03T14:07:49.161311",
+  "timestamp": "2025-09-03T15:31:10.857049",
   "machine_id": "53642720127680"
 }

@@ -3183,8 +3183,96 @@
       "services": "['ELAB DE PIEZA DE LATERAL - KIA SOUL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1000,
+      "work_order_id": 377,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1001,
+      "work_order_id": 378,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO DELANTERO, LADO DEL CONDUCTOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1002,
+      "work_order_id": 379,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 4 PIDE VIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1003,
+      "work_order_id": 380,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP CON MTTO DE CROMO Y REP DE BASE EN MATERIAL RAYADO - KIA SPORTAGE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1004,
+      "work_order_id": 381,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP PARTE AMARILLA - LADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1005,
+      "work_order_id": 382,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1006,
+      "work_order_id": 383,
+      "colaborator_id": 2,
+      "services": "['ELAB DE TABLERO - NISSAN UD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1007,
+      "work_order_id": 384,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP PARTE AMARILLO - ECLIPSE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1008,
+      "work_order_id": 385,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 PIDE VIAS REP BASE Y PONER PERNO - CAMION ASTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1009,
+      "work_order_id": 36123,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1010,
+      "work_order_id": 36124,
+      "colaborator_id": 7,
+      "services": "['REP DE CEJA A 1 FOCO - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-03T14:07:48.956267",
+  "timestamp": "2025-09-03T15:31:10.695638",
   "machine_id": "53642720127680"
 }

@@ -4344,8 +4344,85 @@
       "note": "ROC 30226 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 835,
+      "work_order_id": 339,
+      "payment_date": "2025-09-03",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 6400,
+      "note": "ROC 30231 (CANCELACIÓN)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 836,
+      "work_order_id": 327,
+      "payment_date": "2025-09-03",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 2600,
+      "note": "ROC 30232 (CANCELACIÓN)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 837,
+      "work_order_id": 36115,
+      "payment_date": "2025-09-03",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1300,
+      "note": "ROC 30233 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 838,
+      "work_order_id": 378,
+      "payment_date": "2025-09-03",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1000,
+      "note": "ROC 30234 (ANTICIPO)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 839,
+      "work_order_id": 306,
+      "payment_date": "2025-09-03",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 500,
+      "note": "ROC 30235 (CANCELACIÓN)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 840,
+      "work_order_id": 383,
+      "payment_date": "2025-09-03",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 800,
+      "note": "ROC 30236 (CANCELACION)\nPOS BAC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 841,
+      "work_order_id": 352,
+      "payment_date": "2025-09-03",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 2800,
+      "note": "ROC 30237 (CANCELACION)\nTF BANPRO C$",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-03T14:07:48.992393",
+  "timestamp": "2025-09-03T15:31:10.741985",
   "machine_id": "53642720127680"
 }

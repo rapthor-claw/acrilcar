@@ -127,8 +127,16 @@
       "descripcion": "TRANFERENCIA BANPRO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 42,
+      "nombre": "SALIDA DE PAGOS POR MEDIO DE TRANFERENCIA BAC",
+      "tipo": "egreso",
+      "descripcion": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-04T16:41:32.377130",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-04T16:40:32.078843",
+  "machine_id": "26830028058983"
 }

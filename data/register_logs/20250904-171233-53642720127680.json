@@ -13359,8 +13359,16 @@
       "activity": "Creo la orden de trabajo: 36132",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4001,
+      "datetime": "2025-09-04 23:11:52",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36133",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-04T16:40:32.131710",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-04T17:12:33.415989",
+  "machine_id": "53642720127680"
 }

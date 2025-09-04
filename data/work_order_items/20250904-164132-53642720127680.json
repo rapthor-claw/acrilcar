@@ -3271,8 +3271,152 @@
       "services": "['REP DE CEJA A 1 FOCO - SUZUKI ALTO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1011,
+      "work_order_id": 386,
+      "colaborator_id": 2,
+      "services": "['REP DE 2 STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1012,
+      "work_order_id": 387,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1013,
+      "work_order_id": 388,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1014,
+      "work_order_id": 389,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - EON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1015,
+      "work_order_id": 390,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 HALOGENOS - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1016,
+      "work_order_id": 391,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO c$1700 , REP DE BASE C$600 Y PULIDO DE 1 C$800- RAV4']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1017,
+      "work_order_id": 392,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 STOP - ISUZU']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1018,
+      "work_order_id": 393,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - CRETA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1019,
+      "work_order_id": 394,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 PIDE VIAS - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1020,
+      "work_order_id": 395,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO C$2300 PULIDO DE 1 FOCO C$900 MTTO INTERNO - FREIGHTLINER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1021,
+      "work_order_id": 396,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP PARTE BLANCA - SANTA FE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1022,
+      "work_order_id": 36125,
+      "colaborator_id": 13,
+      "services": "['PVC 10 MM CORTE 7 MINUTOS Y ACRILICO NEGRO 6 MINUTOS KERATASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1023,
+      "work_order_id": 36127,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1024,
+      "work_order_id": 36128,
+      "colaborator_id": 13,
+      "services": "['CORTE BLANCO Y CORTE PVC * TRAJERON MATERIAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1025,
+      "work_order_id": 36129,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 HALOGENO Y PULIDO DE 1 - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1026,
+      "work_order_id": 36130,
+      "colaborator_id": 13,
+      "services": "['CORTE 14 JUEGOS DE CHEVRON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1027,
+      "work_order_id": 36131,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1028,
+      "work_order_id": 36132,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-03T17:22:33.742757",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-04T16:41:32.257003",
+  "machine_id": "53642720127680"
 }

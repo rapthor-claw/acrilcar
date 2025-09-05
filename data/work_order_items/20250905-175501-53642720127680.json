@@ -3511,8 +3511,80 @@
       "services": "['ELAB DE PIDE VIA - HD65']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1041,
+      "work_order_id": 408,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP - CHEROKEE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1042,
+      "work_order_id": 409,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - AVANTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1043,
+      "work_order_id": 410,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1044,
+      "work_order_id": 411,
+      "colaborator_id": 2,
+      "services": "['ELAB DE TABLERO - ISUZU']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1045,
+      "work_order_id": 412,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - FORD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1046,
+      "work_order_id": 36138,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - FREIGHTLINER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1047,
+      "work_order_id": 36139,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1048,
+      "work_order_id": 36140,
+      "colaborator_id": 13,
+      "services": "['CORTE DE 2 LAMINAS DE 3 MM EN BLANCO LECHOSO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1049,
+      "work_order_id": 36141,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 2 CORTES ACRILICOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-05T12:48:24.135507",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-05T17:55:01.271600",
+  "machine_id": "53642720127680"
 }

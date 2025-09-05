@@ -4311,8 +4311,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1032,
+      "name": "MAYNOR MONTENEGRO",
+      "contact_1": "77328103",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1033,
+      "name": "JOSE LUIS OLIVAS FLORES",
+      "contact_1": "84458892",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1034,
+      "name": "FRANCISCO PEREZ",
+      "contact_1": "86482925",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1035,
+      "name": "TALLER MORALES",
+      "contact_1": "88953243",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1036,
+      "name": "CESAR / TRANSPORTE VICTORIA",
+      "contact_1": "84312348",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1037,
+      "name": "LUISA TORRES",
+      "contact_1": "85740850",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-05T12:48:24.244856",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-05T17:55:01.457652",
+  "machine_id": "53642720127680"
 }

@@ -3423,8 +3423,96 @@
       "services": "['ELAB DE 2 PLACAS - UD']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1030,
+      "work_order_id": 36134,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 HALOGENO Y 1 FOCO / BT50']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1031,
+      "work_order_id": 36135,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1032,
+      "work_order_id": 36136,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS CON REVISION DE FILTRACION - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1033,
+      "work_order_id": 36137,
+      "colaborator_id": 13,
+      "services": "['CORTE DE POLICARBONATO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1034,
+      "work_order_id": 397,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1035,
+      "work_order_id": 399,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1036,
+      "work_order_id": 400,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1037,
+      "work_order_id": 401,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP - HONDA PILOT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1038,
+      "work_order_id": 402,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - HONDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1039,
+      "work_order_id": 405,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1040,
+      "work_order_id": 406,
+      "colaborator_id": 14,
+      "services": "['ELAB DE PIDE VIA - HD65']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-04T17:48:39.108161",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-05T12:11:24.256968",
+  "machine_id": "53642720127680"
 }

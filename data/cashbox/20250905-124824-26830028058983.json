@@ -9190,8 +9190,21 @@
       "order_id": 999999,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1270,
+      "fecha": "2025-09-05",
+      "descripcion": "COMPRA DE LIJAS 150",
+      "monto": 60.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10168,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-05T12:15:01.086198",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-05T12:48:24.182370",
+  "machine_id": "26830028058983"
 }

@@ -4377,8 +4377,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1038,
+      "name": "MARLON ORTIZ MERCADO",
+      "contact_1": "89674313",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1039,
+      "name": "RUDY ESCORCIA",
+      "contact_1": "87685637",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1040,
+      "name": "CINTHYA SANCHEZ",
+      "contact_1": "78984246",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1041,
+      "name": "OSCAR ESTRADA GUERRERO",
+      "contact_1": "88871025",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1042,
+      "name": "ANA LISETTE ESPINOZA",
+      "contact_1": "84223786",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1043,
+      "name": "JOSE VARGAS",
+      "contact_1": "87760526",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1044,
+      "name": "LUIS PAVON",
+      "contact_1": "81712389",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-06T09:54:07.853977",
+  "timestamp": "2025-09-06T14:16:05.582841",
   "machine_id": "26830028058983"
 }

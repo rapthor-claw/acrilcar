@@ -3583,8 +3583,64 @@
       "services": "['ELAB DE 2 CORTES ACRILICOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1050,
+      "work_order_id": 36142,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS CON MANTENIMIENTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1051,
+      "work_order_id": 413,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1052,
+      "work_order_id": 414,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1053,
+      "work_order_id": 415,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE STOP PARTE BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1054,
+      "work_order_id": 416,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1055,
+      "work_order_id": 417,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1056,
+      "work_order_id": 418,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-06T09:54:07.760276",
+  "timestamp": "2025-09-06T14:16:05.489137",
   "machine_id": "26830028058983"
 }

@@ -13703,8 +13703,32 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4044,
+      "datetime": "2025-09-05 20:39:32",
+      "username": "Yamileth",
+      "activity": "Agrego movimiento: POS LA FISE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4045,
+      "datetime": "2025-09-05 20:40:13",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0396 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4046,
+      "datetime": "2025-09-06 15:42:14",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-05T17:55:01.485928",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-06T09:54:07.889042",
+  "machine_id": "26830028058983"
 }

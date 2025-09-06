@@ -4652,8 +4652,129 @@
       "note": "ROC 30256 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 863,
+      "work_order_id": 384,
+      "payment_date": "2025-09-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 300,
+      "note": "ROC 30257 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 864,
+      "work_order_id": 378,
+      "payment_date": "2025-09-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 700,
+      "note": "ROC 30258 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 865,
+      "work_order_id": 380,
+      "payment_date": "2025-09-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 30259 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 866,
+      "work_order_id": 381,
+      "payment_date": "2025-09-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 600,
+      "note": "ROC 30260 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 867,
+      "work_order_id": 405,
+      "payment_date": "2025-09-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 30261 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 868,
+      "work_order_id": 35944,
+      "payment_date": "2025-09-05",
+      "payment_method": "transferencia",
+      "payment": "Yamileth",
+      "user_log_registration": 21000,
+      "note": "ROC 30262 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 869,
+      "work_order_id": 36137,
+      "payment_date": "2025-09-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1000,
+      "note": "ROC 30263 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 870,
+      "work_order_id": 406,
+      "payment_date": "2025-09-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 500,
+      "note": "ROC 30264 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 871,
+      "work_order_id": 36134,
+      "payment_date": "2025-09-05",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 900,
+      "note": "ROC 30265 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 872,
+      "work_order_id": 389,
+      "payment_date": "2025-09-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 30266 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 873,
+      "work_order_id": 396,
+      "payment_date": "2025-09-05",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 700,
+      "note": "ROC 30268 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-05T17:55:01.311071",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-06T09:54:07.775897",
+  "machine_id": "26830028058983"
 }

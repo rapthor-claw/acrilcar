@@ -3639,8 +3639,96 @@
       "services": "['ELABORACION DE 2 STOP TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1057,
+      "work_order_id": 36143,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS CAMBIO DE MICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1058,
+      "work_order_id": 419,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO, SECADO Y LED']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1059,
+      "work_order_id": 420,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO. DEJA MUESTRA PARA HACER LA FRANJA EN NEGRO Y QUEDEN PAREJOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1060,
+      "work_order_id": 421,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1061,
+      "work_order_id": 422,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1062,
+      "work_order_id": 423,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1063,
+      "work_order_id": 424,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 4 PIDEVIAS CON MTTO. CROMO, PULIDO DE 2 FOCOS CON MMTTO DE CROMO Y ENVIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1064,
+      "work_order_id": 36144,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1065,
+      "work_order_id": 425,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1066,
+      "work_order_id": 36145,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE CUBO DE VIDRIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1067,
+      "work_order_id": 36146,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-06T14:16:05.489137",
+  "timestamp": "2025-09-08T17:35:40.255934",
   "machine_id": "26830028058983"
 }

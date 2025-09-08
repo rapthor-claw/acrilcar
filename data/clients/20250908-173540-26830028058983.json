@@ -4454,8 +4454,129 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1045,
+      "name": "BILMOR ALFARO",
+      "contact_1": "77930558",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1046,
+      "name": "RICARDO BARRIOS TENORIO",
+      "contact_1": "89826695",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1047,
+      "name": "CESAR AUGUSTO CARDENAS",
+      "contact_1": "85149786",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1048,
+      "name": "ILEANA TORREZ TORREZ",
+      "contact_1": "89313686",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1049,
+      "name": "LIGIA RAMIREZ",
+      "contact_1": "88728363",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1050,
+      "name": "DILAN GARCIA ",
+      "contact_1": "58302487",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1051,
+      "name": "JORLYN PALACIOS",
+      "contact_1": "86382868",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1052,
+      "name": "IVAN PEREIRA",
+      "contact_1": "88065960",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1053,
+      "name": "ALVARO BERRIOS",
+      "contact_1": "85552465",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1054,
+      "name": "EDUARDO ESCOBAR",
+      "contact_1": "87870161",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1055,
+      "name": "RICARDO BERRIOS TENORIO",
+      "contact_1": "89826695",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-06T14:16:05.582841",
+  "timestamp": "2025-09-08T17:35:40.365277",
   "machine_id": "26830028058983"
 }

@@ -3727,8 +3727,208 @@
       "services": "['PULIDO DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1068,
+      "work_order_id": 426,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP + ENVIO AL MAYOREO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1069,
+      "work_order_id": 427,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - HAVAL H6']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1070,
+      "work_order_id": 428,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1071,
+      "work_order_id": 429,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - KIA RIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1072,
+      "work_order_id": 430,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 FOCO CON MTTO DE CROMADO - MONTERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1073,
+      "work_order_id": 431,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 REFLECTORES - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1074,
+      "work_order_id": 432,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP Y 2 PIDE VIAS - JEEP PJ40']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1075,
+      "work_order_id": 433,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIDE VIA - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1076,
+      "work_order_id": 36149,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 16 SERVILLETERO SEGUN MUESTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1077,
+      "work_order_id": 36147,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCO + MTTO DE CROMO - HOND CB160']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1078,
+      "work_order_id": 36148,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1079,
+      "work_order_id": 434,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1080,
+      "work_order_id": 435,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO CON REP DE PATAS - DFSK']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1081,
+      "work_order_id": 436,
+      "colaborator_id": 12,
+      "services": "['ELAB DE PIDE VIA CON REP DE BASE - DAIHATSUN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1082,
+      "work_order_id": 437,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIDE VIA BLANCO RAYADO - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1083,
+      "work_order_id": 36150,
+      "colaborator_id": 14,
+      "services": "['REP DE GABETA DE REFRIGERADORA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1084,
+      "work_order_id": 438,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP PARTE ROJO RAYADO - B13']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1085,
+      "work_order_id": 439,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1086,
+      "work_order_id": 36152,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 6 PORTA BROCHURE C$200C/U']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1087,
+      "work_order_id": 440,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1088,
+      "work_order_id": 441,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - KIA CARNIVAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1089,
+      "work_order_id": 442,
+      "colaborator_id": 5,
+      "services": "['ELAB DE TERCERA LUZ - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1090,
+      "work_order_id": 443,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP PARTE BLANCA - AGYA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1091,
+      "work_order_id": 444,
+      "colaborator_id": 12,
+      "services": "['ADAPTAR LED A 2 REFLECTORES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1092,
+      "work_order_id": 36153,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCOS STOP Y 1 PIDE VIA - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-09T09:45:55.099885",
+  "timestamp": "2025-09-09T17:35:45.836687",
   "machine_id": "53642720127680"
 }

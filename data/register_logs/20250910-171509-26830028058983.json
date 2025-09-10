@@ -15127,8 +15127,88 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4222,
+      "datetime": "2025-09-10 21:52:25",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 120",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4223,
+      "datetime": "2025-09-10 21:52:54",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4224,
+      "datetime": "2025-09-10 21:54:39",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0428 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4225,
+      "datetime": "2025-09-10 22:07:51",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0435 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4226,
+      "datetime": "2025-09-10 22:08:47",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4227,
+      "datetime": "2025-09-10 22:27:08",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4228,
+      "datetime": "2025-09-10 22:50:48",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0443 - monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4229,
+      "datetime": "2025-09-10 22:58:25",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0427 - monto: 4300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4230,
+      "datetime": "2025-09-10 22:59:11",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36149 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4231,
+      "datetime": "2025-09-10 23:08:24",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 61",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-10T15:40:41.175582",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-10T17:15:09.595437",
+  "machine_id": "26830028058983"
 }

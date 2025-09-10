@@ -15015,8 +15015,24 @@
       "activity": "Creo la orden de trabajo: 36153",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4208,
+      "datetime": "2025-09-09 23:35:57",
+      "username": "Allisson",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4209,
+      "datetime": "2025-09-10 14:48:54",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-10T09:45:38.283946",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-10T15:35:29.005905",
+  "machine_id": "53642720127680"
 }

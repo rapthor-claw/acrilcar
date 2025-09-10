@@ -3927,8 +3927,88 @@
       "services": "['PULIDO DE FOCOS STOP Y 1 PIDE VIA - LAND CRUISER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1093,
+      "work_order_id": 445,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS CON MTTO DE CROMO SELLAR Y PONER ORIFICIO - CONI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1094,
+      "work_order_id": 446,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP PARTE BLANCA - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1095,
+      "work_order_id": 447,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1096,
+      "work_order_id": 448,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1097,
+      "work_order_id": 449,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1098,
+      "work_order_id": 450,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO CON REP DE BASE - WULING']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1099,
+      "work_order_id": 451,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO- HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1100,
+      "work_order_id": 452,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 FOCOS JIMNY']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1101,
+      "work_order_id": 453,
+      "colaborator_id": 4,
+      "services": "['DESTAPAR 2 FOCOS REEMPLAZAR PIEZ INTERNA Y SELLAR - LEXUS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1102,
+      "work_order_id": 454,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - KIA RIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-10T17:15:09.468775",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-10T17:58:00.252673",
+  "machine_id": "53642720127680"
 }

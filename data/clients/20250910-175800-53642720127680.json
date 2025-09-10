@@ -4795,8 +4795,118 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1076,
+      "name": "FERNANDO DELGADO",
+      "contact_1": "77942302",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1077,
+      "name": "JOSUE GARCIA",
+      "contact_1": "86157535",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1078,
+      "name": "FUNDACION ENTRE MUJERES",
+      "contact_1": "85555020",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1079,
+      "name": "ALVARO",
+      "contact_1": "88150225",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1080,
+      "name": "AGRICENTER NICARAGUA Y CCRL",
+      "contact_1": "88641940",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "J0310000093695",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1081,
+      "name": "TALLER RODRIGUEZ",
+      "contact_1": "84537767",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1082,
+      "name": "ERICK MIRANDA",
+      "contact_1": "86476149",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1083,
+      "name": "MARIO TIJERINO",
+      "contact_1": "88104266",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1084,
+      "name": "AUTOCENTER",
+      "contact_1": "88403589",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1085,
+      "name": "OCTAVIO ROBLETO",
+      "contact_1": "81696520",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-10T17:15:09.571501",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-10T17:58:00.399942",
+  "machine_id": "53642720127680"
 }

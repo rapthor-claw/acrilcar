@@ -10633,8 +10633,34 @@
       "order_id": 10189,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1381,
+      "fecha": "2025-09-11",
+      "descripcion": "ROC 30336 CANCELACION ",
+      "monto": 2800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 34,
+      "user_id": "Yamileth",
+      "order_id": 439,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1382,
+      "fecha": "2025-09-11",
+      "descripcion": "ROC 30336",
+      "monto": 2800.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 44,
+      "user_id": "Yamileth",
+      "order_id": 439,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-11T13:26:17.987647",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-11T13:54:08.858882",
+  "machine_id": "26830028058983"
 }

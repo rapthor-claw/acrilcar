@@ -4071,8 +4071,56 @@
       "services": "['ELAB DE STOP - COROLLA 1400C$', 'PULIDO DE 2 FOCOS - LAND CRUISER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1111,
+      "work_order_id": 461,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1112,
+      "work_order_id": 462,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO Y STOP - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1113,
+      "work_order_id": 463,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1114,
+      "work_order_id": 36157,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS MTTO DE CROMO Y REP BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1115,
+      "work_order_id": 36158,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1116,
+      "work_order_id": 36159,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-11T11:14:51.144302",
+  "timestamp": "2025-09-11T13:26:17.955987",
   "machine_id": "53642720127680"
 }

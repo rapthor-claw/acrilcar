@@ -4982,8 +4982,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1093,
+      "name": "RENÉ GUZMÁN",
+      "contact_1": "88822393",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1094,
+      "name": "DAVID PARAMO",
+      "contact_1": "75235095",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1095,
+      "name": "FREDDY ANTONIO SALMERON ROCHA",
+      "contact_1": "84466875",
+      "contact_2": "78254057",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1096,
+      "name": "JUSTIN",
+      "contact_1": "81514087",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1097,
+      "name": "JORLING AGUILAR",
+      "contact_1": "58201073",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-11T11:14:51.268224",
+  "timestamp": "2025-09-11T13:26:18.035499",
   "machine_id": "53642720127680"
 }

@@ -15367,8 +15367,72 @@
       "activity": "Creo la orden de trabajo: 0455",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4252,
+      "datetime": "2025-09-11 17:06:51",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: SALVADOR CASTILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4253,
+      "datetime": "2025-09-11 17:07:06",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ROY AGUIRRE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4254,
+      "datetime": "2025-09-11 17:07:32",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: SEMINARIO NACIONAL",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4255,
+      "datetime": "2025-09-11 17:07:59",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: RAMON GARCIA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4256,
+      "datetime": "2025-09-11 17:10:54",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0457",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4257,
+      "datetime": "2025-09-11 17:13:08",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0458",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4258,
+      "datetime": "2025-09-11 17:13:54",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0459",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4259,
+      "datetime": "2025-09-11 17:14:44",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0460",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-11T09:46:54.560004",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-11T11:14:51.296543",
+  "machine_id": "53642720127680"
 }

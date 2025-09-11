@@ -4039,8 +4039,40 @@
       "services": "['ELAB DE STOP REP BASE - SPORTAGE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1107,
+      "work_order_id": 457,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO CON REP DE ARO - MERCEDES BENZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1108,
+      "work_order_id": 458,
+      "colaborator_id": 5,
+      "services": "['ELAB DE MICA ROJO RAYADO - REMOLQUE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1109,
+      "work_order_id": 459,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1110,
+      "work_order_id": 460,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - COROLLA 1400C$', 'PULIDO DE 2 FOCOS - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-11T09:46:54.435033",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-11T11:14:51.144302",
+  "machine_id": "53642720127680"
 }

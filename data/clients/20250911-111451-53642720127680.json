@@ -4938,8 +4938,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1089,
+      "name": "SALVADOR CASTILLO",
+      "contact_1": "87961799",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1090,
+      "name": "ROY AGUIRRE",
+      "contact_1": "88897798",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1091,
+      "name": "SEMINARIO NACIONAL",
+      "contact_1": "55031554",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1092,
+      "name": "RAMON GARCIA ",
+      "contact_1": "78679645",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-11T09:46:54.528763",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-11T11:14:51.268224",
+  "machine_id": "53642720127680"
 }

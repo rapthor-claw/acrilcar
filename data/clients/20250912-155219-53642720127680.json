@@ -5037,8 +5037,118 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1098,
+      "name": "EMSERH",
+      "contact_1": "81989134",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1099,
+      "name": "FRANKLIN VASQUEZ",
+      "contact_1": "57590324",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1100,
+      "name": "LUIS FERNANDO RUBIO",
+      "contact_1": "85289279",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1101,
+      "name": "OLIVER RODRIGUEZ",
+      "contact_1": "88255207",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1102,
+      "name": "CELINA JUAREZ",
+      "contact_1": "83835406",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1103,
+      "name": "URIEL BARQUERO",
+      "contact_1": "83809348",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1104,
+      "name": "JORGE RUGAMA",
+      "contact_1": "86005271",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1105,
+      "name": "ROBERTO GUERRERO",
+      "contact_1": "58326214",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1106,
+      "name": "MINISTERIO DE SALUD SILAIS RIO SAN JUAN",
+      "contact_1": "86574895",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1107,
+      "name": "NELSON PICADO",
+      "contact_1": "87856836",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-12T12:00:53.119036",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-12T15:52:19.540345",
+  "machine_id": "53642720127680"
 }

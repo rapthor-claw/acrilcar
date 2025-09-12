@@ -15663,8 +15663,96 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4289,
+      "datetime": "2025-09-12 21:37:32",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36161",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4290,
+      "datetime": "2025-09-12 21:38:29",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36162",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4291,
+      "datetime": "2025-09-12 21:42:35",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36164",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4292,
+      "datetime": "2025-09-12 21:43:08",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36165",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4293,
+      "datetime": "2025-09-12 21:43:51",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0464",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4294,
+      "datetime": "2025-09-12 21:46:54",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0465",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4295,
+      "datetime": "2025-09-12 21:48:34",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0466",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4296,
+      "datetime": "2025-09-12 21:50:09",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0467",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4297,
+      "datetime": "2025-09-12 21:50:54",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0468",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4298,
+      "datetime": "2025-09-12 21:51:29",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0469",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4299,
+      "datetime": "2025-09-12 21:52:07",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0470",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-12T12:00:53.165900",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-12T15:52:19.574620",
+  "machine_id": "53642720127680"
 }

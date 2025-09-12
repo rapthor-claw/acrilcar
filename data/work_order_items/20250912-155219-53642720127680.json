@@ -4119,8 +4119,104 @@
       "services": "['PULIDO DE 2 FOCOS - LAND CRUISER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1117,
+      "work_order_id": 36160,
+      "colaborator_id": 7,
+      "services": "['PULIDO Y MTTO DE 2 HALOGENOS -LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1118,
+      "work_order_id": 36161,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1119,
+      "work_order_id": 36162,
+      "colaborator_id": 13,
+      "services": "['CORTE EN CNC TRAJERON MATERIAL', 'ANGELUS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1120,
+      "work_order_id": 36164,
+      "colaborator_id": 7,
+      "services": "['PULIDO Y CROMADO DE 2 FOCOS - APV', 'RETIRO Y ENVIO AL MAYOREO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1121,
+      "work_order_id": 36165,
+      "colaborator_id": 14,
+      "services": "['ELAB DE MICA  A STOP - MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1122,
+      "work_order_id": 464,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1123,
+      "work_order_id": 465,
+      "colaborator_id": 13,
+      "services": "['ELAB DE STOP´Y TERCERA LUZ - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1124,
+      "work_order_id": 466,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS Y 1 STOP - VERSA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1125,
+      "work_order_id": 467,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP Y MTTO DE CROMO - VERNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1126,
+      "work_order_id": 468,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - AVANTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1127,
+      "work_order_id": 469,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1128,
+      "work_order_id": 470,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS - FOR RUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-12T12:00:53.025324",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-12T15:52:19.442453",
+  "machine_id": "53642720127680"
 }

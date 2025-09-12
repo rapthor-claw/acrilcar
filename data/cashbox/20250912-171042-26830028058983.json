@@ -10867,8 +10867,34 @@
       "order_id": 441,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1399,
+      "fecha": "2025-09-12",
+      "descripcion": "ROC 30321 ADELANTO",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 447,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1400,
+      "fecha": "2025-09-12",
+      "descripcion": "ROC 30350 CANCELACION ",
+      "monto": 1100.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 447,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-12T15:52:19.483915",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-12T17:10:42.586960",
+  "machine_id": "26830028058983"
 }

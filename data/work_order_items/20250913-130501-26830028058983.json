@@ -4215,8 +4215,72 @@
       "services": "['ELAB DE 2 FOCOS - FOR RUNNER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1129,
+      "work_order_id": 471,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE FOCO CON REP. ARO Y BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1130,
+      "work_order_id": 472,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 PIDEVIAS Y PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1131,
+      "work_order_id": 473,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1132,
+      "work_order_id": 474,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 TERCERA LUZ CON INSTALACION DE LED']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1133,
+      "work_order_id": 475,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO MAS ENVIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1134,
+      "work_order_id": 476,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1135,
+      "work_order_id": 36166,
+      "colaborator_id": 9,
+      "services": "['COMPRA DE MEDIO LITRO DE SOLVENTE Y MEDIO DE LIMPIADOR PARA FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1136,
+      "work_order_id": 36167,
+      "colaborator_id": 9,
+      "services": "['COMPRA DE 2 HABLADORES MEDIA CARTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-12T17:28:24.135498",
+  "timestamp": "2025-09-13T13:05:01.235486",
   "machine_id": "26830028058983"
 }

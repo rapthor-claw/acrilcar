@@ -5147,8 +5147,96 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1108,
+      "name": "JONATHAN DAVID CASCO CARVAJAL",
+      "contact_1": "78765850",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1109,
+      "name": "SCARLIT LOPEZ",
+      "contact_1": "85545061",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1110,
+      "name": "EDUARDO LARIOS ",
+      "contact_1": "85739336",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1111,
+      "name": "MARTA PALACIOS",
+      "contact_1": "86065300",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1112,
+      "name": "SERGIO ESPINOZA",
+      "contact_1": "89560718",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1113,
+      "name": "FRANCISCO MORA ",
+      "contact_1": "86658683",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1114,
+      "name": "SIEES",
+      "contact_1": "58528033",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1115,
+      "name": "PEDRO CHAMORRO",
+      "contact_1": "83279138",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-12T17:28:24.244848",
+  "timestamp": "2025-09-13T13:05:01.329213",
   "machine_id": "26830028058983"
 }

@@ -4279,8 +4279,264 @@
       "services": "['COMPRA DE 2 HABLADORES MEDIA CARTA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1137,
+      "work_order_id": 477,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1138,
+      "work_order_id": 478,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1139,
+      "work_order_id": 479,
+      "colaborator_id": 4,
+      "services": "['REP DE 1 PIEZA AMARILLA - ISUZU FTR 300C$', 'PULIDO DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1140,
+      "work_order_id": 480,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HONDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1141,
+      "work_order_id": 481,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 REFLECTORES BLANCO / ROJO RAYADO - BT50']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1142,
+      "work_order_id": 482,
+      "colaborator_id": 4,
+      "services": "['ELAB DE TABLERO - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1143,
+      "work_order_id": 483,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS - MITSUBISHI L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1144,
+      "work_order_id": 484,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1145,
+      "work_order_id": 485,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO Y PIDE VIA DE HINO Y 1 STOP KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1146,
+      "work_order_id": 487,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1147,
+      "work_order_id": 488,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS - VERSA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1148,
+      "work_order_id": 489,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1149,
+      "work_order_id": 490,
+      "colaborator_id": 2,
+      "services": "['ELAB DE TERCERA LUZ - HONDA CRV']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1150,
+      "work_order_id": 491,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1151,
+      "work_order_id": 492,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1152,
+      "work_order_id": 493,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO CON REP DE PATA Y ELAB DE 1 PIDE VIA - MONTERO SPORT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1153,
+      "work_order_id": 36168,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE FOCO - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1154,
+      "work_order_id": 36169,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1155,
+      "work_order_id": 36170,
+      "colaborator_id": 12,
+      "services": "['COMPLEMENTO OP 0444']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1156,
+      "work_order_id": 36171,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO - SCION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1157,
+      "work_order_id": 36171,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO - SCION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1158,
+      "work_order_id": 36172,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO, PONER EL ARO DE NUEVO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1159,
+      "work_order_id": 36173,
+      "colaborator_id": 14,
+      "services": "['VENTA DE FOCO CON INST DE PANA - CHANGHE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1160,
+      "work_order_id": 36174,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS - SUZUKI JIMNY']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1161,
+      "work_order_id": 36175,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 4 HABLADORES TAMAÑO CARTA 270C/U']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1162,
+      "work_order_id": 36176,
+      "colaborator_id": 14,
+      "services": "['INSTALACION DE VIDRIO Y PULIDO DE 2 FOCOS - ACCENT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1163,
+      "work_order_id": 36177,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 1 HABLADOR CARTA HORIZONTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1164,
+      "work_order_id": 36178,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCO A VAPOR', 'NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1165,
+      "work_order_id": 36179,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCO SELLAR MICA A 1 QUE ESTA REVENTADO Y NO CROMAR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1166,
+      "work_order_id": 36180,
+      "colaborator_id": 7,
+      "services": "['PULIDO Y MANTENIMIENTO DE STOP - COASTER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1167,
+      "work_order_id": 494,
+      "colaborator_id": 5,
+      "services": "['ELAB DE ROMPE VIENTO - YAMAHA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1168,
+      "work_order_id": 495,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP PARTE BLANCA - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-17T14:36:16.138212",
+  "timestamp": "2025-09-17T15:44:42.548616",
   "machine_id": "53642720127680"
 }

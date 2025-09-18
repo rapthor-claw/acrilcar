@@ -4647,8 +4647,40 @@
       "services": "['ELAB DE TABLERO - YARIS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1183,
+      "work_order_id": 36185,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1184,
+      "work_order_id": 36186,
+      "colaborator_id": 3,
+      "services": "['VENTA DE H4 LED']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1185,
+      "work_order_id": 36187,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1186,
+      "work_order_id": 506,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP - N400']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-18T15:00:51.443497",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-18T17:17:53.350904",
+  "machine_id": "53642720127680"
 }

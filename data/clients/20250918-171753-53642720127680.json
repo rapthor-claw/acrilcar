@@ -5664,8 +5664,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1155,
+      "name": "JOSE MANUEL VIERA",
+      "contact_1": "87305773",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1156,
+      "name": "DAVID ALEJANDRO MARENCO",
+      "contact_1": "82665980",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-18T15:00:51.552814",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-18T17:17:53.446681",
+  "machine_id": "53642720127680"
 }

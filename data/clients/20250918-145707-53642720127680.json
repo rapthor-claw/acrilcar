@@ -5565,8 +5565,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1146,
+      "name": "BRYAN SANCHEZ",
+      "contact_1": "86278345",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1147,
+      "name": "BILL ESPINOZA",
+      "contact_1": "81212212",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1148,
+      "name": "LARRY VALLE CANO",
+      "contact_1": "85773636",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1149,
+      "name": "MARIA JOSE ORTEGA",
+      "contact_1": "75258238",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1150,
+      "name": "WARNER WEST",
+      "contact_1": "87564699",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1151,
+      "name": "NOEL CHAVARRIA",
+      "contact_1": "84985877",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1152,
+      "name": "EDWIN PERFORMANCE",
+      "contact_1": "89887705",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1153,
+      "name": "JAVIER NARVAEZ",
+      "contact_1": "78460411",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1154,
+      "name": "SILVIA RODRIGUEZ",
+      "contact_1": "84379976",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-18T14:40:15.542077",
+  "timestamp": "2025-09-18T14:57:07.274070",
   "machine_id": "53642720127680"
 }

@@ -4543,8 +4543,112 @@
       "services": "['REPARACION DE STOP PARTE AFECTADA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1170,
+      "work_order_id": 36181,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1171,
+      "work_order_id": 36182,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - FOR RUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1172,
+      "work_order_id": 36183,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE TERCERA LUZ + LED - RENAULT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1173,
+      "work_order_id": 36184,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1174,
+      "work_order_id": 497,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP TOTAL - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1175,
+      "work_order_id": 498,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - K3']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1176,
+      "work_order_id": 499,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP CON REP DE BASE - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1177,
+      "work_order_id": 500,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP - HIACE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1178,
+      "work_order_id": 501,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX 1800C$', 'ENVIO AL MAYOREO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1179,
+      "work_order_id": 502,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1180,
+      "work_order_id": 503,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP Y 2 PIDE VIAS AHUMADOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1181,
+      "work_order_id": 504,
+      "colaborator_id": 2,
+      "services": "['REP DE 1 STOP - COASTER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1182,
+      "work_order_id": 505,
+      "colaborator_id": 4,
+      "services": "['ELAB DE TABLERO - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-18T14:40:15.462625",
+  "timestamp": "2025-09-18T14:57:07.192620",
   "machine_id": "53642720127680"
 }

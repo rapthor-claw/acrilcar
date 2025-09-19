@@ -5686,8 +5686,96 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1157,
+      "name": "NELSON MIRANDA FITORIA",
+      "contact_1": "85053873",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1158,
+      "name": "MARVIN SEQUEIRA",
+      "contact_1": "77007405",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1159,
+      "name": "VICTOR SOLIS",
+      "contact_1": "82685440",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1160,
+      "name": "LEONEL DIAZ",
+      "contact_1": "85905653",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1161,
+      "name": "VICTOR CANO",
+      "contact_1": "87530456",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1162,
+      "name": "NIEL ESPINOZA",
+      "contact_1": "85124032",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1163,
+      "name": "URIEL ROCHA",
+      "contact_1": "57488197",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1164,
+      "name": "ROMMER CARCAMO",
+      "contact_1": "89445720",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-18T17:28:15.866725",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-19T12:37:52.125597",
+  "machine_id": "53642720127680"
 }

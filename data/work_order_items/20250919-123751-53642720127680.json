@@ -4679,8 +4679,80 @@
       "services": "['ELAB DE 2 STOP - N400']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1187,
+      "work_order_id": 507,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1188,
+      "work_order_id": 508,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 PIDE VIA - DELTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1189,
+      "work_order_id": 509,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP - TACOMA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1190,
+      "work_order_id": 510,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP - CHEVY MONZA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1191,
+      "work_order_id": 511,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - REP DEL OTRO - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1192,
+      "work_order_id": 512,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIEZA DE TORRE DE AMBULANCIA TRANSPARENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1193,
+      "work_order_id": 36188,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - BLUEBIRD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1194,
+      "work_order_id": 36189,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1195,
+      "work_order_id": 486,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP - CHANGHE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-18T17:28:15.757375",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-19T12:37:51.994359",
+  "machine_id": "53642720127680"
 }

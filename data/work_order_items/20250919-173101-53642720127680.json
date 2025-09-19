@@ -4751,8 +4751,80 @@
       "services": "['ELAB DE 2 STOP - CHANGHE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1196,
+      "work_order_id": 513,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1197,
+      "work_order_id": 514,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - NISSAN FRONTIER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1198,
+      "work_order_id": 36191,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 2 CAJAS BOTA Y SOMBRERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1199,
+      "work_order_id": 36192,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS CON REVISION DE FILTRACION - SPRK']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1200,
+      "work_order_id": 36193,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 HALOGENOS - K2700']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1201,
+      "work_order_id": 36194,
+      "colaborator_id": 13,
+      "services": "['REP DE PIEZA DE REFRIGERADORA Y ELAB DE 1 ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1202,
+      "work_order_id": 36195,
+      "colaborator_id": 13,
+      "services": "['CAMBIO DE BISAGRA A 1 EXHIBIDOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1203,
+      "work_order_id": 36196,
+      "colaborator_id": 13,
+      "services": "['1 HABLADOR VERTICAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1204,
+      "work_order_id": 36197,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 51 TROFEOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-19T17:09:06.540549",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-19T17:31:01.702166",
+  "machine_id": "53642720127680"
 }

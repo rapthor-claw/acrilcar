@@ -12622,8 +12622,60 @@
       "order_id": 12712,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1534,
+      "fecha": "2025-09-19",
+      "descripcion": "ROC 30434 CANCELACION ",
+      "monto": 2500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 28,
+      "user_id": "Yamileth",
+      "order_id": 36191,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1535,
+      "fecha": "2025-09-19",
+      "descripcion": "ROC 30438 CANCELACION ",
+      "monto": 270.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 28,
+      "user_id": "Yamileth",
+      "order_id": 36196,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1536,
+      "fecha": "2025-09-19",
+      "descripcion": "ROC 30438 TRANFERENCIA 301414054",
+      "monto": 270.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 42,
+      "user_id": "Yamileth",
+      "order_id": 36196,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1537,
+      "fecha": "2025-09-19",
+      "descripcion": "ROC 30439 CANCELACION ",
+      "monto": 4080.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 471,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-19T17:32:29.685122",
+  "timestamp": "2025-09-20T11:58:10.436038",
   "machine_id": "26830028058983"
 }

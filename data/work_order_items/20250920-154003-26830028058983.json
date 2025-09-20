@@ -4823,8 +4823,80 @@
       "services": "['ELAB DE 51 TROFEOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1205,
+      "work_order_id": 515,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1206,
+      "work_order_id": 516,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1207,
+      "work_order_id": 517,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP PARTE ROJA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1208,
+      "work_order_id": 518,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1209,
+      "work_order_id": 519,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1210,
+      "work_order_id": 520,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1211,
+      "work_order_id": 36198,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOOS MAS ENVIO A OCOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1212,
+      "work_order_id": 36199,
+      "colaborator_id": 9,
+      "services": "['COMPRA DE 1 HABLADOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1213,
+      "work_order_id": 521,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE STOP PARTE BLANCA Y ROJA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-20T11:58:10.342309",
+  "timestamp": "2025-09-20T15:40:03.299428",
   "machine_id": "26830028058983"
 }

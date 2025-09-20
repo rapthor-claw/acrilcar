@@ -5862,8 +5862,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1173,
+      "name": "HARRY PERALTA",
+      "contact_1": "89095270",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1174,
+      "name": "OSCAR SALDAÑA CARVAJAL",
+      "contact_1": "87109717",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1175,
+      "name": "PEDRO VALLE",
+      "contact_1": "85293103",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1176,
+      "name": "PASTOR ANTONIO ARAUZ",
+      "contact_1": "87838015",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1177,
+      "name": "YADIRA DE SALMERON ",
+      "contact_1": "88753295",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1178,
+      "name": "ABEL MARENCO",
+      "contact_1": "87868624",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1179,
+      "name": "LUIS FERNANDEZ",
+      "contact_1": "85289279",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1180,
+      "name": "PRINPLEC",
+      "contact_1": "86370506",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1181,
+      "name": "RENE JARQUIN PEPE",
+      "contact_1": "88359023",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-20T11:58:10.498543",
+  "timestamp": "2025-09-20T15:40:03.471262",
   "machine_id": "26830028058983"
 }

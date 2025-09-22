@@ -4895,8 +4895,48 @@
       "services": "['REPARACION DE STOP PARTE BLANCA Y ROJA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1214,
+      "work_order_id": 522,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 STOP + ENVIO - KIA CARENS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1215,
+      "work_order_id": 523,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS Y 2 HALOGENOS - I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1216,
+      "work_order_id": 524,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS CON CAMBIO DE BASE - RAV4']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1217,
+      "work_order_id": 525,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 PIEZA DE RETROVISOR - SENTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1218,
+      "work_order_id": 526,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 PIDE VIAS - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-22T12:08:16.656694",
+  "timestamp": "2025-09-22T12:26:36.867831",
   "machine_id": "53642720127680"
 }

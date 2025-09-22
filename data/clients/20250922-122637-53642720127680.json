@@ -5961,8 +5961,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1182,
+      "name": "HAZEL TINOCO OTERO",
+      "contact_1": "57484162",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1183,
+      "name": "MARIO CACERES",
+      "contact_1": "86283214",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1184,
+      "name": "ALLAN MAYORGA",
+      "contact_1": "84237759",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1185,
+      "name": "ELIDA GUTIERREZ",
+      "contact_1": "84511871",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1186,
+      "name": "NORWIN RIVAS",
+      "contact_1": "81918181",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-22T12:08:16.805879",
+  "timestamp": "2025-09-22T12:26:37.018397",
   "machine_id": "53642720127680"
 }

@@ -6016,8 +6016,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1187,
+      "name": "YADER",
+      "contact_1": "86363913",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1188,
+      "name": "KENNETH SAMPSON",
+      "contact_1": "57653850",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1189,
+      "name": "JOSE TINOCO",
+      "contact_1": "83539965",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-22T14:04:15.043654",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-22T14:12:21.284907",
+  "machine_id": "53642720127680"
 }

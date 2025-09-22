@@ -4935,8 +4935,32 @@
       "services": "['ELAB DE 2 PIDE VIAS - NISSAN']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1219,
+      "work_order_id": 527,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS Y 2 STOP -BT50']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1220,
+      "work_order_id": 528,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 LATERALES / 2 PIDE VIAS - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1221,
+      "work_order_id": 529,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS Y 2 STOP - MAZDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-22T14:04:14.918709",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-22T14:12:21.112509",
+  "machine_id": "53642720127680"
 }

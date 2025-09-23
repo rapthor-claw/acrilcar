@@ -13168,8 +13168,99 @@
       "order_id": 40256,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1576,
+      "fecha": "2025-09-22",
+      "descripcion": "PAGO POR BOTAR BASURA DEL TALLER",
+      "monto": 300.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 14,
+      "user_id": "Yamileth",
+      "order_id": 10223,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1577,
+      "fecha": "2025-09-22",
+      "descripcion": "COMPRA DE 1/4 DE PINTURA ESMALTE COLOR AZUL",
+      "monto": 360.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 34628,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1578,
+      "fecha": "2025-09-22",
+      "descripcion": "ROC 30461 CANCELACION ",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36106,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1579,
+      "fecha": "2025-09-22",
+      "descripcion": "ROC 30462 CANCELACION",
+      "monto": 2100.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 493,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1580,
+      "fecha": "2025-09-22",
+      "descripcion": "ROC 30463 CANCELACION",
+      "monto": 4000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 506,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1581,
+      "fecha": "2025-09-22",
+      "descripcion": "DELYVERY DE MANTAS MOISES",
+      "monto": 200.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 6,
+      "user_id": "Yamileth",
+      "order_id": 10225,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1582,
+      "fecha": "2025-09-22",
+      "descripcion": "COMPRA DE MANTAS",
+      "monto": 4688.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 6418,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-22T14:12:21.171684",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-22T18:02:58.422828",
+  "machine_id": "26830028058983"
 }

@@ -6049,8 +6049,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1190,
+      "name": "CHASE AUTOMOTRIZ",
+      "contact_1": "84768550",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1191,
+      "name": "GUILLERMO DAURIA",
+      "contact_1": "88894066",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1192,
+      "name": "MAURICIO ROBELO",
+      "contact_1": "82816627",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1193,
+      "name": "GUILLERMO SABALLOS",
+      "contact_1": "89886926",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1194,
+      "name": "CARLOS",
+      "contact_1": "86639305",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1195,
+      "name": "GEOVANNY GONZALEZ",
+      "contact_1": "85068248",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1196,
+      "name": "ABIGAIL GRANJA",
+      "contact_1": "0",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1197,
+      "name": "GERSON AREVALO",
+      "contact_1": "783370446",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1198,
+      "name": "DAVID AGUILAR",
+      "contact_1": "89683611",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-22T18:02:58.500760",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-23T10:50:48.945950",
+  "machine_id": "53642720127680"
 }

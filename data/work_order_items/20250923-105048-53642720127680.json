@@ -4959,8 +4959,88 @@
       "services": "['ELAB DE 2 FOCOS Y 2 STOP - MAZDA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1222,
+      "work_order_id": 530,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP Y 2 PIDE VIAS - VOLKSWAGEN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1223,
+      "work_order_id": 531,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1224,
+      "work_order_id": 532,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1225,
+      "work_order_id": 533,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1226,
+      "work_order_id": 534,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 VISOR AHUMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1227,
+      "work_order_id": 535,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - AVANTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1228,
+      "work_order_id": 36200,
+      "colaborator_id": 14,
+      "services": "['VENTA DE LAMINA 12 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1229,
+      "work_order_id": 36201,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE HALOGENOS - KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1230,
+      "work_order_id": 36202,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - KIA SOUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1231,
+      "work_order_id": 36190,
+      "colaborator_id": 7,
+      "services": "['SECADO Y SELLADO DE 1 FOCO - KICKS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-22T18:02:58.375804",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-23T10:50:48.749919",
+  "machine_id": "53642720127680"
 }

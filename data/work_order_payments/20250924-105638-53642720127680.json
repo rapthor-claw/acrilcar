@@ -6852,8 +6852,129 @@
       "note": "ROC 30474 (CANCELACIÓN)",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1063,
+      "work_order_id": 36205,
+      "payment_date": "2025-09-23",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1500,
+      "note": "ROC 30475 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1064,
+      "work_order_id": 36195,
+      "payment_date": "2025-09-23",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 250,
+      "note": "ROC 30476 (CANCELACIÓN)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1065,
+      "work_order_id": 526,
+      "payment_date": "2025-09-23",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 800,
+      "note": "ROC 30478 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1066,
+      "work_order_id": 533,
+      "payment_date": "2025-09-23",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 235,
+      "note": "ROC 30479 (ABONO/CANCELACION) POS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1067,
+      "work_order_id": 533,
+      "payment_date": "2025-09-23",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 3365,
+      "note": "ROC 30479 (CANCELADO)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1068,
+      "work_order_id": 512,
+      "payment_date": "2025-09-23",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1500,
+      "note": "ROC 30480 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1069,
+      "work_order_id": 523,
+      "payment_date": "2025-09-23",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 1550,
+      "note": "ROC 30481 (ABONO)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1070,
+      "work_order_id": 523,
+      "payment_date": "2025-09-23",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 3650,
+      "note": "ROC 30481 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1071,
+      "work_order_id": 528,
+      "payment_date": "2025-09-23",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 1500,
+      "note": "ROC 0528 (CANCELACION)\nREF 301409910",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1072,
+      "work_order_id": 532,
+      "payment_date": "2025-09-23",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 3000,
+      "note": "ROC 30483 (CANCELACION)\nREF 301404563",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1073,
+      "work_order_id": 524,
+      "payment_date": "2025-09-23",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 3300,
+      "note": "ROC 30484 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-24T09:39:56.113598",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-24T10:56:38.308266",
+  "machine_id": "53642720127680"
 }

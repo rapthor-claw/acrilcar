@@ -19063,8 +19063,112 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4714,
+      "datetime": "2025-09-24 00:15:11",
+      "username": "Allisson",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4715,
+      "datetime": "2025-09-24 16:38:20",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4716,
+      "datetime": "2025-09-23 16:48:09",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36205 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4717,
+      "datetime": "2025-09-23 16:48:33",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36195 - monto: 250",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4718,
+      "datetime": "2025-09-23 16:49:03",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0526 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4719,
+      "datetime": "2025-09-23 16:49:59",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0533 - monto: 235",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4720,
+      "datetime": "2025-09-23 16:50:28",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0533 - monto: 3365",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4721,
+      "datetime": "2025-09-23 16:50:48",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0512 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4722,
+      "datetime": "2025-09-23 16:51:21",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0523 - monto: 1550",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4723,
+      "datetime": "2025-09-23 16:51:46",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0523 - monto: 3650",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4724,
+      "datetime": "2025-09-23 16:55:03",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0528 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4725,
+      "datetime": "2025-09-23 16:55:31",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0532 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4726,
+      "datetime": "2025-09-23 16:55:57",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0524 - monto: 3300",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-24T09:39:56.285432",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-24T10:56:38.425094",
+  "machine_id": "53642720127680"
 }

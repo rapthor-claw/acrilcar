@@ -5039,8 +5039,96 @@
       "services": "['SECADO Y SELLADO DE 1 FOCO - KICKS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1232,
+      "work_order_id": 536,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP PARTE BLANCA - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1233,
+      "work_order_id": 537,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 PIDE VIA CON RECONSTRUCCION DE BASE - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1234,
+      "work_order_id": 538,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1235,
+      "work_order_id": 36203,
+      "colaborator_id": 7,
+      "services": "['SECADO Y SELLADO DE 1 FOCO- I20']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1236,
+      "work_order_id": 539,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP - ZOTYE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1237,
+      "work_order_id": 540,
+      "colaborator_id": 2,
+      "services": "['ELAB DE TABLERO - ECLIPSE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1238,
+      "work_order_id": 36204,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO - MARCH']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1239,
+      "work_order_id": 541,
+      "colaborator_id": 4,
+      "services": "['ELAB DE MICA - N250']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1240,
+      "work_order_id": 542,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 4 CAÑUELS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1241,
+      "work_order_id": 543,
+      "colaborator_id": 12,
+      "services": "['REP DE FOCO - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1242,
+      "work_order_id": 36205,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO - ISUZU TRUPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-23T10:50:48.749919",
+  "timestamp": "2025-09-23T18:15:08.449569",
   "machine_id": "53642720127680"
 }

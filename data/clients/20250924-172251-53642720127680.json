@@ -6236,8 +6236,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1207,
+      "name": "WILLIAM GARCIA",
+      "contact_1": "88477815",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1208,
+      "name": "ACEITE DOÑA LUISA",
+      "contact_1": "77758943",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1209,
+      "name": "WALTER BRIZUELA",
+      "contact_1": "78350511",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1210,
+      "name": "ANGEL ORTIZ",
+      "contact_1": "8670-7107",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1211,
+      "name": "NESTOR LAGUNA",
+      "contact_1": "76582452",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1212,
+      "name": "GEOVANNY VILLAVICENCIO",
+      "contact_1": "87883646",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1213,
+      "name": "FERRETERIA EL ESFUERZO",
+      "contact_1": "75002923",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1214,
+      "name": "JOSUE BACA",
+      "contact_1": "84765474",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1215,
+      "name": "CARLOS KIESLER",
+      "contact_1": "78696887",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-24T11:22:46.362178",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-24T17:22:51.140442",
+  "machine_id": "53642720127680"
 }

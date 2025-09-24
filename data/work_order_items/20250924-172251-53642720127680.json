@@ -5127,8 +5127,112 @@
       "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO - ISUZU TRUPER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1243,
+      "work_order_id": 544,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP C$ 1500 - MAZDA', 'PULIDO DEL OTRO STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1244,
+      "work_order_id": 545,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1245,
+      "work_order_id": 546,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO REP DE ARO Y BASE - H100']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1246,
+      "work_order_id": 547,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP PARTE BLANCA, DESTAPAR Y PULIR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1247,
+      "work_order_id": 548,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1248,
+      "work_order_id": 550,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIDE VIA - 700C$ ISUZU', 'PULIDO DE 2 FOCOS - HINO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1249,
+      "work_order_id": 552,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 4 FOCOS, Y PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1250,
+      "work_order_id": 553,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP - N400']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1251,
+      "work_order_id": 554,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS MATERIAL RAYADO - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1252,
+      "work_order_id": 36206,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1253,
+      "work_order_id": 36207,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS BASE EN NEGRO - HINO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1254,
+      "work_order_id": 36208,
+      "colaborator_id": 13,
+      "services": "['CORTE ACRILICO BLANCO LECHOSO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1255,
+      "work_order_id": 36209,
+      "colaborator_id": 7,
+      "services": "['CROMADO DE 1 FOCO - TERCEL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-24T11:22:46.237199",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-24T17:22:51.003246",
+  "machine_id": "53642720127680"
 }

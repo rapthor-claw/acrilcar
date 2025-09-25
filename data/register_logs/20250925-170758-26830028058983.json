@@ -19735,8 +19735,16 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4798,
+      "datetime": "2025-09-25 23:06:36",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0563 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-25T17:05:56.361078",
+  "timestamp": "2025-09-25T17:07:58.304514",
   "machine_id": "26830028058983"
 }

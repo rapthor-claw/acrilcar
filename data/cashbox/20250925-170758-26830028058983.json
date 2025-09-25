@@ -14182,8 +14182,21 @@
       "order_id": 558,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1654,
+      "fecha": "2025-09-25",
+      "descripcion": "ROC 30511 ADELANTO ",
+      "monto": 300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 563,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-25T17:05:56.251694",
+  "timestamp": "2025-09-25T17:07:58.210818",
   "machine_id": "26830028058983"
 }

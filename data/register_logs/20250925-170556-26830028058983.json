@@ -19591,8 +19591,152 @@
       "activity": "Creo la orden de trabajo: 0565",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4780,
+      "datetime": "2025-09-25 22:01:58",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4781,
+      "datetime": "2025-09-25 22:07:44",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0560 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4782,
+      "datetime": "2025-09-25 22:08:07",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0173 - monto: 4500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4783,
+      "datetime": "2025-09-25 22:17:51",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0561 - monto: 4000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4784,
+      "datetime": "2025-09-25 22:18:19",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 4000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4785,
+      "datetime": "2025-09-25 22:24:49",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0529 - monto: 6000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4786,
+      "datetime": "2025-09-25 22:25:17",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0520 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4787,
+      "datetime": "2025-09-25 22:26:09",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0545 - monto: 730",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4788,
+      "datetime": "2025-09-25 22:26:38",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0545 - monto: 1070",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4789,
+      "datetime": "2025-09-25 22:29:29",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 1070",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4790,
+      "datetime": "2025-09-25 22:31:08",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 230",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4791,
+      "datetime": "2025-09-25 22:31:35",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4792,
+      "datetime": "2025-09-25 22:32:05",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 10235",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4793,
+      "datetime": "2025-09-25 22:32:39",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 120",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4794,
+      "datetime": "2025-09-25 22:33:10",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 150",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4795,
+      "datetime": "2025-09-25 22:34:40",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 180",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4796,
+      "datetime": "2025-09-25 22:45:34",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0558 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4797,
+      "datetime": "2025-09-26 15:19:28",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-25T17:22:32.895174",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-25T17:05:56.361078",
+  "machine_id": "26830028058983"
 }

@@ -19375,8 +19375,24 @@
       "activity": "Ingreso de caja para la orden: 0553 - monto: 700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4753,
+      "datetime": "2025-09-24 23:25:40",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4754,
+      "datetime": "2025-09-25 15:06:11",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-24T17:25:10.326282",
+  "timestamp": "2025-09-25T09:06:40.522717",
   "machine_id": "26830028058983"
 }

@@ -5231,8 +5231,96 @@
       "services": "['CROMADO DE 1 FOCO - TERCEL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1256,
+      "work_order_id": 36211,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS - HONDA CRV']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1257,
+      "work_order_id": 36213,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 3 BOLSILLOS MEDIA CARTA', '2 CORTES Y 1 PORTA TARJETA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1258,
+      "work_order_id": 36214,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO CON REP DE PATAS Y EL OTRO REP DE PATAS - RUSH']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1259,
+      "work_order_id": 36215,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO CON REVISION DE REGULADORES - HONDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1260,
+      "work_order_id": 556,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 HALOGENOS - HONDA CRV 2008']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1261,
+      "work_order_id": 557,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP PARTE AMARILLA RAYADA - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1262,
+      "work_order_id": 558,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 TABLERO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1263,
+      "work_order_id": 559,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - SENTRA B14']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1264,
+      "work_order_id": 560,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIEZA ACRILICA - MT09']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1265,
+      "work_order_id": 561,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS, 2 STOP, 2 PIDE VIA BASE Y MICA Y 1 PARRILLA BASE Y MICA - TOYOTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1266,
+      "work_order_id": 562,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO - DAYUN']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-25T09:06:40.366508",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-25T15:50:26.235112",
+  "machine_id": "53642720127680"
 }

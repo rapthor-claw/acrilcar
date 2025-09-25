@@ -6335,8 +6335,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1216,
+      "name": "MICHAEL VELASQUEZ",
+      "contact_1": "82390896",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1217,
+      "name": "OSWALDO JOSE DIAZ",
+      "contact_1": "0",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1218,
+      "name": "ENRIQUE CRUZ RUGAMA",
+      "contact_1": "86759937",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1219,
+      "name": "LUIS ANTONIO ZMORA",
+      "contact_1": "85658724",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1220,
+      "name": "BISMARK CASTILLO",
+      "contact_1": "75301802",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1221,
+      "name": "NORLAN VALLE",
+      "contact_1": "88895602",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1222,
+      "name": "CARLOS DIAZ",
+      "contact_1": "82524336",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1223,
+      "name": "GERARDO MENDOZA",
+      "contact_1": "82936159",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1224,
+      "name": "WARNER URIARTE",
+      "contact_1": "75424709",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-25T09:06:40.491476",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-25T15:50:26.426343",
+  "machine_id": "53642720127680"
 }

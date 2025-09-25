@@ -6434,8 +6434,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1225,
+      "name": "PBS / ELEAZAR BRIZUELA",
+      "contact_1": "81690126",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1226,
+      "name": "ROBERTO MEDAL",
+      "contact_1": "87998098",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1227,
+      "name": "FRANCISCO ACEVEDO",
+      "contact_1": "87637333",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1228,
+      "name": "ALEJANDRO BALTODANO",
+      "contact_1": "89333278",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-25T15:54:22.765764",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-25T17:22:32.860624",
+  "machine_id": "53642720127680"
 }

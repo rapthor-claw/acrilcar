@@ -5319,8 +5319,40 @@
       "services": "['ELAB DE FOCO - DAYUN']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1267,
+      "work_order_id": 36217,
+      "colaborator_id": 12,
+      "services": "['15 CORTES DE 5X7PULG 3 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1268,
+      "work_order_id": 563,
+      "colaborator_id": 4,
+      "services": "['2 PIDE VIAS - EXCEL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1269,
+      "work_order_id": 564,
+      "colaborator_id": 2,
+      "services": "['ELAB 1 FOCO - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1270,
+      "work_order_id": 565,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-25T15:54:22.656414",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-25T17:22:32.678640",
+  "machine_id": "53642720127680"
 }

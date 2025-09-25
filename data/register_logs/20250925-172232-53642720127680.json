@@ -19519,8 +19519,80 @@
       "activity": "Creo la orden de trabajo: 0562",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4771,
+      "datetime": "2025-09-25 23:06:22",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4772,
+      "datetime": "2025-09-25 23:08:51",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: PBS / ELEAZAR BRIZUELA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4773,
+      "datetime": "2025-09-25 23:09:07",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ROBERTO MEDAL",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4774,
+      "datetime": "2025-09-25 23:09:22",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FRANCISCO ACEVEDO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4775,
+      "datetime": "2025-09-25 23:11:47",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ALEJANDRO BALTODANO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4776,
+      "datetime": "2025-09-25 23:13:26",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36217",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4777,
+      "datetime": "2025-09-25 23:16:59",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0563",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4778,
+      "datetime": "2025-09-25 23:21:33",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0564",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4779,
+      "datetime": "2025-09-25 23:22:22",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0565",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-25T15:54:22.797006",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-25T17:22:32.895174",
+  "machine_id": "53642720127680"
 }

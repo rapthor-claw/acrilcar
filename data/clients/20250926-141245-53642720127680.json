@@ -6555,8 +6555,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1236,
+      "name": "WILLIAM MONTENEGRO",
+      "contact_1": "88391730",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1237,
+      "name": "JULIO REYES",
+      "contact_1": "81399168",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T12:41:11.746598",
+  "timestamp": "2025-09-26T14:12:45.273611",
   "machine_id": "53642720127680"
 }

@@ -5431,8 +5431,24 @@
       "services": "['ELAB DE 2 PIDE VIAS - KIA SEPHIA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1281,
+      "work_order_id": 549,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - NISSAN ALMERA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1282,
+      "work_order_id": 36219,
+      "colaborator_id": 13,
+      "services": "['ROTULO NEON']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T14:19:40.983746",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-26T14:56:36.946183",
+  "machine_id": "53642720127680"
 }

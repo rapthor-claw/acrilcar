@@ -19911,8 +19911,32 @@
       "activity": "Creo la orden de trabajo: 0573",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4820,
+      "datetime": "2025-09-26 20:52:14",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LOWING ALVAREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4821,
+      "datetime": "2025-09-26 20:55:46",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0549",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4822,
+      "datetime": "2025-09-26 20:56:31",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36219",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T14:19:41.139922",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-26T14:56:37.107061",
+  "machine_id": "53642720127680"
 }

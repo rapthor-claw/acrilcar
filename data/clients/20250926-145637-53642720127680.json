@@ -6577,8 +6577,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1238,
+      "name": "LOWING ALVAREZ",
+      "contact_1": "77861744",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T14:19:41.108679",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-26T14:56:37.064906",
+  "machine_id": "53642720127680"
 }

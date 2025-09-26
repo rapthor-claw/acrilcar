@@ -6478,8 +6478,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1229,
+      "name": "WILFREDO FIGUEROA",
+      "contact_1": "8620-7985",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1230,
+      "name": "WORLD PRINT",
+      "contact_1": "84866216",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1231,
+      "name": "WILSON LOPEZ",
+      "contact_1": "58448606",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1232,
+      "name": "ALEX REYES",
+      "contact_1": "86591310",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1233,
+      "name": "DOUGLAS FORVIS",
+      "contact_1": "60341718",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1234,
+      "name": "MANUEL CHAVEZ",
+      "contact_1": "58483709",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1235,
+      "name": "ARACELLY DEL CARMEN",
+      "contact_1": "85900707",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T11:50:01.487396",
+  "timestamp": "2025-09-26T12:41:11.746598",
   "machine_id": "53642720127680"
 }

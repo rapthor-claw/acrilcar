@@ -5351,8 +5351,48 @@
       "services": "['ELAB DE STOP - KIA PICANTO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1271,
+      "work_order_id": 36218,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1272,
+      "work_order_id": 36220,
+      "colaborator_id": 13,
+      "services": "['CORTE DE LAMINA DE 3 MM , TRAJERON LAMINA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1273,
+      "work_order_id": 566,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - ACCENT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1274,
+      "work_order_id": 567,
+      "colaborator_id": 2,
+      "services": "['ELAB DE TABLERO - HONDA CIVIC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1275,
+      "work_order_id": 1233,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T11:50:01.390229",
+  "timestamp": "2025-09-26T12:41:11.592946",
   "machine_id": "53642720127680"
 }

@@ -14481,8 +14481,47 @@
       "order_id": 878262,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1677,
+      "fecha": "2025-09-26",
+      "descripcion": "ROC 30525 CANCELACION ",
+      "monto": 1700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 549,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1678,
+      "fecha": "2025-09-26",
+      "descripcion": "ROC 30526 CANCELACION ",
+      "monto": 2555.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36219,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1679,
+      "fecha": "2025-09-26",
+      "descripcion": "ALMUERZO CASA DOÑA INGRID",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "Yamileth",
+      "order_id": 10240,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T15:03:10.341918",
+  "timestamp": "2025-09-26T15:52:49.424106",
   "machine_id": "26830028058983"
 }

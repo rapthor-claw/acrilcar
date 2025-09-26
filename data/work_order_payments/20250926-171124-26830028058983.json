@@ -7435,8 +7435,85 @@
       "note": "ROC 30526 CANCELACION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1116,
+      "work_order_id": 567,
+      "payment_date": "2025-09-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 500,
+      "note": "ROC 30527 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1117,
+      "work_order_id": 548,
+      "payment_date": "2025-09-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 30528 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1118,
+      "work_order_id": 515,
+      "payment_date": "2025-09-26",
+      "payment_method": "transferencia",
+      "payment": "Yamileth",
+      "user_log_registration": 3600,
+      "note": "ROC 30529 CANCLACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1119,
+      "work_order_id": 36202,
+      "payment_date": "2025-09-26",
+      "payment_method": "transferencia",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 30530 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1120,
+      "work_order_id": 557,
+      "payment_date": "2025-09-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 300,
+      "note": "ROC 30532 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1121,
+      "work_order_id": 537,
+      "payment_date": "2025-09-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1000,
+      "note": "ROC 30533 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1122,
+      "work_order_id": 562,
+      "payment_date": "2025-09-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 800,
+      "note": "ROC 30534 CANCELCION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T17:04:33.740782",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-26T17:11:24.648841",
+  "machine_id": "26830028058983"
 }

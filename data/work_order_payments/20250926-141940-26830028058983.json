@@ -7281,8 +7281,19 @@
       "note": "ROC 30511 ADELANTO ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1102,
+      "work_order_id": 541,
+      "payment_date": "2025-09-26",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 700,
+      "note": "ROC 30513 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T14:12:45.136787",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-26T14:19:40.999330",
+  "machine_id": "26830028058983"
 }

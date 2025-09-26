@@ -6588,8 +6588,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1239,
+      "name": "VICTOR RUIZ",
+      "contact_1": "82523690",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1240,
+      "name": "CARLOS SOTELO",
+      "contact_1": "85822232",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T15:52:49.486584",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-26T17:04:33.835406",
+  "machine_id": "53642720127680"
 }

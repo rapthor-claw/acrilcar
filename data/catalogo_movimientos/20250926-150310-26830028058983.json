@@ -175,8 +175,24 @@
       "descripcion": "GASTOS DON FRANK",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 49,
+      "nombre": "CANJE ",
+      "tipo": "egreso",
+      "descripcion": "CANJE ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 50,
+      "nombre": "CANJE ",
+      "tipo": "ingreso",
+      "descripcion": "CANJE",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T14:56:37.009352",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-26T15:03:10.373138",
+  "machine_id": "26830028058983"
 }

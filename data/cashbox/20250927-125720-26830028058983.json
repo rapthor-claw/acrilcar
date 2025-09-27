@@ -14637,8 +14637,34 @@
       "order_id": 562,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1689,
+      "fecha": "2025-09-26",
+      "descripcion": "ROC 30535",
+      "monto": 600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 29,
+      "user_id": "Yamileth",
+      "order_id": 36222,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1690,
+      "fecha": "2025-09-26",
+      "descripcion": "ROC 30535",
+      "monto": 600.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 42,
+      "user_id": "Yamileth",
+      "order_id": 36222,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-27T11:58:30.779061",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-27T12:57:20.965819",
+  "machine_id": "26830028058983"
 }

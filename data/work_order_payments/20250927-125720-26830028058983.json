@@ -7512,8 +7512,19 @@
       "note": "ROC 30534 CANCELCION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1123,
+      "work_order_id": 36222,
+      "payment_date": "2025-09-26",
+      "payment_method": "transferencia",
+      "payment": "Yamileth",
+      "user_log_registration": 600,
+      "note": "ROC 30535",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-27T11:58:30.744536",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-27T12:57:20.918981",
+  "machine_id": "26830028058983"
 }

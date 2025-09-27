@@ -1,0 +1,86 @@
+{
+  "records": [
+    {
+      "id": 4884,
+      "datetime": "2025-09-27 20:00:09",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36215 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4885,
+      "datetime": "2025-09-27 20:00:38",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0542 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4886,
+      "datetime": "2025-09-27 20:03:31",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36209 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4887,
+      "datetime": "2025-09-27 20:04:15",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0576 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4888,
+      "datetime": "2025-09-27 20:05:02",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36223 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4889,
+      "datetime": "2025-09-27 20:05:26",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0556 - monto: 1200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4890,
+      "datetime": "2025-09-27 20:06:11",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36211 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4891,
+      "datetime": "2025-09-27 20:06:45",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0564 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4892,
+      "datetime": "2025-09-27 20:07:38",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0509 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4893,
+      "datetime": "2025-09-27 20:07:59",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 0550 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-09-27T14:08:08.756496",
+  "machine_id": "53642720127680"
+}

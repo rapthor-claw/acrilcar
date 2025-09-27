@@ -5714,8 +5714,53 @@
       "note": "EN CASO DE QUE LOS FOCOS SE QUIEBREN, PORQUE SON DE VIDRIO, COBRAR 1300 ADICIONAL Y PAGAR EL MONTO POR 2800 AL ELABORADOR",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 815,
+      "work_order_id": "36223",
+      "start_date": "2025-09-27 11:43",
+      "end_date": "2025-09-27 13:30",
+      "colaborador_id": 2,
+      "client_id": 1241,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELB DE ESPEJO DE RETROVISOR - ISUZU DMAX\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 816,
+      "work_order_id": "0575",
+      "start_date": "2025-09-27 11:44",
+      "end_date": "2025-09-29 16:00",
+      "colaborador_id": 2,
+      "client_id": 1242,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE 1 HALOGENO - EON\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 817,
+      "work_order_id": "0576",
+      "start_date": "2025-09-27 11:45",
+      "end_date": "2025-09-27 14:00",
+      "colaborador_id": 2,
+      "client_id": 1243,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• REP DE STOP PARTE AFECTADA - YARIS\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-26T17:11:24.836287",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-27T11:58:30.916282",
+  "machine_id": "53642720127680"
 }

@@ -20247,8 +20247,24 @@
       "activity": "Ingreso de caja para la orden: 36209 - monto: 700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4862,
+      "datetime": "2025-09-27 18:57:56",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4863,
+      "datetime": "2025-09-27 21:02:58",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-27T12:57:40.816068",
+  "timestamp": "2025-09-29T09:08:21.629486",
   "machine_id": "26830028058983"
 }

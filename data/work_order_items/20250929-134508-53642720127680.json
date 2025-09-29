@@ -5487,8 +5487,96 @@
       "services": "['REP DE STOP PARTE AFECTADA - YARIS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1288,
+      "work_order_id": 36224,
+      "colaborator_id": 14,
+      "services": "['REP DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1289,
+      "work_order_id": 36225,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS 2 STOP Y 2 HALOGENOS - PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1290,
+      "work_order_id": 36226,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 2 FOCOS + PROYECTOR', 'HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1291,
+      "work_order_id": 36227,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1292,
+      "work_order_id": 36228,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS Y 2 HALOGENOS - SUZUKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1293,
+      "work_order_id": 577,
+      "colaborator_id": 5,
+      "services": "['ELAB DE MICA DE RETROVISOR - RUSH']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1294,
+      "work_order_id": 578,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP Y 1 PIDE VIA ELABORADO - NISSAN CENTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1295,
+      "work_order_id": 579,
+      "colaborator_id": 12,
+      "services": "['REP DE 1 STOP - DMAX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1296,
+      "work_order_id": 580,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - GRAND I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1297,
+      "work_order_id": 581,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1298,
+      "work_order_id": 582,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-29T09:08:21.348323",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-29T13:45:08.683138",
+  "machine_id": "53642720127680"
 }

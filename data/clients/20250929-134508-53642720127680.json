@@ -6643,8 +6643,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1244,
+      "name": "JOSE SILVA",
+      "contact_1": "87749587",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1245,
+      "name": "OSMIN LOPEZ",
+      "contact_1": "87924754",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1246,
+      "name": "DAVID SCHLO",
+      "contact_1": "77196263",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1247,
+      "name": "HECTOR DOWNS",
+      "contact_1": "86692165",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1248,
+      "name": "OSCAR MEZA",
+      "contact_1": "58366392",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1249,
+      "name": "JORGE MORALES",
+      "contact_1": "83791073",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1250,
+      "name": "SILVIA SAAVEDRA",
+      "contact_1": "81663376",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1251,
+      "name": "EDWIN SOLORZANO",
+      "contact_1": "75397666",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1252,
+      "name": "LEONARDO GABRIEL SANDINO",
+      "contact_1": "84847195",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-29T09:08:21.582623",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-09-29T13:45:08.809768",
+  "machine_id": "53642720127680"
 }

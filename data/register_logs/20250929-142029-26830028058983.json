@@ -79,8 +79,24 @@
       "activity": "Ingreso de caja para la orden: 0550 - monto: 2000",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4894,
+      "datetime": "2025-09-29 20:19:02",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4895,
+      "datetime": "2025-09-29 20:19:39",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-29T14:18:25.769287",
+  "timestamp": "2025-09-29T14:20:29.563991",
   "machine_id": "26830028058983"
 }

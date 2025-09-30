@@ -95,8 +95,80 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4896,
+      "datetime": "2025-09-29 20:58:01",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4897,
+      "datetime": "2025-09-29 20:58:33",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 150",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4898,
+      "datetime": "2025-09-29 20:58:59",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4899,
+      "datetime": "2025-09-29 20:59:55",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 250",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4900,
+      "datetime": "2025-09-29 21:00:30",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 150",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4901,
+      "datetime": "2025-09-29 21:00:58",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4902,
+      "datetime": "2025-09-29 21:01:26",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 30",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4903,
+      "datetime": "2025-09-29 23:02:31",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4904,
+      "datetime": "2025-09-30 15:49:03",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-29T14:20:29.563991",
+  "timestamp": "2025-09-30T10:30:18.262973",
   "machine_id": "26830028058983"
 }

@@ -47,8 +47,16 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4911,
+      "datetime": "2025-09-30 17:36:32",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-30T11:38:13.764342",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-09-30T11:38:23.598431",
+  "machine_id": "26830028058983"
 }

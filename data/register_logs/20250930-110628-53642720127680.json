@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "id": 4894,
+      "datetime": "2025-09-30 16:52:57",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4906,
+      "datetime": "2025-09-30 17:02:34",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-09-30T11:06:28.706085",
+  "machine_id": "53642720127680"
+}

@@ -191,8 +191,56 @@
       "activity": "Salida de caja, monto: 2800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4929,
+      "datetime": "2025-09-30 19:25:16",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ENRIQUE CABRERA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4930,
+      "datetime": "2025-09-30 19:25:30",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ALVARO RIVERA DIAZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4931,
+      "datetime": "2025-09-30 19:25:47",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: YASSER ELIZONDO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4932,
+      "datetime": "2025-09-30 19:26:04",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DAVID GOMEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4933,
+      "datetime": "2025-09-30 19:26:17",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JIMMY LOPEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4934,
+      "datetime": "2025-09-30 19:28:30",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0583",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-09-30T13:33:20.979710",
+  "timestamp": "2025-09-30T18:12:02.102728",
   "machine_id": "53642720127680"
 }

@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "id": 4906,
+      "datetime": "2025-09-30 17:02:34",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-09-30T11:02:42.466307",
+  "machine_id": "26830028058983"
+}

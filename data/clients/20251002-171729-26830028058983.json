@@ -472,8 +472,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1296,
+      "name": "ERWIN MOYA JARQUIN",
+      "contact_1": "88382483",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1297,
+      "name": "HERICKSON ROGELIO OSUNA",
+      "contact_1": "83720507",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1298,
+      "name": "JULIO CESAR PEREZ",
+      "contact_1": "87526951",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1299,
+      "name": "CARLOS TERCERO",
+      "contact_1": "88757904",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1300,
+      "name": "JACQUELINE ESPINOZA",
+      "contact_1": "83956663",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1301,
+      "name": "PEDRO GOMEZ",
+      "contact_1": "77525506",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-02T16:54:06.775792",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-02T17:17:29.949582",
+  "machine_id": "26830028058983"
 }

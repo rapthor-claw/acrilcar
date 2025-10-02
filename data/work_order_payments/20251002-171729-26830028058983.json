@@ -450,8 +450,151 @@
       "note": "ROC 30587 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1175,
+      "work_order_id": 36247,
+      "payment_date": "2025-10-02",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 2000,
+      "note": "ROC 30588 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1176,
+      "work_order_id": 608,
+      "payment_date": "2025-10-02",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 300,
+      "note": "ROC 30589 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1177,
+      "work_order_id": 587,
+      "payment_date": "2025-10-02",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 2000,
+      "note": "ROC 30590 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1178,
+      "work_order_id": 36236,
+      "payment_date": "2025-10-02",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 30591 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1179,
+      "work_order_id": 36250,
+      "payment_date": "2025-10-02",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1000,
+      "note": "ROC 30592 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1180,
+      "work_order_id": 595,
+      "payment_date": "2025-10-02",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1100,
+      "note": "ROC 30593 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1181,
+      "work_order_id": 36243,
+      "payment_date": "2025-10-02",
+      "payment_method": "cheque",
+      "payment": "Yamileth",
+      "user_log_registration": 315112,
+      "note": "ROC 30594 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1182,
+      "work_order_id": 554,
+      "payment_date": "2025-10-02",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3000,
+      "note": "ROC 30595 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1183,
+      "work_order_id": 36241,
+      "payment_date": "2025-10-02",
+      "payment_method": "transferencia",
+      "payment": "Yamileth",
+      "user_log_registration": 2300,
+      "note": "ROC 30596 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1184,
+      "work_order_id": 604,
+      "payment_date": "2025-10-02",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1800,
+      "note": "ROC 30598 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1185,
+      "work_order_id": 605,
+      "payment_date": "2025-10-02",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 500,
+      "note": "ROC 30599 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1186,
+      "work_order_id": 585,
+      "payment_date": "2025-10-02",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 30600 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1187,
+      "work_order_id": 606,
+      "payment_date": "2025-10-02",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 700,
+      "note": "ROC 30601 ADELANTO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-02T16:54:06.754868",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-02T17:17:29.918312",
+  "machine_id": "26830028058983"
 }

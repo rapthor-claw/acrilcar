@@ -1807,8 +1807,48 @@
       "activity": "Creo la orden de trabajo: 36254",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5131,
+      "datetime": "2025-10-03 22:58:40",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: CARLOS MARCOS GUZMAN ALFARO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5132,
+      "datetime": "2025-10-03 23:00:50",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: CESAR CARDENAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5133,
+      "datetime": "2025-10-03 23:02:17",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36256",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5134,
+      "datetime": "2025-10-03 23:02:37",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARIO ERNESTO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5135,
+      "datetime": "2025-10-03 23:04:11",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36257",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-03T16:56:36.437881",
+  "timestamp": "2025-10-03T17:04:16.189351",
   "machine_id": "26830028058983"
 }

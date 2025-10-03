@@ -615,8 +615,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1309,
+      "name": "CARLOS MARCOS GUZMAN ALFARO",
+      "contact_1": "84358507",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1310,
+      "name": "CESAR CARDENAS",
+      "contact_1": "87919853",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1311,
+      "name": "MARIO ERNESTO",
+      "contact_1": "84651443",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-03T16:56:36.422286",
+  "timestamp": "2025-10-03T17:04:16.173746",
   "machine_id": "26830028058983"
 }

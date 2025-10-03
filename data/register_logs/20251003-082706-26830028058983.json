@@ -1655,8 +1655,16 @@
       "activity": "Ingreso de caja para la orden: 0606 - monto: 700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5112,
+      "datetime": "2025-10-03 14:26:53",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-02T17:17:29.965197",
+  "timestamp": "2025-10-03T08:27:06.975968",
   "machine_id": "26830028058983"
 }

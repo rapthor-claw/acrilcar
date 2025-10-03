@@ -538,8 +538,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1302,
+      "name": "CLAUDIO LEYTON",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1303,
+      "name": "WALTER PADILLA",
+      "contact_1": "82239971",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-03T09:59:59.445401",
+  "timestamp": "2025-10-03T10:14:07.730438",
   "machine_id": "53642720127680"
 }

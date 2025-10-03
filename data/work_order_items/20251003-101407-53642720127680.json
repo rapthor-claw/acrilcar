@@ -383,8 +383,24 @@
       "services": "['PULIDO DE 21 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1347,
+      "work_order_id": 36252,
+      "colaborator_id": 13,
+      "services": "['3 JUEGO DE LETRA PANADERIA - $30C/U', '3 BOLSILLOS MEDIA CARTA $ 5C/U', '2 DIVISION DE BILLETES - $ 42', '6 BANDEJAS DE 92 CM - $ 35 C/U', '3 BANDEJAS 1.5 MTS - $41']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1348,
+      "work_order_id": 36253,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE 1 FOCO - KIA SOUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-03T09:59:59.414150",
+  "timestamp": "2025-10-03T10:14:07.708309",
   "machine_id": "53642720127680"
 }

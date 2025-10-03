@@ -560,8 +560,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1304,
+      "name": "EDMUNDO CUADRA",
+      "contact_1": "81936815",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1305,
+      "name": "NESTOR VELASQUEZ",
+      "contact_1": "83303298",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1306,
+      "name": "DAVID DALLATORRE",
+      "contact_1": "89575211",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1307,
+      "name": "FRANCISCO ANTONIO IRIGOYEN",
+      "contact_1": "57362309",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1308,
+      "name": "LUIS HERNANDEZ",
+      "contact_1": "75479462",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-03T13:49:30.681870",
+  "timestamp": "2025-10-03T14:17:56.454414",
   "machine_id": "53642720127680"
 }

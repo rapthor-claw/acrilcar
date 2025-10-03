@@ -399,8 +399,64 @@
       "services": "['PULIDO DE 1 FOCO - KIA SOUL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1349,
+      "work_order_id": 614,
+      "colaborator_id": 4,
+      "services": "['ELAB DE ROMPEVIENTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1350,
+      "work_order_id": 615,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP Y REP BASE - KIA SEPHIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1351,
+      "work_order_id": 616,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - BT50']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1352,
+      "work_order_id": 617,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1353,
+      "work_order_id": 618,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 PIDE VIAS -']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1354,
+      "work_order_id": 619,
+      "colaborator_id": 2,
+      "services": "['ELAB DE PIDE VIA - CAMION CHINO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1355,
+      "work_order_id": 36254,
+      "colaborator_id": 7,
+      "services": "['PULIDO DE FOCO CON REP DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-03T13:49:30.591795",
+  "timestamp": "2025-10-03T14:17:56.405684",
   "machine_id": "53642720127680"
 }

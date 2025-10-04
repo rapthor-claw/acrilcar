@@ -2119,8 +2119,128 @@
       "activity": "Modifico accesos al usuario ID: 14",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5170,
+      "datetime": "2025-10-04 17:04:09",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: YELKING GONZALEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5171,
+      "datetime": "2025-10-04 17:08:16",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36258",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5172,
+      "datetime": "2025-10-04 17:10:42",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARVIN SANCHEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5173,
+      "datetime": "2025-10-04 17:13:18",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0620",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5174,
+      "datetime": "2025-10-04 17:14:34",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MIGUEL MONTEROSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5175,
+      "datetime": "2025-10-04 17:14:57",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ALEJANDRO FERNADEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5176,
+      "datetime": "2025-10-04 17:15:16",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JORLING PAGUAGUA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5177,
+      "datetime": "2025-10-04 17:15:25",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JORGE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5178,
+      "datetime": "2025-10-04 17:16:34",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0621",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5179,
+      "datetime": "2025-10-04 17:18:59",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0622",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5180,
+      "datetime": "2025-10-04 17:19:40",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0623",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5181,
+      "datetime": "2025-10-04 17:22:57",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0624",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5182,
+      "datetime": "2025-10-04 17:24:12",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0625",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5183,
+      "datetime": "2025-10-04 17:25:33",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: TRANSPORTE GARCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5184,
+      "datetime": "2025-10-04 17:27:06",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 0626",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-04T10:58:24.484986",
+  "timestamp": "2025-10-04T11:34:35.509087",
   "machine_id": "53642720127680"
 }

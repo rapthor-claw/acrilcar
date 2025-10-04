@@ -471,8 +471,72 @@
       "services": "['PULIDO DE 2 FOCOS CON REPARACION DE PATAS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1358,
+      "work_order_id": 36258,
+      "colaborator_id": 9,
+      "services": "['CORTE ACRILICO 32 MM INVERPUBLIC NICARAGUA TRAJERON LAMINA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1359,
+      "work_order_id": 620,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP Y PULIDO DE 2 FOCOS - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1360,
+      "work_order_id": 621,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - CAT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1361,
+      "work_order_id": 622,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1362,
+      "work_order_id": 623,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1363,
+      "work_order_id": 624,
+      "colaborator_id": 4,
+      "services": "['REP DE RETROVISOR Y ELAB DE MICA - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1364,
+      "work_order_id": 625,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP - MOTO HONDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1365,
+      "work_order_id": 626,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - M2']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-04T10:58:24.366675",
+  "timestamp": "2025-10-04T11:34:35.390467",
   "machine_id": "53642720127680"
 }

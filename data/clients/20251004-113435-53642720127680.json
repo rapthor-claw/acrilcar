@@ -648,8 +648,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1312,
+      "name": "YELKING GONZALEZ",
+      "contact_1": "87314411",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1313,
+      "name": "MARVIN SANCHEZ",
+      "contact_1": "78189172",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1314,
+      "name": "MIGUEL MONTEROSA",
+      "contact_1": "82812582",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1315,
+      "name": "ALEJANDRO FERNADEZ",
+      "contact_1": "86529307",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1316,
+      "name": "JORLING PAGUAGUA",
+      "contact_1": "89439042",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1317,
+      "name": "JORGE",
+      "contact_1": "86005271",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1318,
+      "name": "TRANSPORTE GARCIA",
+      "contact_1": "89848372",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-04T10:58:24.452056",
+  "timestamp": "2025-10-04T11:34:35.478900",
   "machine_id": "53642720127680"
 }

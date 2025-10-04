@@ -2071,8 +2071,56 @@
       "activity": "Ingreso de caja para la orden: 0611 - monto: 1050",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5164,
+      "datetime": "2025-10-04 00:27:02",
+      "username": "Allisson",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5165,
+      "datetime": "2025-10-04 14:48:28",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5166,
+      "datetime": "2025-10-04 14:49:03",
+      "username": "Allisson",
+      "activity": "Modifico accesos al usuario ID: 13",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5167,
+      "datetime": "2025-10-04 14:50:07",
+      "username": "Allisson",
+      "activity": "Creo el usuario: JAKY",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5168,
+      "datetime": "2025-10-04 14:50:57",
+      "username": "Allisson",
+      "activity": "Modifico accesos al usuario ID: 14",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5169,
+      "datetime": "2025-10-04 14:51:25",
+      "username": "Allisson",
+      "activity": "Modifico accesos al usuario ID: 14",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-03T18:26:55.301407",
+  "timestamp": "2025-10-04T10:58:24.484986",
   "machine_id": "53642720127680"
 }

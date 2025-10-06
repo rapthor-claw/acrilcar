@@ -2319,8 +2319,24 @@
       "activity": "Creo la orden de trabajo: 0630",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5195,
+      "datetime": "2025-10-06 19:12:09",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ERICK SEVILLA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5196,
+      "datetime": "2025-10-06 19:13:46",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36260",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-06T11:01:42.763854",
+  "timestamp": "2025-10-06T13:15:54.652598",
   "machine_id": "53642720127680"
 }

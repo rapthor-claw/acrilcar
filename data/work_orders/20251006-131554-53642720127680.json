@@ -993,8 +993,22 @@
       "note": null,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1370,
+      "work_order_id": "36260",
+      "start_date": "2025-10-06 13:12",
+      "end_date": "2025-10-07 16:00",
+      "user_id": 13,
+      "client_id": 1314,
+      "colaborador_id": 14,
+      "total_cost": 1700.0,
+      "order_status": "abierta",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-06T11:01:42.694801",
+  "timestamp": "2025-10-06T13:15:54.594716",
   "machine_id": "53642720127680"
 }

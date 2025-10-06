@@ -747,8 +747,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1321,
+      "name": "ERICK SEVILLA",
+      "contact_1": "87126029",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-06T11:01:42.748207",
+  "timestamp": "2025-10-06T13:15:54.642620",
   "machine_id": "53642720127680"
 }

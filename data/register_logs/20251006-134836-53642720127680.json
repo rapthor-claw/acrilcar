@@ -2367,8 +2367,24 @@
       "activity": "Creo la orden de trabajo: 0631",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5201,
+      "datetime": "2025-10-06 19:45:45",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: KEVIN CARRION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5202,
+      "datetime": "2025-10-06 19:47:38",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0633",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-06T13:44:26.818788",
+  "timestamp": "2025-10-06T13:48:36.004307",
   "machine_id": "53642720127680"
 }

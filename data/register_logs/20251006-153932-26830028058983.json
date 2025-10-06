@@ -2599,8 +2599,80 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5230,
+      "datetime": "2025-10-04 20:57:05",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36259 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5231,
+      "datetime": "2025-10-04 21:02:45",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5232,
+      "datetime": "2025-10-04 21:03:57",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0425 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5233,
+      "datetime": "2025-10-04 21:04:59",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0618 - monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5234,
+      "datetime": "2025-10-04 21:05:55",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36251 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5235,
+      "datetime": "2025-10-04 21:10:44",
+      "username": "JAKY",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5236,
+      "datetime": "2025-10-04 21:11:05",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5237,
+      "datetime": "2025-10-04 21:13:55",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5238,
+      "datetime": "2025-10-06 21:38:27",
+      "username": "JAKY",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-06T15:33:51.707146",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-06T15:39:32.002112",
+  "machine_id": "26830028058983"
 }

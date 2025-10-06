@@ -2335,8 +2335,32 @@
       "activity": "Creo la orden de trabajo: 36260",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5197,
+      "datetime": "2025-10-06 19:17:00",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JUSTIN MEJIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5198,
+      "datetime": "2025-10-06 19:26:39",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: HERIBERTO MENDOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5199,
+      "datetime": "2025-10-06 19:27:21",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALBERTO EVANS",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-06T13:15:54.652598",
+  "timestamp": "2025-10-06T13:27:51.661556",
   "machine_id": "53642720127680"
 }

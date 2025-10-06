@@ -758,8 +758,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1322,
+      "name": "JUSTIN MEJIA",
+      "contact_1": "83681679",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1323,
+      "name": "HERIBERTO MENDOZA",
+      "contact_1": "86718386",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1324,
+      "name": "ALBERTO EVANS",
+      "contact_1": "89606810",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-06T13:15:54.642620",
+  "timestamp": "2025-10-06T13:27:51.650585",
   "machine_id": "53642720127680"
 }

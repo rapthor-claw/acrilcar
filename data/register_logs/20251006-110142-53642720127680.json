@@ -2255,8 +2255,72 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5187,
+      "datetime": "2025-10-04 19:17:29",
+      "username": "JAKY",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5188,
+      "datetime": "2025-10-06 16:09:56",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5189,
+      "datetime": "2025-10-06 16:45:38",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARIO HURTDO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5190,
+      "datetime": "2025-10-06 16:46:32",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36259",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5191,
+      "datetime": "2025-10-06 16:49:30",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0627",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5192,
+      "datetime": "2025-10-06 16:56:53",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0629",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5193,
+      "datetime": "2025-10-06 16:57:26",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: HEBERTO MENDOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5194,
+      "datetime": "2025-10-06 17:01:32",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0630",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-04T13:17:01.981912",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-06T11:01:42.763854",
+  "machine_id": "53642720127680"
 }

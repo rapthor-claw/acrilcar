@@ -725,8 +725,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1319,
+      "name": "MARIO HURTDO",
+      "contact_1": "82407394",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1320,
+      "name": "HEBERTO MENDOZA",
+      "contact_1": "86718386",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-04T13:17:01.966290",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-06T11:01:42.748207",
+  "machine_id": "53642720127680"
 }

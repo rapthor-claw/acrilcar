@@ -802,8 +802,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1326,
+      "name": "BRYAN VASQUEZ",
+      "contact_1": "77134498",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1327,
+      "name": "CARLOS OLIVARES",
+      "contact_1": "87229979",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-04T14:55:31.971364",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-06T15:33:51.707146",
+  "machine_id": "53642720127680"
 }

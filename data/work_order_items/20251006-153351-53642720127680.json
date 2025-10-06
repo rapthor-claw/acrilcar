@@ -591,8 +591,24 @@
       "services": "['ELBORACION DE STOP PARTE AFECTADA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1373,
+      "work_order_id": 634,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 LATERALES BLANCOS RAYADO Y 2 STOP PARTE AMARILLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1374,
+      "work_order_id": 635,
+      "colaborator_id": 5,
+      "services": "['ELBORACION DE 1 FOCO Y PULIDO DEL OTRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-04T14:55:31.893282",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-06T15:33:51.660282",
+  "machine_id": "53642720127680"
 }

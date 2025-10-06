@@ -575,8 +575,16 @@
       "services": "['PULIDO DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1371,
+      "work_order_id": 631,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS CON REPARACION DE RO PINTUR EN NEGRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-06T13:27:51.587802",
+  "timestamp": "2025-10-06T13:44:26.748001",
   "machine_id": "53642720127680"
 }

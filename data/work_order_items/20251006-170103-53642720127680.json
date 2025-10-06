@@ -607,8 +607,16 @@
       "services": "['ELBORACION DE 1 FOCO Y PULIDO DEL OTRO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1375,
+      "work_order_id": 636,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-06T16:57:38.060660",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-06T17:01:03.359429",
+  "machine_id": "53642720127680"
 }

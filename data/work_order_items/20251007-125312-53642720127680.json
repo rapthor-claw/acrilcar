@@ -615,8 +615,56 @@
       "services": "['ELABORACION DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1376,
+      "work_order_id": 637,
+      "colaborator_id": 4,
+      "services": "['ELABIORACION DE 2 FOCOS CON REPARACION DE ARO PINTURA EN NEGRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1377,
+      "work_order_id": 639,
+      "colaborator_id": 2,
+      "services": "['REPARCION DE UNA PIEZA DE MOTO YAMAHA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1378,
+      "work_order_id": 640,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1379,
+      "work_order_id": 641,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1380,
+      "work_order_id": 36261,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE ROMPEVIENTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1381,
+      "work_order_id": 642,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP PARTE AFECTADA ROJA Y REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-07T12:04:28.757297",
+  "timestamp": "2025-10-07T12:53:12.743582",
   "machine_id": "53642720127680"
 }

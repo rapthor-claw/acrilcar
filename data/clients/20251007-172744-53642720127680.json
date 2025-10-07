@@ -890,8 +890,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1334,
+      "name": "FRESIA HERNANDEZ",
+      "contact_1": "83684979",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1335,
+      "name": "FLORISTERIA OSEJO",
+      "contact_1": "84508961",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1336,
+      "name": "FERNANDO VILLANUEVA",
+      "contact_1": "88325565",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1337,
+      "name": "MARLON DELGADO",
+      "contact_1": "89005359",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1338,
+      "name": "NELSON REYES",
+      "contact_1": "83747595",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-07T17:25:52.254491",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-07T17:27:44.274629",
+  "machine_id": "53642720127680"
 }

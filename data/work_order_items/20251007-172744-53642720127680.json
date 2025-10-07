@@ -663,8 +663,56 @@
       "services": "['ELABORACION DE 1 STOP PARTE AFECTADA ROJA Y REPARACION DE BASE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1382,
+      "work_order_id": 643,
+      "colaborator_id": 2,
+      "services": "['ELBORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1383,
+      "work_order_id": 644,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1384,
+      "work_order_id": 645,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE MICA Y REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1385,
+      "work_order_id": 36262,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE ROTULO ACRILICO DE 110 X 110']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1386,
+      "work_order_id": 646,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1387,
+      "work_order_id": 647,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE GUARDAFANGO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-07T17:25:52.192005",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-07T17:27:44.193961",
+  "machine_id": "53642720127680"
 }

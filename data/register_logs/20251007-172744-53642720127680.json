@@ -2983,8 +2983,80 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5278,
+      "datetime": "2025-10-07 20:59:23",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: FLORISTERIA OSEJO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5279,
+      "datetime": "2025-10-07 21:03:24",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0644",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5280,
+      "datetime": "2025-10-07 21:06:54",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0645",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5281,
+      "datetime": "2025-10-07 23:21:34",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: FERNANDO VILLANUEVA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5282,
+      "datetime": "2025-10-07 23:22:47",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36262",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5283,
+      "datetime": "2025-10-07 23:23:29",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARLON DELGADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5284,
+      "datetime": "2025-10-07 23:26:05",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0646",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5285,
+      "datetime": "2025-10-07 23:26:39",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: NELSON REYES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5286,
+      "datetime": "2025-10-07 23:27:36",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0647",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-07T17:25:52.270112",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-07T17:27:44.293687",
+  "machine_id": "53642720127680"
 }

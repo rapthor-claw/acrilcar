@@ -1077,8 +1077,85 @@
       "note": "ROC 30643 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1232,
+      "work_order_id": 36150,
+      "payment_date": "2025-10-07",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 300,
+      "note": "ROC 30644",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1233,
+      "work_order_id": 639,
+      "payment_date": "2025-10-07",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 500,
+      "note": "ROC 30645 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1234,
+      "work_order_id": 36237,
+      "payment_date": "2025-10-07",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 1460,
+      "note": "ROC 30646 ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1235,
+      "work_order_id": 621,
+      "payment_date": "2025-10-07",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1400,
+      "note": "ROC 30647 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1236,
+      "work_order_id": 35743,
+      "payment_date": "2025-10-07",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 1000,
+      "note": "ROC 30648 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1237,
+      "work_order_id": 36254,
+      "payment_date": "2025-10-07",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 900,
+      "note": "ROC 30649 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1238,
+      "work_order_id": 626,
+      "payment_date": "2025-10-07",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 4000,
+      "note": "ROC 30650 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-07T17:27:44.213089",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-07T17:38:39.629574",
+  "machine_id": "26830028058983"
 }

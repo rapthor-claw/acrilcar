@@ -711,8 +711,88 @@
       "services": "['REPARACION DE GUARDAFANGO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1388,
+      "work_order_id": 36263,
+      "colaborator_id": 14,
+      "services": "['SECADO Y SELLADO DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1389,
+      "work_order_id": 36264,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE CARTULA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1390,
+      "work_order_id": 36265,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE RECIPIENTE TRANSPARENTE QUIRURGICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1391,
+      "work_order_id": 648,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 STOP PARTE BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1392,
+      "work_order_id": 649,
+      "colaborator_id": 2,
+      "services": "['ELBORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1393,
+      "work_order_id": 650,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1394,
+      "work_order_id": 651,
+      "colaborator_id": 5,
+      "services": "['ELBORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1395,
+      "work_order_id": 652,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1396,
+      "work_order_id": 653,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1397,
+      "work_order_id": 654,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 PARES DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-08T14:12:58.453602",
+  "timestamp": "2025-10-08T14:41:30.463950",
   "machine_id": "53642720127680"
 }

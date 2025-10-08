@@ -945,8 +945,118 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1339,
+      "name": "SERGIO BENDAÑA",
+      "contact_1": "88856255",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1340,
+      "name": "SUPLIDORA DE EQUIPOS",
+      "contact_1": "77004355",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1341,
+      "name": "SUHEY ACUÑA MATAMOROS",
+      "contact_1": "87430077",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1342,
+      "name": "ENOC BLANDON ",
+      "contact_1": "84343926",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1343,
+      "name": "CARLOS PEREZ",
+      "contact_1": "76625595",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1344,
+      "name": "MARIA DEL CARMEN PEREZ",
+      "contact_1": "78880956",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1345,
+      "name": "KEVIN MARENCO",
+      "contact_1": "76338726",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1346,
+      "name": "SERCONISA",
+      "contact_1": "82726382",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1347,
+      "name": "TRACSA",
+      "contact_1": "78728597",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1348,
+      "name": "ENEBIS GONZLEZ",
+      "contact_1": "85711079",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-08T14:12:58.507000",
+  "timestamp": "2025-10-08T14:41:30.501732",
   "machine_id": "53642720127680"
 }

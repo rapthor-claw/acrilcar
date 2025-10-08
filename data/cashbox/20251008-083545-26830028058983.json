@@ -2274,8 +2274,86 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1876,
+      "fecha": "2025-10-07",
+      "descripcion": "ROC 30652 CANCELADO",
+      "monto": 9125.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 33,
+      "user_id": "JAKY",
+      "order_id": 36262,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1877,
+      "fecha": "2025-10-07",
+      "descripcion": "ROC 30653 CANCELADO",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 33,
+      "user_id": "JAKY",
+      "order_id": 635,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1878,
+      "fecha": "2025-10-07",
+      "descripcion": "ROC 30653",
+      "monto": 1500.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 36,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1879,
+      "fecha": "2025-10-07",
+      "descripcion": "ROC 30654 CANCELADO",
+      "monto": 700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 34,
+      "user_id": "JAKY",
+      "order_id": 633,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1880,
+      "fecha": "2025-10-07",
+      "descripcion": "ROC 30654",
+      "monto": 700.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 44,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1881,
+      "fecha": "2025-10-07",
+      "descripcion": "ROC 30655",
+      "monto": 200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 647,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-07T17:38:48.536211",
+  "timestamp": "2025-10-08T08:35:45.004838",
   "machine_id": "26830028058983"
 }

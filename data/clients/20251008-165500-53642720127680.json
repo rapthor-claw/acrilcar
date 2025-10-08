@@ -1055,8 +1055,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1349,
+      "name": "GUILLERMO CAMPOS",
+      "contact_1": "81617276",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1350,
+      "name": "YASSER OSORIO",
+      "contact_1": "89650368",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1351,
+      "name": "SALVADOR CASTILLO",
+      "contact_1": "88833337",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-08T16:41:17.984552",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-08T16:55:00.951093",
+  "machine_id": "53642720127680"
 }

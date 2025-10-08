@@ -3143,8 +3143,40 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5298,
+      "datetime": "2025-10-08 15:16:16",
+      "username": "JAKY",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5299,
+      "datetime": "2025-10-08 15:17:02",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5300,
+      "datetime": "2025-10-08 15:17:31",
+      "username": "JAKY",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5301,
+      "datetime": "2025-10-08 15:19:40",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-08T08:50:12.801633",
+  "timestamp": "2025-10-08T09:20:15.252032",
   "machine_id": "26830028058983"
 }

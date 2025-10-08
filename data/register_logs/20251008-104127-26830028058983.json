@@ -3183,8 +3183,16 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5303,
+      "datetime": "2025-10-08 16:40:46",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-08T09:26:31.466420",
+  "timestamp": "2025-10-08T10:41:27.272328",
   "machine_id": "26830028058983"
 }

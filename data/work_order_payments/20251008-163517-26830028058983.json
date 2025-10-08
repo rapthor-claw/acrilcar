@@ -1264,8 +1264,19 @@
       "note": "ROC 30659 ADELANTO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1249,
+      "work_order_id": 631,
+      "payment_date": "2025-10-08",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 4300,
+      "note": "ROC 30661 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-08T16:18:46.379226",
+  "timestamp": "2025-10-08T16:35:17.636149",
   "machine_id": "26830028058983"
 }

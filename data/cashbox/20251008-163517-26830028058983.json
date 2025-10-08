@@ -2430,8 +2430,21 @@
       "order_id": 654,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1888,
+      "fecha": "2025-10-08",
+      "descripcion": "ROC 30661 CANCELADO",
+      "monto": 4300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 631,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-08T16:18:46.410472",
+  "timestamp": "2025-10-08T16:35:17.667365",
   "machine_id": "26830028058983"
 }

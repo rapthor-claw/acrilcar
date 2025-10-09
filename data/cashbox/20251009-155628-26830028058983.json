@@ -2456,8 +2456,60 @@
       "order_id": 644,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1890,
+      "fecha": "2025-10-09",
+      "descripcion": "PAGO DE COMBUSTIBLE SRA IVANIA MEDINA AUTORIZADO POR DON FRANCISCO",
+      "monto": 1600.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "JAKY",
+      "order_id": 10288,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1891,
+      "fecha": "2025-10-09",
+      "descripcion": "COMPRAS AUTORIZADAS POR DON FRANCISCO",
+      "monto": 120.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "JAKY",
+      "order_id": 10290,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1892,
+      "fecha": "2025-10-09",
+      "descripcion": "ALMUERZO DOÑA INGRITH",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "JAKY",
+      "order_id": 10289,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1893,
+      "fecha": "2025-10-09",
+      "descripcion": "ENVIO A TERMINAL COSTA CARIBE",
+      "monto": 100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "JAKY",
+      "order_id": 10291,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-09T15:53:06.405091",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-09T15:56:28.592081",
+  "machine_id": "26830028058983"
 }

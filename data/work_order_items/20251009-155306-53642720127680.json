@@ -823,8 +823,176 @@
       "services": "['ELBORACION DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1402,
+      "work_order_id": 36266,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1403,
+      "work_order_id": 36267,
+      "colaborator_id": 9,
+      "services": "['15 CORTES ACRIICOS DE 5X7 PULGADAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1404,
+      "work_order_id": 36268,
+      "colaborator_id": 9,
+      "services": "['12 CORTES ACRILICOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1405,
+      "work_order_id": 36269,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1406,
+      "work_order_id": 36270,
+      "colaborator_id": 9,
+      "services": "['ELBORACION DE PLACA EN ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1407,
+      "work_order_id": 36271,
+      "colaborator_id": 14,
+      "services": "['SECADO Y SELLADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1408,
+      "work_order_id": 36272,
+      "colaborator_id": 14,
+      "services": "['SECADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1409,
+      "work_order_id": 659,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1410,
+      "work_order_id": 660,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP Y PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1411,
+      "work_order_id": 661,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO Y ELABORACION PARTE AMARILLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1412,
+      "work_order_id": 662,
+      "colaborator_id": 2,
+      "services": "['ELBORACION DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1413,
+      "work_order_id": 663,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1414,
+      "work_order_id": 664,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1415,
+      "work_order_id": 665,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1416,
+      "work_order_id": 666,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1417,
+      "work_order_id": 667,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP CON REPARACION DE BASE Y ELABORACION DE 1 PIEZA ROJA Y 1 AMARILLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1418,
+      "work_order_id": 668,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1419,
+      "work_order_id": 669,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1420,
+      "work_order_id": 670,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1421,
+      "work_order_id": 671,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE 2 CAÑUELAS PINTADO EN NEGRO MATE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1422,
+      "work_order_id": 672,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-09T15:38:46.687140",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-09T15:53:06.300117",
+  "machine_id": "53642720127680"
 }

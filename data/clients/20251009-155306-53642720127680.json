@@ -1088,8 +1088,228 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1352,
+      "name": "LUIS BALLADARES",
+      "contact_1": "89486716",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1353,
+      "name": "JULIO CESAR FLORES",
+      "contact_1": "57097150",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1354,
+      "name": "LESTER MORA",
+      "contact_1": "58850851",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1355,
+      "name": "HOTEL LA FRAGATA",
+      "contact_1": "88876807",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1356,
+      "name": "FERNANDO LOPEZ",
+      "contact_1": "88641208",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1357,
+      "name": "MARCOS BERMUDEZ",
+      "contact_1": "78922223",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1358,
+      "name": "LUCIA PALACIOS",
+      "contact_1": "88972413",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1359,
+      "name": "BOANERGES MORALES",
+      "contact_1": "83355704",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1360,
+      "name": "GUILLERMO GOMEZ",
+      "contact_1": "75325083",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1361,
+      "name": "MARINA PINEDA",
+      "contact_1": "78770834",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1362,
+      "name": "GUILERMO CAMPOS",
+      "contact_1": "81617276",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1363,
+      "name": "ROSARIO SANDOVAL",
+      "contact_1": "76226420",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1364,
+      "name": "TALLER LOS CAMPOS",
+      "contact_1": "75420230",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1365,
+      "name": "VALERIA BALMACEDA",
+      "contact_1": "87113692",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1366,
+      "name": "JULIETTE SUSHILA",
+      "contact_1": "81003685",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1367,
+      "name": "SIDAL RIVERA",
+      "contact_1": "86849483",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1368,
+      "name": "ALVARO CIENFUEGO",
+      "contact_1": "75351956",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1369,
+      "name": "JOSE FLORES",
+      "contact_1": "85066363",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1370,
+      "name": "WILLIAM CERDA",
+      "contact_1": "57133135",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1371,
+      "name": "GLOBAL MOTORS-PEDRO FLORES",
+      "contact_1": "89653547",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-09T15:38:46.749628",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-09T15:53:06.427049",
+  "machine_id": "53642720127680"
 }

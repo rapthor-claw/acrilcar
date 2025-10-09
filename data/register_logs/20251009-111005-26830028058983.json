@@ -3479,8 +3479,24 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5340,
+      "datetime": "2025-10-09 17:08:17",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5341,
+      "datetime": "2025-10-09 17:09:42",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0644 - monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-09T10:02:24.630001",
+  "timestamp": "2025-10-09T11:10:05.351628",
   "machine_id": "26830028058983"
 }

@@ -1297,8 +1297,85 @@
       "note": "ROC 30667 ADELANTO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1252,
+      "work_order_id": 36264,
+      "payment_date": "2025-10-09",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 700,
+      "note": "ROC 30668 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1253,
+      "work_order_id": 668,
+      "payment_date": "2025-10-09",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 2000,
+      "note": "ROC 30669  ABONO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1254,
+      "work_order_id": 582,
+      "payment_date": "2025-10-09",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1600,
+      "note": "ROC 30670 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1255,
+      "work_order_id": 642,
+      "payment_date": "2025-10-09",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 800,
+      "note": "ROC 30671 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1256,
+      "work_order_id": 36266,
+      "payment_date": "2025-10-09",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1600,
+      "note": "ROC 30672 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1257,
+      "work_order_id": 671,
+      "payment_date": "2025-10-09",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1000,
+      "note": "ROC 30673 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1258,
+      "work_order_id": 36272,
+      "payment_date": "2025-10-09",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 500,
+      "note": "ROC 30674 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-09T17:23:14.596469",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-09T17:28:14.295093",
+  "machine_id": "26830028058983"
 }

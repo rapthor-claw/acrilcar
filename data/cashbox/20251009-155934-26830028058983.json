@@ -2508,8 +2508,21 @@
       "order_id": 10291,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1894,
+      "fecha": "2025-10-09",
+      "descripcion": "ROC 30667 ADELANTO",
+      "monto": 2000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 662,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-09T15:56:28.592081",
+  "timestamp": "2025-10-09T15:59:34.232694",
   "machine_id": "26830028058983"
 }

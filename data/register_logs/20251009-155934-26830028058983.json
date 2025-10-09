@@ -3767,8 +3767,16 @@
       "activity": "Creo la orden de trabajo: 0672",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5376,
+      "datetime": "2025-10-09 21:57:51",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0662 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-09T15:56:28.623345",
+  "timestamp": "2025-10-09T15:59:34.279559",
   "machine_id": "26830028058983"
 }

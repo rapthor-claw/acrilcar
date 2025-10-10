@@ -2820,8 +2820,34 @@
       "order_id": 10292,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1918,
+      "fecha": "2025-10-10",
+      "descripcion": "VENTA 1 LITRO SOLVENTE",
+      "monto": 1460.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 36277,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1919,
+      "fecha": "2025-10-10",
+      "descripcion": "RETENCION DEL 2% DEL RECIBO 30686 COPRA DE SOLVENTE",
+      "monto": 30.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "JAKY",
+      "order_id": 8097,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T12:39:32.544715",
+  "timestamp": "2025-10-10T13:56:00.536952",
   "machine_id": "26830028058983"
 }

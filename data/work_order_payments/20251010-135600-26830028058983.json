@@ -1495,8 +1495,19 @@
       "note": "ROC 30687 CANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1270,
+      "work_order_id": 36277,
+      "payment_date": "2025-10-10",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1460,
+      "note": "VENTA 1 LITRO SOLVENTE",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T12:39:32.513472",
+  "timestamp": "2025-10-10T13:56:00.505689",
   "machine_id": "26830028058983"
 }

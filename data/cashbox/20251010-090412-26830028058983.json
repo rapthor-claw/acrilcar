@@ -2690,8 +2690,34 @@
       "order_id": 36263,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1908,
+      "fecha": "2025-10-09",
+      "descripcion": "ROC 30680 CANCELADO",
+      "monto": 2300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 36273,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1909,
+      "fecha": "2025-10-10",
+      "descripcion": "VALE X 300 CORDOBAS AUTORIZADOS POR DON FRANCISCO.",
+      "monto": 300.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 3,
+      "user_id": "JAKY",
+      "order_id": 12726,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-09T17:36:24.156069",
+  "timestamp": "2025-10-10T09:04:12.335736",
   "machine_id": "26830028058983"
 }

@@ -999,8 +999,72 @@
       "services": "['PULIDO DE 2 FOCOS Y 2 HALOGENOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1424,
+      "work_order_id": 36275,
+      "colaborator_id": 14,
+      "services": "['MANTENIMIENTO DE CROMO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1425,
+      "work_order_id": 674,
+      "colaborator_id": 2,
+      "services": "['DESTAPADO DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1426,
+      "work_order_id": 675,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP Y ENVIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1427,
+      "work_order_id": 36276,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1428,
+      "work_order_id": 677,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 PIEZA MAS ENVIO A JINOTEPE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1429,
+      "work_order_id": 678,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP Y PULIDO DE 1 FOCO MAS CROMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1430,
+      "work_order_id": 679,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE 2 STOP TRASERO Y PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1431,
+      "work_order_id": 680,
+      "colaborator_id": 4,
+      "services": "['REPRCION DE 1 RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T09:04:12.273250",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-10T12:10:30.241061",
+  "machine_id": "53642720127680"
 }

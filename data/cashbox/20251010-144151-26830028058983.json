@@ -3418,8 +3418,47 @@
       "order_id": 679,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1964,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 30706 CANCELADO MONTO AUTORIZADO POR DON FRANCISCO ",
+      "monto": 800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 29,
+      "user_id": "JAKY",
+      "order_id": 36246,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1965,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 30706 ",
+      "monto": 800.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 42,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1966,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 10296 PAGO DE ENVIO Y RETIRO DE TRANSFERENCIA",
+      "monto": 200.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 6,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-11T14:38:20.042505",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-10T14:41:51.518794",
+  "machine_id": "26830028058983"
 }

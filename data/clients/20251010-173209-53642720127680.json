@@ -1451,8 +1451,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1385,
+      "name": "EFRIN CISNEROS MOYA",
+      "contact_1": "78048916",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1386,
+      "name": "OSCAR MARTINEZ ",
+      "contact_1": "85335930",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T17:14:42.666565",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-10T17:32:09.116311",
+  "machine_id": "53642720127680"
 }

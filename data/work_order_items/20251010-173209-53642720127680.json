@@ -1111,8 +1111,32 @@
       "services": "['ANULADA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1438,
+      "work_order_id": 683,
+      "colaborator_id": 12,
+      "services": "['ELBORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1439,
+      "work_order_id": 36279,
+      "colaborator_id": 14,
+      "services": "['PUIDO DE 2 FOCOS Y REPARCION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1440,
+      "work_order_id": 36280,
+      "colaborator_id": 9,
+      "services": "['COMPRA DE 1 ITRO DE SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T17:14:42.604072",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-10T17:32:09.028984",
+  "machine_id": "53642720127680"
 }

@@ -3951,8 +3951,48 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5399,
+      "datetime": "2025-10-10 18:30:37",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0675 - monto: 3350",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5400,
+      "datetime": "2025-10-10 18:31:45",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0656 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5401,
+      "datetime": "2025-10-10 18:32:27",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0677 - monto: 650",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5402,
+      "datetime": "2025-10-10 18:33:30",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0678 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5403,
+      "datetime": "2025-10-10 18:34:34",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T12:29:46.593089",
+  "timestamp": "2025-10-10T12:35:10.111450",
   "machine_id": "26830028058983"
 }

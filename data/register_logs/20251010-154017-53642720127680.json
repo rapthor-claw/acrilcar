@@ -4031,8 +4031,40 @@
       "activity": "Salida de caja, monto: 30",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5409,
+      "datetime": "2025-10-10 20:06:51",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0682",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5410,
+      "datetime": "2025-10-10 20:49:01",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MONICA LAU",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5411,
+      "datetime": "2025-10-10 20:53:22",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36274",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5412,
+      "datetime": "2025-10-10 20:59:15",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36276",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T15:37:15.242034",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-10T15:40:17.769054",
+  "machine_id": "53642720127680"
 }

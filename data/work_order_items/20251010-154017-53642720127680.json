@@ -1071,8 +1071,48 @@
       "services": "['VENTA DE 1 LITRO DE PEGAMENTO ACRILICO - SOLVENTE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1433,
+      "work_order_id": 36278,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 3 CORTES ACRILICOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1434,
+      "work_order_id": 681,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1435,
+      "work_order_id": 682,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE MICA DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1436,
+      "work_order_id": 36274,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 60 TABLITAS EN ACRILICO U$10 CADA  UNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1437,
+      "work_order_id": 36276,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T15:37:15.163940",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-10T15:40:17.641079",
+  "machine_id": "53642720127680"
 }

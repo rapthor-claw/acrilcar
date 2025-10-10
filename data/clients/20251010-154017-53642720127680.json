@@ -1407,8 +1407,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1381,
+      "name": "LUIS TORREZ",
+      "contact_1": "85740850",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1382,
+      "name": "AMALIA GUZMAN",
+      "contact_1": "83581150",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1383,
+      "name": "ANGEL LOPEZ",
+      "contact_1": "81029818",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1384,
+      "name": "MONICA LAU",
+      "contact_1": "83241532",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T15:37:15.226425",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-10T15:40:17.727980",
+  "machine_id": "53642720127680"
 }

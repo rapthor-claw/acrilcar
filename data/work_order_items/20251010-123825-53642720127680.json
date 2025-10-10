@@ -1063,8 +1063,16 @@
       "services": "['REPRCION DE 1 RETROVISOR']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1432,
+      "work_order_id": 36277,
+      "colaborator_id": 9,
+      "services": "['VENTA DE 1 LITRO DE PEGAMENTO ACRILICO - SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T12:35:49.424926",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-10T12:38:25.603412",
+  "machine_id": "53642720127680"
 }

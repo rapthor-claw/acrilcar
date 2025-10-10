@@ -4183,8 +4183,32 @@
       "activity": "Creo la orden de trabajo: 0684",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5428,
+      "datetime": "2025-10-10 23:48:15",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5429,
+      "datetime": "2025-10-10 23:49:17",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0666 - monto: 3100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5430,
+      "datetime": "2025-10-10 23:49:51",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 3100",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T17:46:00.151294",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-10T17:50:25.056343",
+  "machine_id": "26830028058983"
 }

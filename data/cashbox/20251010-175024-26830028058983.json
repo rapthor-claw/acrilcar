@@ -2989,8 +2989,99 @@
       "order_id": 664,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1931,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 30696 CANCELADO",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 35,
+      "user_id": "JAKY",
+      "order_id": 645,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1932,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 30696 ",
+      "monto": 1000.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 40,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1933,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 30697 CANCELADO",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 665,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1934,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 30698 CANCELADO ",
+      "monto": 1800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 34,
+      "user_id": "JAKY",
+      "order_id": 36279,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1935,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 30698 CANCELADO",
+      "monto": 1800.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 44,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1936,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 30699 CANCELADO",
+      "monto": 3100.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 34,
+      "user_id": "JAKY",
+      "order_id": 666,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1937,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 30699 CANCELADO",
+      "monto": 3100.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 44,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T17:46:00.121565",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-10T17:50:24.993852",
+  "machine_id": "26830028058983"
 }

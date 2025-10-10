@@ -4527,8 +4527,24 @@
       "activity": "Salida de caja, monto: 200",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5471,
+      "datetime": "2025-10-10 20:44:28",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36280 - monto: 1460",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5472,
+      "datetime": "2025-10-10 20:45:10",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 1460",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T14:43:02.077834",
+  "timestamp": "2025-10-10T14:45:23.756820",
   "machine_id": "26830028058983"
 }

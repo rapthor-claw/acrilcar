@@ -1825,8 +1825,19 @@
       "note": "ROC 30706 CANCELADO MONTO AUTORIZADO POR DON FRANCISCO ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1300,
+      "work_order_id": 36280,
+      "payment_date": "2025-10-10",
+      "payment_method": "transferencia",
+      "payment": "JAKY",
+      "user_log_registration": 1460,
+      "note": "ROC 30708 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T14:43:01.999706",
+  "timestamp": "2025-10-10T14:45:23.678722",
   "machine_id": "26830028058983"
 }

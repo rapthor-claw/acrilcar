@@ -1506,8 +1506,52 @@
       "note": "VENTA 1 LITRO SOLVENTE",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1271,
+      "work_order_id": 681,
+      "payment_date": "2025-10-10",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 1100,
+      "note": "ROC 30688 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1272,
+      "work_order_id": 682,
+      "payment_date": "2025-10-10",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 1400,
+      "note": "ROC 30689 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1273,
+      "work_order_id": 36261,
+      "payment_date": "2025-10-10",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 3650,
+      "note": "ROC 30690 ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1274,
+      "work_order_id": 36275,
+      "payment_date": "2025-10-10",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 1200,
+      "note": "ROC 30691",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T15:41:40.242629",
+  "timestamp": "2025-10-10T16:55:58.314369",
   "machine_id": "26830028058983"
 }

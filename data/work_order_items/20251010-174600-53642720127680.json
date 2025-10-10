@@ -1135,8 +1135,24 @@
       "services": "['COMPRA DE 1 ITRO DE SOLVENTE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1441,
+      "work_order_id": 632,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1442,
+      "work_order_id": 684,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T17:39:27.331965",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-10T17:46:00.076126",
+  "machine_id": "53642720127680"
 }

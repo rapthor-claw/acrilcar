@@ -4151,8 +4151,40 @@
       "activity": "Ingreso de caja para la orden: 0664 - monto: 2700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5424,
+      "datetime": "2025-10-10 23:40:58",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALBERTO EVANS ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5425,
+      "datetime": "2025-10-10 23:44:12",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0632",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5426,
+      "datetime": "2025-10-10 23:44:50",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JORGE GUTIERREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5427,
+      "datetime": "2025-10-10 23:45:50",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0684",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T17:39:27.410072",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-10T17:46:00.151294",
+  "machine_id": "53642720127680"
 }

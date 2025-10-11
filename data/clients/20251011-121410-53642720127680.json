@@ -1495,8 +1495,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1389,
+      "name": "CARLOS VANEGAS",
+      "contact_1": "89695304",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1390,
+      "name": "LENIS MEJIA",
+      "contact_1": "58103378",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1391,
+      "name": "HENRY CERN",
+      "contact_1": "58268934",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1392,
+      "name": "FRANCISCO OCON ",
+      "contact_1": "86046483",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1393,
+      "name": "JUAN BETETA",
+      "contact_1": "58051228 - 58870644",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1394,
+      "name": "CRISTHIAN VALLEJOS DEL VALLE",
+      "contact_1": "88877665",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1395,
+      "name": "ORLANDO CORTEZ",
+      "contact_1": "82576006",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T18:34:25.864166",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-11T12:14:10.173739",
+  "machine_id": "53642720127680"
 }

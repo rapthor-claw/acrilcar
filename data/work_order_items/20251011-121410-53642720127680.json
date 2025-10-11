@@ -1151,8 +1151,64 @@
       "services": "['ELABORACION DE 2 HALOGENOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1443,
+      "work_order_id": 36281,
+      "colaborator_id": 14,
+      "services": "['CAMBIO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1444,
+      "work_order_id": 36282,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1445,
+      "work_order_id": 36283,
+      "colaborator_id": 14,
+      "services": "['SECADO Y SELLADO DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1446,
+      "work_order_id": 685,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1447,
+      "work_order_id": 686,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1448,
+      "work_order_id": 36284,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 10 HABLADORES MEDIA CARTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1449,
+      "work_order_id": 687,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T18:34:25.801676",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-11T12:14:10.062353",
+  "machine_id": "53642720127680"
 }

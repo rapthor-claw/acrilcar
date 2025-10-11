@@ -1715,8 +1715,30 @@
       "note": "ROC 30718 CANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1290,
+      "work_order_id": 687,
+      "payment_date": "2025-10-11",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1500,
+      "note": "ROC 30717 ADELANTO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1291,
+      "work_order_id": 36284,
+      "payment_date": "2025-10-11",
+      "payment_method": "transferencia",
+      "payment": "JAKY",
+      "user_log_registration": 1800,
+      "note": "ROC 30716 TRANSFERENCIA 301445650 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-11T13:08:22.183396",
+  "timestamp": "2025-10-11T13:14:16.109555",
   "machine_id": "26830028058983"
 }

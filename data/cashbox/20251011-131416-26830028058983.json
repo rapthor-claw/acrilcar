@@ -3236,8 +3236,47 @@
       "order_id": 36256,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1950,
+      "fecha": "2025-10-11",
+      "descripcion": "ROC 30717 ADELANTO",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 687,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1951,
+      "fecha": "2025-10-11",
+      "descripcion": "ROC 30716 TRANSFERENCIA 301445650 CANCELADO",
+      "monto": 1800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 28,
+      "user_id": "JAKY",
+      "order_id": 36284,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1952,
+      "fecha": "2025-10-11",
+      "descripcion": "ROC 30716 PAGO POR TRANSFERENCIA",
+      "monto": 1800.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 42,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-11T13:08:22.230261",
+  "timestamp": "2025-10-11T13:14:16.140776",
   "machine_id": "26830028058983"
 }

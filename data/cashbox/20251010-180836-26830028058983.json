@@ -3197,8 +3197,21 @@
       "order_id": 661,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1947,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 30705 CANCELADO",
+      "monto": 900.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 684,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T18:07:14.815538",
+  "timestamp": "2025-10-10T18:08:36.059719",
   "machine_id": "26830028058983"
 }

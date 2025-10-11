@@ -3223,8 +3223,21 @@
       "order_id": 36280,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1949,
+      "fecha": "2025-10-11",
+      "descripcion": "ROC 30718 CANCELADO",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 36256,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-11T12:14:10.150501",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-11T13:08:22.230261",
+  "machine_id": "26830028058983"
 }

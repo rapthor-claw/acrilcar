@@ -4311,8 +4311,32 @@
       "activity": "Creo la orden de trabajo: 0687",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5444,
+      "datetime": "2025-10-11 18:24:25",
+      "username": "JAKY",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5445,
+      "datetime": "2025-10-11 19:06:25",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5446,
+      "datetime": "2025-10-11 19:07:43",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36256 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-11T12:14:10.223046",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-11T13:08:22.292748",
+  "machine_id": "26830028058983"
 }

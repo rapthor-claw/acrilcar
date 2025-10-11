@@ -1572,8 +1572,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1396,
+      "name": "BERNAVE LOPEZ",
+      "contact_1": "89269875",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T14:31:23.617207",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-11T14:38:20.066015",
+  "machine_id": "53642720127680"
 }

@@ -3210,8 +3210,21 @@
       "order_id": 684,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1948,
+      "fecha": "2025-10-10",
+      "descripcion": "ROC 30708 CANCELADO",
+      "monto": 1460.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 29,
+      "user_id": "JAKY",
+      "order_id": 36280,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T18:08:36.059719",
+  "timestamp": "2025-10-10T18:34:25.848545",
   "machine_id": "26830028058983"
 }

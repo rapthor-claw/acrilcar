@@ -4287,8 +4287,16 @@
       "activity": "Ingreso de caja para la orden: 0684 - monto: 900",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5441,
+      "datetime": "2025-10-11 00:34:04",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36280 - monto: 1460",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-10T18:08:36.122209",
+  "timestamp": "2025-10-10T18:34:25.879788",
   "machine_id": "26830028058983"
 }

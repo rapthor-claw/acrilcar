@@ -1583,8 +1583,96 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1397,
+      "name": "RUTH PARAJON",
+      "contact_1": "85906829",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1398,
+      "name": "LUIS MARTINEZ",
+      "contact_1": "87295086",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1399,
+      "name": "CHEA AGURTO",
+      "contact_1": "78623109",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1400,
+      "name": "JONATHAN PALMA",
+      "contact_1": "57812118",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1401,
+      "name": "COMUNIDAD HOSANNA",
+      "contact_1": "88774066",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1402,
+      "name": "ALVARO CALDERON ",
+      "contact_1": "85888873",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1403,
+      "name": "WALTER DARCE",
+      "contact_1": "77819876",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1404,
+      "name": "BISMARCK QUINTO",
+      "contact_1": "86821644",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-13T10:51:46.534584",
+  "timestamp": "2025-10-13T11:26:56.114559",
   "machine_id": "53642720127680"
 }

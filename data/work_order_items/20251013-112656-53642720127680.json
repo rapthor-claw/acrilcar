@@ -1215,8 +1215,80 @@
       "services": "['ELBORACION TORRE DE TAXI']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1451,
+      "work_order_id": 36286,
+      "colaborator_id": 14,
+      "services": "['SECADO, SELLADO Y MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1452,
+      "work_order_id": 36285,
+      "colaborator_id": 14,
+      "services": "['SECADO Y SELLADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1453,
+      "work_order_id": 689,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE BASE Y MICA DE 1 PIDEVIA Y ELABORACION DE MICA A OTRO PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1454,
+      "work_order_id": 690,
+      "colaborator_id": 2,
+      "services": "['STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1455,
+      "work_order_id": 691,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1456,
+      "work_order_id": 692,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1457,
+      "work_order_id": 693,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1458,
+      "work_order_id": 694,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1459,
+      "work_order_id": 36287,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-13T10:51:46.399710",
+  "timestamp": "2025-10-13T11:26:56.064692",
   "machine_id": "53642720127680"
 }

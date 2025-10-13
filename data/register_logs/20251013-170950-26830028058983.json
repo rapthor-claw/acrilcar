@@ -4767,8 +4767,16 @@
       "activity": "Creo la orden de trabajo: 0697",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5501,
+      "datetime": "2025-10-13 23:08:38",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-13T17:05:46.908955",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-13T17:09:50.029793",
+  "machine_id": "26830028058983"
 }

@@ -1836,8 +1836,96 @@
       "note": "ROC 30708 CANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1301,
+      "work_order_id": 689,
+      "payment_date": "2025-10-13",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1300,
+      "note": "ROC 30721 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1302,
+      "work_order_id": 690,
+      "payment_date": "2025-10-13",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 500,
+      "note": "ROC 30722 ABONO SALDO 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1303,
+      "work_order_id": 36286,
+      "payment_date": "2025-10-13",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 500,
+      "note": "ROC 30723 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1304,
+      "work_order_id": 655,
+      "payment_date": "2025-10-13",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1200,
+      "note": "ROC 30724 CANCELADO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1305,
+      "work_order_id": 663,
+      "payment_date": "2025-10-13",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1000,
+      "note": "ROC 30725 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1306,
+      "work_order_id": 694,
+      "payment_date": "2025-10-13",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 1800,
+      "note": "ROC 30726 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1307,
+      "work_order_id": 652,
+      "payment_date": "2025-10-13",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1764,
+      "note": "ROC 30727 CANCELADO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1308,
+      "work_order_id": 36287,
+      "payment_date": "2025-10-13",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1600,
+      "note": "ROC 30728 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-13T17:05:46.862059",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-13T17:09:49.951655",
+  "machine_id": "26830028058983"
 }

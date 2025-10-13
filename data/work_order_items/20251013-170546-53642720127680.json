@@ -1287,8 +1287,56 @@
       "services": "['PULIDO DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1460,
+      "work_order_id": 36288,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1461,
+      "work_order_id": 36289,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 TACOMETRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1462,
+      "work_order_id": 36290,
+      "colaborator_id": 14,
+      "services": "['DESTAPAR, LIMPIAR Y PEGAR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1463,
+      "work_order_id": 695,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1464,
+      "work_order_id": 696,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE  STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1465,
+      "work_order_id": 697,
+      "colaborator_id": 5,
+      "services": "['PEGAR CARETA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-13T14:03:14.838283",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-13T17:05:46.862059",
+  "machine_id": "53642720127680"
 }

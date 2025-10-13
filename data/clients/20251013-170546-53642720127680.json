@@ -1671,8 +1671,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1405,
+      "name": "´PHARMAINSA",
+      "contact_1": "87898388",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1406,
+      "name": "MARIO",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1407,
+      "name": "ANTONIO MENDOZA",
+      "contact_1": "78560290",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1408,
+      "name": "JEFFRY GUTIERREZ",
+      "contact_1": "85485771",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1409,
+      "name": "ROBERTO CALERO ",
+      "contact_1": "88253617",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-13T14:03:14.916397",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-13T17:05:46.908955",
+  "machine_id": "53642720127680"
 }

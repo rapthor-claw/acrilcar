@@ -4679,8 +4679,96 @@
       "activity": "Creo la orden de trabajo: 36287",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5490,
+      "datetime": "2025-10-13 17:49:01",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36288",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5491,
+      "datetime": "2025-10-13 18:36:11",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ´PHARMAINSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5492,
+      "datetime": "2025-10-13 18:37:21",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36289",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5493,
+      "datetime": "2025-10-13 22:54:34",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARIO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5494,
+      "datetime": "2025-10-13 22:55:40",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36290",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5495,
+      "datetime": "2025-10-13 23:01:21",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ANTONIO MENDOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5496,
+      "datetime": "2025-10-13 23:02:15",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0695",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5497,
+      "datetime": "2025-10-13 23:02:41",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JEFFRY GUTIERREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5498,
+      "datetime": "2025-10-13 23:03:46",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0696",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5499,
+      "datetime": "2025-10-13 23:04:25",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ROBERTO CALERO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5500,
+      "datetime": "2025-10-13 23:05:30",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0697",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-13T14:03:14.963232",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-13T17:05:46.908955",
+  "machine_id": "53642720127680"
 }

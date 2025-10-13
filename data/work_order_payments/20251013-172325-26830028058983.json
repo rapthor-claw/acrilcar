@@ -1924,8 +1924,52 @@
       "note": "ROC 30728 CANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1309,
+      "work_order_id": 697,
+      "payment_date": "2025-10-13",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 200,
+      "note": "ROC 30681 CANCELADO\nPOR AUTORIZACION DE DON FRANCISCO LA ORDEN DE ESTE PAGO SE INGRESO EN ESTA FECHA YA QUE EL CLIENTE PAGO Y SE RETIRO Y NO SE LE HABIA REALIZADO ORDEN HASTA ESTE MOMENTO.",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1310,
+      "work_order_id": 690,
+      "payment_date": "2025-10-13",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 400,
+      "note": "ROC 30729 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1311,
+      "work_order_id": 36289,
+      "payment_date": "2025-10-13",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 200,
+      "note": "ROC 30730 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1312,
+      "work_order_id": 685,
+      "payment_date": "2025-10-13",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1200,
+      "note": "ROC 30731 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-13T17:09:49.951655",
+  "timestamp": "2025-10-13T17:23:25.919118",
   "machine_id": "26830028058983"
 }

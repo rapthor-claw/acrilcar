@@ -4999,8 +4999,24 @@
       "activity": "Ingreso de caja para la orden: 0703 - monto: 1500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5530,
+      "datetime": "2025-10-14 21:47:52",
+      "username": "JAKY",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5531,
+      "datetime": "2025-10-14 21:48:12",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-14T15:46:54.218936",
+  "timestamp": "2025-10-14T15:48:48.321304",
   "machine_id": "26830028058983"
 }

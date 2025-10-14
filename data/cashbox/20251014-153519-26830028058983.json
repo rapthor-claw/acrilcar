@@ -3730,8 +3730,60 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1988,
+      "fecha": "2025-10-14",
+      "descripcion": "ROC 30733 CANCELACION CON PAGO DE RETENCION ",
+      "monto": 5488.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 672,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1989,
+      "fecha": "2025-10-14",
+      "descripcion": "ROC 30733 CONSTANCIA DE RETENCION 17974 DE GLOBAL MOTORS, S.A.",
+      "monto": 112.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 46,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1990,
+      "fecha": "2025-10-14",
+      "descripcion": "ROC 30734 CANCELADO",
+      "monto": 300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 686,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1991,
+      "fecha": "2025-10-14",
+      "descripcion": "ROC 30735 CANCELACION",
+      "monto": 700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 699,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-14T15:27:38.659307",
+  "timestamp": "2025-10-14T15:35:19.890838",
   "machine_id": "26830028058983"
 }

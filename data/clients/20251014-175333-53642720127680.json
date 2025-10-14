@@ -1803,8 +1803,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1417,
+      "name": "EVERT CACERES OCOTAL",
+      "contact_1": "58459016",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1418,
+      "name": "CARGOTRANS",
+      "contact_1": "89243509",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1419,
+      "name": "CARGOTRANS",
+      "contact_1": "89243509",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1420,
+      "name": "ARMANDO URBINA",
+      "contact_1": "57036724",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1421,
+      "name": "RIVAS CLIENTE",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-14T17:45:06.444440",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-14T17:53:33.432981",
+  "machine_id": "53642720127680"
 }

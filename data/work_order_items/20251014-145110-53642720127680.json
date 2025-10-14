@@ -1335,8 +1335,72 @@
       "services": "['PEGAR CARETA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1466,
+      "work_order_id": 36291,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 1 ROTULO CON NEON FLEX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1467,
+      "work_order_id": 36292,
+      "colaborator_id": 14,
+      "services": "['PEGAR MICA Y PULIRLO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1468,
+      "work_order_id": 698,
+      "colaborator_id": 5,
+      "services": "['ELBORACION DE 2 HALOJENOS, ELB. DE 1 STOP Y PULIDO DE 2 HALOJENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1469,
+      "work_order_id": 699,
+      "colaborator_id": 2,
+      "services": "['ELBORACION DE 1 STOP CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1470,
+      "work_order_id": 700,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1471,
+      "work_order_id": 702,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP Y 2 PARES DE PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1472,
+      "work_order_id": 703,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1473,
+      "work_order_id": 704,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-14T11:48:21.688551",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-14T14:51:10.665226",
+  "machine_id": "53642720127680"
 }

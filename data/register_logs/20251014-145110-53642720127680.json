@@ -4895,8 +4895,16 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5517,
+      "datetime": "2025-10-14 20:49:40",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0704",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-14T11:48:21.813492",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-14T14:51:10.870817",
+  "machine_id": "53642720127680"
 }

@@ -1726,8 +1726,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1410,
+      "name": "MOISES LARGAESPDA",
+      "contact_1": "87178740",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1411,
+      "name": "MARIO LAZO",
+      "contact_1": "87591690",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1412,
+      "name": "OSMAN VILLALOBOS",
+      "contact_1": "58183393",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1413,
+      "name": "JUAN BETETA",
+      "contact_1": "58051228",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1414,
+      "name": "DAVID BARRERA",
+      "contact_1": "85451381",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1415,
+      "name": "GEOVANNY ZAMORA",
+      "contact_1": "81810062",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1416,
+      "name": "IZAYANA VARGAS RIVAS",
+      "contact_1": "82433001",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-14T11:48:21.782250",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-14T14:51:10.818252",
+  "machine_id": "53642720127680"
 }

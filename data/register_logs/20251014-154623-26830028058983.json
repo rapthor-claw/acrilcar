@@ -4943,8 +4943,64 @@
       "activity": "Ingreso de caja para la orden: 0699 - monto: 700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5523,
+      "datetime": "2025-10-14 21:39:28",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36291 - monto: 2920",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5524,
+      "datetime": "2025-10-14 21:40:27",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0674 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5525,
+      "datetime": "2025-10-14 21:42:06",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0700 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5526,
+      "datetime": "2025-10-14 21:43:19",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36242 - monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5527,
+      "datetime": "2025-10-14 21:44:05",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5528,
+      "datetime": "2025-10-14 21:45:02",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0702 - monto: 2200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5529,
+      "datetime": "2025-10-14 21:46:03",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0703 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-14T15:37:53.341683",
+  "timestamp": "2025-10-14T15:46:23.865710",
   "machine_id": "26830028058983"
 }

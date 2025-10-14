@@ -5015,8 +5015,104 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5532,
+      "datetime": "2025-10-14 21:52:35",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0638 - monto: 5000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5533,
+      "datetime": "2025-10-14 21:53:30",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0704 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5534,
+      "datetime": "2025-10-14 21:56:03",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 970",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5535,
+      "datetime": "2025-10-14 21:57:56",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 547",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5536,
+      "datetime": "2025-10-14 21:58:34",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5537,
+      "datetime": "2025-10-14 21:59:50",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 1304",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5538,
+      "datetime": "2025-10-14 22:00:09",
+      "username": "JAKY",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5539,
+      "datetime": "2025-10-14 22:49:02",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5540,
+      "datetime": "2025-10-14 22:50:01",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5541,
+      "datetime": "2025-10-14 22:50:36",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 170",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5542,
+      "datetime": "2025-10-14 22:50:38",
+      "username": "JAKY",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5543,
+      "datetime": "2025-10-14 23:44:46",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-14T15:51:22.406960",
+  "timestamp": "2025-10-14T17:44:56.632991",
   "machine_id": "26830028058983"
 }

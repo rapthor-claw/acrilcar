@@ -5239,8 +5239,160 @@
       "activity": "Salida de caja, monto: 36500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5560,
+      "datetime": "2025-10-15 23:21:46",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JUAN CARLOS LEZAMA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5561,
+      "datetime": "2025-10-15 23:24:03",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: INSTRUMENTOS MUSICALES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5562,
+      "datetime": "2025-10-15 23:24:26",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LUIS MANUEL HERNANDEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5563,
+      "datetime": "2025-10-15 23:25:11",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: EDWIN RAMOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5564,
+      "datetime": "2025-10-15 23:25:36",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ZENEN ALVARES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5565,
+      "datetime": "2025-10-15 23:26:05",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LUIS ADOLFO ESPINOZA GONZALEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5566,
+      "datetime": "2025-10-15 23:26:23",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: SAMUEL ARGUETA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5567,
+      "datetime": "2025-10-15 23:26:51",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: EDGARD ARGUELLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5568,
+      "datetime": "2025-10-15 23:28:02",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: HOTEL MOZONTE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5569,
+      "datetime": "2025-10-15 23:29:39",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0709",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5570,
+      "datetime": "2025-10-15 23:46:24",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0710",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5571,
+      "datetime": "2025-10-15 23:48:17",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0711",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5572,
+      "datetime": "2025-10-15 23:49:12",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0712",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5573,
+      "datetime": "2025-10-15 23:50:30",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0713",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5574,
+      "datetime": "2025-10-15 23:51:55",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0714",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5575,
+      "datetime": "2025-10-15 23:55:29",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0715",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5576,
+      "datetime": "2025-10-15 23:56:39",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0716",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5577,
+      "datetime": "2025-10-15 23:57:33",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0717",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5578,
+      "datetime": "2025-10-15 23:58:32",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0718",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-15T17:55:34.694262",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-15T17:58:42.104650",
+  "machine_id": "53642720127680"
 }

@@ -1447,8 +1447,136 @@
       "services": "['ELABORACION DE STOP PARTE AFECTADA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1480,
+      "work_order_id": 36293,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1481,
+      "work_order_id": 36294,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE 1 PATA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1482,
+      "work_order_id": 36295,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE FOCOS CON REPARACION DE REGULADORES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1483,
+      "work_order_id": 36296,
+      "colaborator_id": 14,
+      "services": "['SECADO Y PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1484,
+      "work_order_id": 36297,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 7 ROTULOS DE ALAS BUENAS A U$250.00 CADA UNO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1485,
+      "work_order_id": 36298,
+      "colaborator_id": 9,
+      "services": "['ELBORACION DE ROTULO DE GEO PIZZA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1486,
+      "work_order_id": 709,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE  STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1487,
+      "work_order_id": 710,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1488,
+      "work_order_id": 711,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1489,
+      "work_order_id": 712,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1490,
+      "work_order_id": 713,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1491,
+      "work_order_id": 714,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1492,
+      "work_order_id": 715,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1493,
+      "work_order_id": 716,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1494,
+      "work_order_id": 717,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1495,
+      "work_order_id": 718,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-15T17:55:34.605523",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-15T17:58:42.019903",
+  "machine_id": "53642720127680"
 }

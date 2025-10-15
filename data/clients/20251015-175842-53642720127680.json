@@ -1858,8 +1858,173 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1422,
+      "name": "ROSANA RODRIGUEZ",
+      "contact_1": "86859564",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1423,
+      "name": "RANDY ROBINSON ",
+      "contact_1": "88246994",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1424,
+      "name": "JULIO CABEZAS",
+      "contact_1": "89314051",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1425,
+      "name": "GIOVANNY ROA",
+      "contact_1": "58563957",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1426,
+      "name": "EDUARD CERRO",
+      "contact_1": "78136876",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1427,
+      "name": "MARI DEL CARMEN SOBALBARRO",
+      "contact_1": "84276994",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1428,
+      "name": "JUAN CARLOS LEZAMA",
+      "contact_1": "89318936",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1429,
+      "name": "INSTRUMENTOS MUSICALES",
+      "contact_1": "85792872",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1430,
+      "name": "LUIS MANUEL HERNANDEZ",
+      "contact_1": "82209985",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1431,
+      "name": "EDWIN RAMOS",
+      "contact_1": "84470390",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1432,
+      "name": "ZENEN ALVARES",
+      "contact_1": "84208481",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1433,
+      "name": "LUIS ADOLFO ESPINOZA GONZALEZ",
+      "contact_1": "84907593",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1434,
+      "name": "SAMUEL ARGUETA",
+      "contact_1": "88163333",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1435,
+      "name": "EDGARD ARGUELLO",
+      "contact_1": "89665900",
+      "contact_2": "82403482",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1436,
+      "name": "HOTEL MOZONTE",
+      "contact_1": "76500084",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-15T17:55:34.678328",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-15T17:58:42.066773",
+  "machine_id": "53642720127680"
 }

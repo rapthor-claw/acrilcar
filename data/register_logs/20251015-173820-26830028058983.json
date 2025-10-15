@@ -5175,8 +5175,16 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5552,
+      "datetime": "2025-10-15 23:37:47",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36290 - monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-15T17:36:28.721683",
+  "timestamp": "2025-10-15T17:38:20.066872",
   "machine_id": "26830028058983"
 }

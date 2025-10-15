@@ -4016,8 +4016,21 @@
       "order_id": 36290,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2010,
+      "fecha": "2025-10-15",
+      "descripcion": "ROC 30751 CANCELADO",
+      "monto": 200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 662,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-15T17:39:14.913114",
+  "timestamp": "2025-10-15T17:42:17.815446",
   "machine_id": "26830028058983"
 }

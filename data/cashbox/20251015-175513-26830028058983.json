@@ -4068,8 +4068,47 @@
       "order_id": 696,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2014,
+      "fecha": "2025-10-15",
+      "descripcion": "ROC 30759 CANCELADO",
+      "monto": 300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 307,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2015,
+      "fecha": "2025-10-15",
+      "descripcion": "ROC 30760 ABONO",
+      "monto": 36500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 29,
+      "user_id": "JAKY",
+      "order_id": 36247,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2016,
+      "fecha": "2025-10-15",
+      "descripcion": "ROC 30760 ABONO ",
+      "monto": 36500.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 44,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-15T17:48:42.874413",
+  "timestamp": "2025-10-15T17:55:13.068006",
   "machine_id": "26830028058983"
 }

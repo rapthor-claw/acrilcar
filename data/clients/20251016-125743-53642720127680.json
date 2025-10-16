@@ -2023,8 +2023,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1437,
+      "name": "JESUS SANFELIZ",
+      "contact_1": "83691985",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1438,
+      "name": "GABRIEL MARTINEZ",
+      "contact_1": "83937671",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1439,
+      "name": "MIMAGEN PUBLICIDD",
+      "contact_1": "87537043",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1440,
+      "name": "FAYSAL ABDALAH",
+      "contact_1": "88191584",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-15T18:22:57.644472",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-16T12:57:43.617293",
+  "machine_id": "53642720127680"
 }

@@ -1583,8 +1583,40 @@
       "services": "['ELABORACION DE 2 CAJAS ACRILICAS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1497,
+      "work_order_id": 36301,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1498,
+      "work_order_id": 720,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP TOTALES TRANSPARENTE Y PULIR LAS MICAS INTERNAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1499,
+      "work_order_id": 36302,
+      "colaborator_id": 9,
+      "services": "['CORTE ACRILICO BLANCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1500,
+      "work_order_id": 721,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-15T18:22:57.573690",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-16T12:57:43.563899",
+  "machine_id": "53642720127680"
 }

@@ -2067,8 +2067,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1441,
+      "name": "EVELING FUENTES",
+      "contact_1": "88844696",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1442,
+      "name": "EYNER HERNANDEZ",
+      "contact_1": "77263454",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1443,
+      "name": "WILDER ARAGON",
+      "contact_1": "58724410",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-16T12:57:43.617293",
+  "timestamp": "2025-10-16T16:46:14.367568",
   "machine_id": "53642720127680"
 }

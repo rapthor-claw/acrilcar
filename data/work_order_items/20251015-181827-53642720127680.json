@@ -1575,8 +1575,16 @@
       "services": "['ELABORACION DE 1 HALOGENO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1496,
+      "work_order_id": 36299,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 CAJAS ACRILICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-15T18:12:25.124139",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-15T18:18:27.093708",
+  "machine_id": "53642720127680"
 }

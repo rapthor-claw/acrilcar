@@ -5599,8 +5599,16 @@
       "activity": "Creo la orden de trabajo: 0724",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5605,
+      "datetime": "2025-10-16 15:48:55",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-16T16:46:14.379536",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-16T09:49:27.311250",
+  "machine_id": "26830028058983"
 }

@@ -2188,8 +2188,30 @@
       "note": "ROC 30760 ABONO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1333,
+      "work_order_id": 649,
+      "payment_date": "2025-10-15",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 2500,
+      "note": "ROC 30762 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1334,
+      "work_order_id": 691,
+      "payment_date": "2025-10-15",
+      "payment_method": "transferencia",
+      "payment": "JAKY",
+      "user_log_registration": 2200,
+      "note": "ROC 30763 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-15T17:58:42.019903",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-15T18:02:34.582466",
+  "machine_id": "26830028058983"
 }

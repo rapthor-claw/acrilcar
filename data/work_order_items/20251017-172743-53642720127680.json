@@ -1639,8 +1639,128 @@
       "services": "['REPARACION DE STOP PARTE AFECTADA ROJA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1504,
+      "work_order_id": 628,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO REPARACION DE ARO INTERNO  Y REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1505,
+      "work_order_id": 36303,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCOS Y 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1506,
+      "work_order_id": 36304,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1507,
+      "work_order_id": 36306,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS, 1 STOP Y 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1508,
+      "work_order_id": 36307,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 PIDEVIA CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1509,
+      "work_order_id": 725,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS Y ARO EN NEGRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1510,
+      "work_order_id": 726,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1511,
+      "work_order_id": 727,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1512,
+      "work_order_id": 728,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE PANA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1513,
+      "work_order_id": 729,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1514,
+      "work_order_id": 730,
+      "colaborator_id": 5,
+      "services": "['ELBORCION DE 1 STOP CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1515,
+      "work_order_id": 731,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO Y PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1516,
+      "work_order_id": 732,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1517,
+      "work_order_id": 733,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 TABLERO DE MOTO CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1518,
+      "work_order_id": 734,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-17T17:17:40.389196",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-17T17:27:43.540422",
+  "machine_id": "53642720127680"
 }

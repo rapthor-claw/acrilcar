@@ -2430,8 +2430,162 @@
       "note": "ROC 30777 CANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1355,
+      "work_order_id": 725,
+      "payment_date": "2025-10-17",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 3400,
+      "note": "ROC 30778 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1356,
+      "work_order_id": 36269,
+      "payment_date": "2025-10-17",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1600,
+      "note": "ROC 30779 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1357,
+      "work_order_id": 729,
+      "payment_date": "2025-10-17",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 500,
+      "note": "ROC 30780 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1358,
+      "work_order_id": 726,
+      "payment_date": "2025-10-17",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 1400,
+      "note": "ROC 30781 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1359,
+      "work_order_id": 720,
+      "payment_date": "2025-10-17",
+      "payment_method": "transferencia",
+      "payment": "JAKY",
+      "user_log_registration": 1800,
+      "note": "ROC 30782 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1360,
+      "work_order_id": 715,
+      "payment_date": "2025-10-17",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1400,
+      "note": "ROC 30783 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1361,
+      "work_order_id": 653,
+      "payment_date": "2025-10-17",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 700,
+      "note": "ROC 30784 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1362,
+      "work_order_id": 628,
+      "payment_date": "2025-10-17",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 2500,
+      "note": "ROC 30785 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1363,
+      "work_order_id": 36307,
+      "payment_date": "2025-10-17",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 600,
+      "note": "ROC 30786 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1364,
+      "work_order_id": 727,
+      "payment_date": "2025-10-17",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 2800,
+      "note": "ROC 30787 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1365,
+      "work_order_id": 36301,
+      "payment_date": "2025-10-17",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 1600,
+      "note": "ROC 30788 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1366,
+      "work_order_id": 733,
+      "payment_date": "2025-10-17",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 250,
+      "note": "ROC 30789 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1367,
+      "work_order_id": 706,
+      "payment_date": "2025-10-17",
+      "payment_method": "cheque",
+      "payment": "JAKY",
+      "user_log_registration": 3500,
+      "note": "ROC 30790 CANCELACION CK BANCO LA FISE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1368,
+      "work_order_id": 717,
+      "payment_date": "2025-10-17",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 2400,
+      "note": "ROC 30791 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-17T17:28:16.495104",
+  "timestamp": "2025-10-17T17:51:33.594502",
   "machine_id": "26830028058983"
 }

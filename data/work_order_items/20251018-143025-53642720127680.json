@@ -1759,8 +1759,48 @@
       "services": "['ELABORACION DE 1 STOP TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1519,
+      "work_order_id": 735,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE 1 STOP PARTE ROJA CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1520,
+      "work_order_id": 736,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE Y ELABORACION DE PARA. REPARACION DE 1 FOCO CON SECADO Y ELABORAR PATA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1521,
+      "work_order_id": 36310,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE ROTULO EN FORMA DE *0* EN NEON FLEX DE 50 X 20']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1522,
+      "work_order_id": 36311,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1523,
+      "work_order_id": 737,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-17T17:54:00.625267",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-18T14:30:25.111286",
+  "machine_id": "53642720127680"
 }

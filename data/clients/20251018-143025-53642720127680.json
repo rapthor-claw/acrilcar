@@ -2265,8 +2265,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1459,
+      "name": "HAROLDO GALO",
+      "contact_1": "84648669",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1460,
+      "name": "RUFINO ARAGON ",
+      "contact_1": "87045550",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1461,
+      "name": "ODED ABSALON GARCIA",
+      "contact_1": "85669141",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-17T17:54:00.698069",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-18T14:30:25.173766",
+  "machine_id": "53642720127680"
 }

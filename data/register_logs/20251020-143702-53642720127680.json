@@ -6279,8 +6279,40 @@
       "activity": "Creo la orden de trabajo: 0747",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5690,
+      "datetime": "2025-10-20 20:28:11",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5691,
+      "datetime": "2025-10-20 20:28:37",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5692,
+      "datetime": "2025-10-20 20:31:19",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MILTON FONSECA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5693,
+      "datetime": "2025-10-20 20:36:52",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36317",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-20T12:46:07.009397",
+  "timestamp": "2025-10-20T14:37:02.576638",
   "machine_id": "53642720127680"
 }

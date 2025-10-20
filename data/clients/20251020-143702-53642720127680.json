@@ -2452,8 +2452,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1476,
+      "name": "MILTON FONSECA",
+      "contact_1": "81504929",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-20T12:46:06.970631",
+  "timestamp": "2025-10-20T14:37:02.544890",
   "machine_id": "53642720127680"
 }

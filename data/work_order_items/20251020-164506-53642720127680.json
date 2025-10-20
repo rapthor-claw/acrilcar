@@ -1919,8 +1919,24 @@
       "services": "['PULIDO DE 2 HALOJENOS CON REPARACION DE BASE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1539,
+      "work_order_id": 36318,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1540,
+      "work_order_id": 36319,
+      "colaborator_id": 9,
+      "services": "['CORTE DE 10 PIEZAS DE MADERA, CLEINTE TRAJO MATERIAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-20T14:37:02.414551",
+  "timestamp": "2025-10-20T16:45:06.199821",
   "machine_id": "53642720127680"
 }

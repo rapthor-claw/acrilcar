@@ -2463,8 +2463,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1477,
+      "name": "DEYANIRA ARROLIGA",
+      "contact_1": "89344010",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1478,
+      "name": "CARLOS NUÑEZ",
+      "contact_1": "83640486",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-20T14:37:02.544890",
+  "timestamp": "2025-10-20T16:45:06.256755",
   "machine_id": "53642720127680"
 }

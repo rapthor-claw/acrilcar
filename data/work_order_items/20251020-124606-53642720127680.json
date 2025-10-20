@@ -1799,8 +1799,120 @@
       "services": "['ELABORACION DE 1 STOP TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1524,
+      "work_order_id": 36312,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1525,
+      "work_order_id": 36313,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS CON REPARACION DE BASE Y SECADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1526,
+      "work_order_id": 36314,
+      "colaborator_id": 14,
+      "services": "['SECADO DE FOCO CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1527,
+      "work_order_id": 36315,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS, 2 STOP, 2 HALOGENOS Y 1 PIDEVIA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1528,
+      "work_order_id": 36316,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1529,
+      "work_order_id": 738,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO Y ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1530,
+      "work_order_id": 739,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1531,
+      "work_order_id": 740,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1532,
+      "work_order_id": 741,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1533,
+      "work_order_id": 742,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1534,
+      "work_order_id": 743,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1535,
+      "work_order_id": 745,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO Y ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1536,
+      "work_order_id": 746,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS, 2 LAMPARAS ROJO LISO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1537,
+      "work_order_id": 747,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-18T15:26:42.613680",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-20T12:46:06.829625",
+  "machine_id": "53642720127680"
 }

@@ -2298,8 +2298,162 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1462,
+      "name": "ELMER BLANCO",
+      "contact_1": "89705241",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1463,
+      "name": "EJERCITO DE NICARAGUA",
+      "contact_1": "86252226",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1464,
+      "name": "GUILLERMO SNCHEZ",
+      "contact_1": "88616765",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1465,
+      "name": "MILTON GONZALEZ",
+      "contact_1": "86345623",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1466,
+      "name": "CRISTOFER PEREZ",
+      "contact_1": "58267983",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1467,
+      "name": "NUBIA COCA GARCIA",
+      "contact_1": "82722699",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1468,
+      "name": "JIMMY CAMAÑO",
+      "contact_1": "58563808",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1469,
+      "name": "JOSE LANZAS",
+      "contact_1": "82021799",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1470,
+      "name": "SER. S.A.",
+      "contact_1": "82851507",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1471,
+      "name": "MILTON GONZALEZ",
+      "contact_1": "86345623",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1472,
+      "name": "NORMAN FLORES MEDINA",
+      "contact_1": "87482276",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1473,
+      "name": "RODOLFO GUERRERO CASTELLON",
+      "contact_1": "88426790",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1474,
+      "name": "ALVARO CALDERON ",
+      "contact_1": "85888873",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1475,
+      "name": "ERNESTO SANTANA",
+      "contact_1": "82545688",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-18T15:26:42.691781",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-20T12:46:06.970631",
+  "machine_id": "53642720127680"
 }

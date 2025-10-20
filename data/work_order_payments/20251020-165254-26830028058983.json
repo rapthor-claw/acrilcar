@@ -2639,8 +2639,52 @@
       "note": "ROC 30798 CANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1374,
+      "work_order_id": 36310,
+      "payment_date": "2025-10-18",
+      "payment_method": "transferencia",
+      "payment": "JAKY",
+      "user_log_registration": 14060,
+      "note": "ROC 30797 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1375,
+      "work_order_id": 736,
+      "payment_date": "2025-10-18",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 3850,
+      "note": "ROC 30796 ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1376,
+      "work_order_id": 718,
+      "payment_date": "2025-10-18",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 400,
+      "note": "ROC 30795 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1377,
+      "work_order_id": 708,
+      "payment_date": "2025-10-18",
+      "payment_method": "transferencia",
+      "payment": "JAKY",
+      "user_log_registration": 2800,
+      "note": "ROC 30794",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-20T16:45:06.209695",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-20T16:52:54.964774",
+  "machine_id": "26830028058983"
 }

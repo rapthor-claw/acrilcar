@@ -5043,8 +5043,86 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2089,
+      "fecha": "2025-10-18",
+      "descripcion": "ROC 30797 CANCELADO",
+      "monto": 14060.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 33,
+      "user_id": "JAKY",
+      "order_id": 36310,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2090,
+      "fecha": "2025-10-18",
+      "descripcion": "ROC 30797",
+      "monto": 1460.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 36,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2091,
+      "fecha": "2025-10-18",
+      "descripcion": "ROC 30796 ",
+      "monto": 3850.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 736,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2092,
+      "fecha": "2025-10-18",
+      "descripcion": "ROC 30795 CANCELADO",
+      "monto": 400.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 718,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2093,
+      "fecha": "2025-10-18",
+      "descripcion": "ROC 30794",
+      "monto": 2800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 31,
+      "user_id": "JAKY",
+      "order_id": 708,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2094,
+      "fecha": "2025-10-18",
+      "descripcion": "ROC 30794",
+      "monto": 2800.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 41,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-20T16:45:06.236715",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-20T16:52:55.027263",
+  "machine_id": "26830028058983"
 }

@@ -6351,8 +6351,24 @@
       "activity": "Creo la orden de trabajo: 0748",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5699,
+      "datetime": "2025-10-20 23:37:10",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JORGE ROMERO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5700,
+      "datetime": "2025-10-20 23:39:07",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36320",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-20T17:01:23.107913",
+  "timestamp": "2025-10-20T17:39:16.013953",
   "machine_id": "53642720127680"
 }

@@ -1943,8 +1943,16 @@
       "services": "['ELABORACION DE 1 STOP TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1542,
+      "work_order_id": 36320,
+      "colaborator_id": 9,
+      "services": "['2 PORTA BROSHURES']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-20T17:01:22.943010",
+  "timestamp": "2025-10-20T17:39:15.878935",
   "machine_id": "53642720127680"
 }

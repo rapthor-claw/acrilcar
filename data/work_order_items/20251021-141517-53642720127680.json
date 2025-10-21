@@ -1951,8 +1951,80 @@
       "services": "['2 PORTA BROSHURES']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1543,
+      "work_order_id": 749,
+      "colaborator_id": 12,
+      "services": "['ELBORACION DE STOP CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1544,
+      "work_order_id": 750,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP MAS ENVIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1545,
+      "work_order_id": 751,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1546,
+      "work_order_id": 752,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 LATERAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1547,
+      "work_order_id": 753,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE Y ELABORACION DE PATAS, Y PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1548,
+      "work_order_id": 754,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 PIDE VIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1549,
+      "work_order_id": 755,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP Y 1 TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1550,
+      "work_order_id": 756,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1551,
+      "work_order_id": 36321,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 REFLECTIVOS Y REPARACION DE CEJA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-20T08:38:36.036416",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-21T14:15:17.824199",
+  "machine_id": "53642720127680"
 }

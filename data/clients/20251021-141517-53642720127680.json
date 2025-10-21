@@ -2496,8 +2496,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1480,
+      "name": "CARLOS AVENDAÑO ROCHA",
+      "contact_1": "89947177",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1481,
+      "name": "",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1482,
+      "name": "FERNANDO ZARRUK",
+      "contact_1": "87706831",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1483,
+      "name": "RAMON TINOCO",
+      "contact_1": "83583000",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1484,
+      "name": "ELMAN LOPEZ ALVARADO",
+      "contact_1": "85619258",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1485,
+      "name": "OSCAR GUIDO",
+      "contact_1": "77862567",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1486,
+      "name": "FAIZAR ",
+      "contact_1": "87222070",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1487,
+      "name": "HERIBERTO VELASQUEZ",
+      "contact_1": "57242115",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1488,
+      "name": "WALTER ABURTO",
+      "contact_1": "88777692",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-20T08:38:36.114524",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-21T14:15:17.886220",
+  "machine_id": "53642720127680"
 }

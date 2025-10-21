@@ -2031,8 +2031,24 @@
       "services": "['ELABORACION DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1553,
+      "work_order_id": 758,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS Y 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1554,
+      "work_order_id": 759,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-21T15:22:03.648232",
+  "timestamp": "2025-10-21T16:48:52.085784",
   "machine_id": "53642720127680"
 }

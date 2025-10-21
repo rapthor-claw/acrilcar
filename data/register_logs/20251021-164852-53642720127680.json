@@ -6559,8 +6559,40 @@
       "activity": "Creo la orden de trabajo: 0757",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5725,
+      "datetime": "2025-10-21 22:45:48",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MAYKEL VEGA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5726,
+      "datetime": "2025-10-21 22:46:18",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LESTER CRUZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5727,
+      "datetime": "2025-10-21 22:47:42",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0758",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5728,
+      "datetime": "2025-10-21 22:48:38",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0759",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-21T15:22:03.714056",
+  "timestamp": "2025-10-21T16:48:52.146431",
   "machine_id": "53642720127680"
 }

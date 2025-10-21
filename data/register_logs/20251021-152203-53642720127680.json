@@ -6543,8 +6543,24 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5723,
+      "datetime": "2025-10-21 21:20:51",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: CARLOS ZAVALA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5724,
+      "datetime": "2025-10-21 21:21:42",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0757",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-21T14:15:17.923699",
+  "timestamp": "2025-10-21T15:22:03.714056",
   "machine_id": "53642720127680"
 }

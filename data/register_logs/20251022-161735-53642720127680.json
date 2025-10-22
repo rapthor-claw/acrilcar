@@ -6727,8 +6727,192 @@
       "activity": "Creo la orden de trabajo: 0764",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5746,
+      "datetime": "2025-10-22 21:03:28",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: CESAR OBREGON",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5747,
+      "datetime": "2025-10-22 21:03:49",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: GREYBIN RUGAMA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5748,
+      "datetime": "2025-10-22 21:04:19",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LACOLORS PUBLICIDAD",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5749,
+      "datetime": "2025-10-22 21:05:18",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36325",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5750,
+      "datetime": "2025-10-22 21:06:20",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36326",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5751,
+      "datetime": "2025-10-22 21:08:22",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36327",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5752,
+      "datetime": "2025-10-22 21:11:31",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: RICARDO SEQUEIRA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5753,
+      "datetime": "2025-10-22 21:11:56",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ISAIAS HERNANDEZ GARCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5754,
+      "datetime": "2025-10-22 21:12:11",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: CARLOS COREA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5755,
+      "datetime": "2025-10-22 21:12:26",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSE RIVERA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5756,
+      "datetime": "2025-10-22 21:12:47",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LUIS EDDY RODRIGUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5757,
+      "datetime": "2025-10-22 21:13:08",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ELIZABETH CENTENO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5758,
+      "datetime": "2025-10-22 21:31:55",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0765",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5759,
+      "datetime": "2025-10-22 21:37:27",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0766",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5760,
+      "datetime": "2025-10-22 21:38:42",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0767",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5761,
+      "datetime": "2025-10-22 22:00:46",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0768",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5762,
+      "datetime": "2025-10-22 22:04:19",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0769",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5763,
+      "datetime": "2025-10-22 22:11:39",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0770",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5764,
+      "datetime": "2025-10-22 22:12:49",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARIO ERNESTO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5765,
+      "datetime": "2025-10-22 22:13:15",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ELECTRONICA TECNICA S.A.",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5766,
+      "datetime": "2025-10-22 22:14:03",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36328",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5767,
+      "datetime": "2025-10-22 22:15:04",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36329",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5768,
+      "datetime": "2025-10-22 22:17:13",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36257",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-22T11:29:02.278164",
+  "timestamp": "2025-10-22T16:17:35.537951",
   "machine_id": "53642720127680"
 }

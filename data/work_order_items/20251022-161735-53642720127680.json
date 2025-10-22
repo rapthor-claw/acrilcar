@@ -2103,8 +2103,104 @@
       "services": "['ELABORACION DE 2 PIDE VIAS Y 1 TERCERA LUZ']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1562,
+      "work_order_id": 36325,
+      "colaborator_id": 14,
+      "services": "['SECADO Y REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1563,
+      "work_order_id": 36326,
+      "colaborator_id": 14,
+      "services": "['SECADO Y REPARACION DE OJO DE ANGEL A UN FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1564,
+      "work_order_id": 36327,
+      "colaborator_id": 9,
+      "services": "['CORTE ELECTRONICO - RAUTER EN ACRILICO DE 3 MM DEL CLIENTE MAS 12 PINES METALICOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1565,
+      "work_order_id": 765,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 FOCOS CON ARO EN NEGRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1566,
+      "work_order_id": 766,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1567,
+      "work_order_id": 767,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS, 2 STOP Y TERCER LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1568,
+      "work_order_id": 768,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS CON PINTURA EN ARO NEGRO Y LED']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1569,
+      "work_order_id": 769,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 MICAS DE 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1570,
+      "work_order_id": 770,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1571,
+      "work_order_id": 36328,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE LED']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1572,
+      "work_order_id": 36329,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 2 PIEZAS ACRILICAS 6 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1573,
+      "work_order_id": 36257,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS CON REPARACION DE PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-22T11:29:02.138779",
+  "timestamp": "2025-10-22T16:17:35.438838",
   "machine_id": "53642720127680"
 }

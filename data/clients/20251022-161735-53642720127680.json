@@ -2716,8 +2716,129 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1500,
+      "name": "CESAR OBREGON",
+      "contact_1": "77271803",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1501,
+      "name": "GREYBIN RUGAMA",
+      "contact_1": "89070630",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1502,
+      "name": "LACOLORS PUBLICIDAD",
+      "contact_1": "87980470",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1503,
+      "name": "RICARDO SEQUEIRA",
+      "contact_1": "83812769",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1504,
+      "name": "ISAIAS HERNANDEZ GARCIA",
+      "contact_1": "77623174",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1505,
+      "name": "CARLOS COREA",
+      "contact_1": "89858305",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1506,
+      "name": "JOSE RIVERA",
+      "contact_1": "78792431",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1507,
+      "name": "LUIS EDDY RODRIGUEZ",
+      "contact_1": "89791059",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1508,
+      "name": "ELIZABETH CENTENO",
+      "contact_1": "88108423",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1509,
+      "name": "MARIO ERNESTO",
+      "contact_1": "84651443",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1510,
+      "name": "ELECTRONICA TECNICA S.A.",
+      "contact_1": "81810080",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-22T11:29:02.237707",
+  "timestamp": "2025-10-22T16:17:35.505552",
   "machine_id": "53642720127680"
 }

@@ -2628,8 +2628,96 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1492,
+      "name": "ALLAN VELASQUEZ",
+      "contact_1": "57417204",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1493,
+      "name": "JORGE RODRIGUEZ",
+      "contact_1": "86996925",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1494,
+      "name": "HARLING MANZANARES",
+      "contact_1": "58250375",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1495,
+      "name": "GEOVANNY RUIZ",
+      "contact_1": "83785113",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1496,
+      "name": "JASON ESPINALES",
+      "contact_1": "86246029",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1497,
+      "name": "ENRIQUE JUAREZ",
+      "contact_1": "86494684",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1498,
+      "name": "ALVARO AGUILAR",
+      "contact_1": "86011794",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1499,
+      "name": "ROGER BERRIOS",
+      "contact_1": "57922112",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-21T16:48:52.136307",
+  "timestamp": "2025-10-22T11:29:02.237707",
   "machine_id": "53642720127680"
 }

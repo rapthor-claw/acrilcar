@@ -2047,8 +2047,64 @@
       "services": "['ELABORACION DE 2 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1555,
+      "work_order_id": 36322,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS VER REGULADOR DE PANA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1556,
+      "work_order_id": 36323,
+      "colaborator_id": 14,
+      "services": "['CROMADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1557,
+      "work_order_id": 36324,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y MANTENIMIENTO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1558,
+      "work_order_id": 761,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 PARRILLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1559,
+      "work_order_id": 762,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1560,
+      "work_order_id": 763,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1561,
+      "work_order_id": 764,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 PIDE VIAS Y 1 TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-21T16:48:52.085784",
+  "timestamp": "2025-10-22T11:29:02.138779",
   "machine_id": "53642720127680"
 }

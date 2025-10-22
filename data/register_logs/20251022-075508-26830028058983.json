@@ -7015,8 +7015,32 @@
       "activity": "Ingreso de caja para la orden: 36326 - monto: 1000",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5782,
+      "datetime": "2025-10-22 13:48:33",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0764 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5783,
+      "datetime": "2025-10-22 13:50:47",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36324 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5784,
+      "datetime": "2025-10-22 13:54:44",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36314 - monto: 170",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-22T07:47:31.813178",
+  "timestamp": "2025-10-22T07:55:08.073155",
   "machine_id": "26830028058983"
 }

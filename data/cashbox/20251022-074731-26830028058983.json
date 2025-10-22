@@ -5472,8 +5472,86 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2122,
+      "fecha": "2025-10-22",
+      "descripcion": "ROC 30829 CANCELADO",
+      "monto": 170.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 36314,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2123,
+      "fecha": "2025-10-22",
+      "descripcion": "ROC 30830 CANCELADO",
+      "monto": 800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 36324,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2124,
+      "fecha": "2025-10-22",
+      "descripcion": "ROC 30831 ABONO ",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 764,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2125,
+      "fecha": "2025-10-22",
+      "descripcion": "ROC 30832 ABONO",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 765,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2126,
+      "fecha": "2025-10-22",
+      "descripcion": "ROC 30833 CANCELADO",
+      "monto": 6000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 767,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2127,
+      "fecha": "2025-10-22",
+      "descripcion": "ROC 30834 CANCELADO",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 36326,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-22T06:54:09.540855",
+  "timestamp": "2025-10-22T07:47:31.766345",
   "machine_id": "26830028058983"
 }

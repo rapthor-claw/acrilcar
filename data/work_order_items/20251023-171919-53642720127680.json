@@ -2343,8 +2343,16 @@
       "services": "['PULIDO DE 2 FOCOS CON MANTENIMIENTO DE CROMO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1592,
+      "work_order_id": 719,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP Y 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-23T17:08:36.095915",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-23T17:19:19.362853",
+  "machine_id": "53642720127680"
 }

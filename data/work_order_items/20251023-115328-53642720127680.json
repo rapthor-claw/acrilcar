@@ -2199,8 +2199,16 @@
       "services": "['PULIDO DE 2 FOCOS CON REPARACION DE PATAS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1574,
+      "work_order_id": 760,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-22T07:55:18.947265",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-23T11:53:28.525276",
+  "machine_id": "53642720127680"
 }

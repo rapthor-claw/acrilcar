@@ -2947,8 +2947,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1521,
+      "name": "LUIS LARGAESPADA",
+      "contact_1": "86956409",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1522,
+      "name": "STANLEY ESPINOZA",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1523,
+      "name": "MAURA AREVALO",
+      "contact_1": "86374340",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-23T12:26:10.656003",
+  "timestamp": "2025-10-23T13:43:31.914077",
   "machine_id": "53642720127680"
 }

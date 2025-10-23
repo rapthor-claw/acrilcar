@@ -5784,8 +5784,21 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2146,
+      "fecha": "2025-10-22",
+      "descripcion": "ROC 30828 CANCELADO",
+      "monto": 650.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 760,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-23T16:27:18.330887",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-23T16:45:40.298345",
+  "machine_id": "26830028058983"
 }

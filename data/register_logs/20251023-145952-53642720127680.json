@@ -7247,8 +7247,24 @@
       "activity": "Creo la orden de trabajo: 0777",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5811,
+      "datetime": "2025-10-23 20:57:56",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARIO ARCE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5812,
+      "datetime": "2025-10-23 20:59:40",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36336",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-23T13:43:31.930035",
+  "timestamp": "2025-10-23T14:59:52.243430",
   "machine_id": "53642720127680"
 }

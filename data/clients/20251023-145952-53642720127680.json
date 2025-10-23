@@ -2980,8 +2980,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1524,
+      "name": "MARIO ARCE",
+      "contact_1": "87977601",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-23T13:43:31.914077",
+  "timestamp": "2025-10-23T14:59:52.227473",
   "machine_id": "53642720127680"
 }

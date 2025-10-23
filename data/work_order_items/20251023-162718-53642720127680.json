@@ -2319,8 +2319,32 @@
       "services": "['PULIDO, SECADO Y MANTENIMIENTO DE CROMADO DE 1 FOCO Y 1 HALOGENO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1589,
+      "work_order_id": 36337,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 1 PIEZA ACRILICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1590,
+      "work_order_id": 36339,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1591,
+      "work_order_id": 36338,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS CON MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-23T14:59:52.170625",
+  "timestamp": "2025-10-23T16:27:18.243845",
   "machine_id": "53642720127680"
 }

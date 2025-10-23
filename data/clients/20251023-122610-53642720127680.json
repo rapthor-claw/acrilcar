@@ -2837,8 +2837,118 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1511,
+      "name": "OSCAR DESAYES",
+      "contact_1": "82324688",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1512,
+      "name": "HUGO CASTILLO",
+      "contact_1": "89734150",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1513,
+      "name": "LEVY BALDELOMAR ",
+      "contact_1": "89423563",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1514,
+      "name": "JOAQUIN PALMA",
+      "contact_1": "76966125",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1515,
+      "name": "MULTIACRILICO",
+      "contact_1": "77980096",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1516,
+      "name": "FRANCISCO FLORES",
+      "contact_1": "89027068",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1517,
+      "name": "LUIS CARRION",
+      "contact_1": "57667069",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1518,
+      "name": "LUIS MARTINEZ",
+      "contact_1": "84680737",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1519,
+      "name": "TRANSPORTE GARCIA",
+      "contact_1": "89848372",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1520,
+      "name": "EDUARDO VANEGAS",
+      "contact_1": "77102604",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-22T09:12:55.552188",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-23T12:26:10.656003",
+  "machine_id": "53642720127680"
 }

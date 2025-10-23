@@ -2207,8 +2207,88 @@
       "services": "['ELABORACION DE 1 TABLERO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1575,
+      "work_order_id": 36330,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1576,
+      "work_order_id": 36331,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1577,
+      "work_order_id": 36332,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1578,
+      "work_order_id": 36333,
+      "colaborator_id": 9,
+      "services": "['CORTE DE LETRAS EN CINTA REFLECTIVA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1579,
+      "work_order_id": 36334,
+      "colaborator_id": 9,
+      "services": "['VENTA DE 1 GALON DE SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1580,
+      "work_order_id": 771,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1581,
+      "work_order_id": 772,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP, 1 FOCO Y PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1582,
+      "work_order_id": 773,
+      "colaborator_id": 12,
+      "services": "['ELBORACION DE 1 STOP Y PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1583,
+      "work_order_id": 774,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS, 2 HALOJENOS Y 2 TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1584,
+      "work_order_id": 775,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-22T09:12:55.474026",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-23T12:26:10.600161",
+  "machine_id": "53642720127680"
 }

@@ -2351,8 +2351,16 @@
       "services": "['ELABORACION DE 1 STOP Y 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1593,
+      "work_order_id": 36340,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE 2 STOP TRASEROS Y MANTENIMIENTO DE 2 FOCOS DELANTEROS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-23T17:31:29.461326",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-23T17:43:02.042178",
+  "machine_id": "53642720127680"
 }

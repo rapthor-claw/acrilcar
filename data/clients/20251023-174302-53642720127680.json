@@ -3035,8 +3035,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1529,
+      "name": "H Y G LOGISTICA",
+      "contact_1": "88842801",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-23T17:31:29.539403",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-23T17:43:02.153092",
+  "machine_id": "53642720127680"
 }

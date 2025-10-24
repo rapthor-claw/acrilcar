@@ -3233,8 +3233,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1547,
+      "name": "JULIO REYES",
+      "contact_1": "84081938",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-24T16:05:26.787484",
+  "timestamp": "2025-10-24T17:20:35.441662",
   "machine_id": "53642720127680"
 }

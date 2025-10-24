@@ -7767,8 +7767,24 @@
       "activity": "Creo la orden de trabajo: 0788",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5876,
+      "datetime": "2025-10-24 22:20:52",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JULIO REYES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5877,
+      "datetime": "2025-10-24 22:22:28",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0789",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-24T16:05:26.813523",
+  "timestamp": "2025-10-24T17:20:35.464212",
   "machine_id": "53642720127680"
 }

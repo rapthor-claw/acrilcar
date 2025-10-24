@@ -2487,8 +2487,16 @@
       "services": "['SECADO DE 1 FOCO Y 2 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1610,
+      "work_order_id": 788,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-24T14:55:01.128809",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-24T16:05:26.678215",
+  "machine_id": "53642720127680"
 }

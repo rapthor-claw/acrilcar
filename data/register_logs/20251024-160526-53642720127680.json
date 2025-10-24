@@ -7751,8 +7751,24 @@
       "activity": "Creo la orden de trabajo: 36346",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5874,
+      "datetime": "2025-10-24 22:02:16",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: FULL SERVICES S.A. ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5875,
+      "datetime": "2025-10-24 22:04:55",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0788",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-24T14:55:01.238152",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-24T16:05:26.813523",
+  "machine_id": "53642720127680"
 }

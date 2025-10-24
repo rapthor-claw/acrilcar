@@ -2359,8 +2359,136 @@
       "services": "['REPARACION DE 2 STOP TRASEROS Y MANTENIMIENTO DE 2 FOCOS DELANTEROS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1594,
+      "work_order_id": 36341,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1595,
+      "work_order_id": 36342,
+      "colaborator_id": 4,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1596,
+      "work_order_id": 36343,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1597,
+      "work_order_id": 36344,
+      "colaborator_id": 9,
+      "services": "['CORTE LASER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1598,
+      "work_order_id": 778,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO Y 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1599,
+      "work_order_id": 779,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1600,
+      "work_order_id": 780,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO Y REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1601,
+      "work_order_id": 781,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1602,
+      "work_order_id": 782,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS Y 2 STOP DE UN COROLLA Y 1 STOP DE NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1603,
+      "work_order_id": 783,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE Y ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1604,
+      "work_order_id": 784,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1605,
+      "work_order_id": 785,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1606,
+      "work_order_id": 786,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1607,
+      "work_order_id": 787,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 ROMPEVIENTO AHUMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1608,
+      "work_order_id": 36345,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS E INSTALACION DE LUCES LED BLANCAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1609,
+      "work_order_id": 36346,
+      "colaborator_id": 14,
+      "services": "['SECADO DE 1 FOCO Y 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-23T17:50:17.629496",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-24T14:51:29.019073",
+  "machine_id": "53642720127680"
 }

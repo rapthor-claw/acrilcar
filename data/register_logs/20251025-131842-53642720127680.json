@@ -8047,8 +8047,40 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5911,
+      "datetime": "2025-10-25 18:58:04",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALEJANDRO BACA CALERO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5912,
+      "datetime": "2025-10-25 18:59:10",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0791",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5913,
+      "datetime": "2025-10-25 19:16:03",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JAIRO AREVALO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5914,
+      "datetime": "2025-10-25 19:17:05",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0792",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-24T18:45:28.680205",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-25T13:18:42.260642",
+  "machine_id": "53642720127680"
 }

@@ -3255,8 +3255,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1549,
+      "name": "ALEX BENAVIDEZ",
+      "contact_1": "87635584",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1550,
+      "name": "OSCAR ROSALES",
+      "contact_1": "87805764",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1551,
+      "name": "ALEJANDRO BACA CALERO",
+      "contact_1": "83916883",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1552,
+      "name": "JAIRO AREVALO",
+      "contact_1": "83202811",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-24T18:45:28.648990",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-25T13:18:42.244682",
+  "machine_id": "53642720127680"
 }

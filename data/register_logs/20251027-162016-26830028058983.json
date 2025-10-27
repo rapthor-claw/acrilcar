@@ -8631,8 +8631,24 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5984,
+      "datetime": "2025-10-27 20:52:20",
+      "username": "JAKY",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5985,
+      "datetime": "2025-10-27 22:20:04",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-27T16:02:55.030355",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-27T16:20:16.468663",
+  "machine_id": "26830028058983"
 }

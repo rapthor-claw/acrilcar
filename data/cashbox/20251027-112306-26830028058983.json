@@ -7162,8 +7162,34 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2252,
+      "fecha": "2025-10-27",
+      "descripcion": "ROC 30906 ANULADA  30907 CANCELADO",
+      "monto": 1800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 34,
+      "user_id": "JAKY",
+      "order_id": 36338,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2253,
+      "fecha": "2025-10-27",
+      "descripcion": "ROC 30907",
+      "monto": 1800.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 44,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-25T00:50:25.795915",
+  "timestamp": "2025-10-27T11:23:06.704464",
   "machine_id": "26830028058983"
 }

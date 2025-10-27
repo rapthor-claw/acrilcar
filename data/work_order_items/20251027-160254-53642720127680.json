@@ -2543,8 +2543,208 @@
       "services": "['ELABORACION DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1617,
+      "work_order_id": 36348,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO, DESTAPADO PARA MANTENIMIENTO DE LUPA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1618,
+      "work_order_id": 36349,
+      "colaborator_id": 9,
+      "services": "['REPARACION DE GAVETA DE REFRIGERADORA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1619,
+      "work_order_id": 36350,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE PIEZAS ACRILICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1620,
+      "work_order_id": 36351,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1621,
+      "work_order_id": 36352,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1622,
+      "work_order_id": 793,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO Y PULIDO DE OTRO FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1623,
+      "work_order_id": 794,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1624,
+      "work_order_id": 795,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO  Y PULIDO DE OTRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1625,
+      "work_order_id": 796,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1626,
+      "work_order_id": 797,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1627,
+      "work_order_id": 798,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 PIDE VIAS MAS ENVIO A LEON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1628,
+      "work_order_id": 799,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 PIDE VIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1629,
+      "work_order_id": 800,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1630,
+      "work_order_id": 801,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1631,
+      "work_order_id": 802,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1632,
+      "work_order_id": 803,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP Y PULIDO DEL OTRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1633,
+      "work_order_id": 804,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1634,
+      "work_order_id": 805,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1635,
+      "work_order_id": 806,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1636,
+      "work_order_id": 807,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP MAS ENVIO A MULUKUKU']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1637,
+      "work_order_id": 36353,
+      "colaborator_id": 9,
+      "services": "['AREGLO DE PIEZA EN FIBRA DE VIDRIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1638,
+      "work_order_id": 36354,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE PIEZA ACRILICA T/BOLSILLO TAMAÑO CARTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1639,
+      "work_order_id": 36355,
+      "colaborator_id": 9,
+      "services": "['LAMINA ACRILICO TRANSPARENTE 1 MT X 1 MTS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1640,
+      "work_order_id": 36356,
+      "colaborator_id": 9,
+      "services": "['CORTE ACRILICO DE VENTANA, CLIENTE TRAJO MATERIAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1641,
+      "work_order_id": 808,
+      "colaborator_id": 2,
+      "services": "['CAMBIO DE MICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-27T14:51:25.614033",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-27T16:02:54.930080",
+  "machine_id": "53642720127680"
 }

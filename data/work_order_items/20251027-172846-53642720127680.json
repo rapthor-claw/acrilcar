@@ -2743,8 +2743,32 @@
       "services": "['CAMBIO DE MICA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1642,
+      "work_order_id": 36357,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE BOLSILLOS ACRILICOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1643,
+      "work_order_id": 36358,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 40 PIEZAS DORADAS DERECHAS Y 40 PIEZAS DORADAS IZQUIERDA ALVAROS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1644,
+      "work_order_id": 809,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE ARO Y ELABORACION DE PATA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-27T16:38:30.087366",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-27T17:28:46.075382",
+  "machine_id": "53642720127680"
 }

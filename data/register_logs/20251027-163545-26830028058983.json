@@ -8647,8 +8647,96 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5986,
+      "datetime": "2025-10-27 22:21:16",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36350 - monto: 2200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5987,
+      "datetime": "2025-10-27 22:21:42",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 2200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5988,
+      "datetime": "2025-10-27 22:30:01",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5989,
+      "datetime": "2025-10-27 22:30:51",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0801 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5990,
+      "datetime": "2025-10-27 22:31:25",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5991,
+      "datetime": "2025-10-27 22:32:09",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36352 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5992,
+      "datetime": "2025-10-27 22:32:52",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0804 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5993,
+      "datetime": "2025-10-27 22:33:26",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0805 - monto: 1900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5994,
+      "datetime": "2025-10-27 22:34:09",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0807 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5995,
+      "datetime": "2025-10-27 22:35:02",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0777 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 5996,
+      "datetime": "2025-10-27 22:35:22",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-27T16:20:16.468663",
+  "timestamp": "2025-10-27T16:35:45.889472",
   "machine_id": "26830028058983"
 }

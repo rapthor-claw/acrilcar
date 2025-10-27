@@ -8735,8 +8735,16 @@
       "activity": "Salida de caja, monto: 1800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 5997,
+      "datetime": "2025-10-27 22:37:22",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36356 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-27T16:36:44.522420",
+  "timestamp": "2025-10-27T16:37:47.330623",
   "machine_id": "26830028058983"
 }

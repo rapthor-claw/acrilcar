@@ -3596,8 +3596,151 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1580,
+      "name": "REDETEL S..",
+      "contact_1": "82671111",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1581,
+      "name": "WILLIAM DIAZ",
+      "contact_1": "88783934",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1582,
+      "name": "EVELIO GUTIERREZ",
+      "contact_1": "82511920",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1583,
+      "name": "GUSTAVO OBREGON",
+      "contact_1": "57411963",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1584,
+      "name": "ENACAL",
+      "contact_1": "88073494",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1585,
+      "name": "GUSTAVO OBREGON",
+      "contact_1": "57411963",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1586,
+      "name": "ANIBAL BARRERA",
+      "contact_1": "84154930",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1587,
+      "name": "CARLOS BAQUEDANO",
+      "contact_1": "86543432",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1588,
+      "name": "PANFILO OROZCO",
+      "contact_1": "88830671",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1589,
+      "name": "EMERSON MUÑOZ",
+      "contact_1": "86203630",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1590,
+      "name": "WALTER GUIDO",
+      "contact_1": "87326489",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1591,
+      "name": "LUZ ESCOBAR",
+      "contact_1": "87936536",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1592,
+      "name": "JORGE RIVAS",
+      "contact_1": "57629802",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-27T17:47:01.729201",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-28T11:13:30.339319",
+  "machine_id": "53642720127680"
 }

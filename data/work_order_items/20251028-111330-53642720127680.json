@@ -2767,8 +2767,112 @@
       "services": "['ELABORACION DE 1 FOCO CON REPARACION DE ARO Y ELABORACION DE PATA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1645,
+      "work_order_id": 36359,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1646,
+      "work_order_id": 36360,
+      "colaborator_id": 14,
+      "services": "['SECADO Y SELLADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1647,
+      "work_order_id": 36361,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1648,
+      "work_order_id": 36362,
+      "colaborator_id": 14,
+      "services": "['SECADO Y SELLADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1649,
+      "work_order_id": 36363,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1650,
+      "work_order_id": 36364,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1651,
+      "work_order_id": 810,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1652,
+      "work_order_id": 811,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1653,
+      "work_order_id": 812,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE 1 STOP PARTE BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1654,
+      "work_order_id": 813,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1655,
+      "work_order_id": 814,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1656,
+      "work_order_id": 815,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1657,
+      "work_order_id": 36365,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-27T17:47:01.651094",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-28T11:13:30.271178",
+  "machine_id": "53642720127680"
 }

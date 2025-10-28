@@ -2871,8 +2871,24 @@
       "services": "['PULIDO DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1658,
+      "work_order_id": 816,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1659,
+      "work_order_id": 817,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-28T11:13:30.271178",
+  "timestamp": "2025-10-28T11:41:36.885819",
   "machine_id": "53642720127680"
 }

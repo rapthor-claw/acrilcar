@@ -3739,8 +3739,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1593,
+      "name": "SALVADOR CASTILLO",
+      "contact_1": "88833337",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1594,
+      "name": "ROGER CHAVARRIA",
+      "contact_1": "87150778",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-28T11:13:30.339319",
+  "timestamp": "2025-10-28T11:41:36.946562",
   "machine_id": "53642720127680"
 }

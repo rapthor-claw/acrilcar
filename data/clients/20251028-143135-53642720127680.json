@@ -3827,8 +3827,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1601,
+      "name": "JAIRO ACEVEDO",
+      "contact_1": "83202811",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-28T14:23:10.625123",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-28T14:31:35.063604",
+  "machine_id": "53642720127680"
 }

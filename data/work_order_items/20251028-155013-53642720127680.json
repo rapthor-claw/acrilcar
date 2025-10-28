@@ -2951,8 +2951,48 @@
       "services": "['REPARACION DE 1 STOP PARTE AFECTADA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1668,
+      "work_order_id": 826,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1669,
+      "work_order_id": 827,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1670,
+      "work_order_id": 36366,
+      "colaborator_id": 14,
+      "services": "['3 HBLDORES TMAÑO CARTA VERTICAL DOBLE L']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1671,
+      "work_order_id": 36367,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 MICA DE RETROVISOR CON REPARACION DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1672,
+      "work_order_id": 36368,
+      "colaborator_id": 14,
+      "services": "['MANTENIMIENTO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-28T15:37:11.954836",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-28T15:50:13.423595",
+  "machine_id": "53642720127680"
 }

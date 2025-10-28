@@ -9255,8 +9255,24 @@
       "activity": "Salida de caja, monto: 960",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6062,
+      "datetime": "2025-10-28 21:49:01",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36367",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6063,
+      "datetime": "2025-10-28 21:49:58",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36368",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-28T15:37:12.064201",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-28T15:50:13.501663",
+  "machine_id": "53642720127680"
 }

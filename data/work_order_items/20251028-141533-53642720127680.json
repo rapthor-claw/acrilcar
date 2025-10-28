@@ -2887,8 +2887,56 @@
       "services": "['ELABORACION DE 1 STOP CON REPARACION DE BASE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1660,
+      "work_order_id": 818,
+      "colaborator_id": 4,
+      "services": "['ELBORACION DE 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1661,
+      "work_order_id": 819,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1662,
+      "work_order_id": 820,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1663,
+      "work_order_id": 821,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1664,
+      "work_order_id": 822,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1665,
+      "work_order_id": 823,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-28T11:41:36.885819",
+  "timestamp": "2025-10-28T14:15:33.885837",
   "machine_id": "53642720127680"
 }

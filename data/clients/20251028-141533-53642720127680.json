@@ -3761,8 +3761,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1595,
+      "name": "JUAN ANTONIO ZAPATA",
+      "contact_1": "81821229",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1596,
+      "name": "AMHED MENDIETA",
+      "contact_1": "75436656",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1597,
+      "name": "KENNER LEZAMA",
+      "contact_1": "88157187",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1598,
+      "name": "FRANCISCO AVECEDO",
+      "contact_1": "87637333",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1599,
+      "name": "YADER BRAVO",
+      "contact_1": "83868252",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1600,
+      "name": "GUILLERMO CAMPOS",
+      "contact_1": "81617276",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-28T11:41:36.946562",
+  "timestamp": "2025-10-28T14:15:33.932730",
   "machine_id": "53642720127680"
 }

@@ -2943,8 +2943,16 @@
       "services": "['ELABORACION DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1667,
+      "work_order_id": 825,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE 1 STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-28T14:37:14.698770",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-28T14:46:07.510549",
+  "machine_id": "53642720127680"
 }

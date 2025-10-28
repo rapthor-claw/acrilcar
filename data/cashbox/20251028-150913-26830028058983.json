@@ -7617,8 +7617,99 @@
       "order_id": 792,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2287,
+      "fecha": "2025-10-28",
+      "descripcion": "ROC 30935 ABONO ",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 824,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2288,
+      "fecha": "2025-10-28",
+      "descripcion": "ROC 707683",
+      "monto": 260.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2289,
+      "fecha": "2025-10-28",
+      "descripcion": "ROC 10352 COMPRA AGUA",
+      "monto": 140.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2290,
+      "fecha": "2025-10-28",
+      "descripcion": "ROC 10351",
+      "monto": 300.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 48,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2291,
+      "fecha": "2025-10-28",
+      "descripcion": "ROC 87738 ",
+      "monto": 34164.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2292,
+      "fecha": "2025-10-28",
+      "descripcion": "ROC 707640",
+      "monto": 244.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2293,
+      "fecha": "2025-10-28",
+      "descripcion": "ROC 10350",
+      "monto": 960.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-28T14:46:07.541790",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-28T15:09:13.680225",
+  "machine_id": "26830028058983"
 }

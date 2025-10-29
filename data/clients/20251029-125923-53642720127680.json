@@ -3893,8 +3893,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1607,
+      "name": "LUIS MARTINEZ",
+      "contact_1": "84680737",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1608,
+      "name": "JOSE SOLIS SILVA",
+      "contact_1": "88183123",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1609,
+      "name": "JOSUE HUETE",
+      "contact_1": "87775264",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1610,
+      "name": "NELSON OROZCO",
+      "contact_1": "77456245",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1611,
+      "name": "COROLL",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1612,
+      "name": "JORGE ISAAC CRUZ IRIAS",
+      "contact_1": "85534746",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-29T10:45:45.022865",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-29T12:59:23.430494",
+  "machine_id": "53642720127680"
 }

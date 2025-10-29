@@ -2991,8 +2991,56 @@
       "services": "['MANTENIMIENTO DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1673,
+      "work_order_id": 36369,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1674,
+      "work_order_id": 828,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1675,
+      "work_order_id": 829,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP DE BAUL FONDO NEGRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1676,
+      "work_order_id": 830,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1677,
+      "work_order_id": 36370,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1678,
+      "work_order_id": 831,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP MAS ENVIO A CARGOTRANS ESTELI']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-29T10:45:44.936066",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-29T12:59:23.348044",
+  "machine_id": "53642720127680"
 }

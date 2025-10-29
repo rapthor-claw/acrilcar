@@ -3039,8 +3039,80 @@
       "services": "['ELABORACION DE 1 STOP MAS ENVIO A CARGOTRANS ESTELI']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1679,
+      "work_order_id": 832,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1680,
+      "work_order_id": 833,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1681,
+      "work_order_id": 834,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 MICAS DE PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1682,
+      "work_order_id": 835,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1683,
+      "work_order_id": 36371,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 HALOGENOS GRANDES CON MANTENIMIENTO DE CROMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1684,
+      "work_order_id": 36372,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE ROTULO MI GRADUACION Y ROTULO PROMO 2025']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1685,
+      "work_order_id": 36373,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y CROMADO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1686,
+      "work_order_id": 36374,
+      "colaborator_id": 14,
+      "services": "['ANULDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1687,
+      "work_order_id": 836,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO Y PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-29T12:59:23.348044",
+  "timestamp": "2025-10-29T16:13:35.543556",
   "machine_id": "53642720127680"
 }

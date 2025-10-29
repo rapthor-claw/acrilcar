@@ -3959,8 +3959,96 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1613,
+      "name": "ALEJANDRO NEY",
+      "contact_1": "83632137",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1614,
+      "name": "ARMANDO RIOS",
+      "contact_1": "85985319",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1615,
+      "name": "EVELING GARCIA",
+      "contact_1": "57440744",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1616,
+      "name": "RICARDO CHAVEZ",
+      "contact_1": "80505210",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1617,
+      "name": "DONALD LACAYO",
+      "contact_1": "89542814",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1618,
+      "name": "MOISES LARGAESPADA",
+      "contact_1": "87178740",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1619,
+      "name": "BYRON NUÑEZ MENDEZ",
+      "contact_1": "76812925",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1620,
+      "name": "GEOVANNY RUIZ",
+      "contact_1": "83214867",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-29T12:59:23.430494",
+  "timestamp": "2025-10-29T16:13:35.670400",
   "machine_id": "53642720127680"
 }

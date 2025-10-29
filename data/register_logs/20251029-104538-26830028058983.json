@@ -9407,8 +9407,56 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6081,
+      "datetime": "2025-10-29 00:05:19",
+      "username": "JAKY",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6082,
+      "datetime": "2025-10-29 01:03:49",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6083,
+      "datetime": "2025-10-29 01:07:07",
+      "username": "JAKY",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6084,
+      "datetime": "2025-10-29 01:51:05",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6085,
+      "datetime": "2025-10-29 01:52:46",
+      "username": "JAKY",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6086,
+      "datetime": "2025-10-29 16:45:26",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-28T17:47:13.756481",
+  "timestamp": "2025-10-29T10:45:38.346720",
   "machine_id": "26830028058983"
 }

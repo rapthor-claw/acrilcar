@@ -3111,8 +3111,16 @@
       "services": "['ELABORACION DE 1 FOCO Y PULIDO DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1688,
+      "work_order_id": 36375,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 49 TROFEOS DE CONIMOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-29T19:14:02.888963",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-29T09:40:10.039068",
+  "machine_id": "53642720127680"
 }

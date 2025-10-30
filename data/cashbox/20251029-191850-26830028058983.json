@@ -8215,8 +8215,73 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2333,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 10353",
+      "monto": 220.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 48,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2334,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 10354 PRODUCTOS DE LIMPIEZA",
+      "monto": 160.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 48,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2335,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 39803",
+      "monto": 260.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2336,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 39805 ",
+      "monto": 100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2337,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 707787",
+      "monto": 100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-29T09:40:10.105457",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-29T19:18:50.175872",
+  "machine_id": "26830028058983"
 }

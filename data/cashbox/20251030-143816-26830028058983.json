@@ -8280,8 +8280,73 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2338,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 30954 CANCELADO",
+      "monto": 480142.0,
+      "tipo": "ingreso",
+      "metodo_pago": "cheque",
+      "movimiento_caja": 21,
+      "user_id": "JAKY",
+      "order_id": 36375,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2339,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 7553 ",
+      "monto": 97988.0,
+      "tipo": "egreso",
+      "metodo_pago": "cheque",
+      "movimiento_caja": 46,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2340,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 12747 JUAN AVENDAÑO",
+      "monto": 300.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 3,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2341,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 12748 CHAVARRIA",
+      "monto": 200.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 3,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2342,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 12749 OMAR",
+      "monto": 300.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 3,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-29T19:18:50.175872",
+  "timestamp": "2025-10-30T14:38:16.522680",
   "machine_id": "26830028058983"
 }

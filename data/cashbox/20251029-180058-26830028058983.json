@@ -7903,8 +7903,47 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2309,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 30944 CANCELADO",
+      "monto": 300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 34,
+      "user_id": "JAKY",
+      "order_id": 808,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2310,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 30944",
+      "monto": 300.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 44,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2311,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 30945 CANCELADO",
+      "monto": 900.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 36348,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-29T16:13:35.610518",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-29T18:00:58.799764",
+  "machine_id": "26830028058983"
 }

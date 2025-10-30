@@ -9599,8 +9599,152 @@
       "activity": "Ingreso de caja para la orden: 0829 - monto: 500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6105,
+      "datetime": "2025-10-30 00:04:04",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0830 - monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6106,
+      "datetime": "2025-10-30 00:04:54",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36370 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6107,
+      "datetime": "2025-10-30 00:05:58",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0800 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6108,
+      "datetime": "2025-10-30 00:06:57",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0803 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6109,
+      "datetime": "2025-10-30 00:07:29",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6110,
+      "datetime": "2025-10-30 00:08:50",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0832 - monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6111,
+      "datetime": "2025-10-30 00:09:24",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6112,
+      "datetime": "2025-10-30 00:10:53",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0834 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6113,
+      "datetime": "2025-10-30 00:13:10",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36371 - monto: 1200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6114,
+      "datetime": "2025-10-30 00:14:28",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0796 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6115,
+      "datetime": "2025-10-30 00:15:04",
+      "username": "JAKY",
+      "activity": "Salida de caja, monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6116,
+      "datetime": "2025-10-30 00:15:48",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36373 - monto: 1200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6117,
+      "datetime": "2025-10-30 00:16:48",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36363 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6118,
+      "datetime": "2025-10-30 00:18:14",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36364 - monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6119,
+      "datetime": "2025-10-30 00:20:34",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 36362 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6120,
+      "datetime": "2025-10-30 00:21:53",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0818 - monto: 600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6121,
+      "datetime": "2025-10-30 00:22:41",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 0810 - monto: 5500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6122,
+      "datetime": "2025-10-30 00:56:03",
+      "username": "JAKY",
+      "activity": "Ingreso de caja para la orden: 828 - monto: 2600",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-30T09:18:21.708212",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-10-29T19:05:05.741622",
+  "machine_id": "26830028058983"
 }

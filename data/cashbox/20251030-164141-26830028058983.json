@@ -8345,8 +8345,60 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2343,
+      "fecha": "2025-10-30",
+      "descripcion": "ROC 30974 TF 301488598 CANCELADO",
+      "monto": 2190.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 29,
+      "user_id": "JAKY",
+      "order_id": 36372,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2344,
+      "fecha": "2025-10-30",
+      "descripcion": "ROC 30974",
+      "monto": 2190.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 42,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2345,
+      "fecha": "2025-10-30",
+      "descripcion": "ROC 30973 CANCELADO",
+      "monto": 8760.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 36372,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2346,
+      "fecha": "2025-10-30",
+      "descripcion": "ROC 30972 CANCELADO",
+      "monto": 804.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 804,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-30T16:37:45.809816",
+  "timestamp": "2025-10-30T16:41:41.217653",
   "machine_id": "26830028058983"
 }

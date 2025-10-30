@@ -4344,8 +4344,19 @@
       "note": "ROC 30972 CANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1529,
+      "work_order_id": 793,
+      "payment_date": "2025-10-30",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 3600,
+      "note": "ROC 30966 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-30T16:42:06.946452",
+  "timestamp": "2025-10-30T16:44:24.438491",
   "machine_id": "26830028058983"
 }

@@ -8397,8 +8397,21 @@
       "order_id": 804,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2347,
+      "fecha": "2025-10-30",
+      "descripcion": "ROC 30966 CANCELADO",
+      "monto": 3600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 793,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-30T16:42:06.993315",
+  "timestamp": "2025-10-30T16:44:24.485355",
   "machine_id": "26830028058983"
 }

@@ -3119,8 +3119,144 @@
       "services": "['ELABORACION DE 49 TROFEOS DE CONIMOTO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1689,
+      "work_order_id": 36376,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1690,
+      "work_order_id": 837,
+      "colaborator_id": 9,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1691,
+      "work_order_id": 838,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP DE BAUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1692,
+      "work_order_id": 839,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1693,
+      "work_order_id": 840,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE MICA DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1694,
+      "work_order_id": 841,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1695,
+      "work_order_id": 842,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1696,
+      "work_order_id": 843,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 MICAS LATERALES DE TANQUE DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1697,
+      "work_order_id": 844,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP Y REPARACION DE OTRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1698,
+      "work_order_id": 846,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1699,
+      "work_order_id": 36377,
+      "colaborator_id": 14,
+      "services": "['SECADO DE HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1700,
+      "work_order_id": 36378,
+      "colaborator_id": 14,
+      "services": "['PUIDO Y MANTENIMIENTO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1701,
+      "work_order_id": 36379,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS CON MANTENIMIENTO DE CROMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1702,
+      "work_order_id": 36380,
+      "colaborator_id": 9,
+      "services": "['PEGADO DE PIEZA ACRILICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1703,
+      "work_order_id": 36381,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y MANTENIMIENTO DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1704,
+      "work_order_id": 36382,
+      "colaborator_id": 14,
+      "services": "['PUIDO DE 2 FOCOS Y TRASPASO DE 1 MICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1705,
+      "work_order_id": 36383,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 10 PIEZAS ACRILICAS DORADAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-30T16:51:04.782242",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-30T17:18:21.281322",
+  "machine_id": "53642720127680"
 }

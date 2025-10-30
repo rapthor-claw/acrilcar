@@ -4113,8 +4113,19 @@
       "note": "ROC 30945 CANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1508,
+      "work_order_id": 829,
+      "payment_date": "2025-10-29",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 500,
+      "note": "ROC 30947 ABONO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-29T18:00:58.737318",
+  "timestamp": "2025-10-29T18:02:05.594570",
   "machine_id": "26830028058983"
 }

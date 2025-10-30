@@ -7942,8 +7942,21 @@
       "order_id": 36348,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2312,
+      "fecha": "2025-10-29",
+      "descripcion": "ROC 30947 ABONO",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 829,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-29T18:00:58.799764",
+  "timestamp": "2025-10-29T18:02:05.641430",
   "machine_id": "26830028058983"
 }

@@ -3255,8 +3255,32 @@
       "services": "['ELABORACION DE 10 PIEZAS ACRILICAS DORADAS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1706,
+      "work_order_id": 36384,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 10 HABLADORES TAMAÑO CARTA MODELO DOBLE L']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1707,
+      "work_order_id": 36385,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 3 PIZARRAS ACRILICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1708,
+      "work_order_id": 36386,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-31T15:33:07.925654",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-10-31T15:33:31.597908",
+  "machine_id": "53642720127680"
 }

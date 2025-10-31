@@ -3279,8 +3279,64 @@
       "services": "['PULIDO DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1709,
+      "work_order_id": 36387,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1710,
+      "work_order_id": 36388,
+      "colaborator_id": 14,
+      "services": "['PULIDO D 2 FOCOS CON MTTO DE CROMO PULIDO DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1711,
+      "work_order_id": 847,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE MICA DE FOCO DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1712,
+      "work_order_id": 848,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1713,
+      "work_order_id": 849,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS Y 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1714,
+      "work_order_id": 850,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1715,
+      "work_order_id": 851,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-31T15:33:54.985382",
+  "timestamp": "2025-10-31T16:16:55.180302",
   "machine_id": "26830028058983"
 }

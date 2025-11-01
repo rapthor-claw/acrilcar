@@ -3343,8 +3343,72 @@
       "services": "['ELABORACION DE 10 PIDEVIAS Y 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1717,
+      "work_order_id": 36389,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS Y MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1718,
+      "work_order_id": 853,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1719,
+      "work_order_id": 857,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1720,
+      "work_order_id": 54,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1721,
+      "work_order_id": 855,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1722,
+      "work_order_id": 856,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO, 1 HALOJENOCON REPARACION DE BASE Y ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1723,
+      "work_order_id": 857,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1724,
+      "work_order_id": 858,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-31T18:08:42.270080",
+  "timestamp": "2025-11-01T13:48:39.754024",
   "machine_id": "26830028058983"
 }

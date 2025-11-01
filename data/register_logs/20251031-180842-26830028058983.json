@@ -10455,8 +10455,48 @@
       "activity": "Ingreso de caja para la orden: 0824 - monto: 900",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6212,
+      "datetime": "2025-10-31 22:55:39",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARIANO SALGUERA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6213,
+      "datetime": "2025-10-31 23:03:15",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0852",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6214,
+      "datetime": "2025-10-31 23:21:09",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0819 - monto: 2300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6215,
+      "datetime": "2025-10-31 23:21:32",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0825 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6216,
+      "datetime": "2025-10-31 23:33:18",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0839 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-10-31T16:54:02.241921",
+  "timestamp": "2025-10-31T18:08:42.382801",
   "machine_id": "26830028058983"
 }

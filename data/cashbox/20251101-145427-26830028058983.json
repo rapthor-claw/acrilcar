@@ -9112,8 +9112,21 @@
       "order_id": 36387,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2402,
+      "fecha": "2025-11-01",
+      "descripcion": "ROC 31006 CANCELACION ",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 791,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-01T14:51:34.609054",
+  "timestamp": "2025-11-01T14:54:27.713402",
   "machine_id": "26830028058983"
 }

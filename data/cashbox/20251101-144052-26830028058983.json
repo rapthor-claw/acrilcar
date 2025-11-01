@@ -9086,8 +9086,21 @@
       "order_id": 844,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2400,
+      "fecha": "2025-11-01",
+      "descripcion": "PAGO MARIANELA DAVILA",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10369,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-01T14:31:10.983370",
+  "timestamp": "2025-11-01T14:40:52.672487",
   "machine_id": "26830028058983"
 }

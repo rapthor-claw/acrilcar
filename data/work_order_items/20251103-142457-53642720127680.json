@@ -3519,8 +3519,24 @@
       "services": "['PULIDO DE 2 FOCOS MAS INSTALACION DE LED NEON']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1739,
+      "work_order_id": 868,
+      "colaborator_id": 5,
+      "services": "['ELABORACION TOTAL DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1740,
+      "work_order_id": 869,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP TOTAL MAS ENVIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-03T13:21:23.193564",
+  "timestamp": "2025-11-03T14:24:57.787457",
   "machine_id": "53642720127680"
 }

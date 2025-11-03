@@ -3415,8 +3415,112 @@
       "services": "['PULIDO DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1726,
+      "work_order_id": 36391,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1727,
+      "work_order_id": 36392,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1728,
+      "work_order_id": 36393,
+      "colaborator_id": 14,
+      "services": "['SECADO DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1729,
+      "work_order_id": 859,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1730,
+      "work_order_id": 860,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1731,
+      "work_order_id": 861,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1732,
+      "work_order_id": 862,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1733,
+      "work_order_id": 863,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1734,
+      "work_order_id": 864,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP CON REPARACION DE PERNOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1735,
+      "work_order_id": 865,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP TRASERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1736,
+      "work_order_id": 866,
+      "colaborator_id": 12,
+      "services": "['ELBORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1737,
+      "work_order_id": 867,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1738,
+      "work_order_id": 36394,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS MAS INSTALACION DE LED NEON']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-03T12:20:36.876220",
+  "timestamp": "2025-11-03T13:21:23.193564",
   "machine_id": "53642720127680"
 }

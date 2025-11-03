@@ -4432,8 +4432,140 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1656,
+      "name": "JORGE CARRANZA",
+      "contact_1": "75503588",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1657,
+      "name": "OSCAR GUIDO",
+      "contact_1": "77862567",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1658,
+      "name": "GLORIA ORTEGA",
+      "contact_1": "86052816",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1659,
+      "name": "JUAN RAMON PEÑA",
+      "contact_1": "88360899",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1660,
+      "name": "ARMANDO RIOS",
+      "contact_1": "85985319",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1661,
+      "name": "ANA OBREGON",
+      "contact_1": "83730701",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1662,
+      "name": "ALEJANDRO AVILES LOPEZ",
+      "contact_1": "88741741",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1663,
+      "name": "FRANCISCO CRUZ",
+      "contact_1": "88845531",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1664,
+      "name": "GUSTAVO RIVERA",
+      "contact_1": "86536329",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1665,
+      "name": "ALEJANDRO CERNA",
+      "contact_1": "58730063",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1666,
+      "name": "FRANCISCO BERMUDEZ",
+      "contact_1": "87488483",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1667,
+      "name": "ROLANDO URCUYO",
+      "contact_1": "86045811",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-03T12:20:36.947030",
+  "timestamp": "2025-11-03T13:21:23.261347",
   "machine_id": "53642720127680"
 }

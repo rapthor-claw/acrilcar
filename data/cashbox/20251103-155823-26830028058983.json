@@ -9125,8 +9125,21 @@
       "order_id": 791,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2403,
+      "fecha": "2025-11-03",
+      "descripcion": "ROC 31008 ABONO",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 861,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-03T15:57:08.834327",
+  "timestamp": "2025-11-03T15:58:23.504852",
   "machine_id": "26830028058983"
 }

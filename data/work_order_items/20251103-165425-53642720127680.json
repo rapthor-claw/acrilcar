@@ -3535,8 +3535,48 @@
       "services": "['ELABORACION DE 1 STOP TOTAL MAS ENVIO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1741,
+      "work_order_id": 870,
+      "colaborator_id": 12,
+      "services": "['CAMBIO DE MICA DE 2 FOCOS DELANTEROS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1742,
+      "work_order_id": 871,
+      "colaborator_id": 4,
+      "services": "['ELABORACION TOT DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1743,
+      "work_order_id": 36395,
+      "colaborator_id": 14,
+      "services": "['MANTENIMIENTO Y PULIDO DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1744,
+      "work_order_id": 36396,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1745,
+      "work_order_id": 701,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-03T16:53:54.031897",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-11-03T16:54:25.042707",
+  "machine_id": "53642720127680"
 }

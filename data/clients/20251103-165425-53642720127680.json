@@ -4586,8 +4586,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1670,
+      "name": "HERMANSS DE SANTA INES",
+      "contact_1": "89313686",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1671,
+      "name": "KENNETH BALTODANO",
+      "contact_1": "87317237",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1672,
+      "name": "FRANKLIN TERCERO",
+      "contact_1": "89999005",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1673,
+      "name": "JAYCER CALDERA",
+      "contact_1": "77601208",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1674,
+      "name": "TALLER AUTOS CASTELLON",
+      "contact_1": "58108514",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-03T16:53:54.125624",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-11-03T16:54:25.124845",
+  "machine_id": "53642720127680"
 }

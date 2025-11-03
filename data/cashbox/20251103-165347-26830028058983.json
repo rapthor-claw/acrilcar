@@ -9242,8 +9242,73 @@
       "order_id": 0,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2412,
+      "fecha": "2025-11-03",
+      "descripcion": "ROC 31019 CANCELADO",
+      "monto": 250.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "JAKY",
+      "order_id": 860,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2413,
+      "fecha": "2025-11-03",
+      "descripcion": "ROC 31021 CANCELADO",
+      "monto": 1860.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 33,
+      "user_id": "JAKY",
+      "order_id": 807,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2414,
+      "fecha": "2025-11-03",
+      "descripcion": "ROC 21021 ",
+      "monto": 1860.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 38,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2415,
+      "fecha": "2025-11-03",
+      "descripcion": "ROC 31020 CANCELADO",
+      "monto": 3350.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 31,
+      "user_id": "JAKY",
+      "order_id": 831,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2416,
+      "fecha": "2025-11-03",
+      "descripcion": "ROC 31020",
+      "monto": 3350.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 41,
+      "user_id": "JAKY",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-03T16:49:24.036429",
+  "timestamp": "2025-11-03T16:53:47.379843",
   "machine_id": "26830028058983"
 }

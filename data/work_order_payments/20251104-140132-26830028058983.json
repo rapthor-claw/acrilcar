@@ -4861,8 +4861,63 @@
       "note": "ROC 31020 CANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1576,
+      "work_order_id": 701,
+      "payment_date": "2025-11-03",
+      "payment_method": "transferencia",
+      "payment": "JAKY",
+      "user_log_registration": 3350,
+      "note": "ROC 31020 CANCELADO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1577,
+      "work_order_id": 701,
+      "payment_date": "2025-11-03",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 3500,
+      "note": "ROC 31018 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1578,
+      "work_order_id": 870,
+      "payment_date": "2025-11-03",
+      "payment_method": "efectivo",
+      "payment": "JAKY",
+      "user_log_registration": 1825,
+      "note": "ROC 0870 ABONO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1579,
+      "work_order_id": 827,
+      "payment_date": "2025-11-03",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 900,
+      "note": "ROC 31009",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1580,
+      "work_order_id": 862,
+      "payment_date": "2025-11-03",
+      "payment_method": "tarjeta",
+      "payment": "JAKY",
+      "user_log_registration": 3600,
+      "note": "ROC 31023 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-04T13:42:33.846660",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-11-04T14:01:32.035030",
+  "machine_id": "26830028058983"
 }

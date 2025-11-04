@@ -3575,8 +3575,72 @@
       "services": "['ELABORACION DE 2 STOP TOTALES']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1746,
+      "work_order_id": 36397,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1747,
+      "work_order_id": 36398,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1748,
+      "work_order_id": 36399,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1749,
+      "work_order_id": 872,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1750,
+      "work_order_id": 873,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1751,
+      "work_order_id": 874,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP Y 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1752,
+      "work_order_id": 875,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1753,
+      "work_order_id": 876,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP MITSUBISHI L 200']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-03T17:00:20.291888",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-11-04T13:42:33.805164",
+  "machine_id": "53642720127680"
 }

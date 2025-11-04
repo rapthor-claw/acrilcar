@@ -4641,8 +4641,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1675,
+      "name": "JAYCEE CALDERA",
+      "contact_1": "77601208",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1676,
+      "name": "ANGELICA SEVILLA",
+      "contact_1": "89663632",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1677,
+      "name": "JAIRO ORDOÑEZ",
+      "contact_1": "86805235",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1678,
+      "name": "EVENOR OPORTA",
+      "contact_1": "88944822",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1679,
+      "name": "JEFRY GONZALEZ",
+      "contact_1": "89240029",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1680,
+      "name": "EFRAIN CRUZ",
+      "contact_1": "81302018",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1681,
+      "name": "GUILLERMO CASTILLO",
+      "contact_1": "87993587",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1682,
+      "name": "NORMA ESPINOZA",
+      "contact_1": "88321246",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1683,
+      "name": "JUAN GOMEZ",
+      "contact_1": "88974915",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-03T17:00:20.385588",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-11-04T13:42:33.939905",
+  "machine_id": "53642720127680"
 }

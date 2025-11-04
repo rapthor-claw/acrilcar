@@ -9736,8 +9736,86 @@
       "order_id": 39882,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2450,
+      "fecha": "2025-11-04",
+      "descripcion": "ROC 31034 CANCELACION ",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 850,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2451,
+      "fecha": "2025-11-04",
+      "descripcion": "ROC 31035 CANCELACION ",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36393,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2452,
+      "fecha": "2025-11-04",
+      "descripcion": "COMPRA DE PERNOS",
+      "monto": 81.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 884487,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2453,
+      "fecha": "2025-11-04",
+      "descripcion": "ALMUERZO CASA",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "Yamileth",
+      "order_id": 10380,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2454,
+      "fecha": "2025-11-04",
+      "descripcion": "ROC 31036 CANCELACION ",
+      "monto": 3800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 849,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2455,
+      "fecha": "2025-11-04",
+      "descripcion": "ROC 31037 CANCELACION ",
+      "monto": 500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 861,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-04T14:32:33.787260",
+  "timestamp": "2025-11-04T17:48:51.068330",
   "machine_id": "26830028058983"
 }

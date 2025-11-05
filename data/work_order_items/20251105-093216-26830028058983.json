@@ -3655,8 +3655,96 @@
       "services": "['ELABORACION DE UN STOP DE MOTO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1756,
+      "work_order_id": 36400,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 15 RECORDATORIOS PARA 15 AÑOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1757,
+      "work_order_id": 36401,
+      "colaborator_id": 9,
+      "services": "['CORTE LASSER EN ACRILICO DEL CLIENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1758,
+      "work_order_id": 36402,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE SIRENA DE BUS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1759,
+      "work_order_id": 880,
+      "colaborator_id": 14,
+      "services": "['ELABORACION PARTE AFECTADA ROJO RAYADO DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1760,
+      "work_order_id": 881,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1761,
+      "work_order_id": 882,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1762,
+      "work_order_id": 883,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1763,
+      "work_order_id": 884,
+      "colaborator_id": 4,
+      "services": "['ELABORACION TOTAL DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1764,
+      "work_order_id": 885,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1765,
+      "work_order_id": 886,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1766,
+      "work_order_id": 887,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-04T17:57:32.300261",
+  "timestamp": "2025-11-05T09:32:16.782804",
   "machine_id": "26830028058983"
 }

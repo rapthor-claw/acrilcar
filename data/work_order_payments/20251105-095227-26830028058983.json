@@ -5158,8 +5158,151 @@
       "note": "ROC 31046 CANCELACION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1603,
+      "work_order_id": 871,
+      "payment_date": "2025-11-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2000,
+      "note": "ROC 31047 CANCELAION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1604,
+      "work_order_id": 36400,
+      "payment_date": "2025-11-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "RO C 31048 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1605,
+      "work_order_id": 864,
+      "payment_date": "2025-11-05",
+      "payment_method": "transferencia",
+      "payment": "Yamileth",
+      "user_log_registration": 2600,
+      "note": "ROC 31050 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1606,
+      "work_order_id": 882,
+      "payment_date": "2025-11-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 31051 CANCELACION  MAS ENVIO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1607,
+      "work_order_id": 36394,
+      "payment_date": "2025-11-05",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 2400,
+      "note": "ROC 31053 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1608,
+      "work_order_id": 35928,
+      "payment_date": "2025-11-05",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 5400,
+      "note": "ROC 31054 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1609,
+      "work_order_id": 851,
+      "payment_date": "2025-11-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3400,
+      "note": "ROC 31055 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1610,
+      "work_order_id": 833,
+      "payment_date": "2025-11-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1500,
+      "note": "ROC 31057 ADELANTO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1611,
+      "work_order_id": 885,
+      "payment_date": "2025-11-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 2000,
+      "note": "ROC 31058 ADELANTO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1612,
+      "work_order_id": 865,
+      "payment_date": "2025-11-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1100,
+      "note": "ROC 31059 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1613,
+      "work_order_id": 868,
+      "payment_date": "2025-11-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1800,
+      "note": "ROC 31060 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1614,
+      "work_order_id": 36395,
+      "payment_date": "2025-11-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 31061 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1615,
+      "work_order_id": 880,
+      "payment_date": "2025-11-05",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 800,
+      "note": "ROC 31062 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-05T09:32:16.798426",
+  "timestamp": "2025-11-05T09:52:27.915456",
   "machine_id": "26830028058983"
 }

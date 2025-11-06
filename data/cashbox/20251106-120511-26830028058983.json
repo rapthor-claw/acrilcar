@@ -10295,8 +10295,34 @@
       "order_id": 789,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2493,
+      "fecha": "2025-11-06",
+      "descripcion": "COMPRA DE 4 BIDONES DE AGUA",
+      "monto": 300.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 371416,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2494,
+      "fecha": "2025-11-06",
+      "descripcion": "PAGO DE MARIANELA DAVILA",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10388,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-06T15:28:55.242713",
+  "timestamp": "2025-11-06T12:05:11.652986",
   "machine_id": "26830028058983"
 }

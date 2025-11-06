@@ -3743,8 +3743,168 @@
       "services": "['ELABORACION DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1767,
+      "work_order_id": 36403,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 8 PORTA TARJETAS MEDIDAS 21 CM X 11 CM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1768,
+      "work_order_id": 36404,
+      "colaborator_id": 14,
+      "services": "['PULIDO D 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1769,
+      "work_order_id": 36406,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS CON REPARACION DE BASE Y ELAB. PATAS Y PULIDO DE 2 STOP CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1770,
+      "work_order_id": 36407,
+      "colaborator_id": 14,
+      "services": "['PULIDO EXPRESS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1771,
+      "work_order_id": 36408,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 4 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1772,
+      "work_order_id": 36409,
+      "colaborator_id": 9,
+      "services": "['CORTE ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1773,
+      "work_order_id": 888,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1774,
+      "work_order_id": 889,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 ROMPEVIENTO TRANSPARENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1775,
+      "work_order_id": 890,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP Y PIEZA DE BOMPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1776,
+      "work_order_id": 891,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE 1 PIEZA PARA RADIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1777,
+      "work_order_id": 892,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE 1 STOP PARTE AMARILLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1778,
+      "work_order_id": 893,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE 1 STOP PARTE AFECTADA ROJA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1779,
+      "work_order_id": 894,
+      "colaborator_id": 14,
+      "services": "['ELAB. 2 FOCOS Y REP. DE STOP, PARTE AFECTADA 1700 CDA UNO Y 1 STOP PARTE AFECTADA 900']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1780,
+      "work_order_id": 895,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1781,
+      "work_order_id": 896,
+      "colaborator_id": 2,
+      "services": "['ELABORACION TOTAL DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1782,
+      "work_order_id": 897,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1783,
+      "work_order_id": 898,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1784,
+      "work_order_id": 899,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1785,
+      "work_order_id": 900,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 STOP TRASERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1786,
+      "work_order_id": 901,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 HALOJENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-06T15:28:55.182050",
+  "timestamp": "2025-11-06T12:05:11.574878",
   "machine_id": "26830028058983"
 }

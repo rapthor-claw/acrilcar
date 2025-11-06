@@ -10217,8 +10217,86 @@
       "order_id": 880,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2487,
+      "fecha": "2025-11-06",
+      "descripcion": "COMPRA TUBO QCH18",
+      "monto": 680.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 368769,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2488,
+      "fecha": "2025-11-06",
+      "descripcion": "PRODUCTOS DE LIMPIEZA",
+      "monto": 250.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10385,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2489,
+      "fecha": "2025-11-06",
+      "descripcion": "COMPRA DE LIJAS",
+      "monto": 90.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 708877,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2490,
+      "fecha": "2025-11-06",
+      "descripcion": "ALMUERZO CASA DOÑA INGRID",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "Yamileth",
+      "order_id": 10386,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2491,
+      "fecha": "2025-11-06",
+      "descripcion": "COMPRA DE BOTELLAS DE AGUA Y PAPEL HIGIENICO",
+      "monto": 160.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10387,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2492,
+      "fecha": "2025-11-06",
+      "descripcion": "ROC 31064 CANCELACION ",
+      "monto": 2700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 789,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-05T09:52:27.946694",
+  "timestamp": "2025-11-06T15:28:55.242713",
   "machine_id": "26830028058983"
 }

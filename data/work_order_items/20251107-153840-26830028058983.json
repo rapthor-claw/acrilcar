@@ -3903,8 +3903,104 @@
       "services": "['ELABORACION DE 2 HALOJENOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1787,
+      "work_order_id": 36410,
+      "colaborator_id": 14,
+      "services": "['PULIDO EXPRESS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1788,
+      "work_order_id": 36411,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y MANTENIMIENTO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1789,
+      "work_order_id": 36412,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1790,
+      "work_order_id": 902,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1791,
+      "work_order_id": 903,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1792,
+      "work_order_id": 904,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 CAÑUELA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1793,
+      "work_order_id": 905,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1794,
+      "work_order_id": 906,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1795,
+      "work_order_id": 907,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 FOCOS Y ELAB. 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1796,
+      "work_order_id": 908,
+      "colaborator_id": 4,
+      "services": "['ELABORACION TOTAL DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1797,
+      "work_order_id": 909,
+      "colaborator_id": 14,
+      "services": "['REPARACION EN FIBRA DE 2 PIEZAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1798,
+      "work_order_id": 36413,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 4 HABLADORES TAMAÑO CARTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-06T14:39:30.238186",
+  "timestamp": "2025-11-07T15:38:40.315816",
   "machine_id": "26830028058983"
 }

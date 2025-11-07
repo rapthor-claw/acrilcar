@@ -12455,8 +12455,200 @@
       "activity": "Ingreso de caja para la orden: 36409 - monto: 146",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6462,
+      "datetime": "2025-11-07 20:43:38",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSEPT BELLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6463,
+      "datetime": "2025-11-07 20:43:55",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: CARMEN ROJAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6464,
+      "datetime": "2025-11-07 20:44:15",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JULIO CESAR GONZALEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6465,
+      "datetime": "2025-11-07 20:45:14",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36410",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6466,
+      "datetime": "2025-11-07 20:46:40",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36411",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6467,
+      "datetime": "2025-11-07 20:50:07",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36412",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6468,
+      "datetime": "2025-11-07 20:53:45",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALBA LUZ MARTINEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6469,
+      "datetime": "2025-11-07 20:54:12",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSE SANCHEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6470,
+      "datetime": "2025-11-07 20:54:30",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: YACIR CRUZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6471,
+      "datetime": "2025-11-07 20:54:54",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: PEDRO GOMEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6472,
+      "datetime": "2025-11-07 20:55:13",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: OSACR MEDAL",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6473,
+      "datetime": "2025-11-07 20:55:30",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: YADER PALMA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6474,
+      "datetime": "2025-11-07 20:55:53",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: RICARDO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6475,
+      "datetime": "2025-11-07 20:57:09",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JAVIER TALAVERA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6476,
+      "datetime": "2025-11-07 21:20:46",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0902",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6477,
+      "datetime": "2025-11-07 21:21:42",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0903",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6478,
+      "datetime": "2025-11-07 21:22:22",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0904",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6479,
+      "datetime": "2025-11-07 21:23:10",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0905",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6480,
+      "datetime": "2025-11-07 21:25:13",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0906",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6481,
+      "datetime": "2025-11-07 21:26:09",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0907",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6482,
+      "datetime": "2025-11-07 21:27:00",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0908",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6483,
+      "datetime": "2025-11-07 21:35:49",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0909",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6484,
+      "datetime": "2025-11-07 21:36:55",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LA SAZON S.A.",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6485,
+      "datetime": "2025-11-07 21:38:00",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36413",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-06T14:39:30.347567",
+  "timestamp": "2025-11-07T15:38:40.432503",
   "machine_id": "26830028058983"
 }

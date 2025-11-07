@@ -3999,8 +3999,16 @@
       "services": "['ELABORACION DE 4 HABLADORES TAMAÑO CARTA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1799,
+      "work_order_id": 879,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-07T15:38:40.315816",
+  "timestamp": "2025-11-07T15:54:53.779183",
   "machine_id": "26830028058983"
 }

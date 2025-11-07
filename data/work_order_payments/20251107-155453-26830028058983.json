@@ -5433,8 +5433,151 @@
       "note": "ROC 31075 CANCELACION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1628,
+      "work_order_id": 36410,
+      "payment_date": "2025-11-07",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1800,
+      "note": "ROC 31076 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1629,
+      "work_order_id": 903,
+      "payment_date": "2025-11-07",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1700,
+      "note": "ROC 31077 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1630,
+      "work_order_id": 36404,
+      "payment_date": "2025-11-07",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 300,
+      "note": "ROC 31078 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1631,
+      "work_order_id": 904,
+      "payment_date": "2025-11-07",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1000,
+      "note": "ROC 31079 ADELANTO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1632,
+      "work_order_id": 905,
+      "payment_date": "2025-11-07",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 730,
+      "note": "ROC 31080 ADELANTO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1633,
+      "work_order_id": 909,
+      "payment_date": "2025-11-07",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 600,
+      "note": "ROC 31081 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1634,
+      "work_order_id": 881,
+      "payment_date": "2025-11-07",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3000,
+      "note": "ROC 31082 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1635,
+      "work_order_id": 883,
+      "payment_date": "2025-11-07",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 31083 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1636,
+      "work_order_id": 36412,
+      "payment_date": "2025-11-07",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1600,
+      "note": "ROC 31084 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1637,
+      "work_order_id": 874,
+      "payment_date": "2025-11-07",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 3600,
+      "note": "ROC 31085 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1638,
+      "work_order_id": 36413,
+      "payment_date": "2025-11-07",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1080,
+      "note": "ROC 31086 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1639,
+      "work_order_id": 705,
+      "payment_date": "2025-11-07",
+      "payment_method": "cheque",
+      "payment": "Yamileth",
+      "user_log_registration": 5000,
+      "note": "ROC 31087 CANCELACION CHEQUE DE LA FISE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1640,
+      "work_order_id": 904,
+      "payment_date": "2025-11-07",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 700,
+      "note": "ROC 31088 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-07T15:38:40.337756",
+  "timestamp": "2025-11-07T15:54:53.796110",
   "machine_id": "26830028058983"
 }

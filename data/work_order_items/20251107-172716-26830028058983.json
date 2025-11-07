@@ -4007,8 +4007,24 @@
       "services": "['ELABORACION DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1800,
+      "work_order_id": 36414,
+      "colaborator_id": 9,
+      "services": "['PEGAR CAJA  ACRILICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1801,
+      "work_order_id": 911,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-07T15:54:53.779183",
+  "timestamp": "2025-11-07T17:27:16.160941",
   "machine_id": "26830028058983"
 }

@@ -5455,8 +5455,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1749,
+      "name": "DENIS RUGAMA",
+      "contact_1": "89888902",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1750,
+      "name": "CELIA BRENES",
+      "contact_1": "85714878",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-10T15:01:52.336677",
+  "timestamp": "2025-11-10T17:14:16.860456",
   "machine_id": "26830028058983"
 }

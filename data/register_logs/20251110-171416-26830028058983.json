@@ -13279,8 +13279,240 @@
       "activity": "Creo la orden de trabajo: 0922",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6565,
+      "datetime": "2025-11-10 21:06:49",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0902 - monto: 2500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6566,
+      "datetime": "2025-11-10 21:07:26",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0890 - monto: 3500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6567,
+      "datetime": "2025-11-10 21:07:57",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 3500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6568,
+      "datetime": "2025-11-10 21:08:22",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0914 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6569,
+      "datetime": "2025-11-10 21:08:57",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0915 - monto: 1900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6570,
+      "datetime": "2025-11-10 21:09:32",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0916 - monto: 3800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6571,
+      "datetime": "2025-11-10 21:10:00",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36411 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6572,
+      "datetime": "2025-11-10 21:10:26",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36402 - monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6573,
+      "datetime": "2025-11-10 21:10:52",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0893 - monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6574,
+      "datetime": "2025-11-10 21:12:10",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0917 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6575,
+      "datetime": "2025-11-10 21:12:43",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0908 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6576,
+      "datetime": "2025-11-10 21:13:53",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0876 - monto: 3200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6577,
+      "datetime": "2025-11-10 21:14:25",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 3200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6578,
+      "datetime": "2025-11-10 21:15:02",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0898 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6579,
+      "datetime": "2025-11-10 21:15:39",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36418 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6580,
+      "datetime": "2025-11-10 21:51:49",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0908",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6581,
+      "datetime": "2025-11-10 22:02:19",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DENIS RUGAMA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6582,
+      "datetime": "2025-11-10 22:02:40",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: CELIA BRENES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6583,
+      "datetime": "2025-11-10 22:03:56",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0923",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6584,
+      "datetime": "2025-11-10 22:04:44",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0924",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6585,
+      "datetime": "2025-11-10 22:06:54",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0924 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6586,
+      "datetime": "2025-11-10 22:07:16",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6587,
+      "datetime": "2025-11-10 22:57:40",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 2520",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6588,
+      "datetime": "2025-11-10 22:58:05",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6589,
+      "datetime": "2025-11-10 23:00:52",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0895 - monto: 3430",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6590,
+      "datetime": "2025-11-10 23:03:09",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 3430",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6591,
+      "datetime": "2025-11-10 23:03:52",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0913 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6592,
+      "datetime": "2025-11-10 23:04:19",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0901 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6593,
+      "datetime": "2025-11-10 23:04:42",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36417 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-10T15:01:52.360585",
+  "timestamp": "2025-11-10T17:14:16.886387",
   "machine_id": "26830028058983"
 }

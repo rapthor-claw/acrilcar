@@ -4127,8 +4127,32 @@
       "services": "['ELABORACION DE 1 STOP DE BAUL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1815,
+      "work_order_id": 908,
+      "colaborator_id": 4,
+      "services": "['ELABORACION TOTAL DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1816,
+      "work_order_id": 923,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1817,
+      "work_order_id": 924,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-10T15:01:52.239907",
+  "timestamp": "2025-11-10T17:14:16.761721",
   "machine_id": "26830028058983"
 }

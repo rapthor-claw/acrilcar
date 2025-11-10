@@ -4031,8 +4031,104 @@
       "services": "['ELABORACION DE 2 FOCOS CON ARO EN NEGRO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1803,
+      "work_order_id": 36416,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 HALOGENOS Y ELIMINAR COPAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1804,
+      "work_order_id": 36417,
+      "colaborator_id": 14,
+      "services": "['SECADO Y SELLADO DE 1 FOCO Y 1 HALOJENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1805,
+      "work_order_id": 36418,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE HALOJENO BUSCAR PIEZA DE DONDE ENROSCA LA BUJIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1806,
+      "work_order_id": 914,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1807,
+      "work_order_id": 915,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP Y REPARACION DE OTRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1808,
+      "work_order_id": 916,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1809,
+      "work_order_id": 917,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1810,
+      "work_order_id": 918,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1811,
+      "work_order_id": 919,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1812,
+      "work_order_id": 920,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 PIDEVIA TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1813,
+      "work_order_id": 921,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1814,
+      "work_order_id": 922,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP DE BAUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-10T13:14:33.719084",
+  "timestamp": "2025-11-10T15:01:52.239907",
   "machine_id": "26830028058983"
 }

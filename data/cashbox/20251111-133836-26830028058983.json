@@ -11517,8 +11517,34 @@
       "order_id": 932,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2587,
+      "fecha": "2025-11-11",
+      "descripcion": "ROC 31123 CANCELACION ",
+      "monto": 4100.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 45,
+      "user_id": "Yamileth",
+      "order_id": 911,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2588,
+      "fecha": "2025-11-11",
+      "descripcion": "ROC 31123",
+      "monto": 4100.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 36,
+      "user_id": "Yamileth",
+      "order_id": 911,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-11T12:18:01.527188",
+  "timestamp": "2025-11-11T13:38:36.169967",
   "machine_id": "26830028058983"
 }

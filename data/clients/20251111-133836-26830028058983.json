@@ -5565,8 +5565,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1759,
+      "name": "RAUL CUADRA",
+      "contact_1": "76762834",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1760,
+      "name": "MICHAEL MENDEZ GUZMAN",
+      "contact_1": "57154891",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1761,
+      "name": "MOISES ABURTO",
+      "contact_1": "87852292",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-11T12:18:01.560122",
+  "timestamp": "2025-11-11T13:38:36.206890",
   "machine_id": "26830028058983"
 }

@@ -4151,8 +4151,80 @@
       "services": "['REPARACION DE 2 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1818,
+      "work_order_id": 36419,
+      "colaborator_id": 14,
+      "services": "['CAMBIO DE MICA A FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1819,
+      "work_order_id": 36420,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1820,
+      "work_order_id": 925,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1821,
+      "work_order_id": 926,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1822,
+      "work_order_id": 927,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO REFORZAR PATA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1823,
+      "work_order_id": 929,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1824,
+      "work_order_id": 930,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE FOCOS CON REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1825,
+      "work_order_id": 931,
+      "colaborator_id": 5,
+      "services": "['ELABORACION TOTAL DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1826,
+      "work_order_id": 932,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-10T17:14:16.761721",
+  "timestamp": "2025-11-11T12:05:43.963186",
   "machine_id": "26830028058983"
 }

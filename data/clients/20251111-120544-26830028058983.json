@@ -5477,8 +5477,96 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1751,
+      "name": "LUIS MANUEL LOPEZ",
+      "contact_1": "77622209",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1752,
+      "name": "WILLIAM BALTODANO",
+      "contact_1": "85506380",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1753,
+      "name": "JOSE RAMON",
+      "contact_1": "76942873",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1754,
+      "name": "DIRK ESCORCIA",
+      "contact_1": "82677024",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1755,
+      "name": "MANUEL SANCHEZ",
+      "contact_1": "86879893",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1756,
+      "name": "JULIO CESAR ZUNIGA",
+      "contact_1": "89600528",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1757,
+      "name": "FABIO VACA",
+      "contact_1": "87615548",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1758,
+      "name": "GALO SOBALVARRO MENDOZA",
+      "contact_1": "86665925",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-10T17:14:16.860456",
+  "timestamp": "2025-11-11T12:05:44.203182",
   "machine_id": "26830028058983"
 }

@@ -13511,8 +13511,160 @@
       "activity": "Ingreso de caja para la orden: 36417 - monto: 800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6594,
+      "datetime": "2025-11-10 23:36:39",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6595,
+      "datetime": "2025-11-11 14:55:04",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6596,
+      "datetime": "2025-11-11 17:49:30",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LUIS MANUEL LOPEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6597,
+      "datetime": "2025-11-11 17:50:31",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36419",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6598,
+      "datetime": "2025-11-11 17:51:03",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36420",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6599,
+      "datetime": "2025-11-11 17:53:58",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: WILLIAM BALTODANO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6600,
+      "datetime": "2025-11-11 17:55:26",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSE RAMON",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6601,
+      "datetime": "2025-11-11 17:55:50",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DIRK ESCORCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6602,
+      "datetime": "2025-11-11 17:56:43",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MANUEL SANCHEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6603,
+      "datetime": "2025-11-11 17:57:05",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JULIO CESAR ZUNIGA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6604,
+      "datetime": "2025-11-11 17:57:32",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: FABIO VACA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6605,
+      "datetime": "2025-11-11 17:57:55",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: GALO SOBALVARRO MENDOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6606,
+      "datetime": "2025-11-11 17:58:55",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0925",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6607,
+      "datetime": "2025-11-11 17:59:56",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0926",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6608,
+      "datetime": "2025-11-11 18:01:17",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0927",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6609,
+      "datetime": "2025-11-11 18:02:19",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0929",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6610,
+      "datetime": "2025-11-11 18:03:15",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0930",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6611,
+      "datetime": "2025-11-11 18:04:25",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0931",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6612,
+      "datetime": "2025-11-11 18:05:32",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 0932",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-10T17:14:16.886387",
+  "timestamp": "2025-11-11T12:05:44.257085",
   "machine_id": "26830028058983"
 }

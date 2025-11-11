@@ -5653,8 +5653,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1767,
+      "name": "AMARUS MURILLO",
+      "contact_1": "84049992",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1768,
+      "name": "AMARUS MURILLO",
+      "contact_1": "84049992",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1769,
+      "name": "MARLON BENAVIDES",
+      "contact_1": "89005359",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-11T16:41:49.888395",
+  "timestamp": "2025-11-11T17:41:18.726631",
   "machine_id": "26830028058983"
 }

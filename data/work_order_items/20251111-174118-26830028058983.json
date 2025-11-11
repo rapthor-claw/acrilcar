@@ -4295,8 +4295,32 @@
       "services": "['ELABORACION DE 2 PIDEVIAS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1836,
+      "work_order_id": 938,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1837,
+      "work_order_id": 36424,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1838,
+      "work_order_id": 939,
+      "colaborator_id": 4,
+      "services": "['ELABORACION TOTAL DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-11T16:41:49.794666",
+  "timestamp": "2025-11-11T17:41:18.622887",
   "machine_id": "26830028058983"
 }

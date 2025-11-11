@@ -4247,8 +4247,56 @@
       "services": "['ELABORACION DE 1 FOCO TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1830,
+      "work_order_id": 912,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP Y 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1831,
+      "work_order_id": 36422,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y MANTENIMIENTO DE 4 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1832,
+      "work_order_id": 36423,
+      "colaborator_id": 14,
+      "services": "['CORTE CNC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1833,
+      "work_order_id": 935,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 TACOMETRO TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1834,
+      "work_order_id": 936,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1835,
+      "work_order_id": 937,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-11T13:38:36.107137",
+  "timestamp": "2025-11-11T16:41:49.794666",
   "machine_id": "26830028058983"
 }

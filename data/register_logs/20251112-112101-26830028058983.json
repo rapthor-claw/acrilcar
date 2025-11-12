@@ -14439,8 +14439,16 @@
       "activity": "Creo la orden de trabajo: 0951",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6710,
+      "datetime": "2025-11-12 17:20:55",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36415",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-12T11:11:33.236317",
+  "timestamp": "2025-11-12T11:21:01.113521",
   "machine_id": "26830028058983"
 }

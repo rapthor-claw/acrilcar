@@ -4463,8 +4463,16 @@
       "services": "['ELABORACION DE 1 TAPA DE TABLERO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1857,
+      "work_order_id": 36415,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE CAJA ACRILICA Y PIEZAS DE POLICARBONATO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-12T11:11:33.106783",
+  "timestamp": "2025-11-12T11:21:00.988559",
   "machine_id": "26830028058983"
 }

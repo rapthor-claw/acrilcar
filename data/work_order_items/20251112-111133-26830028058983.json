@@ -4319,8 +4319,152 @@
       "services": "['ELABORACION TOTAL DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1839,
+      "work_order_id": 36425,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 2 HABLADORES TAMAÑO CARTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1840,
+      "work_order_id": 36426,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1841,
+      "work_order_id": 36427,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 2 REGLAS DE MEDIR POPS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1842,
+      "work_order_id": 36428,
+      "colaborator_id": 14,
+      "services": "['SELLADO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1843,
+      "work_order_id": 36429,
+      "colaborator_id": 9,
+      "services": "['CORTE EN LASER LETRAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1844,
+      "work_order_id": 36430,
+      "colaborator_id": 9,
+      "services": "['SOLVENTAR Y PONER BARILLAS DE REFUERZO EN DOS CAJAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1845,
+      "work_order_id": 940,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE PARTE AFECTADA DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1846,
+      "work_order_id": 941,
+      "colaborator_id": 5,
+      "services": "['ELABORACION TOTAL ARO Y BASE DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1847,
+      "work_order_id": 942,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1848,
+      "work_order_id": 943,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1849,
+      "work_order_id": 944,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1850,
+      "work_order_id": 945,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1851,
+      "work_order_id": 946,
+      "colaborator_id": 5,
+      "services": "['ELABORACION TOTAL DE 2 PIDE VIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1852,
+      "work_order_id": 947,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO Y PULIDO DEL OTRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1853,
+      "work_order_id": 948,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1854,
+      "work_order_id": 949,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE TABLERO DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1855,
+      "work_order_id": 950,
+      "colaborator_id": 14,
+      "services": "['TALLADO DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1856,
+      "work_order_id": 951,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 TAPA DE TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-11T17:41:18.622887",
+  "timestamp": "2025-11-12T11:11:33.106783",
   "machine_id": "26830028058983"
 }

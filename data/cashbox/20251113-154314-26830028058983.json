@@ -12271,8 +12271,21 @@
       "order_id": 371636,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2645,
+      "fecha": "2025-11-13",
+      "descripcion": "PAGO DE MARIANELA DAVILA",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Yamileth",
+      "order_id": 10411,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-13T14:58:11.472448",
+  "timestamp": "2025-11-13T15:43:14.069456",
   "machine_id": "26830028058983"
 }

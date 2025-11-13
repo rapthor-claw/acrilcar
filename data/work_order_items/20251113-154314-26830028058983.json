@@ -4471,8 +4471,112 @@
       "services": "['ELABORACION DE CAJA ACRILICA Y PIEZAS DE POLICARBONATO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1858,
+      "work_order_id": 952,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE FOCO CON RESTAURACION DE CROMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1859,
+      "work_order_id": 953,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE UN HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1860,
+      "work_order_id": 954,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE UN FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1861,
+      "work_order_id": 955,
+      "colaborator_id": 14,
+      "services": "['ELABORACION 2 STOP Y UN FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1862,
+      "work_order_id": 956,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE UN TACOMETRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1863,
+      "work_order_id": 957,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS Y 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1864,
+      "work_order_id": 958,
+      "colaborator_id": 14,
+      "services": "['ELABORACION TOTAL DE UN STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1865,
+      "work_order_id": 36431,
+      "colaborator_id": 12,
+      "services": "['UN CORTE DE ACRILICO Y CORTE DE LETRAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1866,
+      "work_order_id": 36432,
+      "colaborator_id": 14,
+      "services": "['VENTA DE DOS LAMINAS DE ACRILICO TRANSPARENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1867,
+      "work_order_id": 36433,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE DOS PLAQUITAS PARA TROFEOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1868,
+      "work_order_id": 36434,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE DOS FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1869,
+      "work_order_id": 36435,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE DOS HALOGENOS FOCOS TRACEROS Y DOS FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1870,
+      "work_order_id": 36436,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y REPARACION DE BASE DE DOS FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-13T14:58:11.409617",
+  "timestamp": "2025-11-13T15:43:14.005591",
   "machine_id": "26830028058983"
 }

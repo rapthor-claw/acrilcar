@@ -12531,8 +12531,86 @@
       "order_id": 36435,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2665,
+      "fecha": "2025-11-14",
+      "descripcion": "ROC 31159 CANCELACION ",
+      "monto": 1800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 943,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2666,
+      "fecha": "2025-11-14",
+      "descripcion": ".RETENCION DEL 2 % # 32914",
+      "monto": 36.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 46,
+      "user_id": "Yamileth",
+      "order_id": 943,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2667,
+      "fecha": "2025-11-14",
+      "descripcion": "ROC 31160 CANCELACION ",
+      "monto": 600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 34,
+      "user_id": "Yamileth",
+      "order_id": 951,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2668,
+      "fecha": "2025-11-14",
+      "descripcion": "ROC 31160",
+      "monto": 600.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 44,
+      "user_id": "Yamileth",
+      "order_id": 951,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2669,
+      "fecha": "2025-11-14",
+      "descripcion": "ROC 31161 CANCELACION ",
+      "monto": 1200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 936,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2670,
+      "fecha": "2025-11-14",
+      "descripcion": "ROC 31163 CANCELACION ",
+      "monto": 1300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 34,
+      "user_id": "Yamileth",
+      "order_id": 36419,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-14T15:55:29.436506",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-11-14T15:57:37.469206",
+  "machine_id": "26830028058983"
 }

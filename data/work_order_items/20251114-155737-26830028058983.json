@@ -4575,8 +4575,120 @@
       "services": "['PULIDO Y REPARACION DE BASE DE DOS FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1871,
+      "work_order_id": 959,
+      "colaborator_id": 4,
+      "services": "['PULIDO Y ELABORACION DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1872,
+      "work_order_id": 959,
+      "colaborator_id": 4,
+      "services": "['PULIDO Y ELABORACION DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1873,
+      "work_order_id": 960,
+      "colaborator_id": 14,
+      "services": "['ELABORACION TOTAL STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1874,
+      "work_order_id": 961,
+      "colaborator_id": 5,
+      "services": "['CAMBIO DE MICA CON ELABORACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1875,
+      "work_order_id": 962,
+      "colaborator_id": 14,
+      "services": "['VENTA DE BISAGRAS ACRILICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1876,
+      "work_order_id": 964,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE FOCO PARTE EFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1877,
+      "work_order_id": 965,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1878,
+      "work_order_id": 963,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1879,
+      "work_order_id": 36437,
+      "colaborator_id": 14,
+      "services": "['MANTENIMIENTO DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1880,
+      "work_order_id": 36438,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1881,
+      "work_order_id": 36439,
+      "colaborator_id": 14,
+      "services": "['SELLADO DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1882,
+      "work_order_id": 36440,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 5 CORTES BLANCO LECHOSO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1883,
+      "work_order_id": 36441,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 1 VENTANA Y 1 PIEZA ACRILICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1884,
+      "work_order_id": 36442,
+      "colaborator_id": 9,
+      "services": "['CORTE DE LAMINAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-14T15:55:29.378553",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-11-14T15:57:37.391010",
+  "machine_id": "26830028058983"
 }

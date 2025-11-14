@@ -4687,8 +4687,16 @@
       "services": "['CORTE DE LAMINAS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1885,
+      "work_order_id": 966,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-14T16:25:12.277692",
+  "timestamp": "2025-11-14T17:11:20.114595",
   "machine_id": "26830028058983"
 }

@@ -8203,8 +8203,22 @@
       "note": null,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1885,
+      "work_order_id": "0966",
+      "start_date": "2025-11-14 16:53",
+      "end_date": "2025-11-14 16:53",
+      "user_id": 13,
+      "client_id": 527,
+      "colaborador_id": 14,
+      "total_cost": 0.0,
+      "order_status": "abierta",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-14T16:25:12.246433",
+  "timestamp": "2025-11-14T17:11:20.089662",
   "machine_id": "26830028058983"
 }

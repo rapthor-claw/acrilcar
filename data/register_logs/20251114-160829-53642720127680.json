@@ -15415,8 +15415,72 @@
       "activity": "Modifico accesos al usuario ID: 14",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6831,
+      "datetime": "2025-11-14 22:01:43",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6832,
+      "datetime": "2025-11-14 22:03:10",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6833,
+      "datetime": "2025-11-14 22:03:22",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6834,
+      "datetime": "2025-11-14 22:03:41",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6835,
+      "datetime": "2025-11-14 22:03:48",
+      "username": "admin",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6836,
+      "datetime": "2025-11-14 22:04:31",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6837,
+      "datetime": "2025-11-14 22:04:46",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6838,
+      "datetime": "2025-11-14 22:07:33",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-14T16:01:25.505483",
+  "timestamp": "2025-11-14T16:08:29.519908",
   "machine_id": "53642720127680"
 }

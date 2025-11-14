@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "id": 14,
+      "username": "JAKY",
+      "password_hash": "a9b6f4bf2f638f37f652af97cb8c6275d8810b434c1a5f7303c9b9ade5d818c9",
+      "role": "user",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-11-13T17:17:27.120222",
+  "machine_id": "26830028058983"
+}

@@ -15095,8 +15095,24 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6791,
+      "datetime": "2025-11-14 21:55:03",
+      "username": "admin",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6792,
+      "datetime": "2025-11-14 21:55:20",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-14T15:54:51.296101",
+  "timestamp": "2025-11-14T15:55:29.518361",
   "machine_id": "53642720127680"
 }

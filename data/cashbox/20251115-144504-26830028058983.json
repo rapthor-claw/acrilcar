@@ -13129,8 +13129,73 @@
       "order_id": 134479,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2711,
+      "fecha": "2025-11-15",
+      "descripcion": "OC 31187 CANCELACION ",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 961,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2712,
+      "fecha": "2025-11-15",
+      "descripcion": "ROC 31188 CANCELACION ",
+      "monto": 1000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36437,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2713,
+      "fecha": "2025-11-15",
+      "descripcion": "ROC 31189 CANCELACION ",
+      "monto": 6100.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 955,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2714,
+      "fecha": "2025-11-15",
+      "descripcion": "ROC 31189 # 13629",
+      "monto": 122.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 46,
+      "user_id": "Yamileth",
+      "order_id": 955,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2715,
+      "fecha": "2025-11-15",
+      "descripcion": "ROC 31190 CANCELACION ",
+      "monto": 2500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 958,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-15T12:57:47.935859",
+  "timestamp": "2025-11-15T14:45:04.968598",
   "machine_id": "26830028058983"
 }

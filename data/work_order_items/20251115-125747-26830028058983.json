@@ -4695,8 +4695,48 @@
       "services": "['ANULADA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1886,
+      "work_order_id": 36444,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1887,
+      "work_order_id": 36445,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y MANTENIMIENTO DE FOCS MAS INSTALACION DE LED']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1888,
+      "work_order_id": 36446,
+      "colaborator_id": 14,
+      "services": "['CROMADO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1889,
+      "work_order_id": 967,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1890,
+      "work_order_id": 968,
+      "colaborator_id": 14,
+      "services": "['ELABORACION PARTE AFECTADA DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-15T10:12:17.769951",
+  "timestamp": "2025-11-15T12:57:47.869066",
   "machine_id": "26830028058983"
 }

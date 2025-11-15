@@ -6225,8 +6225,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1819,
+      "name": "LESTER FLORES",
+      "contact_1": "82939326",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1820,
+      "name": "LAZARO RIVAS",
+      "contact_1": "88839974",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1821,
+      "name": "EVERTH CORNEJO",
+      "contact_1": "88165955",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1822,
+      "name": "JOSE FRANCISCO AVILES",
+      "contact_1": "86581623",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-15T10:12:17.887242",
+  "timestamp": "2025-11-15T12:57:47.972760",
   "machine_id": "26830028058983"
 }

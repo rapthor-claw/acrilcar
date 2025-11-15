@@ -13194,8 +13194,21 @@
       "order_id": 958,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2716,
+      "fecha": "2025-11-15",
+      "descripcion": "ROC 31191 CANCELACION ",
+      "monto": 300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36433,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-15T14:45:04.968598",
+  "timestamp": "2025-11-15T14:54:33.400831",
   "machine_id": "26830028058983"
 }

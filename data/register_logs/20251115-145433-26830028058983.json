@@ -15863,8 +15863,32 @@
       "activity": "Ingreso de caja para la orden: 0958 - monto: 2500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6887,
+      "datetime": "2025-11-15 20:48:09",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6888,
+      "datetime": "2025-11-15 20:53:22",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6889,
+      "datetime": "2025-11-15 20:53:59",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36433 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-15T14:45:05.031082",
+  "timestamp": "2025-11-15T14:54:33.469668",
   "machine_id": "26830028058983"
 }

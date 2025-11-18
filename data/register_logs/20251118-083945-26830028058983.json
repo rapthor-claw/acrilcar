@@ -15887,8 +15887,40 @@
       "activity": "Ingreso de caja para la orden: 36433 - monto: 300",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 6890,
+      "datetime": "2025-11-15 20:55:15",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6891,
+      "datetime": "2025-11-17 17:48:03",
+      "username": "JAKY",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6892,
+      "datetime": "2025-11-17 17:49:45",
+      "username": "JAKY",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6893,
+      "datetime": "2025-11-18 14:39:25",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-15T14:54:33.469668",
+  "timestamp": "2025-11-18T08:39:45.030641",
   "machine_id": "26830028058983"
 }

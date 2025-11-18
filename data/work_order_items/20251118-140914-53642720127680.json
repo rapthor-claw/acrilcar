@@ -4735,8 +4735,80 @@
       "services": "['ELABORACION PARTE AFECTADA DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1891,
+      "work_order_id": 976,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE BASE Y REPARACION DE UN STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1892,
+      "work_order_id": 977,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE DOS FOCOS Y DOS HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1893,
+      "work_order_id": 978,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE UN TACOMETRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1894,
+      "work_order_id": 980,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE UN STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1895,
+      "work_order_id": 981,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE UN STOP CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1896,
+      "work_order_id": 982,
+      "colaborator_id": 12,
+      "services": "['ELABORACION TOTAL DE UN STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1897,
+      "work_order_id": 983,
+      "colaborator_id": 4,
+      "services": "['ELABORACION TOTAL DE DOS FOCOS Y DOS STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1898,
+      "work_order_id": 36447,
+      "colaborator_id": 14,
+      "services": "['SECADO Y SELLADO DE UN STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1899,
+      "work_order_id": 36449,
+      "colaborator_id": 14,
+      "services": "['VENTA DE FOCO CAMBIO DE MICA Y PULIDO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-18T08:39:44.847230",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-11-18T14:09:14.427754",
+  "machine_id": "53642720127680"
 }

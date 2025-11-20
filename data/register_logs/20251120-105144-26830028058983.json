@@ -1,0 +1,206 @@
+{
+  "records": [
+    {
+      "id": 6894,
+      "datetime": "2025-11-18 20:58:23",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6895,
+      "datetime": "2025-11-18 20:58:52",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6896,
+      "datetime": "2025-11-18 21:00:47",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6897,
+      "datetime": "2025-11-18 21:01:45",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6898,
+      "datetime": "2025-11-19 16:30:17",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6899,
+      "datetime": "2025-11-19 16:31:14",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6900,
+      "datetime": "2025-11-19 16:33:43",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6901,
+      "datetime": "2025-11-19 16:43:55",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Caina Bonilla",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6902,
+      "datetime": "2025-11-19 16:44:45",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Franco Lopez",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6903,
+      "datetime": "2025-11-19 16:46:09",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Julio Rivera",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6904,
+      "datetime": "2025-11-19 16:46:40",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Ernesto Selva",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6905,
+      "datetime": "2025-11-19 16:48:20",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Roberto Guerno",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6906,
+      "datetime": "2025-11-19 16:48:48",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Byron Castillo",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6907,
+      "datetime": "2025-11-19 16:50:41",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Byron Castillo",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6908,
+      "datetime": "2025-11-19 16:51:42",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Julio Casares",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6909,
+      "datetime": "2025-11-19 16:52:23",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Dominsa Benavides",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6910,
+      "datetime": "2025-11-19 16:52:52",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Taller RS Comercial",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6911,
+      "datetime": "2025-11-19 16:53:22",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Eduardo Garcia ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6912,
+      "datetime": "2025-11-19 16:53:42",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Eliezer Fernandez",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6913,
+      "datetime": "2025-11-19 16:54:29",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Taller las sienitas de santo domingo",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6914,
+      "datetime": "2025-11-19 16:54:49",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: Auto uri",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6915,
+      "datetime": "2025-11-19 20:31:59",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6916,
+      "datetime": "2025-11-19 21:08:49",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6917,
+      "datetime": "2025-11-19 23:37:45",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 6918,
+      "datetime": "2025-11-20 16:40:13",
+      "username": "admin",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-11-20T10:51:44.400679",
+  "machine_id": "26830028058983"
+}

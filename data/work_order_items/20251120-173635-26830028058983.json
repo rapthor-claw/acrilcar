@@ -1,0 +1,606 @@
+{
+  "records": [
+    {
+      "id": 1900,
+      "work_order_id": 984,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE UN VISOR AHUMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1901,
+      "work_order_id": 985,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE UN STOP PULIDO DE 2 HALOGENOS Y UN STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1902,
+      "work_order_id": 986,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE UN TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1903,
+      "work_order_id": 987,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE UN FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1904,
+      "work_order_id": 988,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE UN STOP DE BAUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1905,
+      "work_order_id": 989,
+      "colaborator_id": 14,
+      "services": "['ELABORACION TOTAL DE UN STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1906,
+      "work_order_id": 990,
+      "colaborator_id": 14,
+      "services": "['INSTALACION DE 2 PROYECTORES LED Y PULIDO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1907,
+      "work_order_id": 991,
+      "colaborator_id": 5,
+      "services": "['ELABORACION TOTAL DE UN STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1908,
+      "work_order_id": 992,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE DOS STOP COMPLETOS CON INSTALACION DE PERNO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1909,
+      "work_order_id": 993,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE UN STOP CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1910,
+      "work_order_id": 994,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE DOS STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1911,
+      "work_order_id": 995,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE DOS TAPAS DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1912,
+      "work_order_id": 996,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE UN VISOR DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1913,
+      "work_order_id": 969,
+      "colaborator_id": 5,
+      "services": "['REPARACION TOTAL DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1914,
+      "work_order_id": 971,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 PIDEVIA Y LIMPIEZA TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1915,
+      "work_order_id": 972,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 MICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1916,
+      "work_order_id": 36450,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 10 CAJAS ACRILICAS 3 BLANCAS Y 7 TRANSPARENTES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1917,
+      "work_order_id": 971,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 PIDEVIA Y LIMPIEZA TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1918,
+      "work_order_id": 973,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1919,
+      "work_order_id": 974,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1920,
+      "work_order_id": 975,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1921,
+      "work_order_id": 979,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1922,
+      "work_order_id": 36448,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1923,
+      "work_order_id": 997,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 REFLECTOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1924,
+      "work_order_id": 36751,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1925,
+      "work_order_id": 36752,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 40 PIEZAS ACRILICOS SEGUN MUESTRA PARA RAQUETAS SIN SOPORTES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1926,
+      "work_order_id": 36753,
+      "colaborator_id": 9,
+      "services": "['MANTENIMIENTO DE 17 CAJAS ACRILICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1927,
+      "work_order_id": 36754,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 2 ROTULOS PEQUEÑOS, MTTO CAJAS ACRILICAS, ESCALERA ACRILICA SE ELABORARON LATERALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1928,
+      "work_order_id": 998,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1929,
+      "work_order_id": 999,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1930,
+      "work_order_id": 1000,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE STOP CON REPARACION DE FIBRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1931,
+      "work_order_id": 1001,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1932,
+      "work_order_id": 1002,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1933,
+      "work_order_id": 1003,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1934,
+      "work_order_id": 1004,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1935,
+      "work_order_id": 1005,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1936,
+      "work_order_id": 36755,
+      "colaborator_id": 9,
+      "services": "['CORTE DE PIEZA ACRILICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1937,
+      "work_order_id": 36756,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y LIMPIEZA DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1938,
+      "work_order_id": 36757,
+      "colaborator_id": 14,
+      "services": "['SECADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1939,
+      "work_order_id": 36758,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y REPARACION DE BASE DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1940,
+      "work_order_id": 36759,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE CORTES ACRILICOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1941,
+      "work_order_id": 36760,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 HALOGENOS Y PONER TORNILLOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1942,
+      "work_order_id": 1006,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1943,
+      "work_order_id": 1007,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1944,
+      "work_order_id": 1008,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 FOCOS Y 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1945,
+      "work_order_id": 1009,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1946,
+      "work_order_id": 1010,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1947,
+      "work_order_id": 1011,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS TRANSPARENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1948,
+      "work_order_id": 1012,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE, ARO Y REPARACION DE 1 PARRILLA Y PULIDO DE 1 FOCO CO REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1949,
+      "work_order_id": 1013,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 FOCOS, 1 STOP Y ELABORACION DE 1 LATERAL DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1950,
+      "work_order_id": 1014,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1951,
+      "work_order_id": 1015,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1952,
+      "work_order_id": 36762,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS Y SELLADO Y PINTURA DE MARCOS DE HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1953,
+      "work_order_id": 36763,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1954,
+      "work_order_id": 36764,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1955,
+      "work_order_id": 1016,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP CON REP. DE PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1956,
+      "work_order_id": 1017,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1957,
+      "work_order_id": 1018,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO Y 1 PIDEVIA CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1958,
+      "work_order_id": 1019,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO DE  TRACTOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1959,
+      "work_order_id": 1020,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1960,
+      "work_order_id": 1021,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1961,
+      "work_order_id": 1022,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1962,
+      "work_order_id": 1023,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 PIDEVIAS AMARILLO RAYADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1963,
+      "work_order_id": 1024,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1964,
+      "work_order_id": 1025,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1965,
+      "work_order_id": 1026,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1966,
+      "work_order_id": 1027,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1967,
+      "work_order_id": 1028,
+      "colaborator_id": 2,
+      "services": "['ELABORACION TOTAL DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1968,
+      "work_order_id": 1029,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE 1 STOP Y 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1969,
+      "work_order_id": 1030,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE MICA DE RETROVISR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1970,
+      "work_order_id": 1031,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE PARTE AFECTADA DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1971,
+      "work_order_id": 1032,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1972,
+      "work_order_id": 1033,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2  PIEZAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1973,
+      "work_order_id": 1034,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1974,
+      "work_order_id": 36765,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-11-20T17:36:35.032924",
+  "machine_id": "26830028058983"
+}

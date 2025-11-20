@@ -599,8 +599,16 @@
       "services": "['ANULADA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1975,
+      "work_order_id": 910,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 FOCO Y 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-20T17:36:35.032924",
+  "timestamp": "2025-11-20T15:44:10.730941",
   "machine_id": "26830028058983"
 }

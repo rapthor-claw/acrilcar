@@ -637,8 +637,206 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1905,
+      "name": "JAIRO RAMIREZ",
+      "contact_1": "89886009",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1906,
+      "name": "JAVIER LARGAESPADA",
+      "contact_1": "86709781",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1907,
+      "name": "EDSON RODRIGUEZ",
+      "contact_1": "86796789",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1908,
+      "name": "MA RIA  ALEJANDRA LAY",
+      "contact_1": "88166434",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1909,
+      "name": "KENNETH SALVADOR MENA MORALES",
+      "contact_1": "89959255",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1910,
+      "name": "FERNANDO LOPEZ",
+      "contact_1": "88641208",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1911,
+      "name": "ALEXIS GARCIA",
+      "contact_1": "57319268",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1912,
+      "name": "EDSOH RODRIGUEZ",
+      "contact_1": "86796789",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1913,
+      "name": "DANIEL TELLEZ",
+      "contact_1": "87219432",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1914,
+      "name": "FERNANDO MORALES",
+      "contact_1": "86783004",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1915,
+      "name": "LUIS MOLINA ",
+      "contact_1": "76866464",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1916,
+      "name": "NICA PWER ",
+      "contact_1": "83308060",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1917,
+      "name": "HECTOR GAITAN",
+      "contact_1": "81813636",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1918,
+      "name": "DR. BAYARDO ",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1919,
+      "name": "SERCONISA",
+      "contact_1": "87232369",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1920,
+      "name": "NIMAC",
+      "contact_1": "87969736",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1921,
+      "name": "CARLOS ANDRES",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1922,
+      "name": "ELENA LOPEZ",
+      "contact_1": "86103750",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-20T15:44:10.794635",
+  "timestamp": "2025-11-21T13:21:50.913880",
   "machine_id": "26830028058983"
 }

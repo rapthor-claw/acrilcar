@@ -607,8 +607,152 @@
       "services": "['ELAB 1 FOCO Y 2 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1976,
+      "work_order_id": 36766,
+      "colaborator_id": 14,
+      "services": "['PUIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1977,
+      "work_order_id": 36767,
+      "colaborator_id": 14,
+      "services": "['SECADO Y SELLADO DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1978,
+      "work_order_id": 36768,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO Y SELLADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1979,
+      "work_order_id": 36769,
+      "colaborator_id": 14,
+      "services": "['SECADO DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1980,
+      "work_order_id": 36770,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO Y RESTAURACION DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1981,
+      "work_order_id": 36771,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1982,
+      "work_order_id": 1035,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1983,
+      "work_order_id": 1036,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1984,
+      "work_order_id": 1037,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1985,
+      "work_order_id": 1038,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1986,
+      "work_order_id": 1039,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE 1 STOP PARTE ROJA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1987,
+      "work_order_id": 1040,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1988,
+      "work_order_id": 1041,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1989,
+      "work_order_id": 1042,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1990,
+      "work_order_id": 1043,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1991,
+      "work_order_id": 1044,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 PIDEVIA BLANCO DIAMANTADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1992,
+      "work_order_id": 1045,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1993,
+      "work_order_id": 1046,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE Y ARO, PULIDO DE 1 HALOGENO Y 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-20T15:44:10.730941",
+  "timestamp": "2025-11-21T13:21:50.851396",
   "machine_id": "26830028058983"
 }

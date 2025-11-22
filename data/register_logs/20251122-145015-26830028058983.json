@@ -1,0 +1,118 @@
+{
+  "records": [
+    {
+      "id": 7153,
+      "datetime": "2025-11-22 19:27:40",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: GILBERT TORREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7154,
+      "datetime": "2025-11-22 19:28:31",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36772",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7155,
+      "datetime": "2025-11-22 19:51:44",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: NELSON LUNA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7156,
+      "datetime": "2025-11-22 20:03:40",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARCOS URROZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7157,
+      "datetime": "2025-11-22 20:04:01",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DENIS CASTILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7158,
+      "datetime": "2025-11-22 20:04:22",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DONALD PAYAN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7159,
+      "datetime": "2025-11-22 20:11:49",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: RIGOBERTO PALACIOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7160,
+      "datetime": "2025-11-22 20:12:12",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ORLANDO MENDOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7161,
+      "datetime": "2025-11-22 20:13:53",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1051",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7162,
+      "datetime": "2025-11-22 20:14:51",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1052",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7163,
+      "datetime": "2025-11-22 20:45:17",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0994 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7164,
+      "datetime": "2025-11-22 20:48:06",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 0994 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7165,
+      "datetime": "2025-11-22 20:48:32",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1016 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7166,
+      "datetime": "2025-11-22 20:49:05",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36763 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-11-22T14:50:15.615578",
+  "machine_id": "26830028058983"
+}

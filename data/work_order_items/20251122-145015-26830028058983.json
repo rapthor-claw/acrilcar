@@ -1,0 +1,30 @@
+{
+  "records": [
+    {
+      "id": 1994,
+      "work_order_id": 36772,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1995,
+      "work_order_id": 1051,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE BASE Y MICA DE PIDEVIA Y ELABORACION DEL OTRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1996,
+      "work_order_id": 1052,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-11-22T14:50:15.567681",
+  "machine_id": "26830028058983"
+}

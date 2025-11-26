@@ -439,8 +439,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 1963,
+      "name": "ORLANDO LORIO",
+      "contact_1": "81889380",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1964,
+      "name": "INKNOVA SOLUCIONES",
+      "contact_1": "83782279",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1965,
+      "name": "ROLANDO ALVARADO",
+      "contact_1": "87885204",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1966,
+      "name": "GERALD MORALES",
+      "contact_1": "87965603",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1967,
+      "name": "CARLOS GOMEZ",
+      "contact_1": "77325245",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1968,
+      "name": "FERNANDO TAPIA",
+      "contact_1": "82461736",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1969,
+      "name": "JOSE TALAVERA",
+      "contact_1": "78357011",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1970,
+      "name": "LUIS AREAS",
+      "contact_1": "78290459",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 1971,
+      "name": "SOLIETE LARGAESPADA",
+      "contact_1": "88820248",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-25T17:17:29.522668",
+  "timestamp": "2025-11-26T16:39:25.871012",
   "machine_id": "26830028058983"
 }

@@ -327,8 +327,80 @@
       "services": "['PULIDO Y SECADO DE 1 FOCO Y PULIDO DE OTRO FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2035,
+      "work_order_id": 36780,
+      "colaborator_id": 9,
+      "services": "['VENTA DE 1 LITRO DE SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2036,
+      "work_order_id": 36781,
+      "colaborator_id": 9,
+      "services": "['CORTE DE ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2037,
+      "work_order_id": 1086,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2038,
+      "work_order_id": 1087,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2039,
+      "work_order_id": 1088,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2040,
+      "work_order_id": 1089,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 STOP PARTE TRANSPARENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2041,
+      "work_order_id": 1090,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2042,
+      "work_order_id": 1091,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO, 1 PLANTILLA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2043,
+      "work_order_id": 1092,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-25T17:17:29.460182",
+  "timestamp": "2025-11-26T16:39:25.805964",
   "machine_id": "26830028058983"
 }

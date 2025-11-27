@@ -399,8 +399,128 @@
       "services": "['ELABORACION DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2044,
+      "work_order_id": 1093,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2045,
+      "work_order_id": 1094,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2046,
+      "work_order_id": 36782,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 2 HABLADORES TAMAÑO CARTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2047,
+      "work_order_id": 36783,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS CON REPARACION DE PATAS E INSTALACION DE NEON VERDE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2048,
+      "work_order_id": 36784,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS Y LIMPIEZA Y REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2049,
+      "work_order_id": 1095,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 MICA DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2050,
+      "work_order_id": 1096,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP DE BAUL Y 1 TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2051,
+      "work_order_id": 1097,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 PIDE VIAS CON REPARACION DE PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2052,
+      "work_order_id": 1098,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 STOP TOTAL CON REPARACION EN BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2053,
+      "work_order_id": 1100,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2054,
+      "work_order_id": 1101,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE TAPA CON PINES, ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2055,
+      "work_order_id": 1102,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 FOCOS Y 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2056,
+      "work_order_id": 1084,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2057,
+      "work_order_id": 1103,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION EN BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2058,
+      "work_order_id": 1085,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP Y GUARDAFANGO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-26T16:39:25.805964",
+  "timestamp": "2025-11-27T17:23:09.106019",
   "machine_id": "26830028058983"
 }

@@ -519,8 +519,152 @@
       "services": "['ELABORACION DE 1 STOP Y GUARDAFANGO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2059,
+      "work_order_id": 36785,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2060,
+      "work_order_id": 36786,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2061,
+      "work_order_id": 36787,
+      "colaborator_id": 9,
+      "services": "['CORTES ACRILICOS DE 3.04 Y 9.39']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2062,
+      "work_order_id": 36788,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2063,
+      "work_order_id": 36789,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS PINTAR BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2064,
+      "work_order_id": 36790,
+      "colaborator_id": 9,
+      "services": "['CORTE ACRILICO DE 9.02']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2065,
+      "work_order_id": 36792,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE PIEZA  ACRILICA SEGUN MUESTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2066,
+      "work_order_id": 36791,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE  2 FOCOS EXPRESS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2067,
+      "work_order_id": 36793,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 1 ROTULO ACRILICO DE 50 CMTS. MAS INSTALACION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2068,
+      "work_order_id": 1104,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP DE BAUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2069,
+      "work_order_id": 1105,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP CON REPARACION EN ARO Y ELABORACION DE 1 LATERAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2070,
+      "work_order_id": 1106,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2071,
+      "work_order_id": 1107,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2072,
+      "work_order_id": 1108,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2073,
+      "work_order_id": 1109,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO TOTAL MICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2074,
+      "work_order_id": 1110,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 HALOGENOS TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2075,
+      "work_order_id": 1111,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE PARTE AFECTADA DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2076,
+      "work_order_id": 1112,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP TOTAL CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-27T17:23:09.106019",
+  "timestamp": "2025-11-28T17:21:19.592339",
   "machine_id": "26830028058983"
 }

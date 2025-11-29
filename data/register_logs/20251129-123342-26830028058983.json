@@ -3095,8 +3095,56 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 7540,
+      "datetime": "2025-11-29 17:54:46",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LUIS SOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7541,
+      "datetime": "2025-11-29 17:55:06",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: WILLIAM PALMA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7542,
+      "datetime": "2025-11-29 18:16:44",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1113",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7543,
+      "datetime": "2025-11-29 18:17:33",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1114",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7544,
+      "datetime": "2025-11-29 18:32:43",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1113 - monto: 3800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7545,
+      "datetime": "2025-11-29 18:33:06",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 3800",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-29T08:36:49.572719",
+  "timestamp": "2025-11-29T12:33:42.562854",
   "machine_id": "26830028058983"
 }

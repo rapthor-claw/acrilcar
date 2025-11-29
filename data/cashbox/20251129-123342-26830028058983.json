@@ -2781,8 +2781,34 @@
       "order_id": 1104,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3015,
+      "fecha": "2025-11-29",
+      "descripcion": "RO 31370 CANCELACION ",
+      "monto": 3800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 35,
+      "user_id": "Yamileth",
+      "order_id": 1113,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3016,
+      "fecha": "2025-11-29",
+      "descripcion": "ROC31370",
+      "monto": 3800.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 40,
+      "user_id": "Yamileth",
+      "order_id": 1113,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-29T08:36:49.498051",
+  "timestamp": "2025-11-29T12:33:42.530941",
   "machine_id": "26830028058983"
 }

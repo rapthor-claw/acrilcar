@@ -663,8 +663,24 @@
       "services": "['ELABORACION DE 1 STOP TOTAL CON REPARACION DE BASE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2077,
+      "work_order_id": 1113,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE  1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2078,
+      "work_order_id": 1114,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-29T08:36:49.443177",
+  "timestamp": "2025-11-29T12:33:42.507005",
   "machine_id": "26830028058983"
 }

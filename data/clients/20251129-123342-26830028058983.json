@@ -879,8 +879,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2003,
+      "name": "LUIS SOZA",
+      "contact_1": "88565251",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2004,
+      "name": "WILLIAM PALMA",
+      "contact_1": "82482103",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-11-29T08:36:49.516005",
+  "timestamp": "2025-11-29T12:33:42.546898",
   "machine_id": "26830028058983"
 }

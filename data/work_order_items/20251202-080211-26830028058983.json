@@ -1,0 +1,174 @@
+{
+  "records": [
+    {
+      "id": 2079,
+      "work_order_id": 1062,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 STOP Y 2 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2080,
+      "work_order_id": 1115,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2081,
+      "work_order_id": 36794,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2082,
+      "work_order_id": 36795,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2083,
+      "work_order_id": 36796,
+      "colaborator_id": 14,
+      "services": "['PULIDO D 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2084,
+      "work_order_id": 36797,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2085,
+      "work_order_id": 36798,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2086,
+      "work_order_id": 36799,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2087,
+      "work_order_id": 1116,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2088,
+      "work_order_id": 1117,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2089,
+      "work_order_id": 1118,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP Y 1 STOP DE BAUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2090,
+      "work_order_id": 1119,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 CAÑUELA Y 1 MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2091,
+      "work_order_id": 1120,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE MICA DE REFLECTOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2092,
+      "work_order_id": 1121,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 MICA DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2093,
+      "work_order_id": 1122,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2094,
+      "work_order_id": 1123,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2095,
+      "work_order_id": 1124,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE PARTE AFECTADA STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2096,
+      "work_order_id": 1125,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE MICA DE STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2097,
+      "work_order_id": 1126,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2098,
+      "work_order_id": 1127,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 TABLERO TRANSPARENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2099,
+      "work_order_id": 1128,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2025-12-02T08:02:11.496091",
+  "machine_id": "26830028058983"
+}

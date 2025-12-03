@@ -1263,8 +1263,56 @@
       "activity": "Creo la orden de trabajo: 1143",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 7704,
+      "datetime": "2025-12-02 23:06:45",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7705,
+      "datetime": "2025-12-03 14:17:17",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7706,
+      "datetime": "2025-12-02 14:20:22",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: KENETH BDF",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7707,
+      "datetime": "2025-12-02 14:22:36",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1136",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7708,
+      "datetime": "2025-12-02 14:25:54",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1132 - monto: 1300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 7709,
+      "datetime": "2025-12-02 14:26:14",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 1300",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-02T17:06:29.890090",
+  "timestamp": "2025-12-03T10:29:42.514730",
   "machine_id": "26830028058983"
 }

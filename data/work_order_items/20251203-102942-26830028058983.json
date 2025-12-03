@@ -319,8 +319,16 @@
       "services": "['ELABORACION DE 1 TABLERO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2119,
+      "work_order_id": 1136,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE BASE DE PATA DE FOCO Y ELABORACION DE 2 MEDIAS LUNES Y 2 ESPEJOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-02T17:06:29.838233",
+  "timestamp": "2025-12-03T10:29:42.413999",
   "machine_id": "26830028058983"
 }

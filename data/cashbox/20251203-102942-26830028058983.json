@@ -987,8 +987,34 @@
       "order_id": 23635,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3093,
+      "fecha": "2025-12-02",
+      "descripcion": "ROC 31407 CANCELACION ",
+      "monto": 1300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 35,
+      "user_id": "Yamileth",
+      "order_id": 1132,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3094,
+      "fecha": "2025-12-02",
+      "descripcion": "ROC 31407",
+      "monto": 1300.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 40,
+      "user_id": "Yamileth",
+      "order_id": 1136,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-02T17:06:29.860171",
+  "timestamp": "2025-12-03T10:29:42.458878",
   "machine_id": "26830028058983"
 }

@@ -623,8 +623,224 @@
       "services": "['ELABORACION DE 2 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2157,
+      "work_order_id": 36470,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2158,
+      "work_order_id": 1167,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP Y 1 TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2159,
+      "work_order_id": 1168,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2160,
+      "work_order_id": 1169,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2161,
+      "work_order_id": 1170,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2162,
+      "work_order_id": 1171,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2163,
+      "work_order_id": 1172,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 HALOGENO CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2164,
+      "work_order_id": 1173,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2165,
+      "work_order_id": 1174,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2166,
+      "work_order_id": 1175,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2167,
+      "work_order_id": 1176,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS Y 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2168,
+      "work_order_id": 1177,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2169,
+      "work_order_id": 1178,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2170,
+      "work_order_id": 1179,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2171,
+      "work_order_id": 36471,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS Y SELLADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2172,
+      "work_order_id": 36473,
+      "colaborator_id": 9,
+      "services": "['CORTE DE 2 LAMINAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2173,
+      "work_order_id": 36474,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 1 CILINDRO DE 32 CMTS. DE ALTO POR SU DIAMETRO EN BLANCO LECHOSO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2174,
+      "work_order_id": 1180,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2175,
+      "work_order_id": 1181,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2176,
+      "work_order_id": 1182,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2177,
+      "work_order_id": 36472,
+      "colaborator_id": 9,
+      "services": "['VENTA DE 1 LITRO DE SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2178,
+      "work_order_id": 36475,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO EXPRESS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2179,
+      "work_order_id": 36476,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE  1 ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2180,
+      "work_order_id": 36477,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS Y 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2181,
+      "work_order_id": 36478,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2182,
+      "work_order_id": 1183,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2183,
+      "work_order_id": 1184,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 FOCOS Y 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-04T09:32:59.105872",
+  "timestamp": "2025-12-09T08:43:22.088560",
   "machine_id": "26830028058983"
 }

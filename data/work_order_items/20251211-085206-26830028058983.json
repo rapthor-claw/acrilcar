@@ -1119,8 +1119,16 @@
       "services": "['ELABORACION DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2219,
+      "work_order_id": 36483,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 STOP Y SELLADO Y SELLADO DEL OTRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-10T13:51:55.842758",
+  "timestamp": "2025-12-11T08:52:06.489236",
   "machine_id": "26830028058983"
 }

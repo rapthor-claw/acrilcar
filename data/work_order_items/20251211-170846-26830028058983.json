@@ -1127,8 +1127,248 @@
       "services": "['PULIDO DE 1 STOP Y SELLADO Y SELLADO DEL OTRO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2220,
+      "work_order_id": 36490,
+      "colaborator_id": 9,
+      "services": "['CORTE DE PVC 20X70, CORTE LAMINAS DE ACRILICO DE 3MM, TIEMPO DE CORTE 64 MINUTOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2221,
+      "work_order_id": 36492,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2222,
+      "work_order_id": 36493,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS Y 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2223,
+      "work_order_id": 36494,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2224,
+      "work_order_id": 1209,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2225,
+      "work_order_id": 1210,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2226,
+      "work_order_id": 36495,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2227,
+      "work_order_id": 36496,
+      "colaborator_id": 9,
+      "services": "['3 CORTES DE 85.4 Y 1 CORTE DE 77']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2228,
+      "work_order_id": 36497,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2229,
+      "work_order_id": 36498,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 4 PORTA BROSHUR, 6 PORTA TARJETAS Y 1 HABLADOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2230,
+      "work_order_id": 36499,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO Y MANTENIMIENTO DE CROMO Y SELLADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2231,
+      "work_order_id": 1211,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2232,
+      "work_order_id": 1212,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2233,
+      "work_order_id": 1213,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 TAPIZADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2234,
+      "work_order_id": 1214,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2235,
+      "work_order_id": 1215,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 PIDE VIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2236,
+      "work_order_id": 1216,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2237,
+      "work_order_id": 1217,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO Y PINTAR CAÑUELA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2238,
+      "work_order_id": 1218,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE 1 RETROVISOR Y ELABORACION DE 1 TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2239,
+      "work_order_id": 1219,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2240,
+      "work_order_id": 1220,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2241,
+      "work_order_id": 36500,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 12 PIEZAS CAJAS ACRILICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2242,
+      "work_order_id": 36501,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2243,
+      "work_order_id": 1221,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2244,
+      "work_order_id": 1222,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2245,
+      "work_order_id": 1223,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 HALOGENO CON REPARACION DE PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2246,
+      "work_order_id": 36502,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2247,
+      "work_order_id": 1224,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP PARTE ROJA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2248,
+      "work_order_id": 1225,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2249,
+      "work_order_id": 1226,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP PARTE ROJA Y PULIDO DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-11T08:52:06.489236",
+  "timestamp": "2025-12-11T17:08:46.032665",
   "machine_id": "26830028058983"
 }

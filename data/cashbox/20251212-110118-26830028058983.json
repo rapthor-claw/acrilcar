@@ -3847,8 +3847,60 @@
       "order_id": 12829,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3313,
+      "fecha": "2025-12-12",
+      "descripcion": "ROC 31530 CANCELACION ",
+      "monto": 3000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 1227,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3314,
+      "fecha": "2025-12-12",
+      "descripcion": "ROC 31531 CANCELACION ",
+      "monto": 1200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 1181,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3315,
+      "fecha": "2025-12-12",
+      "descripcion": "ROC 31532 ADELANTO",
+      "monto": 2000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 1228,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3316,
+      "fecha": "2025-12-12",
+      "descripcion": "ROC 31533 CANCELACION ",
+      "monto": 1300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 1109,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-11T17:08:46.048287",
+  "timestamp": "2025-12-12T11:01:18.465816",
   "machine_id": "26830028058983"
 }

@@ -1825,8 +1825,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2171,
+      "name": "CARLOS SOTELO",
+      "contact_1": "85822232",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2172,
+      "name": "LUIS DEYVIS",
+      "contact_1": "86708318",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2173,
+      "name": "CARLOS GUERRERO",
+      "contact_1": "82732108",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-12T13:15:50.455223",
+  "timestamp": "2025-12-12T17:14:22.623258",
   "machine_id": "26830028058983"
 }

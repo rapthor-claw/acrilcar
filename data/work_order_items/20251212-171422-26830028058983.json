@@ -1479,8 +1479,32 @@
       "services": "['ELABORACION DE 1 TABLERO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2264,
+      "work_order_id": 36508,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 1 BUZON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2265,
+      "work_order_id": 36509,
+      "colaborator_id": 9,
+      "services": "['CORTES DE ACM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2266,
+      "work_order_id": 1235,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO Y 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-12T13:15:50.406354",
+  "timestamp": "2025-12-12T17:14:22.560807",
   "machine_id": "26830028058983"
 }

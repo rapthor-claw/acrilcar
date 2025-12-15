@@ -2034,8 +2034,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2190,
+      "name": "GUSTAVO ZAPATA",
+      "contact_1": "83971565",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2191,
+      "name": "HERNALDO VILLANUEVA",
+      "contact_1": "88092909",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2192,
+      "name": "JERONIMO CASTILLO",
+      "contact_1": "88866499",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2193,
+      "name": "JULIAN BETANCOURT",
+      "contact_1": "83809774",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2194,
+      "name": "MIGUEL AMADOR",
+      "contact_1": "84749553",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-15T13:40:31.628441",
+  "timestamp": "2025-12-15T17:11:03.209906",
   "machine_id": "26830028058983"
 }

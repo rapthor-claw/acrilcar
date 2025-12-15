@@ -1543,8 +1543,72 @@
       "services": "['ELABORACION DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2272,
+      "work_order_id": 1238,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2273,
+      "work_order_id": 1239,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2274,
+      "work_order_id": 1240,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2275,
+      "work_order_id": 1241,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE BOMBA DE AGUA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2276,
+      "work_order_id": 1242,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2277,
+      "work_order_id": 1245,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO DE BOMPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2278,
+      "work_order_id": 1246,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE PANTALLA DE TACOMETRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2279,
+      "work_order_id": 36513,
+      "colaborator_id": 14,
+      "services": "['VENTA DE 1 LITRO DE SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-15T13:38:32.760461",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-12-15T13:40:13.424155",
+  "machine_id": "53642720127680"
 }

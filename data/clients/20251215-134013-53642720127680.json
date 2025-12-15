@@ -1902,8 +1902,140 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2178,
+      "name": " BAYARDO GONZALES",
+      "contact_1": "88647177",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2179,
+      "name": "DAVID MORALES",
+      "contact_1": "87865153",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2180,
+      "name": "JOSE IRAN CARRERA VELASQUEZ",
+      "contact_1": "83951035",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2181,
+      "name": "ROSA SAMORA",
+      "contact_1": "81557675",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2182,
+      "name": "LUIS SIFUENTES",
+      "contact_1": "58423598",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2183,
+      "name": "TRANSPORTE HERMANOS CALERO",
+      "contact_1": "83951403",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2184,
+      "name": "LEANDRA RUIZ",
+      "contact_1": "81542701",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2185,
+      "name": "TRANSPORTE HERMANOS CALERO",
+      "contact_1": "83951403",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2186,
+      "name": "LEANDRA RUIZ",
+      "contact_1": "81542701",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2187,
+      "name": "KARLA RODRIGUEZ",
+      "contact_1": "86731759",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2188,
+      "name": "TRANSPORTE MARTINEZ",
+      "contact_1": "83775346",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2189,
+      "name": "GRABADOS",
+      "contact_1": "85347236",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-15T13:38:32.822968",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-12-15T13:40:13.479034",
+  "machine_id": "53642720127680"
 }

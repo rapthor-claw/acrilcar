@@ -6135,8 +6135,168 @@
       "activity": "Ingreso de caja para la orden: 1214 - monto: 2800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 8311,
+      "datetime": "2025-12-15 18:00:33",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LUIS SIFUENTES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8312,
+      "datetime": "2025-12-15 18:00:59",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: TRANSPORTE HERMANOS CALERO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8313,
+      "datetime": "2025-12-15 18:01:32",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LEANDRA RUIZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8314,
+      "datetime": "2025-12-15 18:05:02",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1238",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8315,
+      "datetime": "2025-12-15 18:11:59",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1239",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8316,
+      "datetime": "2025-12-15 18:14:03",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1240",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8317,
+      "datetime": "2025-12-15 18:15:29",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1241",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8318,
+      "datetime": "2025-12-15 18:16:35",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1242",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8319,
+      "datetime": "2025-12-15 18:31:34",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: TRANSPORTE HERMANOS CALERO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8320,
+      "datetime": "2025-12-15 18:32:52",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8321,
+      "datetime": "2025-12-15 18:33:37",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8322,
+      "datetime": "2025-12-15 18:34:34",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LEANDRA RUIZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8323,
+      "datetime": "2025-12-15 18:35:44",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: KARLA RODRIGUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8324,
+      "datetime": "2025-12-15 18:36:28",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: TRANSPORTE MARTINEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8325,
+      "datetime": "2025-12-15 18:51:53",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1245",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8326,
+      "datetime": "2025-12-15 19:00:36",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1246",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8327,
+      "datetime": "2025-12-15 19:01:41",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8328,
+      "datetime": "2025-12-15 19:08:26",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8329,
+      "datetime": "2025-12-15 19:09:55",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: GRABADOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8330,
+      "datetime": "2025-12-15 19:10:56",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36513",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-15T13:38:32.838591",
-  "machine_id": "26830028058983"
+  "timestamp": "2025-12-15T13:40:13.493031",
+  "machine_id": "53642720127680"
 }

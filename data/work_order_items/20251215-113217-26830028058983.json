@@ -1503,8 +1503,48 @@
       "services": "['ELABORACION DE 1 FOCO Y 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2267,
+      "work_order_id": 36510,
+      "colaborator_id": 14,
+      "services": "['INSTALACION DE LED A HONDA CRV']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2268,
+      "work_order_id": 36511,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS Y 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2269,
+      "work_order_id": 36512,
+      "colaborator_id": 9,
+      "services": "['CORTES DE LAMINAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2270,
+      "work_order_id": 1236,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS CE CUADRACICLO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2271,
+      "work_order_id": 1237,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-15T11:31:12.496214",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-12-15T11:32:17.216218",
+  "machine_id": "26830028058983"
 }

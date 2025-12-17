@@ -1647,8 +1647,176 @@
       "services": "['ELABORACION DE 2 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2285,
+      "work_order_id": 1252,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2286,
+      "work_order_id": 1253,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2287,
+      "work_order_id": 1255,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2288,
+      "work_order_id": 1256,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP Y 1 TAPA DE LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2289,
+      "work_order_id": 1258,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 REFLECTORES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2290,
+      "work_order_id": 1259,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP Y REPARACION DE 1 REFLECTOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2291,
+      "work_order_id": 36514,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2292,
+      "work_order_id": 36515,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2293,
+      "work_order_id": 36516,
+      "colaborator_id": 9,
+      "services": "['VENTA DE 1 PAR DE BISAGRAS ACRILICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2294,
+      "work_order_id": 36517,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2295,
+      "work_order_id": 1260,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS CON REPARACION DE BASE Y ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2296,
+      "work_order_id": 1262,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2297,
+      "work_order_id": 36518,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y SELLADO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2298,
+      "work_order_id": 36519,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS CON REPARACION DE PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2299,
+      "work_order_id": 1243,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2300,
+      "work_order_id": 1244,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL Y REPARACION DE PATAS AL OTRO MAS LIMPIEZA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2301,
+      "work_order_id": 1261,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 TACOMETRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2302,
+      "work_order_id": 1263,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2303,
+      "work_order_id": 1264,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2304,
+      "work_order_id": 1265,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS Y PULIDO DE 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2305,
+      "work_order_id": 1266,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE PARTE AFECTADA ROJO RAYADO REPARAR PATA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-16T15:16:12.629570",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-12-17T08:08:40.237021",
+  "machine_id": "26830028058983"
 }

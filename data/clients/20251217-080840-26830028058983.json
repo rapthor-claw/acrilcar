@@ -2089,8 +2089,195 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2195,
+      "name": "LEONCIO NARVAEZ",
+      "contact_1": "82240239",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2196,
+      "name": "EDDIE LACAYO",
+      "contact_1": "75308538",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2197,
+      "name": "EDMUNDO RIVAS",
+      "contact_1": "76565220",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2198,
+      "name": "JACKSON GUZMAN",
+      "contact_1": "76562405",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2199,
+      "name": "FRANCISCO SANCHEZ",
+      "contact_1": "82187927",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2200,
+      "name": "PEDRO ESPINOZA",
+      "contact_1": "76204142",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2201,
+      "name": "MARIO MORENO",
+      "contact_1": "86381617",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2202,
+      "name": "JUAN MARTINEZ",
+      "contact_1": "85184869",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2203,
+      "name": "DERLIN SANCHEZ",
+      "contact_1": "82780941",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2204,
+      "name": "FATIMA HERNANDEZ",
+      "contact_1": "87579080",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2205,
+      "name": "WILBER CALERO",
+      "contact_1": "81368450",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2206,
+      "name": "ERICK VELASQUEZ",
+      "contact_1": "85352362",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2207,
+      "name": "MARVIN GUTIERREZ",
+      "contact_1": "82409772",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2208,
+      "name": "DESHON Y CIA",
+      "contact_1": "85552465",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2209,
+      "name": "WILFREDO NAVARRO",
+      "contact_1": "85474777",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2210,
+      "name": "OSWALDO MURILLO",
+      "contact_1": "57060592",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2211,
+      "name": "IVETTE PILARTE",
+      "contact_1": "88822075",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-16T15:16:12.687964",
-  "machine_id": "53642720127680"
+  "timestamp": "2025-12-17T08:08:40.347102",
+  "machine_id": "26830028058983"
 }

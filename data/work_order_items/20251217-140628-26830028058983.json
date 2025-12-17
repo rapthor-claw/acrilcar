@@ -1815,8 +1815,112 @@
       "services": "['REPARACION DE PARTE AFECTADA ROJO RAYADO REPARAR PATA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2306,
+      "work_order_id": 36520,
+      "colaborator_id": 14,
+      "services": "['SELLADO DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2307,
+      "work_order_id": 36521,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2308,
+      "work_order_id": 3522,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 23 HABLADORES TAMAÑO CARTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2309,
+      "work_order_id": 36523,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 1 CAJA  ACRILICA 32 X 21']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2310,
+      "work_order_id": 1267,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2311,
+      "work_order_id": 1268,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE PATA Y BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2312,
+      "work_order_id": 1269,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2313,
+      "work_order_id": 1270,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2314,
+      "work_order_id": 1271,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO REVISAR REGULADOR Y REPARAR TRAVA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2315,
+      "work_order_id": 1272,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2316,
+      "work_order_id": 1274,
+      "colaborator_id": 12,
+      "services": "['ELABORACION PARTE AFECTADA DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2317,
+      "work_order_id": 1275,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2318,
+      "work_order_id": 1276,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-17T08:08:40.237021",
+  "timestamp": "2025-12-17T14:06:28.372647",
   "machine_id": "26830028058983"
 }

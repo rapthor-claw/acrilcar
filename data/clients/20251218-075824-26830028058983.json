@@ -2397,8 +2397,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2223,
+      "name": "MARTIN DIAZ",
+      "contact_1": "85776063",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2224,
+      "name": "GUSTAVO URIBE",
+      "contact_1": "89678034",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2225,
+      "name": "GAVIOTA",
+      "contact_1": "76119210",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2226,
+      "name": "MILTON MEJIA",
+      "contact_1": "88851264",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2227,
+      "name": "WILLIAM INCER",
+      "contact_1": "87747921",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-17T14:06:28.432487",
+  "timestamp": "2025-12-18T07:58:24.720460",
   "machine_id": "26830028058983"
 }

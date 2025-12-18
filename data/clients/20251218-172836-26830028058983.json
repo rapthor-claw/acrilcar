@@ -2452,8 +2452,162 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2228,
+      "name": "EMERSON SANCHEZ",
+      "contact_1": "87867285",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2229,
+      "name": "JOSE PEREIRA",
+      "contact_1": "88961031",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2230,
+      "name": "DANIEL RIVAS",
+      "contact_1": "77067944",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2231,
+      "name": "MIGUEL AMADOR",
+      "contact_1": "84749553",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2232,
+      "name": "GREISELL AMADOR",
+      "contact_1": "76902831",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2233,
+      "name": "CARLOS GARCIA",
+      "contact_1": "75384119",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2234,
+      "name": "ANGELO SALGADO",
+      "contact_1": "87812888",
+      "contact_2": "82200785",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2235,
+      "name": "BILL SAENZ",
+      "contact_1": "78097847",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2236,
+      "name": "ROBERTO BARBERENA",
+      "contact_1": "89889768",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2237,
+      "name": "KAREN AGUILAR",
+      "contact_1": "78725120",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2238,
+      "name": "SILVIO MOLINA",
+      "contact_1": "88646578",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2239,
+      "name": "ENRIQUE SUNIGA",
+      "contact_1": "82382006",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2240,
+      "name": "RAUL VADO",
+      "contact_1": "88069555",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2241,
+      "name": "SUCRE FRECH",
+      "contact_1": "88793839",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-18T07:58:24.720460",
+  "timestamp": "2025-12-18T17:28:36.767452",
   "machine_id": "26830028058983"
 }

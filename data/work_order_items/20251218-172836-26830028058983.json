@@ -1959,8 +1959,144 @@
       "services": "['ELABORACION DE 2 FOCOS MAS ENVIO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2324,
+      "work_order_id": 36525,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2325,
+      "work_order_id": 36524,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2326,
+      "work_order_id": 36526,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2327,
+      "work_order_id": 1282,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2328,
+      "work_order_id": 1283,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 FOCOS CON INSTALACON DE LED']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2329,
+      "work_order_id": 1284,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2330,
+      "work_order_id": 1285,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE, PINTURA EN NEGRO Y ELABORACION DE OTRO FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2331,
+      "work_order_id": 36527,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2332,
+      "work_order_id": 1286,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2333,
+      "work_order_id": 36528,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2334,
+      "work_order_id": 1287,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2335,
+      "work_order_id": 1288,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS CON REPARACION DE ARO Y BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2336,
+      "work_order_id": 1289,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 LATERALES BLANCO RAYADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2337,
+      "work_order_id": 1254,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2338,
+      "work_order_id": 1290,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2339,
+      "work_order_id": 1291,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2340,
+      "work_order_id": 1292,
+      "colaborator_id": 14,
+      "services": "['ELABORAACION DE 1 STOP SOLO LA MICA, SIN REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-18T07:58:24.621333",
+  "timestamp": "2025-12-18T17:28:36.710603",
   "machine_id": "26830028058983"
 }

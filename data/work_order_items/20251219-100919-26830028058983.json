@@ -2095,8 +2095,136 @@
       "services": "['ELABORAACION DE 1 STOP SOLO LA MICA, SIN REPARACION DE ARO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2341,
+      "work_order_id": 36529,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 HALOGENO CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2342,
+      "work_order_id": 36530,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2343,
+      "work_order_id": 36531,
+      "colaborator_id": 9,
+      "services": "['AÑADIR 2 VISAGRAS A UN ORGANIZADOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2344,
+      "work_order_id": 36532,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2345,
+      "work_order_id": 36533,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2346,
+      "work_order_id": 1293,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2347,
+      "work_order_id": 1294,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO MICA DE ENFRENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2348,
+      "work_order_id": 1295,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2349,
+      "work_order_id": 1296,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2350,
+      "work_order_id": 1297,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2351,
+      "work_order_id": 1298,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2352,
+      "work_order_id": 1299,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2353,
+      "work_order_id": 1300,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO TOTAL, REVISAR CROMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2354,
+      "work_order_id": 1301,
+      "colaborator_id": 5,
+      "services": "['SECADO DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2355,
+      "work_order_id": 1302,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2356,
+      "work_order_id": 2257,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-20T08:57:25.116759",
+  "timestamp": "2025-12-19T10:09:19.949889",
   "machine_id": "26830028058983"
 }

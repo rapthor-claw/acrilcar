@@ -2575,8 +2575,24 @@
       "services": "['ELABORACION DE 1 REFLECTOR Y REPARACION DE BASE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2401,
+      "work_order_id": 1333,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2402,
+      "work_order_id": 36547,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE PORTA POSTER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-23T17:26:07.295915",
+  "timestamp": "2025-12-24T12:31:42.557033",
   "machine_id": "26830028058983"
 }

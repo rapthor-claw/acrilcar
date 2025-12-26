@@ -2591,8 +2591,192 @@
       "services": "['ELABORACION DE PORTA POSTER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2403,
+      "work_order_id": 36548,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS Y ADAPTACION DE BASE PARA BUJIA H4']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2404,
+      "work_order_id": 1334,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL CPM REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2405,
+      "work_order_id": 1335,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2406,
+      "work_order_id": 1336,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS REVIVIR CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2407,
+      "work_order_id": 1337,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 PIDE VIA CON REPARACION DE PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2408,
+      "work_order_id": 1338,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE 1 STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2409,
+      "work_order_id": 1339,
+      "colaborator_id": 4,
+      "services": "['ELABORACION  DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2410,
+      "work_order_id": 1340,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2411,
+      "work_order_id": 1341,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE BASE CON MICA BLANCO DIAMANTADO DE 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2412,
+      "work_order_id": 1342,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2413,
+      "work_order_id": 1343,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO DE MOTO, CROMO, REPARACION DE CARCASA, Y ROMPEVIENTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2414,
+      "work_order_id": 1344,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 TERCERA LUZ CON REPARACION EN LINEA SACAR CABLES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2415,
+      "work_order_id": 1345,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2416,
+      "work_order_id": 1346,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 PIDEVIAS CON REPARACION DE ARO Y BASE, PINTURA EN ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2417,
+      "work_order_id": 1347,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE PARTE AFECTADA DE CARCASA DE ENFRENTE DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2418,
+      "work_order_id": 36549,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2419,
+      "work_order_id": 36550,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2420,
+      "work_order_id": 36551,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 3 HABLADORES TAMAÑO CARTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2421,
+      "work_order_id": 1348,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 FOCOS Y 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2422,
+      "work_order_id": 1349,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS CON REPARACION DE BASE Y ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2423,
+      "work_order_id": 36552,
+      "colaborator_id": 14,
+      "services": "['DESTAPADO Y PULIDO 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2424,
+      "work_order_id": 36553,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2425,
+      "work_order_id": 36554,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-26T08:23:54.728149",
+  "timestamp": "2025-12-26T17:19:14.826237",
   "machine_id": "26830028058983"
 }

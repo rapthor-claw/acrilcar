@@ -10223,8 +10223,568 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 8822,
+      "datetime": "2025-12-26 15:35:58",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: EVENOR SOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8823,
+      "datetime": "2025-12-26 15:37:31",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36548",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8824,
+      "datetime": "2025-12-26 15:38:33",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: GABRIELA MARTINEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8825,
+      "datetime": "2025-12-26 15:39:06",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JANIEL BONILLA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8826,
+      "datetime": "2025-12-26 15:39:37",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: WALTER MORALES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8827,
+      "datetime": "2025-12-26 15:40:58",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1334",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8828,
+      "datetime": "2025-12-26 15:41:59",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1335",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8829,
+      "datetime": "2025-12-26 15:43:19",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1336",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8830,
+      "datetime": "2025-12-26 15:47:05",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36548 - monto: 2600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8831,
+      "datetime": "2025-12-26 15:47:29",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1294 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8832,
+      "datetime": "2025-12-26 15:48:34",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 30",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8833,
+      "datetime": "2025-12-26 19:13:08",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: RICARDO MEDAL",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8834,
+      "datetime": "2025-12-26 19:13:26",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARIO REYES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8835,
+      "datetime": "2025-12-26 19:13:58",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: CARLOS LOPEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8836,
+      "datetime": "2025-12-26 19:14:36",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ICOM S.A.",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8837,
+      "datetime": "2025-12-26 19:14:52",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DAVID ARSEN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8838,
+      "datetime": "2025-12-26 19:15:13",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARCIO ORTEGA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8839,
+      "datetime": "2025-12-26 19:23:39",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1337",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8840,
+      "datetime": "2025-12-26 19:24:43",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1338",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8841,
+      "datetime": "2025-12-26 19:25:46",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1339",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8842,
+      "datetime": "2025-12-26 19:30:41",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1340",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8843,
+      "datetime": "2025-12-26 19:32:01",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1341",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8844,
+      "datetime": "2025-12-26 19:36:07",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1342",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8845,
+      "datetime": "2025-12-26 19:37:00",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: WILSON SOTELO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8846,
+      "datetime": "2025-12-26 19:38:28",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1343",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8847,
+      "datetime": "2025-12-26 19:40:28",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JADER SOLORZANO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8848,
+      "datetime": "2025-12-26 19:41:36",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1344",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8849,
+      "datetime": "2025-12-26 19:44:53",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1341 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8850,
+      "datetime": "2025-12-26 19:45:30",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1288 - monto: 5800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8851,
+      "datetime": "2025-12-26 19:46:10",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 5800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8852,
+      "datetime": "2025-12-26 19:46:42",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1343 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8853,
+      "datetime": "2025-12-26 19:47:47",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8854,
+      "datetime": "2025-12-26 19:48:18",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8855,
+      "datetime": "2025-12-26 19:49:08",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8856,
+      "datetime": "2025-12-26 19:56:10",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MANUEL RIVAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8857,
+      "datetime": "2025-12-26 19:57:22",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1345",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8858,
+      "datetime": "2025-12-26 20:17:45",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: KENNETH ARRIAZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8859,
+      "datetime": "2025-12-26 20:18:18",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JARED ARIAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8860,
+      "datetime": "2025-12-26 20:19:29",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1346",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8861,
+      "datetime": "2025-12-26 20:21:19",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1347",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8862,
+      "datetime": "2025-12-26 20:25:13",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JULIO REYES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8863,
+      "datetime": "2025-12-26 20:26:06",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36549",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8864,
+      "datetime": "2025-12-26 20:26:35",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36549 - monto: 250",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8865,
+      "datetime": "2025-12-26 20:41:05",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 230",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8866,
+      "datetime": "2025-12-26 20:44:29",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 20",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8867,
+      "datetime": "2025-12-26 21:05:28",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1336 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8868,
+      "datetime": "2025-12-26 21:43:23",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1332 - monto: 2600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8869,
+      "datetime": "2025-12-26 21:54:19",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MANUEL RIVAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8870,
+      "datetime": "2025-12-26 21:54:46",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: HOTEL LOS CISNEROS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8871,
+      "datetime": "2025-12-26 21:55:44",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36550",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8872,
+      "datetime": "2025-12-26 21:56:45",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36551",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8873,
+      "datetime": "2025-12-26 21:58:01",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: OMAR BONILLA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8874,
+      "datetime": "2025-12-26 21:58:21",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSE NICOYA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8875,
+      "datetime": "2025-12-26 21:59:18",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1348",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8876,
+      "datetime": "2025-12-26 22:00:27",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1349",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8877,
+      "datetime": "2025-12-26 22:02:41",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36551 - monto: 840",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8878,
+      "datetime": "2025-12-26 22:30:24",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1306 - monto: 6300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8879,
+      "datetime": "2025-12-26 22:42:58",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MOISES OROZCO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8880,
+      "datetime": "2025-12-26 22:44:02",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36552",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8881,
+      "datetime": "2025-12-26 23:00:41",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36553",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8882,
+      "datetime": "2025-12-26 23:00:58",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JENNIFER MACHADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8883,
+      "datetime": "2025-12-26 23:01:31",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36554",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8884,
+      "datetime": "2025-12-26 23:03:59",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1344 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8885,
+      "datetime": "2025-12-26 23:04:27",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8886,
+      "datetime": "2025-12-26 23:04:54",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36553 - monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8887,
+      "datetime": "2025-12-26 23:05:28",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1335 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8888,
+      "datetime": "2025-12-26 23:05:54",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8889,
+      "datetime": "2025-12-26 23:06:29",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36554 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8890,
+      "datetime": "2025-12-26 23:07:05",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 8891,
+      "datetime": "2025-12-26 23:16:25",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1323 - monto: 650",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-26T08:23:54.868756",
+  "timestamp": "2025-12-26T17:19:14.919965",
   "machine_id": "26830028058983"
 }

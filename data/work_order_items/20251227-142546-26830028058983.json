@@ -2775,8 +2775,88 @@
       "services": "['PULIDO DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2426,
+      "work_order_id": 1350,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 2 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2427,
+      "work_order_id": 1351,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2428,
+      "work_order_id": 36555,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 HALOGENO CON MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2429,
+      "work_order_id": 36556,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 MICAS DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2430,
+      "work_order_id": 36557,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO Y 1 HALOGENO ,CAMBIO DE MICA Y BUSCAR PANA DEL HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2431,
+      "work_order_id": 36558,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2432,
+      "work_order_id": 1352,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2433,
+      "work_order_id": 36559,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 4 CIGARRERAS Y 1 ROTULO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2434,
+      "work_order_id": 1353,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2435,
+      "work_order_id": 1354,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-26T17:19:14.826237",
+  "timestamp": "2025-12-27T14:25:46.258739",
   "machine_id": "26830028058983"
 }

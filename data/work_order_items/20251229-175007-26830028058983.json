@@ -2879,8 +2879,128 @@
       "services": "['PULIDO 2 HALOGENOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2439,
+      "work_order_id": 36561,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE PIEZA ACRILICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2440,
+      "work_order_id": 36562,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2441,
+      "work_order_id": 1356,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2442,
+      "work_order_id": 36564,
+      "colaborator_id": 14,
+      "services": "['PULIDO 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2443,
+      "work_order_id": 36565,
+      "colaborator_id": 14,
+      "services": "['PULIDO Y MANTENIMIENTO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2444,
+      "work_order_id": 1357,
+      "colaborator_id": 2,
+      "services": "['ELAB 1 LATERAL DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2445,
+      "work_order_id": 1358,
+      "colaborator_id": 12,
+      "services": "['ELABORACION 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2446,
+      "work_order_id": 36566,
+      "colaborator_id": 9,
+      "services": "['ELAB DE 50 PIEZAS DE ACRILICO DE BARBERIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2447,
+      "work_order_id": 36567,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2448,
+      "work_order_id": 1359,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2449,
+      "work_order_id": 1360,
+      "colaborator_id": 14,
+      "services": "['ELAB 1 STOP Y PULIDO DEL OTRO MAS INSTALACION LED(ROJA)']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2450,
+      "work_order_id": 36568,
+      "colaborator_id": 9,
+      "services": "['ELAB 2 PIEZAS DE 3 PISOS Y 1 DE 2 PISOS Y REPARACION DE 1 PIEZA DE 3 PISOS Y 2 CUBOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2451,
+      "work_order_id": 1361,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 STOP AUHMADO MAS REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2452,
+      "work_order_id": 36569,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 1 PIEZA  ACRILICA DE RELOJ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2453,
+      "work_order_id": 36570,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS Y 2 HALOGENOS CON REPARACION DE BASE DE UN HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-29T02:38:40.397151",
+  "timestamp": "2025-12-29T17:50:07.223902",
   "machine_id": "26830028058983"
 }

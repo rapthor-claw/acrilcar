@@ -8813,8 +8813,60 @@
       "order_id": 36559,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3695,
+      "fecha": "2025-12-29",
+      "descripcion": "ROC 31755 CANCELADO TF/FICOSA",
+      "monto": 9100.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 19,
+      "user_id": "Yamileth",
+      "order_id": 36507,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3696,
+      "fecha": "2025-12-29",
+      "descripcion": "ROC 31755 TF/FICOHSA",
+      "monto": 9100.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 40,
+      "user_id": "Yamileth",
+      "order_id": 36507,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3697,
+      "fecha": "2025-12-29",
+      "descripcion": "ROC 31756 CANCELADO TF/FICOHSA ",
+      "monto": 800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 19,
+      "user_id": "Yamileth",
+      "order_id": 36545,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3698,
+      "fecha": "2025-12-29",
+      "descripcion": "ROC 31756 TF/ FICOHSA",
+      "monto": 800.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 40,
+      "user_id": "Yamileth",
+      "order_id": 36545,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-27T14:25:46.328483",
+  "timestamp": "2025-12-29T02:38:40.475227",
   "machine_id": "26830028058983"
 }

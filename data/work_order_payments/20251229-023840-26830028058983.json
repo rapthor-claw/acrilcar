@@ -4333,8 +4333,30 @@
       "note": "ROC 31754 CANCELACION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2306,
+      "work_order_id": 36507,
+      "payment_date": "2025-12-29",
+      "payment_method": "transferencia",
+      "payment": "Yamileth",
+      "user_log_registration": 9100,
+      "note": "ROC 31755 CANCELADO TF/FICOSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2307,
+      "work_order_id": 36545,
+      "payment_date": "2025-12-29",
+      "payment_method": "transferencia",
+      "payment": "Yamileth",
+      "user_log_registration": 800,
+      "note": "ROC 31756 CANCELADO TF/FICOHSA ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-27T14:25:46.276691",
+  "timestamp": "2025-12-29T02:38:40.428371",
   "machine_id": "26830028058983"
 }

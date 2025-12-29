@@ -3563,8 +3563,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2329,
+      "name": "MARLON MOJICA",
+      "contact_1": "86952059",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2330,
+      "name": "ERICKSON PAZ",
+      "contact_1": "86231038",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-27T14:25:46.358404",
+  "timestamp": "2025-12-29T02:38:40.522121",
   "machine_id": "26830028058983"
 }

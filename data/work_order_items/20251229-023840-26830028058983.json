@@ -2855,8 +2855,32 @@
       "services": "['ELABORACION DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2436,
+      "work_order_id": 1355,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2437,
+      "work_order_id": 36507,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS E INSTALACION LED']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2438,
+      "work_order_id": 36545,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-27T14:25:46.258739",
+  "timestamp": "2025-12-29T02:38:40.397151",
   "machine_id": "26830028058983"
 }

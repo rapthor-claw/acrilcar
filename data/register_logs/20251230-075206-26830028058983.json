@@ -11655,8 +11655,24 @@
       "activity": "Ingreso de caja para la orden: 36562 - monto: 1400",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 9001,
+      "datetime": "2025-12-29 23:51:05",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9002,
+      "datetime": "2025-12-30 13:51:48",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-29T17:50:07.316683",
+  "timestamp": "2025-12-30T07:52:06.209401",
   "machine_id": "26830028058983"
 }

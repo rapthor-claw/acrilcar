@@ -2999,8 +2999,120 @@
       "services": "['PULIDO 2 FOCOS Y 2 HALOGENOS CON REPARACION DE BASE DE UN HALOGENO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2454,
+      "work_order_id": 36571,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2455,
+      "work_order_id": 1362,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 1 STOP DE BAUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2456,
+      "work_order_id": 36563,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2457,
+      "work_order_id": 36573,
+      "colaborator_id": 9,
+      "services": "['CORTES Y DOBLEZ Y CORTE DE LAMINAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2458,
+      "work_order_id": 36574,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2459,
+      "work_order_id": 1363,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2460,
+      "work_order_id": 1364,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2461,
+      "work_order_id": 1365,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2462,
+      "work_order_id": 1366,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2463,
+      "work_order_id": 1367,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE ARO Y BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2464,
+      "work_order_id": 1368,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2465,
+      "work_order_id": 1369,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2466,
+      "work_order_id": 1370,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2467,
+      "work_order_id": 1372,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE PARTE AFECTADA BLANCO RAYADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-30T07:52:06.005332",
+  "timestamp": "2026-01-03T10:10:30.014081",
   "machine_id": "26830028058983"
 }

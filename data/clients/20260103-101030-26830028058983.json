@@ -3739,8 +3739,151 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2345,
+      "name": "MARIO ALEMAN ",
+      "contact_1": "78377500",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2346,
+      "name": "JOSE VELEZ",
+      "contact_1": "5741 1102",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2347,
+      "name": "MULTISERVICIOS G Y M ",
+      "contact_1": "88087773",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2348,
+      "name": "ESCARLET MARTINEZ",
+      "contact_1": "57142642",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2349,
+      "name": "RODRIGO CASTILLO",
+      "contact_1": "85780110",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2350,
+      "name": "ANGEL MENDOZA",
+      "contact_1": "85882572",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2351,
+      "name": "AQUILINO JARQUIN ",
+      "contact_1": "77762126",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2352,
+      "name": "NAP INGENIERO S.A.",
+      "contact_1": "57676206",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2353,
+      "name": "TRANSPORTE SIRA S.A.",
+      "contact_1": "78302935",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2354,
+      "name": "ANDERSON TORREZ",
+      "contact_1": "84516377",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2355,
+      "name": "JEFFRY GUTIERREZ",
+      "contact_1": "57151033",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2356,
+      "name": "JOSE LUIS FITORIA",
+      "contact_1": "88238650",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2357,
+      "name": "SIXTO ARROLIGA",
+      "contact_1": "83989813",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2025-12-30T07:52:06.145924",
+  "timestamp": "2026-01-03T10:10:30.154669",
   "machine_id": "26830028058983"
 }

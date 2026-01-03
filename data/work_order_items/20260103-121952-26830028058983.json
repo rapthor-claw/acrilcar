@@ -3111,8 +3111,152 @@
       "services": "['REPARACION DE PARTE AFECTADA BLANCO RAYADO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2468,
+      "work_order_id": 1373,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE PARTE AFECTADA DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2469,
+      "work_order_id": 1374,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2470,
+      "work_order_id": 1375,
+      "colaborator_id": 14,
+      "services": "['ELABORACION 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2471,
+      "work_order_id": 1376,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 2 STOP TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2472,
+      "work_order_id": 1377,
+      "colaborator_id": 12,
+      "services": "['ELABORACION 2 STOP TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2473,
+      "work_order_id": 1378,
+      "colaborator_id": 4,
+      "services": "['ELABORACION 2 STOP AHUMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2474,
+      "work_order_id": 1379,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE BASE Y PULIDO DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2475,
+      "work_order_id": 1380,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2476,
+      "work_order_id": 1381,
+      "colaborator_id": 12,
+      "services": "['ELABORACION 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2477,
+      "work_order_id": 1382,
+      "colaborator_id": 4,
+      "services": "['ELABORACION 2 FOCOS Y REPARACION DE PATAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2478,
+      "work_order_id": 1383,
+      "colaborator_id": 14,
+      "services": "['ELAB DE BASE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2479,
+      "work_order_id": "FERNANDO RIOS ",
+      "colaborator_id": 5,
+      "services": "['ELABORACION 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2480,
+      "work_order_id": 1384,
+      "colaborator_id": 5,
+      "services": "['ELABORACION 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2481,
+      "work_order_id": 1385,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2482,
+      "work_order_id": 1386,
+      "colaborator_id": 12,
+      "services": "['ELAB 1 STOP Y 3 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2483,
+      "work_order_id": 1387,
+      "colaborator_id": 4,
+      "services": "['PULIDO 1 FOCO Y ELABORACION DE 2 STOPS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2484,
+      "work_order_id": 1388,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2485,
+      "work_order_id": 1389,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-03T10:10:30.014081",
+  "timestamp": "2026-01-03T12:19:52.250766",
   "machine_id": "26830028058983"
 }

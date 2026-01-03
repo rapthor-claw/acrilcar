@@ -3255,8 +3255,104 @@
       "services": "['ANULADO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2486,
+      "work_order_id": 1390,
+      "colaborator_id": 14,
+      "services": "['ELABORACION 1 STOP DE BOMPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2487,
+      "work_order_id": 1391,
+      "colaborator_id": 5,
+      "services": "['ELABORACION 2 STOP AHUMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2488,
+      "work_order_id": 1392,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2489,
+      "work_order_id": 1393,
+      "colaborator_id": 12,
+      "services": "['ELABORACION 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2490,
+      "work_order_id": 1394,
+      "colaborator_id": 4,
+      "services": "['ELABORACION 1 FOCO CON REP BASE Y ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2491,
+      "work_order_id": 1395,
+      "colaborator_id": 14,
+      "services": "['ELAB 2 STOP AHUMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2492,
+      "work_order_id": 1396,
+      "colaborator_id": 5,
+      "services": "['ELABORACION 1 FOCO DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2493,
+      "work_order_id": 1397,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2494,
+      "work_order_id": 36575,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2495,
+      "work_order_id": 36576,
+      "colaborator_id": 14,
+      "services": "['PULIDO 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2496,
+      "work_order_id": 36577,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2497,
+      "work_order_id": 36578,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 2 ROTULOS CIRCULARES']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-03T12:19:52.250766",
+  "timestamp": "2026-01-03T13:37:05.653195",
   "machine_id": "26830028058983"
 }

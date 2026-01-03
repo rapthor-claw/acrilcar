@@ -4047,8 +4047,140 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2373,
+      "name": "CARLOS ESTRADA",
+      "contact_1": "83621412",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2374,
+      "name": "JUAN CARLOS VARELA ",
+      "contact_1": "83711786",
+      "contact_2": "75514027",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2375,
+      "name": "MARVIN POMARES ",
+      "contact_1": "78698184",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2376,
+      "name": "BEENY HERRERA ",
+      "contact_1": "81975794",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2377,
+      "name": "FLAVIO GONZALES ",
+      "contact_1": "77318975",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2378,
+      "name": "RODOLFO MORA",
+      "contact_1": "58018532",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2379,
+      "name": "FRANCHESCO CASTELLON",
+      "contact_1": "75294762",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2380,
+      "name": "TALLER VALLECILLO",
+      "contact_1": "88879403",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2381,
+      "name": "MARIA SILES",
+      "contact_1": "87337700",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2382,
+      "name": "JORGE CARRANZA ",
+      "contact_1": "75503588",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2383,
+      "name": "SERGIO HERNANDEZ",
+      "contact_1": "58389882",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2384,
+      "name": "HENRY SALAZAR ",
+      "contact_1": "89632219",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-03T12:19:52.328846",
+  "timestamp": "2026-01-03T13:37:05.731281",
   "machine_id": "26830028058983"
 }

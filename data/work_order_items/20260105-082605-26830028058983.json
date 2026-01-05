@@ -3351,8 +3351,16 @@
       "services": "['ELABORACION DE 2 ROTULOS CIRCULARES']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2498,
+      "work_order_id": 1398,
+      "colaborator_id": 12,
+      "services": "['REPARACION DE PARTE AFECTADA DE 1 STOP ROJO LISO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-05T07:45:16.233364",
+  "timestamp": "2026-01-05T08:26:05.122392",
   "machine_id": "26830028058983"
 }

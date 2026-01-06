@@ -3359,8 +3359,176 @@
       "services": "['REPARACION DE PARTE AFECTADA DE 1 STOP ROJO LISO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2499,
+      "work_order_id": 1399,
+      "colaborator_id": 4,
+      "services": "['ELABORACION 1 STOP TOTAL CON REP EN BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2500,
+      "work_order_id": 1400,
+      "colaborator_id": 14,
+      "services": "['ELABORACION TOTAL 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2501,
+      "work_order_id": 1401,
+      "colaborator_id": 5,
+      "services": "['ELABORACION 2 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2502,
+      "work_order_id": 1402,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2503,
+      "work_order_id": 1403,
+      "colaborator_id": 12,
+      "services": "['ELABORACION  1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2504,
+      "work_order_id": 1404,
+      "colaborator_id": 4,
+      "services": "['ELABORACION 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2505,
+      "work_order_id": 1405,
+      "colaborator_id": 14,
+      "services": "['ELAB 1 STOP TRASERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2506,
+      "work_order_id": 1406,
+      "colaborator_id": 5,
+      "services": "['ELABORACION 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2507,
+      "work_order_id": 1407,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2508,
+      "work_order_id": 1408,
+      "colaborator_id": 12,
+      "services": "['ELABORACION 1 FOCO Y REPARACION DE PATA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2509,
+      "work_order_id": 1409,
+      "colaborator_id": 4,
+      "services": "['ELABORACION 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2510,
+      "work_order_id": 1410,
+      "colaborator_id": 14,
+      "services": "['ELABORACION 1 FOCO DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2511,
+      "work_order_id": 1411,
+      "colaborator_id": 5,
+      "services": "['ELABORACION 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2512,
+      "work_order_id": 1412,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 1 PARRILLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2513,
+      "work_order_id": 1413,
+      "colaborator_id": 12,
+      "services": "['ELABORACION 1 STOP DE CAJUELA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2514,
+      "work_order_id": "MULTI AUTOS S.A.",
+      "colaborator_id": 4,
+      "services": "['ELABORACION 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2515,
+      "work_order_id": 1414,
+      "colaborator_id": 4,
+      "services": "['ELABORACION 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2516,
+      "work_order_id": 1415,
+      "colaborator_id": 14,
+      "services": "['ELABORACION 1 FOCO CON REPARACION DE BASE Y ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2517,
+      "work_order_id": 1416,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE BASE Y MICA DE PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2518,
+      "work_order_id": 1417,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE PARTE AFECTADA DE 2 STOPS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2519,
+      "work_order_id": 1418,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-05T08:26:05.122392",
+  "timestamp": "2026-01-06T09:49:07.911486",
   "machine_id": "26830028058983"
 }

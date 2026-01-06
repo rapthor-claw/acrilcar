@@ -12895,8 +12895,352 @@
       "activity": "Creo la orden de trabajo: 1398",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 9156,
+      "datetime": "2026-01-05 23:55:11",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9157,
+      "datetime": "2026-01-06 14:16:54",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9158,
+      "datetime": "2026-01-06 14:52:08",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DANIEL BUSEN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9159,
+      "datetime": "2026-01-06 14:53:00",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: BYRON GOMEZ ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9160,
+      "datetime": "2026-01-06 14:53:37",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: SERVICIOS AUTOMOTRIZ MIL COLORES ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9161,
+      "datetime": "2026-01-06 14:53:59",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALVARO LACAYO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9162,
+      "datetime": "2026-01-06 14:55:20",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JORGE LUIS ROMERO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9163,
+      "datetime": "2026-01-06 14:55:46",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: SALOMON ANTONIO TORREZ ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9164,
+      "datetime": "2026-01-06 14:56:18",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: RENE AMPIE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9165,
+      "datetime": "2026-01-06 14:57:22",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MULTI CONSULT GRUP S.A.",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9166,
+      "datetime": "2026-01-06 14:57:48",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ELMER SEQUERIA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9167,
+      "datetime": "2026-01-06 14:58:26",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSE DIXON ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9168,
+      "datetime": "2026-01-06 14:58:55",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: SANTO PEREZ ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9169,
+      "datetime": "2026-01-06 15:03:09",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSSELING CASTILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9170,
+      "datetime": "2026-01-06 15:03:36",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOEL HERNANDEZ ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9171,
+      "datetime": "2026-01-06 15:06:59",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DANILO ABURTO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9172,
+      "datetime": "2026-01-06 15:07:20",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: AURELIO MONTENEGRO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9173,
+      "datetime": "2026-01-06 15:07:45",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MULTI AUTOS S.A.",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9174,
+      "datetime": "2026-01-06 15:08:36",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ORACIO TURSIO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9175,
+      "datetime": "2026-01-06 15:09:05",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: REYNALDO DUARTE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9176,
+      "datetime": "2026-01-06 15:09:30",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JORGE LUIS CRUZ ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9177,
+      "datetime": "2026-01-06 15:09:53",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: CRISTOFER HERNANDEZ ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9178,
+      "datetime": "2026-01-06 15:14:48",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1399",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9179,
+      "datetime": "2026-01-06 15:19:54",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9180,
+      "datetime": "2026-01-06 15:21:40",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1401",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9181,
+      "datetime": "2026-01-06 15:22:53",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1402",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9182,
+      "datetime": "2026-01-06 15:24:07",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1403",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9183,
+      "datetime": "2026-01-06 15:25:20",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1404",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9184,
+      "datetime": "2026-01-06 15:26:48",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1405",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9185,
+      "datetime": "2026-01-06 15:27:41",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1406",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9186,
+      "datetime": "2026-01-06 15:28:35",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1407",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9187,
+      "datetime": "2026-01-06 15:29:39",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1408",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9188,
+      "datetime": "2026-01-06 15:34:03",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1409",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9189,
+      "datetime": "2026-01-06 15:35:19",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1410",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9190,
+      "datetime": "2026-01-06 15:36:15",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1411",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9191,
+      "datetime": "2026-01-06 15:39:48",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1412",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9192,
+      "datetime": "2026-01-06 15:40:57",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1413",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9193,
+      "datetime": "2026-01-06 15:42:18",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: MULTI AUTOS S.A.",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9194,
+      "datetime": "2026-01-06 15:44:03",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1414",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9195,
+      "datetime": "2026-01-06 15:45:08",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1415",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9196,
+      "datetime": "2026-01-06 15:46:21",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1416",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9197,
+      "datetime": "2026-01-06 15:47:48",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1417",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9198,
+      "datetime": "2026-01-06 15:48:59",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1418",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-05T08:26:05.216117",
+  "timestamp": "2026-01-06T09:49:08.115161",
   "machine_id": "26830028058983"
 }

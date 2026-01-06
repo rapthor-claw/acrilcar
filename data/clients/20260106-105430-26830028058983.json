@@ -4410,8 +4410,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2406,
+      "name": "JUAN CARLOS LEZAMA ",
+      "contact_1": "89318935",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2407,
+      "name": "NAHUM ESCOTO ",
+      "contact_1": "83302527",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2408,
+      "name": "CARLOS GARCIA ",
+      "contact_1": "58483505",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2409,
+      "name": "MARIO BUSTAMANTE ",
+      "contact_1": "88152597",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-06T10:06:39.992746",
+  "timestamp": "2026-01-06T10:54:30.057203",
   "machine_id": "26830028058983"
 }

@@ -3527,8 +3527,40 @@
       "services": "['ELABORACION DE MICA DE RETROVISOR']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2520,
+      "work_order_id": 1419,
+      "colaborator_id": 4,
+      "services": "['ELAB 1 FOCO REP EN  BASE Y ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2521,
+      "work_order_id": 36579,
+      "colaborator_id": 9,
+      "services": "['ELAB 3 PIEZAS DE ACRILICO MARCO DE UNA PUERTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2522,
+      "work_order_id": 1420,
+      "colaborator_id": 4,
+      "services": "['CAMBIO DE MICA DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2523,
+      "work_order_id": 1421,
+      "colaborator_id": 14,
+      "services": "['ELAB 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-06T10:06:39.914589",
+  "timestamp": "2026-01-06T10:54:29.979092",
   "machine_id": "26830028058983"
 }

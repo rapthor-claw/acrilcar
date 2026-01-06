@@ -4454,8 +4454,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2410,
+      "name": "JAZMINA TORUÑO ",
+      "contact_1": "87403227",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2411,
+      "name": "RONALDO URBINA ",
+      "contact_1": "86175464",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2412,
+      "name": "ENRIQUE SALINA ",
+      "contact_1": "88307492",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2413,
+      "name": "RECICLA ",
+      "contact_1": "81262246",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2414,
+      "name": "VILLA LOBOS ",
+      "contact_1": "58183393",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-06T10:54:30.057203",
+  "timestamp": "2026-01-06T17:51:01.243148",
   "machine_id": "26830028058983"
 }

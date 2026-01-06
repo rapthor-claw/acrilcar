@@ -3559,8 +3559,48 @@
       "services": "['ELAB 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2524,
+      "work_order_id": 1423,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2525,
+      "work_order_id": 1424,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2526,
+      "work_order_id": 36580,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS EXPRESS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2527,
+      "work_order_id": 1425,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE 2 STOP PARTE AFECTADA Y REP EN BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2528,
+      "work_order_id": 1426,
+      "colaborator_id": 14,
+      "services": "['REPARACION DE 1 STOP Y ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-06T10:54:29.979092",
+  "timestamp": "2026-01-06T17:51:01.180663",
   "machine_id": "26830028058983"
 }

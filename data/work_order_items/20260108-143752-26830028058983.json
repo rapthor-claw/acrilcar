@@ -3599,8 +3599,216 @@
       "services": "['REPARACION DE 1 STOP Y ELABORACION DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2529,
+      "work_order_id": 1427,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2530,
+      "work_order_id": 1428,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 FOCO Y PULIDO 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2531,
+      "work_order_id": 1429,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2532,
+      "work_order_id": 1430,
+      "colaborator_id": 12,
+      "services": "['ELAB 2 FOCOS Y PULIDO 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2533,
+      "work_order_id": 1431,
+      "colaborator_id": 12,
+      "services": "['ELAB 1 TACOMETRO DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2534,
+      "work_order_id": 1432,
+      "colaborator_id": 4,
+      "services": "['ELABORACION 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2535,
+      "work_order_id": 1433,
+      "colaborator_id": 14,
+      "services": "['ELABORACION 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2536,
+      "work_order_id": 1434,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2537,
+      "work_order_id": 1435,
+      "colaborator_id": 2,
+      "services": "['ELAB 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2538,
+      "work_order_id": 1436,
+      "colaborator_id": 12,
+      "services": "['ELAB 2 CARCASA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2539,
+      "work_order_id": 1437,
+      "colaborator_id": 4,
+      "services": "['ELAB 1 FOCO Y REP DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2540,
+      "work_order_id": 1438,
+      "colaborator_id": 14,
+      "services": "['ELAB 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2541,
+      "work_order_id": 1439,
+      "colaborator_id": 5,
+      "services": "['ELABORACION 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2542,
+      "work_order_id": 1440,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2543,
+      "work_order_id": 1441,
+      "colaborator_id": 12,
+      "services": "['ELAB 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2544,
+      "work_order_id": 1442,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2545,
+      "work_order_id": 36582,
+      "colaborator_id": 14,
+      "services": "['CORTE LA LAMINAS DE 10 PARES DE LETRAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2546,
+      "work_order_id": 1443,
+      "colaborator_id": 4,
+      "services": "['ELAB 2 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2547,
+      "work_order_id": 1444,
+      "colaborator_id": 5,
+      "services": "['ELAB 2 PIDE VIA BASE CON MICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2548,
+      "work_order_id": 1445,
+      "colaborator_id": 14,
+      "services": "['ELAB 2 PIDE VIA Y 1 STOP CON REP EN BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2549,
+      "work_order_id": 1446,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2550,
+      "work_order_id": 1447,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2551,
+      "work_order_id": 1448,
+      "colaborator_id": 2,
+      "services": "['REP DE BASE DE UN FOCO DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2552,
+      "work_order_id": 1449,
+      "colaborator_id": 12,
+      "services": "['ELAB 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2553,
+      "work_order_id": 1450,
+      "colaborator_id": 4,
+      "services": "['ELAB 2 STOP AHUMADO Y PULIDO 2 FOCOS Y HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2554,
+      "work_order_id": 1452,
+      "colaborator_id": 14,
+      "services": "['ELAB 1 STOP Y REP DE OTRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-06T17:51:01.180663",
+  "timestamp": "2026-01-08T14:37:52.542632",
   "machine_id": "26830028058983"
 }

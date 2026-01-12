@@ -1,0 +1,38 @@
+{
+  "records": [
+    {
+      "id": 51,
+      "nombre": "CANJE",
+      "tipo": "ingreso",
+      "descripcion": "CANJE - DON FRANCISCO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 52,
+      "nombre": "REBAJA",
+      "tipo": "ingreso",
+      "descripcion": "REBAJAS AUTORIZADAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 53,
+      "nombre": "CANJE",
+      "tipo": "egreso",
+      "descripcion": "CANJE AUTORIZADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 54,
+      "nombre": "REBAJA",
+      "tipo": "egreso",
+      "descripcion": "REBAJAS AUTORIZADAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2026-01-12T17:08:27.680727",
+  "machine_id": "26830028058983"
+}

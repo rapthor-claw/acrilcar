@@ -5290,8 +5290,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2486,
+      "name": "ERVIN SEQUEIRA ",
+      "contact_1": "8784 8390",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2487,
+      "name": "ENRIQUE LOPEZ ",
+      "contact_1": "88574975",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2488,
+      "name": "MISAEL NICARAO",
+      "contact_1": "86893547",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2489,
+      "name": "HAROLD RODRIGUEZ ",
+      "contact_1": "85278933",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2490,
+      "name": "JADER RAMIREZ ARGUELLO ",
+      "contact_1": "88293313",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2491,
+      "name": "ERICK SOTO ",
+      "contact_1": "86335531",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2492,
+      "name": "CELIA ESCOBAR ",
+      "contact_1": "85749633",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2493,
+      "name": "MILTON GONZALEZ ",
+      "contact_1": "86345623",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2494,
+      "name": "ROBERTO MONCADA ",
+      "contact_1": "88074004",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-12T17:08:27.696350",
+  "timestamp": "2026-01-13T12:44:27.891551",
   "machine_id": "26830028058983"
 }

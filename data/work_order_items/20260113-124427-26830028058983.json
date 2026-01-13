@@ -4263,8 +4263,80 @@
       "services": "['ELABORACION DE 1 STOP TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2612,
+      "work_order_id": 1494,
+      "colaborator_id": 5,
+      "services": "['ELAB 2 STOP BASE CON MICA LADO DERECHO Y LADO IZQUIERDO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2613,
+      "work_order_id": 36600,
+      "colaborator_id": 14,
+      "services": "['REGULAR PANAS DE BUJIA  Y AJUSTAR LOS FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2614,
+      "work_order_id": 36601,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2615,
+      "work_order_id": 36602,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2616,
+      "work_order_id": 36603,
+      "colaborator_id": 14,
+      "services": "['LIMPIEZA Y SELLADO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2617,
+      "work_order_id": 36604,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS CON MANTENIMIENTO EN CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2618,
+      "work_order_id": 36605,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS CON RESTAURACION DE CROMO PULIDO 2 PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2619,
+      "work_order_id": 1495,
+      "colaborator_id": 2,
+      "services": "['ELAB 2 STOP Y PULIDO 2 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2620,
+      "work_order_id": 1496,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO CON REP DE BASE Y PULIDO DEL OTRO CON REP PARTE AFECTADA Y SELLADO DE PUNTA CON REP DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-12T17:08:27.587001",
+  "timestamp": "2026-01-13T12:44:27.791496",
   "machine_id": "26830028058983"
 }

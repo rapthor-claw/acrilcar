@@ -11751,8 +11751,86 @@
       "order_id": 12859,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3921,
+      "fecha": "2026-01-12",
+      "descripcion": "ROC 31919 CANCELACION ",
+      "monto": 1600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36598,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3922,
+      "fecha": "2026-01-12",
+      "descripcion": "ROC 31920 CANCELACION",
+      "monto": 1800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 45,
+      "user_id": "Yamileth",
+      "order_id": 1493,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3923,
+      "fecha": "2026-01-12",
+      "descripcion": "ROC 31920",
+      "monto": 1800.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 36,
+      "user_id": "Yamileth",
+      "order_id": 1493,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3924,
+      "fecha": "2026-01-13",
+      "descripcion": "ROC 31921 CANCELACION ",
+      "monto": 1800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 1462,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3925,
+      "fecha": "2026-01-13",
+      "descripcion": "ROC 31922 CANCELACION",
+      "monto": 5400.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 45,
+      "user_id": "Yamileth",
+      "order_id": 1495,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3926,
+      "fecha": "2026-01-13",
+      "descripcion": "ROC 31922",
+      "monto": 5400.0,
+      "tipo": "egreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 36,
+      "user_id": "Yamileth",
+      "order_id": 1495,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-12T17:08:27.649484",
+  "timestamp": "2026-01-13T12:44:27.844734",
   "machine_id": "26830028058983"
 }

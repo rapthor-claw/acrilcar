@@ -4335,8 +4335,24 @@
       "services": "['ELABORACION DE 1 FOCO CON REP DE BASE Y PULIDO DEL OTRO CON REP PARTE AFECTADA Y SELLADO DE PUNTA CON REP DE BASE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2621,
+      "work_order_id": 1497,
+      "colaborator_id": 4,
+      "services": "['ELAB 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2622,
+      "work_order_id": 1498,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-13T12:45:06.360998",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-14T08:33:01.555813",
+  "machine_id": "26830028058983"
 }

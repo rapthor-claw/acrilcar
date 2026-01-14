@@ -11829,8 +11829,86 @@
       "order_id": 1495,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3927,
+      "fecha": "2026-01-13",
+      "descripcion": "ROC 31923 CANCELACION ",
+      "monto": 600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 29,
+      "user_id": "Yamileth",
+      "order_id": 36590,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3928,
+      "fecha": "2026-01-13",
+      "descripcion": "ROC 31590 CANCELACION ",
+      "monto": 600.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 42,
+      "user_id": "Yamileth",
+      "order_id": 36590,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3929,
+      "fecha": "2026-01-13",
+      "descripcion": "ROC 31924 CANCELACION ",
+      "monto": 600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 29,
+      "user_id": "Yamileth",
+      "order_id": 1497,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3930,
+      "fecha": "2026-01-13",
+      "descripcion": "ROC 31925 ADELANTO",
+      "monto": 840.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36602,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3931,
+      "fecha": "2026-01-13",
+      "descripcion": "ROC 31925 CANCELACION ",
+      "monto": 960.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 33,
+      "user_id": "Yamileth",
+      "order_id": 36602,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3932,
+      "fecha": "2026-01-13",
+      "descripcion": "ROC 31925 TF # 120811111",
+      "monto": 960.0,
+      "tipo": "egreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 38,
+      "user_id": "Yamileth",
+      "order_id": 36602,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-13T12:45:06.455546",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-14T08:33:01.633944",
+  "machine_id": "26830028058983"
 }

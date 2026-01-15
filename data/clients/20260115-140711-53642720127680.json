@@ -5488,8 +5488,173 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2504,
+      "name": "COMERCIALISADORA CENTRAL S.A.",
+      "contact_1": "89232068",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2505,
+      "name": "JAVIER CASTILLO",
+      "contact_1": "85228799",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2506,
+      "name": "NICOLAS GUEVARA ",
+      "contact_1": "84655708",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2507,
+      "name": "ALBERT ZELEDON ",
+      "contact_1": "87349473",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2508,
+      "name": "ALBERTO SALGADO ",
+      "contact_1": "85695132",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2509,
+      "name": "JOSE ANTONIO RODRIGUEZ ",
+      "contact_1": "77052291",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2510,
+      "name": "PERLA SERRANO ",
+      "contact_1": "78482605",
+      "contact_2": "85257373",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2511,
+      "name": "JOSE VARGAS",
+      "contact_1": "57882024",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2512,
+      "name": "NORVIN CALERO ",
+      "contact_1": "77748574",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2513,
+      "name": "ROBERTO CRUZ ",
+      "contact_1": "86853636",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2514,
+      "name": "JOSE RIZO ",
+      "contact_1": "89045660",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2515,
+      "name": "JOSE CORCIO",
+      "contact_1": "88766236",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2516,
+      "name": "ALFREDO VARGAS ",
+      "contact_1": "77017820",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2517,
+      "name": "RUBEN CABRERO ",
+      "contact_1": "89325599",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2518,
+      "name": "JOSE SACOS",
+      "contact_1": "84731221",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-15T12:56:16.556921",
+  "timestamp": "2026-01-15T14:07:11.380035",
   "machine_id": "53642720127680"
 }

@@ -4423,8 +4423,48 @@
       "services": "['ELAB 1 FOCO TOAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2632,
+      "work_order_id": 36606,
+      "colaborator_id": 9,
+      "services": "['ELAB 1 HOT DOGNERA DE 4MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2633,
+      "work_order_id": 36607,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS CON INSTALACION LED Y ARO EN NEGRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2634,
+      "work_order_id": 36608,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2635,
+      "work_order_id": 36609,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS CON REP DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2636,
+      "work_order_id": 1508,
+      "colaborator_id": 14,
+      "services": "['ELAB 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-15T12:56:16.479307",
+  "timestamp": "2026-01-15T14:07:11.246663",
   "machine_id": "53642720127680"
 }

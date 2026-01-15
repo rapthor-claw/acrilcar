@@ -16583,8 +16583,168 @@
       "activity": "Ingreso de caja para la orden: 1496 - monto: 2700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 9617,
+      "datetime": "2026-01-15 19:00:40",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: COMERCIALISADORA CENTRAL S.A.",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9618,
+      "datetime": "2026-01-15 19:01:04",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JAVIER CASTILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9619,
+      "datetime": "2026-01-15 19:01:47",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: NICOLAS GUEVARA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9620,
+      "datetime": "2026-01-15 19:02:11",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALBERT ZELEDON ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9621,
+      "datetime": "2026-01-15 19:06:14",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36606",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9622,
+      "datetime": "2026-01-15 19:10:13",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36607",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9623,
+      "datetime": "2026-01-15 19:13:53",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36608",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9624,
+      "datetime": "2026-01-15 19:15:18",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36609",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9625,
+      "datetime": "2026-01-15 19:20:59",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALBERTO SALGADO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9626,
+      "datetime": "2026-01-15 19:21:43",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSE ANTONIO RODRIGUEZ ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9627,
+      "datetime": "2026-01-15 19:22:24",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: PERLA SERRANO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9628,
+      "datetime": "2026-01-15 19:22:47",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSE VARGAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9629,
+      "datetime": "2026-01-15 19:23:13",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: NORVIN CALERO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9630,
+      "datetime": "2026-01-15 19:23:38",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ROBERTO CRUZ ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9631,
+      "datetime": "2026-01-15 19:25:00",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSE RIZO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9632,
+      "datetime": "2026-01-15 19:27:07",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSE CORCIO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9633,
+      "datetime": "2026-01-15 19:27:52",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALFREDO VARGAS ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9634,
+      "datetime": "2026-01-15 19:28:44",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: RUBEN CABRERO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9635,
+      "datetime": "2026-01-15 19:30:31",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JOSE SACOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9636,
+      "datetime": "2026-01-15 20:02:36",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1508",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-15T12:56:16.575313",
+  "timestamp": "2026-01-15T14:07:11.398125",
   "machine_id": "53642720127680"
 }

@@ -5653,8 +5653,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2519,
+      "name": "ALVARO GARCIA ",
+      "contact_1": "77989293",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2520,
+      "name": "JOSE SILVA",
+      "contact_1": "83907705",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2521,
+      "name": "KEVIN PALMA",
+      "contact_1": "78462363",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2522,
+      "name": "CARLOS SILVA",
+      "contact_1": "81902996",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2523,
+      "name": "FREDER MENDEZ",
+      "contact_1": "78276238",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2524,
+      "name": "ARMANDO SEGURA",
+      "contact_1": "86334559",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-15T15:39:45.215618",
+  "timestamp": "2026-01-15T09:18:09.502206",
   "machine_id": "26830028058983"
 }

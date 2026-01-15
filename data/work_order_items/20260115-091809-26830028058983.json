@@ -4543,8 +4543,72 @@
       "services": "['REPARACION DE 1 STOP PARTE AFECTADA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2647,
+      "work_order_id": 1519,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 STOP TOTAL CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2648,
+      "work_order_id": 1520,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2649,
+      "work_order_id": 36611,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2650,
+      "work_order_id": 36612,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS CON ARO PINTADO EN NEGRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2651,
+      "work_order_id": 36613,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS CON ARO PINTADO EN NEGRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2652,
+      "work_order_id": 36614,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2653,
+      "work_order_id": 1521,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS, 2 PIDEVIAS Y 2 LATERALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2654,
+      "work_order_id": 1522,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-15T15:39:45.121889",
+  "timestamp": "2026-01-15T09:18:09.376780",
   "machine_id": "26830028058983"
 }

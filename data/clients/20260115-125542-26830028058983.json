@@ -5411,8 +5411,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2497,
+      "name": "JAKA MOLINA ",
+      "contact_1": "77885869",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2498,
+      "name": "YERIS CABRERA ",
+      "contact_1": "77344593",
+      "contact_2": "76528795",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2499,
+      "name": "JUAN TELLEZ",
+      "contact_1": "88183336",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2500,
+      "name": "AGUSTO CHONG ",
+      "contact_1": "78995627",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2501,
+      "name": "GERZON RIVERA ",
+      "contact_1": "8171 0084",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2502,
+      "name": "SERVICIO AUTOMOTRIZ MIL COLORES ",
+      "contact_1": "78815635",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2503,
+      "name": "CARLOS ALVARADO ",
+      "contact_1": "76116921",
+      "contact_2": "88656109",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-15T10:41:13.810377",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-15T12:55:42.955052",
+  "machine_id": "26830028058983"
 }

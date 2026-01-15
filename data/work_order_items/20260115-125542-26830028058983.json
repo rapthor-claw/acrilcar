@@ -4351,8 +4351,80 @@
       "services": "['ELABORACION DE 1 FOCO TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2623,
+      "work_order_id": 1499,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS Y 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2624,
+      "work_order_id": 1500,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2625,
+      "work_order_id": 1501,
+      "colaborator_id": 12,
+      "services": "['ELAB 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2626,
+      "work_order_id": 1502,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP, ELAB 2 HALOGENOS CON MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2627,
+      "work_order_id": 1503,
+      "colaborator_id": 14,
+      "services": "['ELAB 2 STOP CON MATERIAL ROJO LISO Y AMARILLO LISO SIN GRABADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2628,
+      "work_order_id": 1504,
+      "colaborator_id": 5,
+      "services": "['ELAB 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2629,
+      "work_order_id": 1505,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2630,
+      "work_order_id": 1506,
+      "colaborator_id": 2,
+      "services": "['ELAB 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2631,
+      "work_order_id": 1507,
+      "colaborator_id": 12,
+      "services": "['ELAB 1 FOCO TOAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-15T10:41:13.692394",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-15T12:55:42.842533",
+  "machine_id": "26830028058983"
 }

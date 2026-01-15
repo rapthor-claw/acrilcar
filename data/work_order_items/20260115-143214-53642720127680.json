@@ -4463,8 +4463,88 @@
       "services": "['ELAB 1 STOP TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2637,
+      "work_order_id": 1509,
+      "colaborator_id": 14,
+      "services": "['ELAB 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2638,
+      "work_order_id": 1510,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2639,
+      "work_order_id": 1511,
+      "colaborator_id": 2,
+      "services": "['ELAB 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2640,
+      "work_order_id": 1512,
+      "colaborator_id": 12,
+      "services": "['REP PARTE AFECTADA DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2641,
+      "work_order_id": 1413,
+      "colaborator_id": 4,
+      "services": "['ELAB 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2642,
+      "work_order_id": 1514,
+      "colaborator_id": 4,
+      "services": "['ELAB 1 FOCO REP DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2643,
+      "work_order_id": 1515,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2644,
+      "work_order_id": 1516,
+      "colaborator_id": 2,
+      "services": "['ELAB 1 FOCO CON REP DE BASE Y ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2645,
+      "work_order_id": 1517,
+      "colaborator_id": 12,
+      "services": "['ELAB 1 STOP Y REP DE TAPA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2646,
+      "work_order_id": 1518,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE 1 STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-15T14:07:19.303350",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-15T14:32:14.835878",
+  "machine_id": "53642720127680"
 }

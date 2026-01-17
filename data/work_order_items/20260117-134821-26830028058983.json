@@ -4607,8 +4607,152 @@
       "services": "['ELABORACION DE 1 PIDEVIA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2655,
+      "work_order_id": 1099,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 2 RETROVISORES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2656,
+      "work_order_id": 1524,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2657,
+      "work_order_id": 1525,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS CON REPARACION EN ARO Y BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2658,
+      "work_order_id": 1526,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE PARTE AFECTADA BLANCA DE STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2659,
+      "work_order_id": 1527,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2660,
+      "work_order_id": 1528,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2661,
+      "work_order_id": 1529,
+      "colaborator_id": 14,
+      "services": "['ELABORACION DE MICA DE FOCO Y FIJAR LA PANA, SIN REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2662,
+      "work_order_id": 36615,
+      "colaborator_id": 14,
+      "services": "['SELLADO Y LIMPIEZA CON REPARACION EN PATAS DE FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2663,
+      "work_order_id": 36616,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 9 PIEZAS DE LATERALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2664,
+      "work_order_id": 36617,
+      "colaborator_id": 9,
+      "services": "['VENTA DE 1 LITRO DE SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2665,
+      "work_order_id": 1530,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2666,
+      "work_order_id": 36572,
+      "colaborator_id": 14,
+      "services": "['ELAB 1 TAPA DE UN DEPURADOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2667,
+      "work_order_id": 1326,
+      "colaborator_id": 5,
+      "services": "['REPARACION 1 STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2668,
+      "work_order_id": 1531,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE PARTE AFECTADA  AMARILLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2669,
+      "work_order_id": 1532,
+      "colaborator_id": 12,
+      "services": "['ELAB PARTE AFECTADA DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2670,
+      "work_order_id": 1533,
+      "colaborator_id": 4,
+      "services": "['ELAB 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2671,
+      "work_order_id": 1534,
+      "colaborator_id": 14,
+      "services": "['ELABORACION 2 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2672,
+      "work_order_id": 36618,
+      "colaborator_id": 9,
+      "services": "['ELAB CAJA  ACRILICA  CON TAPA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-15T09:18:09.376780",
+  "timestamp": "2026-01-17T13:48:21.145325",
   "machine_id": "26830028058983"
 }

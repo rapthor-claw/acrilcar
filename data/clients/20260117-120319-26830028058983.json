@@ -5884,8 +5884,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2540,
+      "name": "LUIS HURTADO",
+      "contact_1": "82913665",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2541,
+      "name": "JORGE SOTELO",
+      "contact_1": "83975293",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-17T13:48:21.270295",
+  "timestamp": "2026-01-17T12:03:19.437212",
   "machine_id": "26830028058983"
 }

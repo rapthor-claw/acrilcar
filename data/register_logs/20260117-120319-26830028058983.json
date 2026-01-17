@@ -17719,8 +17719,64 @@
       "activity": "Ingreso de caja para la orden: 1524 - monto: 2800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 9759,
+      "datetime": "2026-01-17 19:49:23",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9760,
+      "datetime": "2026-01-19 15:34:03",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9761,
+      "datetime": "2026-01-17 17:53:34",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LUIS HURTADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9762,
+      "datetime": "2026-01-17 17:54:26",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36619",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9763,
+      "datetime": "2026-01-17 17:59:35",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1535",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9764,
+      "datetime": "2026-01-17 18:00:56",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JORGE SOTELO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9765,
+      "datetime": "2026-01-17 18:02:53",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1536",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-17T13:48:21.301536",
+  "timestamp": "2026-01-17T12:03:19.515317",
   "machine_id": "26830028058983"
 }

@@ -4751,8 +4751,32 @@
       "services": "['ELAB CAJA  ACRILICA  CON TAPA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2673,
+      "work_order_id": 36619,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2674,
+      "work_order_id": 1535,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2675,
+      "work_order_id": 1536,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP  TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-17T13:48:21.145325",
+  "timestamp": "2026-01-17T12:03:19.327862",
   "machine_id": "26830028058983"
 }

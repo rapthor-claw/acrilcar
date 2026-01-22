@@ -6500,8 +6500,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2596,
+      "name": "YESLIN CASTILLO",
+      "contact_1": "76992172",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2597,
+      "name": "JONATHAN GARAY",
+      "contact_1": "78251109",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-22T11:12:43.837168",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-22T11:43:07.788141",
+  "machine_id": "26830028058983"
 }

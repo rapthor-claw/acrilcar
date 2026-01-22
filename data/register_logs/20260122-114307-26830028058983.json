@@ -19319,8 +19319,48 @@
       "activity": "Salida de caja, monto: 2200",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 9959,
+      "datetime": "2026-01-22 17:36:10",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: YESLIN CASTILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9960,
+      "datetime": "2026-01-22 17:36:35",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JONATHAN GARAY",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9961,
+      "datetime": "2026-01-22 17:39:25",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36638",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9962,
+      "datetime": "2026-01-22 17:41:12",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36639",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9963,
+      "datetime": "2026-01-22 17:42:01",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36637",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-22T11:12:43.884032",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-22T11:43:07.819352",
+  "machine_id": "26830028058983"
 }

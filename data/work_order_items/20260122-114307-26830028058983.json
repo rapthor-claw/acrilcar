@@ -5247,8 +5247,32 @@
       "services": "['PULIDO 1 FOCO Y PULIDO 2 HALOGENOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2735,
+      "work_order_id": 36638,
+      "colaborator_id": 2,
+      "services": "['ELAB 1 STOP COMPLEMENTO OT 1546']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2736,
+      "work_order_id": 36639,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS Y 2 HALOGENOS Y PULIDO 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2737,
+      "work_order_id": 36637,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-22T11:12:43.752556",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-22T11:43:07.694384",
+  "machine_id": "26830028058983"
 }

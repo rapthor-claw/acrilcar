@@ -6445,8 +6445,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2591,
+      "name": "HECTOR REYES",
+      "contact_1": "88797187",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2592,
+      "name": "PASO REAL S.A.",
+      "contact_1": "85659805",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2593,
+      "name": "MELVA  ALGUERRA ",
+      "contact_1": "87541693",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2594,
+      "name": "JUAN JOSE IBARRA ",
+      "contact_1": "81270701",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2595,
+      "name": "RUDY QUIJANO ",
+      "contact_1": "86828110",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-21T17:31:43.893575",
+  "timestamp": "2026-01-22T10:37:11.762122",
   "machine_id": "26830028058983"
 }

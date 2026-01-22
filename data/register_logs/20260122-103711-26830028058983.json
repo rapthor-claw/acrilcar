@@ -19199,8 +19199,128 @@
       "activity": "Creo la orden de trabajo: 1575",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 9944,
+      "datetime": "2026-01-21 23:31:47",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9945,
+      "datetime": "2026-01-22 13:51:49",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9946,
+      "datetime": "2026-01-22 16:07:27",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: HECTOR REYES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9947,
+      "datetime": "2026-01-22 16:07:53",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: PASO REAL S.A.",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9948,
+      "datetime": "2026-01-22 16:08:24",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MELVA  ALGUERRA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9949,
+      "datetime": "2026-01-22 16:11:34",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1576",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9950,
+      "datetime": "2026-01-22 16:13:13",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1577",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9951,
+      "datetime": "2026-01-22 16:14:47",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1578",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9952,
+      "datetime": "2026-01-22 16:17:20",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JUAN JOSE IBARRA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9953,
+      "datetime": "2026-01-22 16:18:15",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: RUDY QUIJANO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9954,
+      "datetime": "2026-01-22 16:25:14",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36635",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9955,
+      "datetime": "2026-01-22 16:26:21",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36636",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9956,
+      "datetime": "2026-01-22 16:34:02",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1545 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9957,
+      "datetime": "2026-01-22 16:36:28",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36606 - monto: 2200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 9958,
+      "datetime": "2026-01-22 16:36:59",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 2200",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-21T17:31:43.953849",
+  "timestamp": "2026-01-22T10:37:11.846554",
   "machine_id": "26830028058983"
 }

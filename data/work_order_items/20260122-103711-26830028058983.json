@@ -5207,8 +5207,48 @@
       "services": "['ELABORACION DE 1 STOP TOTAL CON MANTENIMIENTO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2730,
+      "work_order_id": 1576,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2731,
+      "work_order_id": 1577,
+      "colaborator_id": 2,
+      "services": "['ELABORACION 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2732,
+      "work_order_id": 1578,
+      "colaborator_id": 12,
+      "services": "['ELAB 1 PIDE VIA Y 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2733,
+      "work_order_id": 36635,
+      "colaborator_id": 14,
+      "services": "['SELLADO 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2734,
+      "work_order_id": 36636,
+      "colaborator_id": 14,
+      "services": "['PULIDO 1 FOCO Y PULIDO 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-21T17:31:43.764271",
+  "timestamp": "2026-01-22T10:37:11.621544",
   "machine_id": "26830028058983"
 }

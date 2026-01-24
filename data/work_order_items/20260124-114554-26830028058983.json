@@ -5487,8 +5487,48 @@
       "services": "['ELAB 2 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2765,
+      "work_order_id": 36647,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS CON MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2766,
+      "work_order_id": 1600,
+      "colaborator_id": 14,
+      "services": "['ELAB 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2767,
+      "work_order_id": 1601,
+      "colaborator_id": 5,
+      "services": "['ELAB 4 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2768,
+      "work_order_id": 1602,
+      "colaborator_id": 2,
+      "services": "['ELAB 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2769,
+      "work_order_id": 1603,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-24T08:31:06.014021",
+  "timestamp": "2026-01-24T11:45:54.638117",
   "machine_id": "26830028058983"
 }

@@ -6797,8 +6797,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2623,
+      "name": "JOSSELING CASTILLO",
+      "contact_1": "86232534",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2624,
+      "name": "WILDER NARENCO",
+      "contact_1": "88083726",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2625,
+      "name": "ALFREDO ARAGON ",
+      "contact_1": "58886971",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2626,
+      "name": "JOSE GUEVARA ",
+      "contact_1": "86936742",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2627,
+      "name": "BRYAN CONTRERA ",
+      "contact_1": "86497258",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2628,
+      "name": "FLAVIO FLORES",
+      "contact_1": "77318975",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-24T08:31:06.138991",
+  "timestamp": "2026-01-24T11:45:54.778712",
   "machine_id": "26830028058983"
 }

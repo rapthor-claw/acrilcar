@@ -5271,8 +5271,224 @@
       "services": "['ANULADO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2738,
+      "work_order_id": 1580,
+      "colaborator_id": 14,
+      "services": "['ELAB 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2739,
+      "work_order_id": 1581,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 FOCO REP DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2740,
+      "work_order_id": 1579,
+      "colaborator_id": 4,
+      "services": "['ELAB 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2741,
+      "work_order_id": 1582,
+      "colaborator_id": 2,
+      "services": "['ELA B 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2742,
+      "work_order_id": 1583,
+      "colaborator_id": 12,
+      "services": "['ELAB 2 FOCOS PINTAR BASE EN NEGRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2743,
+      "work_order_id": 1584,
+      "colaborator_id": 4,
+      "services": "['ELAB 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2744,
+      "work_order_id": 1585,
+      "colaborator_id": 14,
+      "services": "['ELAB DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2745,
+      "work_order_id": 1586,
+      "colaborator_id": 5,
+      "services": "['ELAB 2 STOP, 2 PIDE VIA CON REP DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2746,
+      "work_order_id": 1587,
+      "colaborator_id": 2,
+      "services": "['ELAB 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2747,
+      "work_order_id": 1588,
+      "colaborator_id": 12,
+      "services": "['ELAB 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2748,
+      "work_order_id": 36640,
+      "colaborator_id": 14,
+      "services": "['DESTAPADO, PULIDO Y SELLADO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2749,
+      "work_order_id": 36641,
+      "colaborator_id": 9,
+      "services": "['ELAB 1 PIEZA DE ACRILICO Y PEGAR LAS DEMAS PIEZAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2750,
+      "work_order_id": 36642,
+      "colaborator_id": 9,
+      "services": "['ELAB DE 4 CAJAS ACRILICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2751,
+      "work_order_id": 36643,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2752,
+      "work_order_id": 1589,
+      "colaborator_id": 4,
+      "services": "['ELAB 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2753,
+      "work_order_id": 1590,
+      "colaborator_id": 14,
+      "services": "['REP 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2754,
+      "work_order_id": 1591,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2755,
+      "work_order_id": 1592,
+      "colaborator_id": 2,
+      "services": "['REP 1 STOP PARTE AFECTADA BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2756,
+      "work_order_id": 1593,
+      "colaborator_id": 12,
+      "services": "['ELAB 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2757,
+      "work_order_id": 1594,
+      "colaborator_id": 4,
+      "services": "['ELAB 2 MICA DE PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2758,
+      "work_order_id": 36644,
+      "colaborator_id": 14,
+      "services": "['PULIDO 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2759,
+      "work_order_id": 36645,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2760,
+      "work_order_id": 1595,
+      "colaborator_id": 14,
+      "services": "['ELAB 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2761,
+      "work_order_id": 1596,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 HALOGENO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2762,
+      "work_order_id": 1597,
+      "colaborator_id": 2,
+      "services": "['ELAB 1 MICA DE PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2763,
+      "work_order_id": 1598,
+      "colaborator_id": 12,
+      "services": "['ELAB 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2764,
+      "work_order_id": 1599,
+      "colaborator_id": 4,
+      "services": "['ELAB 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-22T11:43:07.694384",
+  "timestamp": "2026-01-24T08:31:06.014021",
   "machine_id": "26830028058983"
 }

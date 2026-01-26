@@ -5527,8 +5527,88 @@
       "services": "['ELABORACION DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2770,
+      "work_order_id": 1604,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 FOCOS - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2771,
+      "work_order_id": 1605,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - N400']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2772,
+      "work_order_id": 1606,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 2 MICAS DE RETROVISOR - CHEVROLET / KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2773,
+      "work_order_id": 1607,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2774,
+      "work_order_id": 36649,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS, CAMIAR DONDE VA LA BUJIA - SANTA FE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2775,
+      "work_order_id": 36650,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE FOCO - VENTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2776,
+      "work_order_id": 36651,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS - MAZDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2777,
+      "work_order_id": 36652,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS - SANTA FE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2778,
+      "work_order_id": 36653,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 PIEZAS - VOLKSWAGEN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2779,
+      "work_order_id": 36646,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO - GIXXER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-26T12:58:11.476178",
+  "timestamp": "2026-01-26T13:32:31.065473",
   "machine_id": "53642720127680"
 }

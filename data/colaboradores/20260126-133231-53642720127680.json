@@ -1,0 +1,44 @@
+{
+  "records": [
+    {
+      "id": 16,
+      "nombre": "WALTER",
+      "apellido": "CHAVARRIA",
+      "telefono_personal": "0",
+      "documento_identidad": "0000000000000X",
+      "fecha_ingreso": "2026-01-26",
+      "nombre_contacto_emergencia": "",
+      "telefono_emergencia": "S/I",
+      "fecha_baja": "",
+      "salario": 0.0,
+      "is_active": 1,
+      "puesto": "ELABORADOR",
+      "fecha_nacimiento": "2026-01-26",
+      "numero_seguro_social": "",
+      "informacion_adicional": "COMISION DEL 15%",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 17,
+      "nombre": "LUIS ",
+      "apellido": "SOMARRIBA",
+      "telefono_personal": "87281534",
+      "documento_identidad": "0000000000000X",
+      "fecha_ingreso": "2026-01-26",
+      "nombre_contacto_emergencia": "S/I",
+      "telefono_emergencia": "0",
+      "fecha_baja": "",
+      "salario": 4000.0,
+      "is_active": 1,
+      "puesto": "PULIDOR",
+      "fecha_nacimiento": "2026-01-26",
+      "numero_seguro_social": "",
+      "informacion_adicional": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2026-01-26T13:32:31.165743",
+  "machine_id": "53642720127680"
+}

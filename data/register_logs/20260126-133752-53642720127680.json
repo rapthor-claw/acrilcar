@@ -20583,8 +20583,56 @@
       "activity": "Creo la orden de trabajo: 36646",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10117,
+      "datetime": "2026-01-26 19:32:46",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36649",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10118,
+      "datetime": "2026-01-26 19:32:52",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36650",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10119,
+      "datetime": "2026-01-26 19:32:58",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36651",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10120,
+      "datetime": "2026-01-26 19:33:07",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36652",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10121,
+      "datetime": "2026-01-26 19:33:13",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 36653",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10122,
+      "datetime": "2026-01-26 19:37:47",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-26T13:32:31.181334",
+  "timestamp": "2026-01-26T13:37:52.786108",
   "machine_id": "53642720127680"
 }

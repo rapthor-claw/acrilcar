@@ -7006,8 +7006,140 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2642,
+      "name": "RICARDO MEDAL",
+      "contact_1": "78967420",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2643,
+      "name": "CAROL SOLORZANO",
+      "contact_1": "82639704",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2644,
+      "name": "ALBERTO BRENES",
+      "contact_1": "86635128",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2645,
+      "name": "CASA CROSS",
+      "contact_1": "57598093",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2646,
+      "name": "JAIME AMPIE",
+      "contact_1": "85196512",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2647,
+      "name": "OSMAR VARGAS",
+      "contact_1": "89359220",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2648,
+      "name": "TALLERES AUTOAMERICA",
+      "contact_1": "89556296",
+      "contact_2": "76573559",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2649,
+      "name": "LILLIAM PEREZ",
+      "contact_1": "84650412",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2650,
+      "name": "GARY ESQUIVEL",
+      "contact_1": "83682951",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2651,
+      "name": "SERMUL",
+      "contact_1": "57197622",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2652,
+      "name": "PEDRO ALTAMIRANO",
+      "contact_1": "86348427",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2653,
+      "name": "MANUEL DORMUS",
+      "contact_1": "88409816",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-27T11:42:59.170862",
+  "timestamp": "2026-01-27T14:25:53.077614",
   "machine_id": "53642720127680"
 }

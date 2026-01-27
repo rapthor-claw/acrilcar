@@ -20799,8 +20799,104 @@
       "activity": "Salida de caja, monto: 1060",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10144,
+      "datetime": "2026-01-27 13:55:55",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10145,
+      "datetime": "2026-01-27 13:56:57",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: SANTIAGO NUÑEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10146,
+      "datetime": "2026-01-27 13:59:10",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1608",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10147,
+      "datetime": "2026-01-27 14:16:04",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 36649 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10148,
+      "datetime": "2026-01-27 14:16:54",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10149,
+      "datetime": "2026-01-27 14:26:09",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: LINDA SALINA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10150,
+      "datetime": "2026-01-27 14:27:16",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1609",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10151,
+      "datetime": "2026-01-27 14:30:16",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1609 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10152,
+      "datetime": "2026-01-27 15:25:31",
+      "username": "Yamileth",
+      "activity": "Salida de caja, monto: 120",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10153,
+      "datetime": "2026-01-27 15:26:41",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: EDGARD SOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10154,
+      "datetime": "2026-01-27 15:28:10",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1610",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10155,
+      "datetime": "2026-01-27 15:28:37",
+      "username": "Yamileth",
+      "activity": "Ingreso de caja para la orden: 1610 - monto: 2700",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-26T17:00:29.491644",
+  "timestamp": "2026-01-27T09:33:02.048345",
   "machine_id": "26830028058983"
 }

@@ -14949,8 +14949,73 @@
       "order_id": 10607,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4167,
+      "fecha": "2026-01-27",
+      "descripcion": "ROC 36649 CANCELACION ",
+      "monto": 3000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 36649,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4168,
+      "fecha": "2026-01-27",
+      "descripcion": "REBAJA  ASUMIDA POR DON FRANCISCO",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 48,
+      "user_id": "Yamileth",
+      "order_id": 36649,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4169,
+      "fecha": "2026-01-27",
+      "descripcion": "ROC 32083 CANCELACION ",
+      "monto": 1800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 1609,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4170,
+      "fecha": "2026-01-27",
+      "descripcion": "COMPRA DE LIJAS 150",
+      "monto": 120.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Yamileth",
+      "order_id": "FC-D002691",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4171,
+      "fecha": "2026-01-27",
+      "descripcion": "ROC 32084 CANCELACION ",
+      "monto": 2700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Yamileth",
+      "order_id": 1610,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-26T17:00:29.397916",
+  "timestamp": "2026-01-27T09:33:01.921673",
   "machine_id": "26830028058983"
 }

@@ -6962,8 +6962,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2638,
+      "name": "SANTIAGO NUÑEZ",
+      "contact_1": "83693077",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2639,
+      "name": "LINDA SALINA",
+      "contact_1": "87680460",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2640,
+      "name": "EDGARD SOZA",
+      "contact_1": "77034594",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-26T17:00:29.444781",
+  "timestamp": "2026-01-27T09:33:01.968532",
   "machine_id": "26830028058983"
 }

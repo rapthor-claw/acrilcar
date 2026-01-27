@@ -5607,8 +5607,32 @@
       "services": "['ELAB DE FOCO - GIXXER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2780,
+      "work_order_id": 1608,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2781,
+      "work_order_id": 1609,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2782,
+      "work_order_id": 1610,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 FOCO Y PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-26T17:00:29.351054",
+  "timestamp": "2026-01-27T09:33:01.843560",
   "machine_id": "26830028058983"
 }

@@ -20919,8 +20919,16 @@
       "activity": "Creo el usuario: Baker",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10159,
+      "datetime": "2026-01-27 17:37:14",
+      "username": "Allisson",
+      "activity": "Modifico accesos al usuario ID: 15",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-27T11:36:13.408317",
+  "timestamp": "2026-01-27T11:37:20.122768",
   "machine_id": "26830028058983"
 }

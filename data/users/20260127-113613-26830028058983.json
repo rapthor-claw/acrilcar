@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "id": 15,
+      "username": "Baker",
+      "password_hash": "6f4853fa3a4f20c25bcc55c71b54a01877d094bc29cf4f5fe0436e33f7a7999c",
+      "role": "user",
+      "sincronizado": 0,
+      "is_deleted": 0
+    }
+  ],
+  "timestamp": "2026-01-27T11:36:13.298966",
+  "machine_id": "26830028058983"
+}

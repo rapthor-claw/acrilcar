@@ -20895,8 +20895,32 @@
       "activity": "Ingreso de caja para la orden: 1610 - monto: 2700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10156,
+      "datetime": "2026-01-27 17:34:54",
+      "username": "Yamileth",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10157,
+      "datetime": "2026-01-27 17:35:20",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10158,
+      "datetime": "2026-01-27 17:35:48",
+      "username": "Allisson",
+      "activity": "Creo el usuario: Baker",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-27T11:34:49.526337",
+  "timestamp": "2026-01-27T11:36:13.408317",
   "machine_id": "26830028058983"
 }

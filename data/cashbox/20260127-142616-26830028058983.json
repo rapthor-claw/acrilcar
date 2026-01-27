@@ -15014,8 +15014,47 @@
       "order_id": 1610,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4172,
+      "fecha": "2026-01-27",
+      "descripcion": "ROC 32085 CANCELACION ",
+      "monto": 1200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 1405,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4173,
+      "fecha": "2026-01-27",
+      "descripcion": "FACT. 586032 COMPRA DE JERINGAS ",
+      "monto": 500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Baker",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4174,
+      "fecha": "2026-01-27",
+      "descripcion": "FATC. 717581 COMPRA DE ESTAÑO",
+      "monto": 100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Baker",
+      "order_id": 0,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-27T14:25:52.999371",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-27T14:26:16.677052",
+  "machine_id": "26830028058983"
 }

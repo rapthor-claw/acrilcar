@@ -6995,8 +6995,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2641,
+      "name": "CARLOS PICADO",
+      "contact_1": "85026397",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-27T11:37:20.091527",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-27T11:42:59.170862",
+  "machine_id": "53642720127680"
 }

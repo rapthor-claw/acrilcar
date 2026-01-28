@@ -21223,8 +21223,120 @@
       "activity": "Ingreso de caja para la orden: 1604 - monto: 3000",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10197,
+      "datetime": "2026-01-28 16:27:26",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36658",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10198,
+      "datetime": "2026-01-28 16:31:22",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: CONSTRUCTORA MECO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10199,
+      "datetime": "2026-01-28 16:31:52",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JORGE MARTINEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10200,
+      "datetime": "2026-01-28 16:32:14",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALVARO MIRANDA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10201,
+      "datetime": "2026-01-28 16:32:33",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DOMINGO MEJIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10202,
+      "datetime": "2026-01-28 16:32:56",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: BRYAN CENTENO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10203,
+      "datetime": "2026-01-28 16:38:50",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1623",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10204,
+      "datetime": "2026-01-28 16:40:36",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1624",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10205,
+      "datetime": "2026-01-28 16:41:42",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1625",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10206,
+      "datetime": "2026-01-28 16:43:28",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1626",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10207,
+      "datetime": "2026-01-28 16:44:38",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1627",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10208,
+      "datetime": "2026-01-28 16:46:38",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1628",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10209,
+      "datetime": "2026-01-28 16:47:18",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ENRIQUE CUBILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10210,
+      "datetime": "2026-01-28 16:48:26",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1629",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-28T08:13:46.423060",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-28T11:57:21.028900",
+  "machine_id": "53642720127680"
 }

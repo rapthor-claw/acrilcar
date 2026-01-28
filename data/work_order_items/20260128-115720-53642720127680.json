@@ -5751,8 +5751,80 @@
       "services": "['ELABORACION DE 1 STOP TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2798,
+      "work_order_id": 36657,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2799,
+      "work_order_id": 36658,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2800,
+      "work_order_id": 1623,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2801,
+      "work_order_id": 1624,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2802,
+      "work_order_id": 1625,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2803,
+      "work_order_id": 1626,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2804,
+      "work_order_id": 1627,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2805,
+      "work_order_id": 1628,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO, PULIDO DE 1 FOCO Y PULIDO DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2806,
+      "work_order_id": 1629,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-28T08:13:46.266872",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-28T11:57:20.890800",
+  "machine_id": "53642720127680"
 }

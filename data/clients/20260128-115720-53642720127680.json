@@ -7160,8 +7160,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2656,
+      "name": "CONSTRUCTORA MECO ",
+      "contact_1": "82203299",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2657,
+      "name": "JORGE MARTINEZ",
+      "contact_1": "58863796",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2658,
+      "name": "ALVARO MIRANDA",
+      "contact_1": "88790707",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2659,
+      "name": "DOMINGO MEJIA",
+      "contact_1": "88835058",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2660,
+      "name": "BRYAN CENTENO",
+      "contact_1": "58444047",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2661,
+      "name": "ENRIQUE CUBILLO",
+      "contact_1": "57669512",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-28T08:13:46.391818",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-28T11:57:20.991079",
+  "machine_id": "53642720127680"
 }

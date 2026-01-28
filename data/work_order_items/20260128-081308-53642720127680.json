@@ -5735,8 +5735,24 @@
       "services": "['ELABORACION DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2796,
+      "work_order_id": 1621,
+      "colaborator_id": 5,
+      "services": "['1 STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2797,
+      "work_order_id": 1622,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-28T08:10:45.179413",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-28T08:13:08.371949",
+  "machine_id": "53642720127680"
 }

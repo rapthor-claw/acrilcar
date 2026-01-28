@@ -15209,8 +15209,73 @@
       "order_id": 1621,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4187,
+      "fecha": "2026-01-28",
+      "descripcion": "ROC 32091 CANCELACION ",
+      "monto": 600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 36654,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4188,
+      "fecha": "2026-01-28",
+      "descripcion": "ROC 32092 CANCELACION",
+      "monto": 1200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 1569,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4189,
+      "fecha": "2026-01-28",
+      "descripcion": "ROC 32093 CANCELACION ",
+      "monto": 1400.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 1629,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4190,
+      "fecha": "2026-01-28",
+      "descripcion": "ROC 32094 CANCELACION ",
+      "monto": 1680.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 33,
+      "user_id": "Baker",
+      "order_id": 36630,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4191,
+      "fecha": "2026-01-28",
+      "descripcion": "ROC 32095 CANCELACION",
+      "monto": 3000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 1602,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-28T16:44:13.377661",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-28T17:10:55.232619",
+  "machine_id": "26830028058983"
 }

@@ -21215,8 +21215,16 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10196,
+      "datetime": "2026-01-28 14:13:13",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1604 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-28T08:13:08.541252",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-28T08:13:46.423060",
+  "machine_id": "26830028058983"
 }

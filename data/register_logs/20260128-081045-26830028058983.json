@@ -21199,8 +21199,24 @@
       "activity": "Ingreso de caja para la orden: 1588 - monto: 1800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10194,
+      "datetime": "2026-01-27 23:18:08",
+      "username": "Baker",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10195,
+      "datetime": "2026-01-28 13:37:19",
+      "username": "Baker",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-27T16:50:08.705930",
+  "timestamp": "2026-01-28T08:10:45.414977",
   "machine_id": "26830028058983"
 }

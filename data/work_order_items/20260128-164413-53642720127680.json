@@ -5823,8 +5823,48 @@
       "services": "['ELABORACION DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2807,
+      "work_order_id": 1630,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE STOP PARTE ROJA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2808,
+      "work_order_id": 36659,
+      "colaborator_id": 9,
+      "services": "['VENTA DE YUGULAY Y LED']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2809,
+      "work_order_id": 36660,
+      "colaborator_id": 14,
+      "services": "['ANULADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2810,
+      "work_order_id": 1631,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2811,
+      "work_order_id": 36661,
+      "colaborator_id": 9,
+      "services": "['CORTE LAMINA ACRILICA DE 5MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-28T12:17:48.279006",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-28T16:44:13.317254",
+  "machine_id": "53642720127680"
 }

@@ -21415,8 +21415,72 @@
       "activity": "Creo la orden de trabajo: 36661",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10221,
+      "datetime": "2026-01-28 23:11:58",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36659 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10222,
+      "datetime": "2026-01-28 23:12:19",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1586 - monto: 4000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10223,
+      "datetime": "2026-01-28 23:12:41",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1606 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10224,
+      "datetime": "2026-01-28 23:13:12",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1631 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10225,
+      "datetime": "2026-01-28 23:13:46",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36661 - monto: 1460",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10226,
+      "datetime": "2026-01-28 23:14:23",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1628 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10227,
+      "datetime": "2026-01-28 23:14:46",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1627 - monto: 3600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10228,
+      "datetime": "2026-01-28 23:15:13",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1608 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-28T17:10:55.357596",
+  "timestamp": "2026-01-28T17:17:11.477879",
   "machine_id": "26830028058983"
 }

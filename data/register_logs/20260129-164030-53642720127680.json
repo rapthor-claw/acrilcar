@@ -21591,8 +21591,72 @@
       "activity": "Creo la orden de trabajo: 1636",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10243,
+      "datetime": "2026-01-29 20:04:05",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CARLOS BLANDON ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10244,
+      "datetime": "2026-01-29 20:07:07",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1637",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10245,
+      "datetime": "2026-01-29 21:29:25",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: HECTOR MONTENEGRO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10246,
+      "datetime": "2026-01-29 21:48:28",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36664",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10247,
+      "datetime": "2026-01-29 21:51:25",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: IVAN FLORES AGUILAR",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10248,
+      "datetime": "2026-01-29 21:53:10",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36662",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10249,
+      "datetime": "2026-01-29 21:54:36",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: APOLO CAR",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10250,
+      "datetime": "2026-01-29 21:55:41",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36663",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-29T12:23:16.235196",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-29T16:40:30.070659",
+  "machine_id": "53642720127680"
 }

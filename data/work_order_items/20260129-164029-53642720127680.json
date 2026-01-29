@@ -5911,8 +5911,40 @@
       "services": "['ELAB DE STOP - RUNNER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2818,
+      "work_order_id": 1637,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2819,
+      "work_order_id": 36664,
+      "colaborator_id": 17,
+      "services": "['PULIDO POR DENTRO Y POR FUERA DE 1 FOCO CON MANTENIMIENTO DE CROMO Y OTRO DETALLE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2820,
+      "work_order_id": 36662,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS CON MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2821,
+      "work_order_id": 36663,
+      "colaborator_id": 17,
+      "services": "['CAMBIO DE MICA DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-29T12:23:16.063345",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-29T16:40:29.939076",
+  "machine_id": "53642720127680"
 }

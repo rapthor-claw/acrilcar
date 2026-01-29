@@ -5879,8 +5879,40 @@
       "services": "['ELAB DE STOP - MIRAGE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2814,
+      "work_order_id": 1634,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP Y PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2815,
+      "work_order_id": 1635,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2816,
+      "work_order_id": 36662,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO - MINI COOPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2817,
+      "work_order_id": 1636,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - RUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-29T11:28:12.022676",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-29T12:23:01.138744",
+  "machine_id": "53642720127680"
 }

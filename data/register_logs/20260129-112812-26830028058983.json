@@ -21527,8 +21527,64 @@
       "activity": "Creo la orden de producción: 1633",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10235,
+      "datetime": "2026-01-29 17:16:51",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1632 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10236,
+      "datetime": "2026-01-29 17:17:50",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1592 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10237,
+      "datetime": "2026-01-29 17:24:34",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1619 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10238,
+      "datetime": "2026-01-29 17:25:07",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1633 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10239,
+      "datetime": "2026-01-29 17:25:50",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1612 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10240,
+      "datetime": "2026-01-29 17:26:42",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36655 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10241,
+      "datetime": "2026-01-29 17:27:11",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1611 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-29T11:14:37.904859",
+  "timestamp": "2026-01-29T11:28:12.194515",
   "machine_id": "26830028058983"
 }

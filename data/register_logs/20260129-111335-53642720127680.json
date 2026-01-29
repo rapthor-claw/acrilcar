@@ -21479,8 +21479,56 @@
       "activity": "Ingreso de caja para la orden: 1608 - monto: 2000",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10229,
+      "datetime": "2026-01-29 17:10:14",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: EDUARDO MURILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10230,
+      "datetime": "2026-01-29 17:10:52",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: OMAR CHAVEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10231,
+      "datetime": "2026-01-29 17:12:11",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1632",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10232,
+      "datetime": "2026-01-29 17:12:50",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1633",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10233,
+      "datetime": "2026-01-29 17:12:59",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 1632",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10234,
+      "datetime": "2026-01-29 17:13:05",
+      "username": "Allisson",
+      "activity": "Creo la orden de producción: 1633",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-29T09:02:53.062679",
+  "timestamp": "2026-01-29T11:13:35.542193",
   "machine_id": "53642720127680"
 }

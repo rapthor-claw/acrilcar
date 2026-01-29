@@ -5863,8 +5863,24 @@
       "services": "['CORTE LAMINA ACRILICA DE 5MM']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2812,
+      "work_order_id": 1632,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP PARTE BLANCA - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2813,
+      "work_order_id": 1633,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - MIRAGE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-29T09:02:52.924694",
+  "timestamp": "2026-01-29T11:13:35.420509",
   "machine_id": "53642720127680"
 }

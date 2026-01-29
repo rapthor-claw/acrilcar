@@ -7259,8 +7259,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2665,
+      "name": "EDUARDO MURILLO",
+      "contact_1": "82719644",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2666,
+      "name": "OMAR CHAVEZ",
+      "contact_1": "83849737",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-29T09:02:53.024930",
+  "timestamp": "2026-01-29T11:13:35.513236",
   "machine_id": "53642720127680"
 }

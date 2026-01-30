@@ -7446,8 +7446,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2682,
+      "name": "LUIS QUEVARA",
+      "contact_1": "57350959",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2683,
+      "name": "LARRY GARCIA",
+      "contact_1": "84168250",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2684,
+      "name": "CLAUDIA MEDINA",
+      "contact_1": "58771801",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T12:49:22.315067",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-30T15:54:38.647125",
+  "machine_id": "53642720127680"
 }

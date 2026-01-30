@@ -21823,8 +21823,56 @@
       "activity": "Creo la orden de trabajo: 36670",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10272,
+      "datetime": "2026-01-30 21:38:46",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LUIS QUEVARA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10273,
+      "datetime": "2026-01-30 21:39:08",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LARRY GARCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10274,
+      "datetime": "2026-01-30 21:51:02",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1639",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10275,
+      "datetime": "2026-01-30 21:52:12",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1640",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10276,
+      "datetime": "2026-01-30 21:52:45",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CLAUDIA MEDINA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10277,
+      "datetime": "2026-01-30 21:53:59",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36671",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T12:49:22.346316",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-30T15:54:38.679841",
+  "machine_id": "53642720127680"
 }

@@ -21751,8 +21751,48 @@
       "activity": "Ingreso de caja para la orden: 36665 - monto: 1500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10263,
+      "datetime": "2026-01-30 17:51:36",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36666",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10264,
+      "datetime": "2026-01-30 17:53:37",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36667",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10265,
+      "datetime": "2026-01-30 17:55:18",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36668",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10266,
+      "datetime": "2026-01-30 17:56:48",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: WILLIAM PALMA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10267,
+      "datetime": "2026-01-30 17:57:48",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1638",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T10:50:58.109572",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-30T11:57:53.818815",
+  "machine_id": "53642720127680"
 }

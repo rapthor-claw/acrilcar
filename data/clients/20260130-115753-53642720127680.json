@@ -7380,8 +7380,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2676,
+      "name": "Bayardo Alvendares",
+      "contact_1": "89957466",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2677,
+      "name": "MIMAGEN PUBLICIDAD",
+      "contact_1": "87537043",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2678,
+      "name": "CORPORACION FONT NICARAGUA",
+      "contact_1": "76525062",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2679,
+      "name": "WILLIAM PALMA",
+      "contact_1": "82482103",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T10:50:58.031494",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-30T11:57:53.780035",
+  "machine_id": "53642720127680"
 }

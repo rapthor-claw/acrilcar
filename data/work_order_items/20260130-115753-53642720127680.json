@@ -5951,8 +5951,48 @@
       "services": "['PULIDO DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2823,
+      "work_order_id": 36665,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2824,
+      "work_order_id": 36666,
+      "colaborator_id": 9,
+      "services": "['corte de acrilico']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2825,
+      "work_order_id": 36667,
+      "colaborator_id": 17,
+      "services": "['pulido de focos - hilux']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2826,
+      "work_order_id": 36668,
+      "colaborator_id": 17,
+      "services": "['sellado y limpieza de foco - expresso']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2827,
+      "work_order_id": 1638,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 FOCOS - DFSK']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T10:50:57.890874",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-30T11:57:53.616342",
+  "machine_id": "53642720127680"
 }

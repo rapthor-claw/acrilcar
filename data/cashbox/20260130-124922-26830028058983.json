@@ -15677,8 +15677,47 @@
       "order_id": 36665,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4223,
+      "fecha": "2026-01-30",
+      "descripcion": "GASTOS COMPRA DE TACOS",
+      "monto": 100.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 48,
+      "user_id": "Baker",
+      "order_id": 10623,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4224,
+      "fecha": "2026-01-30",
+      "descripcion": "COMPRA DE SPRAY NEGRO BRILLANTE",
+      "monto": 90.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Baker",
+      "order_id": 10624,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4225,
+      "fecha": "2026-01-30",
+      "descripcion": "COMPRA DE LIJAS 80,150, 320, 360",
+      "monto": 260.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 22,
+      "user_id": "Baker",
+      "order_id": 36213,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T12:15:01.271990",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-30T12:49:22.252558",
+  "machine_id": "26830028058983"
 }

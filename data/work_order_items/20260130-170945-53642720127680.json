@@ -6047,8 +6047,16 @@
       "services": "['ELAB 1 STOP TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2835,
+      "work_order_id": 36672,
+      "colaborator_id": 14,
+      "services": "['VENTA DE 8 METROS DE CABLE PARA PARLANTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T16:39:37.865474",
+  "timestamp": "2026-01-30T17:09:45.585698",
   "machine_id": "53642720127680"
 }

@@ -21951,8 +21951,24 @@
       "activity": "Salida de caja, monto: 300",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10288,
+      "datetime": "2026-01-30 23:08:33",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: GRUPO ROMAX ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10289,
+      "datetime": "2026-01-30 23:09:40",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36672",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T16:39:38.057116",
+  "timestamp": "2026-01-30T17:09:45.737040",
   "machine_id": "53642720127680"
 }

@@ -8337,8 +8337,85 @@
       "note": "ROC 32026 CANCELACION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2670,
+      "work_order_id": 1640,
+      "payment_date": "2026-01-30",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 2900,
+      "note": "ROC 32132 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2671,
+      "work_order_id": 1639,
+      "payment_date": "2026-01-30",
+      "payment_method": "transferencia",
+      "payment": "Baker",
+      "user_log_registration": 3000,
+      "note": "ROC 32133 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2672,
+      "work_order_id": 36650,
+      "payment_date": "2026-01-30",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 2600,
+      "note": "ROC 32134 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2673,
+      "work_order_id": 36671,
+      "payment_date": "2026-01-30",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 280,
+      "note": "ROC 32135 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2674,
+      "work_order_id": 1624,
+      "payment_date": "2026-01-30",
+      "payment_method": "transferencia",
+      "payment": "Baker",
+      "user_log_registration": 4500,
+      "note": "ROC 32136 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2675,
+      "work_order_id": 1633,
+      "payment_date": "2026-01-30",
+      "payment_method": "tarjeta",
+      "payment": "Baker",
+      "user_log_registration": 800,
+      "note": "ROC 32137 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2676,
+      "work_order_id": 36664,
+      "payment_date": "2026-01-30",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 900,
+      "note": "ROC 32138 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T17:09:45.608991",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-01-30T17:09:54.690436",
+  "machine_id": "26830028058983"
 }

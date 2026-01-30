@@ -21791,8 +21791,40 @@
       "activity": "Creo la orden de trabajo: 1638",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10268,
+      "datetime": "2026-01-30 18:11:56",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: COMERCIAL DESHO S,A",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10269,
+      "datetime": "2026-01-30 18:12:09",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: CARLOS  SANCHEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10270,
+      "datetime": "2026-01-30 18:14:15",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36669",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10271,
+      "datetime": "2026-01-30 18:14:54",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36670",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T11:57:53.818815",
+  "timestamp": "2026-01-30T12:15:01.375714",
   "machine_id": "53642720127680"
 }

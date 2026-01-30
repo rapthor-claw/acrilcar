@@ -5991,8 +5991,24 @@
       "services": "['ELAB DE 2 FOCOS - DFSK']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2828,
+      "work_order_id": 36669,
+      "colaborator_id": 9,
+      "services": "['ELAB DE ROTULO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2829,
+      "work_order_id": 36670,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS CON CROMADO - TERCEL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T11:57:53.616342",
+  "timestamp": "2026-01-30T12:15:01.210926",
   "machine_id": "53642720127680"
 }

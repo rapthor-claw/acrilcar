@@ -6031,8 +6031,24 @@
       "services": "['VENTA DE HABLADOR']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2833,
+      "work_order_id": 1641,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2834,
+      "work_order_id": 1642,
+      "colaborator_id": 2,
+      "services": "['ELAB 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T16:36:57.388940",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-30T16:39:37.865474",
+  "machine_id": "53642720127680"
 }

@@ -7512,8 +7512,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2688,
+      "name": "JADELYN SOLIS ",
+      "contact_1": "77649992",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2689,
+      "name": "ANGEL GARCIA ",
+      "contact_1": "84410414",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2690,
+      "name": "VALESKA CASTELLON ",
+      "contact_1": "89156585",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2691,
+      "name": "JOSE GUEVARA ",
+      "contact_1": "86936742",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2692,
+      "name": "MARCEL IBARRA ",
+      "contact_1": "88046809",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2693,
+      "name": "DALI",
+      "contact_1": "83229244",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2694,
+      "name": "GERARDO MOLINA ",
+      "contact_1": "85689858",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T17:09:54.784143",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-31T12:57:30.319232",
+  "machine_id": "53642720127680"
 }

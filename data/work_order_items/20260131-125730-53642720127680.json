@@ -6055,8 +6055,64 @@
       "services": "['VENTA DE 8 METROS DE CABLE PARA PARLANTE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2836,
+      "work_order_id": 36673,
+      "colaborator_id": 17,
+      "services": "['PULIDO 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2837,
+      "work_order_id": 36674,
+      "colaborator_id": 17,
+      "services": "['PULIDO 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2838,
+      "work_order_id": 1643,
+      "colaborator_id": 12,
+      "services": "['ELAB PARTE AFECTADA 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2839,
+      "work_order_id": 1644,
+      "colaborator_id": 4,
+      "services": "['ELAB 1 FOCO Y PULIDO 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2840,
+      "work_order_id": 1645,
+      "colaborator_id": 16,
+      "services": "['ELAB 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2841,
+      "work_order_id": 1646,
+      "colaborator_id": 5,
+      "services": "['ELAB 1 STOP Y 1 TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2842,
+      "work_order_id": 1647,
+      "colaborator_id": 2,
+      "services": "['ELAB 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T17:09:54.659174",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-31T12:57:30.196865",
+  "machine_id": "53642720127680"
 }

@@ -22031,8 +22031,72 @@
       "activity": "Ingreso de caja para la orden: 36664 - monto: 900",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10298,
+      "datetime": "2026-01-31 18:35:29",
+      "username": "Baker",
+      "activity": "Alta de Cliente: MARCEL IBARRA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10299,
+      "datetime": "2026-01-31 18:35:45",
+      "username": "Baker",
+      "activity": "Alta de Cliente: DALI",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10300,
+      "datetime": "2026-01-31 18:36:06",
+      "username": "Baker",
+      "activity": "Alta de Cliente: GERARDO MOLINA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10301,
+      "datetime": "2026-01-31 18:37:56",
+      "username": "Baker",
+      "activity": "Creo la orden de trabajo: 1643",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10302,
+      "datetime": "2026-01-31 18:38:44",
+      "username": "Baker",
+      "activity": "Creo la orden de trabajo: 1644",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10303,
+      "datetime": "2026-01-31 18:53:54",
+      "username": "Baker",
+      "activity": "Creo la orden de trabajo: 1645",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10304,
+      "datetime": "2026-01-31 18:55:51",
+      "username": "Baker",
+      "activity": "Creo la orden de trabajo: 1646",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10305,
+      "datetime": "2026-01-31 18:57:00",
+      "username": "Baker",
+      "activity": "Creo la orden de trabajo: 1647",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-01-30T17:09:54.831000",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-01-31T12:57:30.378942",
+  "machine_id": "53642720127680"
 }

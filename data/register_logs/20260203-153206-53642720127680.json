@@ -23231,8 +23231,88 @@
       "activity": "Creo la orden de trabajo: 1693",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10448,
+      "datetime": "2026-02-03 21:21:31",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MANUEL GURDIAN ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10449,
+      "datetime": "2026-02-03 21:22:04",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ISAAC ROMERO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10450,
+      "datetime": "2026-02-03 21:22:32",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: SERGIO ARAUZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10451,
+      "datetime": "2026-02-03 21:23:01",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ANGELICA RAMIREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10452,
+      "datetime": "2026-02-03 21:26:19",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36675",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10453,
+      "datetime": "2026-02-03 21:27:36",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36676",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10454,
+      "datetime": "2026-02-03 21:28:29",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36677",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10455,
+      "datetime": "2026-02-03 21:29:19",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36678",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10456,
+      "datetime": "2026-02-03 21:30:26",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36679",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10457,
+      "datetime": "2026-02-03 21:31:56",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36680",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-05T15:05:26.486927",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-03T15:32:06.862480",
+  "machine_id": "53642720127680"
 }

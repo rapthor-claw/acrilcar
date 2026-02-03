@@ -8128,8 +8128,52 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2744,
+      "name": "MANUEL GURDIAN ",
+      "contact_1": "77945041",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2745,
+      "name": "ISAAC ROMERO",
+      "contact_1": "58873749",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2746,
+      "name": "SERGIO ARAUZ",
+      "contact_1": "84530861",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2747,
+      "name": "ANGELICA RAMIREZ",
+      "contact_1": "83809506",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-05T15:05:26.377547",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-03T15:32:06.787663",
+  "machine_id": "53642720127680"
 }

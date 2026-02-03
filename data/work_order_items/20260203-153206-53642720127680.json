@@ -6527,8 +6527,56 @@
       "services": "['ELABORACION DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2895,
+      "work_order_id": 36675,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS MAS VENTA DE 2 BUJIAS Y HACER 2 TAPAS DE RINES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2896,
+      "work_order_id": 36676,
+      "colaborator_id": 9,
+      "services": "['BUZON DE 25 CMS.DE ANCHO Y 17 CM DE ALTO X 15 CM DE FONDO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2897,
+      "work_order_id": 36677,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2898,
+      "work_order_id": 36678,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2899,
+      "work_order_id": 36679,
+      "colaborator_id": 9,
+      "services": "['CORTES EN  ACRILICOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2900,
+      "work_order_id": 36680,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 2 PIZARRAS DE 72 CMS. X 54 CM Y ELABORACION DE 2 PIZARRAS DE 6 CM X 54 CM']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-05T15:05:26.143227",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-03T15:32:06.664352",
+  "machine_id": "53642720127680"
 }

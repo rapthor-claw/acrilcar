@@ -6111,8 +6111,80 @@
       "services": "['ELAB 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2843,
+      "work_order_id": 1664,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - TUCSON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2844,
+      "work_order_id": 1665,
+      "colaborator_id": 16,
+      "services": "['ELAB DE PIDE VIA - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2845,
+      "work_order_id": 1666,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 4 STOP Y 2 REFLECTORES - MERCEDES BENZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2846,
+      "work_order_id": 1667,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO - VERSA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2847,
+      "work_order_id": 36681,
+      "colaborator_id": 14,
+      "services": "['VENTA DE 2 LAMINAS DE 3 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2848,
+      "work_order_id": 36682,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 TABLERO- KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2849,
+      "work_order_id": 36683,
+      "colaborator_id": 13,
+      "services": "['CORTE DE 1/2 LAMINA DE PVC 10 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2850,
+      "work_order_id": 1668,
+      "colaborator_id": 12,
+      "services": "['ELAB DE TABLERO - BUS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2851,
+      "work_order_id": 1669,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP - CHEVROLET Y YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-04T10:32:59.110674",
+  "timestamp": "2026-02-04T11:28:21.372712",
   "machine_id": "53642720127680"
 }

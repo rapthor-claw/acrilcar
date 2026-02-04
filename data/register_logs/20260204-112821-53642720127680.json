@@ -22335,8 +22335,176 @@
       "activity": "Salida de caja, monto: 500",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10336,
+      "datetime": "2026-02-04 16:36:11",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LEADER TELLEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10337,
+      "datetime": "2026-02-04 16:36:30",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DIEDRICH CHAVEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10338,
+      "datetime": "2026-02-04 16:36:41",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: INSTSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10339,
+      "datetime": "2026-02-04 16:36:53",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ROGELIO ALANIZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10340,
+      "datetime": "2026-02-04 16:37:21",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FRANCISCO CENTENO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10341,
+      "datetime": "2026-02-04 16:41:25",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1664",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10342,
+      "datetime": "2026-02-04 17:04:38",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1665",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10343,
+      "datetime": "2026-02-04 17:05:44",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1666",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10344,
+      "datetime": "2026-02-04 17:07:31",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1667",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10345,
+      "datetime": "2026-02-04 17:08:40",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36681",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10346,
+      "datetime": "2026-02-04 17:10:25",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36682",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10347,
+      "datetime": "2026-02-04 17:11:29",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36683",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10348,
+      "datetime": "2026-02-04 17:11:45",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DENIS SANCHEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10349,
+      "datetime": "2026-02-04 17:12:57",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1668",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10350,
+      "datetime": "2026-02-04 17:17:28",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36681 - monto: 5214",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10351,
+      "datetime": "2026-02-04 17:21:06",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36682 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10352,
+      "datetime": "2026-02-04 17:23:56",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36683 - monto: 1200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10353,
+      "datetime": "2026-02-04 17:25:18",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1668 - monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10354,
+      "datetime": "2026-02-04 17:26:15",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LUIS ALFREDO CENTENO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10355,
+      "datetime": "2026-02-04 17:27:04",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1669",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10356,
+      "datetime": "2026-02-04 17:28:14",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1668 - monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-04T10:32:59.264323",
+  "timestamp": "2026-02-04T11:28:21.526696",
   "machine_id": "53642720127680"
 }

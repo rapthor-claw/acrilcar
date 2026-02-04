@@ -22503,8 +22503,16 @@
       "activity": "Ingreso de caja para la orden: 1668 - monto: 900",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10357,
+      "datetime": "2026-02-04 17:31:17",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-04T11:28:21.526696",
+  "timestamp": "2026-02-04T14:19:19.246259",
   "machine_id": "53642720127680"
 }

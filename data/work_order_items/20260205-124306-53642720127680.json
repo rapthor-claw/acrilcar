@@ -6183,8 +6183,192 @@
       "services": "['ELAB DE 2 STOP - CHEVROLET Y YARIS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2852,
+      "work_order_id": 36686,
+      "colaborator_id": 9,
+      "services": "['ELAB.DE PULPITO EN ACRILICO TRANSPARENTE DE 10 MM DE ESPESOR. CUERPO 1.20 MTS DE ALTO, 0.40 MTS DE ANCHO X 0.30 MTS DE FONDO TOP DE 60 X 40 CM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2853,
+      "work_order_id": 36687,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS CON MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2854,
+      "work_order_id": 1670,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 2 STOP Y 1 TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2855,
+      "work_order_id": 1671,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2856,
+      "work_order_id": 1672,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 TABLEROS, 2 STOP DE HILUX Y BUS MBENZ MARCOPOLO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2857,
+      "work_order_id": 1674,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 VISOR AHUMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2858,
+      "work_order_id": 1675,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 FOCO CON MANTENIMIENTO DE CROMO CON REP. DE PATA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2859,
+      "work_order_id": 1676,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP + PULIDO DE OTRO SOLO POR FUERA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2860,
+      "work_order_id": 1677,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2861,
+      "work_order_id": 1678,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE MICA DE 1 RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2862,
+      "work_order_id": 1679,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE MICA DE 1 TACOMETRO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2863,
+      "work_order_id": 1680,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 STOP REPARAR PARTE AMARILLA Y ROJA SUPERIOR (NO TOCAR PARTE INFERIOR)']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2864,
+      "work_order_id": 1681,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 STOP TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2865,
+      "work_order_id": 1682,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP Y 1 TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2866,
+      "work_order_id": 1683,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2867,
+      "work_order_id": 1684,
+      "colaborator_id": 4,
+      "services": "['REPARACION DE TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2868,
+      "work_order_id": 1685,
+      "colaborator_id": 16,
+      "services": "['REPARACION DE STOP PARTE BLANCA RAYADO CON MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2869,
+      "work_order_id": 1686,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2870,
+      "work_order_id": 1687,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2871,
+      "work_order_id": 1688,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 4 MICAS DE PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2872,
+      "work_order_id": 1689,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2873,
+      "work_order_id": 1690,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2874,
+      "work_order_id": 1691,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 CAÑUELA Y PINTAR LA OTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-05T11:08:15.448001",
+  "timestamp": "2026-02-05T12:43:06.189781",
   "machine_id": "53642720127680"
 }

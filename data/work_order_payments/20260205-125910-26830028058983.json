@@ -8612,8 +8612,74 @@
       "note": "ROC 32164\nCANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2695,
+      "work_order_id": 1641,
+      "payment_date": "2026-02-03",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1700,
+      "note": "ROC 32154 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2696,
+      "work_order_id": 36679,
+      "payment_date": "2026-02-03",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1095,
+      "note": "ROC 32155 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2697,
+      "work_order_id": 1630,
+      "payment_date": "2026-02-03",
+      "payment_method": "tarjeta",
+      "payment": "Yamileth",
+      "user_log_registration": 1900,
+      "note": "ROC 32156 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2698,
+      "work_order_id": 1642,
+      "payment_date": "2026-02-03",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1700,
+      "note": "ROC 32157 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2699,
+      "work_order_id": 1648,
+      "payment_date": "2026-02-03",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1000,
+      "note": "ROC 32158 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2700,
+      "work_order_id": 36662,
+      "payment_date": "2026-02-03",
+      "payment_method": "efectivo",
+      "payment": "Yamileth",
+      "user_log_registration": 1800,
+      "note": "ROC 32159 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-05T12:43:06.208712",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-02-05T12:59:10.301495",
+  "machine_id": "26830028058983"
 }

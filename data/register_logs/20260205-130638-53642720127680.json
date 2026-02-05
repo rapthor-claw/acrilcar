@@ -22895,8 +22895,24 @@
       "activity": "Creo la orden de trabajo: 1691",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10406,
+      "datetime": "2026-02-05 19:04:53",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALEXANDER DIAZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10407,
+      "datetime": "2026-02-05 19:06:28",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36688",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-05T12:59:10.504603",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-05T13:06:38.429596",
+  "machine_id": "53642720127680"
 }

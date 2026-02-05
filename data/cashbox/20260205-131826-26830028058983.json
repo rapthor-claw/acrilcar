@@ -16691,8 +16691,21 @@
       "order_id": 36662,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4301,
+      "fecha": "2026-02-05",
+      "descripcion": "ROC 32178 CANCELACION ",
+      "monto": 3000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 1681,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-05T13:06:38.357802",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-02-05T13:18:26.409869",
+  "machine_id": "26830028058983"
 }

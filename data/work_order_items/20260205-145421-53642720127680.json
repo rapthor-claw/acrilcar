@@ -6375,8 +6375,160 @@
       "services": "['PULIDO DE 2 FOCOS CON MANTENIMIENTO DE CROMO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2876,
+      "work_order_id": 1648,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2877,
+      "work_order_id": 1649,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2878,
+      "work_order_id": 1650,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 STOP, 1 REFLECTOR DE BOMPER Y REP. BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2879,
+      "work_order_id": 3651,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 STOP PARTE BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2880,
+      "work_order_id": 1652,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2881,
+      "work_order_id": 1653,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2882,
+      "work_order_id": 1654,
+      "colaborator_id": 4,
+      "services": "['ELAB. 1 STOP DE BOMPER CON REP. DE BASE E INST.DE BOMBILLOS EN 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2883,
+      "work_order_id": 1655,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 3  FOCOS TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2884,
+      "work_order_id": 1656,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2885,
+      "work_order_id": 1657,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2886,
+      "work_order_id": 1658,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2887,
+      "work_order_id": 1659,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2888,
+      "work_order_id": 1660,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 STOP PARTE ROJA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2889,
+      "work_order_id": 1661,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2890,
+      "work_order_id": 1662,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2891,
+      "work_order_id": 1663,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2892,
+      "work_order_id": 36689,
+      "colaborator_id": 9,
+      "services": "['VENTA DE LAMINAS ACRILICO DE  3 MM 2 UNIDADES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2893,
+      "work_order_id": 1692,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2894,
+      "work_order_id": 1693,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-05T13:46:52.731557",
+  "timestamp": "2026-02-05T14:54:21.666911",
   "machine_id": "53642720127680"
 }

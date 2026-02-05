@@ -7952,8 +7952,184 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2728,
+      "name": "LUIS LARA",
+      "contact_1": "57035685",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2729,
+      "name": "EMILIO JIMENEZ",
+      "contact_1": "85107974",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2730,
+      "name": "REYNALDO HERNANDEZ",
+      "contact_1": "88869041",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2731,
+      "name": "DENNIS GURDIAN",
+      "contact_1": "86243135",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2732,
+      "name": "JUAN CARLOS MORA TELLEZ",
+      "contact_1": "57768922",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2733,
+      "name": "MARVIN ESPINOZA",
+      "contact_1": "88864038",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2734,
+      "name": "JUAN CARLOS MORENO AGUILAR",
+      "contact_1": "86695853",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2735,
+      "name": "HAMILTON ALEXANDER ",
+      "contact_1": "78897151",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2736,
+      "name": "MICHAEL GUTIERREZ",
+      "contact_1": "89265426",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2737,
+      "name": "JACKSON SOLENCO",
+      "contact_1": "57340535",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2738,
+      "name": "MARIO GRILLO",
+      "contact_1": "86963106",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2739,
+      "name": "VIDAL LAGOS",
+      "contact_1": "58175047",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2740,
+      "name": "GEOVAN RUIZ",
+      "contact_1": "78946585",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2741,
+      "name": "ORLANDO ORTEGA",
+      "contact_1": "82244263",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2742,
+      "name": "YADER VARGAS",
+      "contact_1": "86347051",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2743,
+      "name": "MARIO BARQUERO",
+      "contact_1": "57740977",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-05T13:46:52.861304",
+  "timestamp": "2026-02-05T14:54:21.779931",
   "machine_id": "53642720127680"
 }

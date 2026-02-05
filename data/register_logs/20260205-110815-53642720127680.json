@@ -22511,8 +22511,24 @@
       "activity": "Salida de caja, monto: 100",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10358,
+      "datetime": "2026-02-04 21:39:02",
+      "username": "Allisson",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10359,
+      "datetime": "2026-02-05 17:07:58",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-04T14:19:19.246259",
+  "timestamp": "2026-02-05T11:08:15.598182",
   "machine_id": "53642720127680"
 }

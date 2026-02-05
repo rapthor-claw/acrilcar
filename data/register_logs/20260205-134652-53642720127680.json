@@ -22911,8 +22911,32 @@
       "activity": "Creo la orden de trabajo: 36688",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10408,
+      "datetime": "2026-02-05 19:36:47",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10409,
+      "datetime": "2026-02-05 19:44:51",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10410,
+      "datetime": "2026-02-05 19:45:56",
+      "username": "Allisson",
+      "activity": "Elimino al usuario ID: 14",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-05T13:24:24.693676",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-05T13:46:52.917959",
+  "machine_id": "53642720127680"
 }

@@ -6575,8 +6575,104 @@
       "services": "['ELABORACION DE 2 PIZARRAS DE 72 CMS. X 54 CM Y ELABORACION DE 2 PIZARRAS DE 6 CM X 54 CM']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2901,
+      "work_order_id": 1694,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 PIDEVIA CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2902,
+      "work_order_id": 36690,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS EXPRESS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2903,
+      "work_order_id": 36691,
+      "colaborator_id": 9,
+      "services": "['CORTE DE MAPA DE NICARAGUA EN ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2904,
+      "work_order_id": 1695,
+      "colaborator_id": 16,
+      "services": "['STOP PARTE BLANCA Y ROJO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2905,
+      "work_order_id": 1696,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 PIDEVIA Y MTTO. OTRO CON INST. LED NEON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2906,
+      "work_order_id": 1697,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO DE MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2907,
+      "work_order_id": 1698,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 3 LAMPARAS DE TECHO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2908,
+      "work_order_id": 1699,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2909,
+      "work_order_id": 1700,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2910,
+      "work_order_id": 1701,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2911,
+      "work_order_id": 1702,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS CON REPARACION DE BASE Y ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2912,
+      "work_order_id": 36692,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-06T08:26:32.165360",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-06T15:32:33.189021",
+  "machine_id": "53642720127680"
 }

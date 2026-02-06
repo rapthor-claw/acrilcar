@@ -8172,8 +8172,140 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2748,
+      "name": "EDWIN GARCIA",
+      "contact_1": "85066363",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2749,
+      "name": "RICARDO MORENO",
+      "contact_1": "88765618",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2750,
+      "name": "PRODUCTOS DOÑA ARA",
+      "contact_1": "84012055",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2751,
+      "name": "NORWIN NOVOA",
+      "contact_1": "84132403",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2752,
+      "name": "MANUEL ORTIZ",
+      "contact_1": "83641579",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2753,
+      "name": "ALEXANDER TELLEZ",
+      "contact_1": "83983568",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2754,
+      "name": "DIXON CASTRO",
+      "contact_1": "88543097",
+      "contact_2": "82904443",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2755,
+      "name": "KEVIN VELEZ",
+      "contact_1": "87971073",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2756,
+      "name": "JUAN GUILLERMO FLORES",
+      "contact_1": "78524260",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2757,
+      "name": "DAVID PAYAN",
+      "contact_1": "86610871",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2758,
+      "name": "LEANDRO MAYORGA",
+      "contact_1": "83607766",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2759,
+      "name": "HEYNER PEREZ",
+      "contact_1": "88128277",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-06T08:26:32.352816",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-06T15:32:33.377362",
+  "machine_id": "53642720127680"
 }

@@ -16834,8 +16834,86 @@
       "order_id": 36689,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4312,
+      "fecha": "2026-02-05",
+      "descripcion": "ROC 32188 CANCELACION ",
+      "monto": 300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 36678,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4313,
+      "fecha": "2026-02-05",
+      "descripcion": "ROC 32190 CANCELACION ",
+      "monto": 1700.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 28,
+      "user_id": "Baker",
+      "order_id": 1660,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4314,
+      "fecha": "2026-02-05",
+      "descripcion": "ROC 32191 CANCELACION ",
+      "monto": 1200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 1286,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4315,
+      "fecha": "2026-02-05",
+      "descripcion": "ROC 32192 CANCELACION ",
+      "monto": 800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 36524,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4316,
+      "fecha": "2026-02-05",
+      "descripcion": "ROC 32193 CANCELACION ",
+      "monto": 1100.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 1650,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4317,
+      "fecha": "2026-02-05",
+      "descripcion": "ROC 32186 CANCELACION",
+      "monto": 1800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 34,
+      "user_id": "Baker",
+      "order_id": 1689,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-05T15:49:59.098481",
+  "timestamp": "2026-02-06T07:46:34.518235",
   "machine_id": "26830028058983"
 }

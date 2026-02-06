@@ -6671,8 +6671,16 @@
       "services": "['PULIDO DE 2 HALOGENOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2913,
+      "work_order_id": 36693,
+      "colaborator_id": 9,
+      "services": "['VENTA DE 1 LITRO DE SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-06T16:18:33.283328",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-06T16:48:11.737189",
+  "machine_id": "53642720127680"
 }

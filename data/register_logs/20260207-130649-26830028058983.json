@@ -23631,8 +23631,144 @@
       "activity": "Creo la orden de trabajo: 1703",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10498,
+      "datetime": "2026-02-07 18:31:42",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36695 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10499,
+      "datetime": "2026-02-07 18:32:07",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1688 - monto: 3200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10500,
+      "datetime": "2026-02-07 18:32:23",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1647 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10501,
+      "datetime": "2026-02-07 18:32:37",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1685 - monto: 600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10502,
+      "datetime": "2026-02-07 18:33:04",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10503,
+      "datetime": "2026-02-07 18:33:29",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 120",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10504,
+      "datetime": "2026-02-07 18:34:08",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 90",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10505,
+      "datetime": "2026-02-07 18:34:39",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 330",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10506,
+      "datetime": "2026-02-07 18:54:10",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1695 - monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10507,
+      "datetime": "2026-02-07 18:55:42",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1669 - monto: 4500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10508,
+      "datetime": "2026-02-07 18:56:04",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1659 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10509,
+      "datetime": "2026-02-07 18:57:14",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1678 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10510,
+      "datetime": "2026-02-07 18:57:56",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10511,
+      "datetime": "2026-02-07 18:58:14",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10512,
+      "datetime": "2026-02-07 19:05:40",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10513,
+      "datetime": "2026-02-07 19:05:56",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10514,
+      "datetime": "2026-02-07 19:06:45",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1697 - monto: 1300",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-07T12:31:15.767739",
+  "timestamp": "2026-02-07T13:06:49.092151",
   "machine_id": "26830028058983"
 }

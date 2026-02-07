@@ -17068,8 +17068,34 @@
       "order_id": 36680,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4330,
+      "fecha": "2026-02-07",
+      "descripcion": "ROC 32210\nCANCELACION",
+      "monto": 1250.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 1680,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4331,
+      "fecha": "2026-02-07",
+      "descripcion": "ROC 32211\nCANCELADO",
+      "monto": 2000.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 1346,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-07T12:10:42.133586",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-02-07T12:31:15.673977",
+  "machine_id": "26830028058983"
 }

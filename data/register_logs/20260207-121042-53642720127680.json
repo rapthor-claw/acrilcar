@@ -23607,8 +23607,32 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10495,
+      "datetime": "2026-02-07 16:48:30",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: REPSA ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10496,
+      "datetime": "2026-02-07 16:50:07",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36696",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10497,
+      "datetime": "2026-02-07 17:03:15",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1703",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-07T11:14:06.364512",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-07T12:10:42.213457",
+  "machine_id": "53642720127680"
 }

@@ -8315,8 +8315,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2761,
+      "name": "REPSA ",
+      "contact_1": "78353804",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-07T11:14:06.269942",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-07T12:10:42.178550",
+  "machine_id": "53642720127680"
 }

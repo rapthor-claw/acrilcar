@@ -9118,8 +9118,19 @@
       "note": "ROC 32221\nCANCELADO ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2741,
+      "work_order_id": 36694,
+      "payment_date": "2026-02-07",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1600,
+      "note": "ROC 32220\nCANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-07T13:08:59.299914",
+  "timestamp": "2026-02-07T13:25:18.194277",
   "machine_id": "26830028058983"
 }

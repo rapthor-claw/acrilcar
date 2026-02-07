@@ -8326,8 +8326,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2762,
+      "name": "WILLIAM PICADO",
+      "contact_1": "84026184",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-07T13:06:49.045284",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-07T13:08:36.519758",
+  "machine_id": "53642720127680"
 }

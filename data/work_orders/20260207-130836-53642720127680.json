@@ -11731,8 +11731,22 @@
       "note": null,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2917,
+      "work_order_id": "36694",
+      "start_date": "2026-02-07 13:07",
+      "end_date": "2026-02-07 14:00",
+      "user_id": 13,
+      "client_id": 2762,
+      "colaborador_id": 17,
+      "total_cost": 1600.0,
+      "order_status": "abierta",
+      "note": null,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-07T13:06:48.873428",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-07T13:08:36.312857",
+  "machine_id": "53642720127680"
 }

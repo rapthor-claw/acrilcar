@@ -6703,8 +6703,16 @@
       "services": "['ELABORACION DE 2 FOCOS CON REPARACION DE PATAS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2917,
+      "work_order_id": 36694,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-07T13:06:48.904713",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-07T13:08:36.370121",
+  "machine_id": "53642720127680"
 }

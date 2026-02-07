@@ -23583,8 +23583,24 @@
       "activity": "Ingreso de caja para la orden: 36680 - monto: 5984",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10492,
+      "datetime": "2026-02-06 23:20:37",
+      "username": "Yamileth",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10493,
+      "datetime": "2026-02-07 15:07:37",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-06T16:48:11.890841",
+  "timestamp": "2026-02-07T10:43:19.733082",
   "machine_id": "53642720127680"
 }

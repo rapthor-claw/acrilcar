@@ -9129,8 +9129,96 @@
       "note": "ROC 32220\nCANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2742,
+      "work_order_id": 36697,
+      "payment_date": "2026-02-09",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 1600,
+      "note": "ROC 32224 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2743,
+      "work_order_id": 36688,
+      "payment_date": "2026-02-09",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 1800,
+      "note": "ROC 32225 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2744,
+      "work_order_id": 1699,
+      "payment_date": "2026-02-09",
+      "payment_method": "transferencia",
+      "payment": "Baker",
+      "user_log_registration": 2600,
+      "note": "ROC 32226 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2745,
+      "work_order_id": 1676,
+      "payment_date": "2026-02-09",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 1800,
+      "note": "ROC 32227 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2746,
+      "work_order_id": 1700,
+      "payment_date": "2026-02-09",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 500,
+      "note": "ROC 32228  CANCELACION A DON FRAN ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2747,
+      "work_order_id": 1708,
+      "payment_date": "2026-02-09",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 1200,
+      "note": "ROC 32229 CANCELACION  ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2748,
+      "work_order_id": 1684,
+      "payment_date": "2026-02-09",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 300,
+      "note": "ROC 32230 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2749,
+      "work_order_id": 36698,
+      "payment_date": "2026-02-09",
+      "payment_method": "transferencia",
+      "payment": "Baker",
+      "user_log_registration": 3650,
+      "note": "ROC 32231 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-09T13:47:35.292588",
+  "timestamp": "2026-02-09T13:57:33.478056",
   "machine_id": "26830028058983"
 }

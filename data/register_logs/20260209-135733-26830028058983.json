@@ -23935,8 +23935,72 @@
       "activity": "Creo la orden de trabajo: 1711",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10536,
+      "datetime": "2026-02-09 19:48:11",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36697 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10537,
+      "datetime": "2026-02-09 19:48:50",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36688 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10538,
+      "datetime": "2026-02-09 19:49:34",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1699 - monto: 2600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10539,
+      "datetime": "2026-02-09 19:50:10",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1676 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10540,
+      "datetime": "2026-02-09 19:50:54",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1700 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10541,
+      "datetime": "2026-02-09 19:51:21",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1708 - monto: 1200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10542,
+      "datetime": "2026-02-09 19:51:49",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1684 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10543,
+      "datetime": "2026-02-09 19:52:40",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36698 - monto: 3650",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-09T13:47:35.517563",
+  "timestamp": "2026-02-09T13:57:33.618621",
   "machine_id": "26830028058983"
 }

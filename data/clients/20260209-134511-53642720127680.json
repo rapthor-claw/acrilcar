@@ -8425,8 +8425,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2771,
+      "name": "RAYNER ESPINOZA CASTRO",
+      "contact_1": "8735-1547",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-09T12:22:16.311586",
+  "timestamp": "2026-02-09T13:45:11.455983",
   "machine_id": "53642720127680"
 }

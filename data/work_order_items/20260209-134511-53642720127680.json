@@ -6783,8 +6783,16 @@
       "services": "['ELABORACION DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2927,
+      "work_order_id": 1711,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-09T12:22:16.112369",
+  "timestamp": "2026-02-09T13:45:11.274933",
   "machine_id": "53642720127680"
 }

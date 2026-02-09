@@ -23919,8 +23919,24 @@
       "activity": "Creo la orden de trabajo: 1710",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10534,
+      "datetime": "2026-02-09 19:39:10",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: RAYNER ESPINOZA CASTRO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10535,
+      "datetime": "2026-02-09 19:42:07",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1711",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-09T12:22:16.400543",
+  "timestamp": "2026-02-09T13:45:11.513505",
   "machine_id": "53642720127680"
 }

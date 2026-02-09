@@ -23775,8 +23775,152 @@
       "activity": "Ingreso de caja para la orden: 36694 - monto: 1600",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10516,
+      "datetime": "2026-02-09 17:57:22",
+      "username": "Yamileth",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10517,
+      "datetime": "2026-02-09 18:00:19",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DAVID CARBALLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10518,
+      "datetime": "2026-02-09 18:01:43",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36697",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10519,
+      "datetime": "2026-02-09 18:03:49",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36698",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10520,
+      "datetime": "2026-02-09 18:07:16",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ERICK CARBALLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10521,
+      "datetime": "2026-02-09 18:07:34",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: RICARDO JIMENEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10522,
+      "datetime": "2026-02-09 18:08:03",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JUAN TELLEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10523,
+      "datetime": "2026-02-09 18:08:23",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARLON VARGAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10524,
+      "datetime": "2026-02-09 18:08:44",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ANTONIO SEQUEIRA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10525,
+      "datetime": "2026-02-09 18:09:35",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JHON",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10526,
+      "datetime": "2026-02-09 18:10:40",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1704",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10527,
+      "datetime": "2026-02-09 18:11:36",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1705",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10528,
+      "datetime": "2026-02-09 18:13:58",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1706",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10529,
+      "datetime": "2026-02-09 18:15:07",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1707",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10530,
+      "datetime": "2026-02-09 18:16:28",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1708",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10531,
+      "datetime": "2026-02-09 18:18:13",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1709",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10532,
+      "datetime": "2026-02-09 18:19:11",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ZULMA PATRICIA PEREZ JAIME",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10533,
+      "datetime": "2026-02-09 18:20:36",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1710",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-07T13:25:18.350498",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-09T12:22:16.400543",
+  "machine_id": "53642720127680"
 }

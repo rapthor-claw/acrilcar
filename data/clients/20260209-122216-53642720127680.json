@@ -8337,8 +8337,96 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2763,
+      "name": "DAVID CARBALLO",
+      "contact_1": "85011553",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2764,
+      "name": "ERICK CARBALLO",
+      "contact_1": "89246905",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2765,
+      "name": "RICARDO JIMENEZ",
+      "contact_1": "77838152",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2766,
+      "name": "JUAN TELLEZ",
+      "contact_1": "88183336",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2767,
+      "name": "MARLON VARGAS",
+      "contact_1": "86080375",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2768,
+      "name": "ANTONIO SEQUEIRA",
+      "contact_1": "87960798",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2769,
+      "name": "JHON",
+      "contact_1": "(506) 83103141",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2770,
+      "name": "ZULMA PATRICIA PEREZ JAIME",
+      "contact_1": "84799265",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-07T13:25:18.303628",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-09T12:22:16.311586",
+  "machine_id": "53642720127680"
 }

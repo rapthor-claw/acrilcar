@@ -6711,8 +6711,80 @@
       "services": "['PULIDO DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2918,
+      "work_order_id": 36697,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS CON MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2919,
+      "work_order_id": 36698,
+      "colaborator_id": 9,
+      "services": "['VENTA DE 1 GALON DE SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2920,
+      "work_order_id": 1704,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 FOCOS Y 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2921,
+      "work_order_id": 1705,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2922,
+      "work_order_id": 1706,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 FOCO Y 1 PIDEVIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2923,
+      "work_order_id": 1707,
+      "colaborator_id": 2,
+      "services": "['REPARACION DE 1 STOP CON MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2924,
+      "work_order_id": 1708,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2925,
+      "work_order_id": 1709,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2926,
+      "work_order_id": 1710,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-07T13:25:18.163057",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-09T12:22:16.112369",
+  "machine_id": "53642720127680"
 }

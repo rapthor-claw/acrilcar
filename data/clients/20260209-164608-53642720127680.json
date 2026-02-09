@@ -8436,8 +8436,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2772,
+      "name": "LAURA SANCHEZ",
+      "contact_1": "89862801",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2773,
+      "name": "MICHAEL COLLADO",
+      "contact_1": "87740010",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-09T13:57:33.571779",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-09T16:46:08.389865",
+  "machine_id": "53642720127680"
 }

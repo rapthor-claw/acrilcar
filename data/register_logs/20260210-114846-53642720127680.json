@@ -24055,8 +24055,16 @@
       "activity": "Ingreso de caja para la orden: 1673 - monto: 1800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10551,
+      "datetime": "2026-02-10 17:48:33",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-10T09:22:46.095312",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-10T11:48:46.465038",
+  "machine_id": "53642720127680"
 }

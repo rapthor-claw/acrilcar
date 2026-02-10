@@ -6815,8 +6815,120 @@
       "services": "['ELABORACION DE 1 STOP DE BAUL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2931,
+      "work_order_id": 36699,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2932,
+      "work_order_id": 36701,
+      "colaborator_id": 9,
+      "services": "['REPARACION DE 1 PIEZA DE REFRIGERADORA (GAVETA)']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2933,
+      "work_order_id": 1715,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2934,
+      "work_order_id": 1716,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP PARTE AFECTADA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2935,
+      "work_order_id": 1717,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS TOTALES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2936,
+      "work_order_id": 1718,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2937,
+      "work_order_id": 1719,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2938,
+      "work_order_id": 1720,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2939,
+      "work_order_id": 1721,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP Y CAMBIO DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2940,
+      "work_order_id": 1722,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2941,
+      "work_order_id": 1723,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2942,
+      "work_order_id": 1724,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2943,
+      "work_order_id": 1725,
+      "colaborator_id": 16,
+      "services": "['ELBORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2944,
+      "work_order_id": 1714,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-10T11:48:46.246888",
+  "timestamp": "2026-02-10T15:28:43.426325",
   "machine_id": "53642720127680"
 }

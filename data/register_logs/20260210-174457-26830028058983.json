@@ -24439,8 +24439,40 @@
       "activity": "Ingreso de caja para la orden: 36699 - monto: 800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10599,
+      "datetime": "2026-02-10 22:39:00",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36522 - monto: 6210",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10600,
+      "datetime": "2026-02-10 22:39:38",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36702 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10601,
+      "datetime": "2026-02-10 22:48:19",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1715 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10602,
+      "datetime": "2026-02-10 22:49:14",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1716 - monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-10T16:36:07.647843",
+  "timestamp": "2026-02-10T17:44:57.778866",
   "machine_id": "26830028058983"
 }

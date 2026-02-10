@@ -6807,8 +6807,16 @@
       "services": "['ELABORACION DE 1 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2930,
+      "work_order_id": 1673,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 STOP DE BAUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-10T08:39:17.853260",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-10T08:58:36.552378",
+  "machine_id": "53642720127680"
 }

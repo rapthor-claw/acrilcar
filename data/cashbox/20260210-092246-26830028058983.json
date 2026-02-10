@@ -17484,8 +17484,21 @@
       "order_id": 1704,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4362,
+      "fecha": "2026-02-10",
+      "descripcion": "ROC 32232 CANCELACION ",
+      "monto": 1800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "transferencia",
+      "movimiento_caja": 33,
+      "user_id": "Baker",
+      "order_id": 1673,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-10T09:03:47.134189",
+  "timestamp": "2026-02-10T09:22:46.001584",
   "machine_id": "26830028058983"
 }

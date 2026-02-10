@@ -24343,8 +24343,32 @@
       "activity": "Creo la orden de trabajo: 1714",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10587,
+      "datetime": "2026-02-10 22:20:22",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36522",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10588,
+      "datetime": "2026-02-10 22:21:51",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JOSELING KUANT",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10589,
+      "datetime": "2026-02-10 22:23:30",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36702",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-10T16:05:20.987686",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-10T16:23:39.791176",
+  "machine_id": "53642720127680"
 }

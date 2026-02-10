@@ -6927,8 +6927,24 @@
       "services": "['ELABORACION DE 2 STOP']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2945,
+      "work_order_id": 36522,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 23 HABLADORES TAMAÑO CARTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2946,
+      "work_order_id": 36702,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-10T16:05:20.800265",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-10T16:23:39.576148",
+  "machine_id": "53642720127680"
 }

@@ -8623,8 +8623,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2789,
+      "name": "JOSELING KUANT",
+      "contact_1": "58779877",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-10T16:05:20.940824",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-10T16:23:39.731469",
+  "machine_id": "53642720127680"
 }

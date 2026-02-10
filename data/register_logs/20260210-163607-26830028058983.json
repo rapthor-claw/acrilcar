@@ -24367,8 +24367,80 @@
       "activity": "Creo la orden de trabajo: 36702",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10590,
+      "datetime": "2026-02-10 22:08:52",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1720 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10591,
+      "datetime": "2026-02-10 22:09:25",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36701 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10592,
+      "datetime": "2026-02-10 22:10:30",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1701 - monto: 2400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10593,
+      "datetime": "2026-02-10 22:11:42",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1683 - monto: 3500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10594,
+      "datetime": "2026-02-10 22:12:14",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 35818 - monto: 3100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10595,
+      "datetime": "2026-02-10 22:12:43",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1694 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10596,
+      "datetime": "2026-02-10 22:13:07",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36692 - monto: 1200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10597,
+      "datetime": "2026-02-10 22:13:32",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1707 - monto: 1200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10598,
+      "datetime": "2026-02-10 22:13:57",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36699 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-10T16:23:39.791176",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-02-10T16:36:07.647843",
+  "machine_id": "26830028058983"
 }

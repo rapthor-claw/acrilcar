@@ -9448,8 +9448,19 @@
       "note": "ROC 32252 CANCELACION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2771,
+      "work_order_id": 1710,
+      "payment_date": "2026-02-11",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 3800,
+      "note": "ROC 32253 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-11T08:05:39.328067",
+  "timestamp": "2026-02-11T08:14:45.116441",
   "machine_id": "26830028058983"
 }

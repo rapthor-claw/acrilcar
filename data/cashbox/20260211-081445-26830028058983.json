@@ -17705,8 +17705,21 @@
       "order_id": 1716,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4379,
+      "fecha": "2026-02-11",
+      "descripcion": "ROC 32253 CANCELACION ",
+      "monto": 3800.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 1710,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-11T08:05:39.406173",
+  "timestamp": "2026-02-11T08:14:45.178897",
   "machine_id": "26830028058983"
 }

@@ -24527,8 +24527,48 @@
       "activity": "Creo la orden de trabajo: 1734",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10610,
+      "datetime": "2026-02-11 21:17:21",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36704 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10611,
+      "datetime": "2026-02-11 21:17:48",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1728 - monto: 750",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10612,
+      "datetime": "2026-02-11 21:18:28",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1709 - monto: 1825",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10613,
+      "datetime": "2026-02-11 21:20:26",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36278 - monto: 3900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10614,
+      "datetime": "2026-02-11 21:21:15",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1713 - monto: 2200",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-11T15:16:35.218997",
+  "timestamp": "2026-02-11T15:21:19.774515",
   "machine_id": "26830028058983"
 }

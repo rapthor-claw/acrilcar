@@ -24503,8 +24503,32 @@
       "activity": "Creo la orden de trabajo: 1732",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10607,
+      "datetime": "2026-02-11 21:10:37",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: SERGIO SANDOVAL",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10608,
+      "datetime": "2026-02-11 21:12:05",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1733",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10609,
+      "datetime": "2026-02-11 21:14:17",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1734",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-11T13:28:01.680424",
+  "timestamp": "2026-02-11T15:14:31.735414",
   "machine_id": "53642720127680"
 }

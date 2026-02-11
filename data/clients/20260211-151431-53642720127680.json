@@ -8711,8 +8711,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2797,
+      "name": "SERGIO SANDOVAL",
+      "contact_1": "85355936",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-11T13:28:01.621710",
+  "timestamp": "2026-02-11T15:14:31.696470",
   "machine_id": "53642720127680"
 }

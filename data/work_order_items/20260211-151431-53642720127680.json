@@ -7007,8 +7007,24 @@
       "services": "['ELABORACION DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2955,
+      "work_order_id": 1733,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2956,
+      "work_order_id": 1734,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE  1 STOP DE BAUL Y 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-11T13:28:01.445001",
+  "timestamp": "2026-02-11T15:14:31.587191",
   "machine_id": "53642720127680"
 }

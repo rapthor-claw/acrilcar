@@ -6943,8 +6943,72 @@
       "services": "['PULIDO DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2947,
+      "work_order_id": 1726,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2948,
+      "work_order_id": 1727,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2949,
+      "work_order_id": 36704,
+      "colaborator_id": 17,
+      "services": "['PULIDO DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2950,
+      "work_order_id": 1728,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2951,
+      "work_order_id": 1729,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2952,
+      "work_order_id": 1730,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2953,
+      "work_order_id": 1731,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE 1 ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2954,
+      "work_order_id": 1732,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-11T08:14:45.100791",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-11T13:28:01.445001",
+  "machine_id": "53642720127680"
 }

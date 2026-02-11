@@ -8634,8 +8634,85 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2790,
+      "name": "M T C",
+      "contact_1": "57853073",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2791,
+      "name": "ALFONSO BRICEÑO",
+      "contact_1": "85295448",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2792,
+      "name": "LUIS MENA",
+      "contact_1": "82100400",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2793,
+      "name": "JACKSON TINOCO CAMPOS",
+      "contact_1": "84504931",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2794,
+      "name": "CAIRO CHAVARRIA",
+      "contact_1": "89312073",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2795,
+      "name": "JOSE JAVIER PINEDA",
+      "contact_1": "82576425",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2796,
+      "name": "ALVARO LARGAESPADA",
+      "contact_1": "78607332",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-11T08:14:45.225761",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-11T13:28:01.621710",
+  "machine_id": "53642720127680"
 }

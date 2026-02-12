@@ -7039,8 +7039,88 @@
       "services": "['PULIDO DE 2 FOCOS CON MANTENIMIENTO DE CROMO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2959,
+      "work_order_id": 1735,
+      "colaborator_id": 16,
+      "services": "['ELABORACION PARTE BLANCA DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2960,
+      "work_order_id": 1736,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2961,
+      "work_order_id": 1737,
+      "colaborator_id": 2,
+      "services": "['PARTE AFECTADA ROJA DE 1 STOP DE BOMPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2962,
+      "work_order_id": 1738,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO CON MANTENIMIENTO DE CROMO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2963,
+      "work_order_id": 1740,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 2 STOP REPARACION DE PATAS A SOPORTES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2964,
+      "work_order_id": 1741,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 REFLECTIVO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2965,
+      "work_order_id": 1742,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2966,
+      "work_order_id": 1743,
+      "colaborator_id": 12,
+      "services": "['ELABORACION DE 1 FOCO Y PULIDO DE OTRO Y PIDE VIAS POR FUERA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2967,
+      "work_order_id": 1744,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 STOP Y PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2968,
+      "work_order_id": 36707,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-12T16:31:47.918653",
+  "timestamp": "2026-02-12T16:54:27.531310",
   "machine_id": "26830028058983"
 }

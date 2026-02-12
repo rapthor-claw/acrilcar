@@ -8722,8 +8722,140 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2798,
+      "name": "ELVIN",
+      "contact_1": "84755533",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2799,
+      "name": "SERGIO MERCADO",
+      "contact_1": "85750791",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2800,
+      "name": "JOSE RAMON VELASQUEZ",
+      "contact_1": "75227313",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2801,
+      "name": "ABRAHAM OBANDO",
+      "contact_1": "86552320",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2802,
+      "name": "CARLOS MORA SALINAS",
+      "contact_1": "87187000",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2803,
+      "name": "MANUEL VANEGAS",
+      "contact_1": "58678270",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2804,
+      "name": "DECO ESTUDIO",
+      "contact_1": "81881575",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2805,
+      "name": "ROBERTO PASQUIER",
+      "contact_1": "86321376",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2806,
+      "name": "INVERSIONES ZUM",
+      "contact_1": "86858158",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2807,
+      "name": "MARVIN GARCIA",
+      "contact_1": "76446663",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2808,
+      "name": "NORLAN BALTODANO",
+      "contact_1": "8431037",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2809,
+      "name": "ELIEZER VELASQUEZ",
+      "contact_1": "83615518",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-12T07:59:45.439357",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-12T16:28:34.253396",
+  "machine_id": "53642720127680"
 }

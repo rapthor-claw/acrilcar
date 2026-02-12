@@ -24639,8 +24639,64 @@
       "activity": "Ingreso de caja para la orden: 1712 - monto: 1800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10624,
+      "datetime": "2026-02-12 22:14:49",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MANUEL VANEGAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10625,
+      "datetime": "2026-02-12 22:15:25",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DECO ESTUDIO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10626,
+      "datetime": "2026-02-12 22:16:33",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ROBERTO PASQUIER",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10627,
+      "datetime": "2026-02-12 22:17:12",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: INVERSIONES ZUM",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10628,
+      "datetime": "2026-02-12 22:17:35",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARVIN GARCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10629,
+      "datetime": "2026-02-12 22:18:01",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: NORLAN BALTODANO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10630,
+      "datetime": "2026-02-12 22:19:01",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ELIEZER VELASQUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-12T07:59:45.486249",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-12T16:28:34.316385",
+  "machine_id": "53642720127680"
 }

@@ -18004,8 +18004,34 @@
       "order_id": 1733,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4402,
+      "fecha": "2026-02-13",
+      "descripcion": "ROC 32278 CANCELACION ",
+      "monto": 1500.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 1719,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4403,
+      "fecha": "2026-02-13",
+      "descripcion": "ROC 32279 CANCELACION ",
+      "monto": 1900.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 1675,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-13T17:21:43.250540",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-02-13T17:43:55.119945",
+  "machine_id": "26830028058983"
 }

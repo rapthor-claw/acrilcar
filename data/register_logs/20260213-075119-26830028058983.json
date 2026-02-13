@@ -24791,8 +24791,88 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10643,
+      "datetime": "2026-02-13 13:46:07",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36706 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10644,
+      "datetime": "2026-02-13 13:46:39",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1736 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10645,
+      "datetime": "2026-02-13 13:47:09",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1711 - monto: 3400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10646,
+      "datetime": "2026-02-13 13:47:37",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1703 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10647,
+      "datetime": "2026-02-13 13:48:14",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1725 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10648,
+      "datetime": "2026-02-13 13:48:48",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1740 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10649,
+      "datetime": "2026-02-13 13:49:20",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1741 - monto: 600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10650,
+      "datetime": "2026-02-13 13:50:01",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1735 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10651,
+      "datetime": "2026-02-13 13:50:33",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1727 - monto: 3600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10652,
+      "datetime": "2026-02-13 13:51:05",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1733 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-13T07:44:09.486394",
+  "timestamp": "2026-02-13T07:51:19.003467",
   "machine_id": "26830028058983"
 }

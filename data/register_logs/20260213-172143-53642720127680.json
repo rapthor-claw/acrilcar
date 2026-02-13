@@ -25071,8 +25071,24 @@
       "activity": "Creo la orden de trabajo: 1752",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10678,
+      "datetime": "2026-02-13 23:20:37",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: KELVIN PEREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10679,
+      "datetime": "2026-02-13 23:21:30",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1753",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-13T16:22:27.328189",
+  "timestamp": "2026-02-13T17:21:43.348213",
   "machine_id": "53642720127680"
 }

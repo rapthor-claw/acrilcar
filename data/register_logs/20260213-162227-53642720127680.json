@@ -24871,8 +24871,208 @@
       "activity": "Ingreso de caja para la orden: 1733 - monto: 1700",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10653,
+      "datetime": "2026-02-13 21:34:08",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JEANINA DELGADO ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10654,
+      "datetime": "2026-02-13 21:34:29",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: AIMSA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10655,
+      "datetime": "2026-02-13 21:34:51",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: JUAN BRAVO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10656,
+      "datetime": "2026-02-13 21:35:15",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: MARVIN GONZALEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10657,
+      "datetime": "2026-02-13 21:35:38",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: DIGITAL PRINTING",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10658,
+      "datetime": "2026-02-13 21:36:49",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36708",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10659,
+      "datetime": "2026-02-13 21:40:45",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36709",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10660,
+      "datetime": "2026-02-13 21:41:48",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36710",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10661,
+      "datetime": "2026-02-13 21:52:59",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36711",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10662,
+      "datetime": "2026-02-13 21:54:52",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 36712",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10663,
+      "datetime": "2026-02-13 22:04:53",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: NASSER JUAREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10664,
+      "datetime": "2026-02-13 22:05:29",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: NOEL MACHADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10665,
+      "datetime": "2026-02-13 22:05:49",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALISSON ARROLIGA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10666,
+      "datetime": "2026-02-13 22:06:12",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: SERGIO LOPEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10667,
+      "datetime": "2026-02-13 22:06:53",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: INDACEITE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10668,
+      "datetime": "2026-02-13 22:07:17",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: ALEXIS GARCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10669,
+      "datetime": "2026-02-13 22:07:38",
+      "username": "Yamileth",
+      "activity": "Alta de Cliente: NELSON PAVON",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10670,
+      "datetime": "2026-02-13 22:08:30",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1739",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10671,
+      "datetime": "2026-02-13 22:10:27",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1745",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10672,
+      "datetime": "2026-02-13 22:16:23",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1746",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10673,
+      "datetime": "2026-02-13 22:17:13",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1747",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10674,
+      "datetime": "2026-02-13 22:18:26",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1749",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10675,
+      "datetime": "2026-02-13 22:19:22",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1750",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10676,
+      "datetime": "2026-02-13 22:20:45",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1751",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10677,
+      "datetime": "2026-02-13 22:22:13",
+      "username": "Yamileth",
+      "activity": "Creo la orden de trabajo: 1752",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-13T12:20:22.693510",
+  "timestamp": "2026-02-13T16:22:27.328189",
   "machine_id": "53642720127680"
 }

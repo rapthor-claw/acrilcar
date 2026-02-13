@@ -7119,8 +7119,112 @@
       "services": "['PULIDO DE 1 FOCO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2969,
+      "work_order_id": 36708,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2970,
+      "work_order_id": 36709,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE PIEZA ACRILICA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2971,
+      "work_order_id": 36710,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2972,
+      "work_order_id": 36711,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2973,
+      "work_order_id": 36712,
+      "colaborator_id": 9,
+      "services": "['ELABORACION DE 1 PIEZA ACRILICA  DE AREA DE JUEGO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2974,
+      "work_order_id": 1739,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE STOP DE BAUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2975,
+      "work_order_id": 1745,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 STOP DE BAUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2976,
+      "work_order_id": 1746,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 4 PIDEVIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2977,
+      "work_order_id": 1747,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2978,
+      "work_order_id": 1749,
+      "colaborator_id": 4,
+      "services": "['ELABORACION DE 1 FOCO CON REPARACION DE BASE Y ARO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2979,
+      "work_order_id": 1750,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2980,
+      "work_order_id": 1751,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 REFLECTOR CON REPARACION DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2981,
+      "work_order_id": 1752,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 2 PIDEVIAS AMARILLO RAYADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-13T12:20:22.439858",
+  "timestamp": "2026-02-13T16:22:27.177276",
   "machine_id": "53642720127680"
 }

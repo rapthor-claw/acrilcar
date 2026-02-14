@@ -9723,8 +9723,140 @@
       "note": "ROC 32279 CANCELACION ",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2796,
+      "work_order_id": 1746,
+      "payment_date": "2026-02-14",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 2600,
+      "note": "ROC 32280 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2797,
+      "work_order_id": 36708,
+      "payment_date": "2026-02-14",
+      "payment_method": "tarjeta",
+      "payment": "Baker",
+      "user_log_registration": 1600,
+      "note": "ROC 32281 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2798,
+      "work_order_id": 1747,
+      "payment_date": "2026-02-14",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 1800,
+      "note": "ROC 32282 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2799,
+      "work_order_id": 36712,
+      "payment_date": "2026-02-14",
+      "payment_method": "cheque",
+      "payment": "Baker",
+      "user_log_registration": 7300,
+      "note": "ROC 32283 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2800,
+      "work_order_id": 1750,
+      "payment_date": "2026-02-14",
+      "payment_method": "tarjeta",
+      "payment": "Baker",
+      "user_log_registration": 2800,
+      "note": "ROC 32284 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2801,
+      "work_order_id": 1724,
+      "payment_date": "2026-02-14",
+      "payment_method": "tarjeta",
+      "payment": "Baker",
+      "user_log_registration": 2800,
+      "note": "ROC 32286 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2802,
+      "work_order_id": 1740,
+      "payment_date": "2026-02-14",
+      "payment_method": "transferencia",
+      "payment": "Baker",
+      "user_log_registration": 200,
+      "note": "ROC 32287 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2803,
+      "work_order_id": 36710,
+      "payment_date": "2026-02-14",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 1600,
+      "note": "ROC 32288 CANCELACION REBAJA 100 CORDOBAS POR DON FRAN ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2804,
+      "work_order_id": 1752,
+      "payment_date": "2026-02-14",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 500,
+      "note": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nROC 32289 ADELANTO \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2805,
+      "work_order_id": 1739,
+      "payment_date": "2026-02-14",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 1600,
+      "note": "ROC 32290 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2806,
+      "work_order_id": 1753,
+      "payment_date": "2026-02-14",
+      "payment_method": "tarjeta",
+      "payment": "Baker",
+      "user_log_registration": 4300,
+      "note": "ROC 32291 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2807,
+      "work_order_id": 1726,
+      "payment_date": "2026-02-14",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 2800,
+      "note": "ROC 32292 CANCELACION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-14T08:07:02.050782",
+  "timestamp": "2026-02-14T08:49:35.119454",
   "machine_id": "26830028058983"
 }

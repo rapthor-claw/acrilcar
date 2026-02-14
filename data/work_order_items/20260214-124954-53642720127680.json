@@ -7231,8 +7231,40 @@
       "services": "['ELABORACION DE 2 FOCOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2983,
+      "work_order_id": 36713,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS Y 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2984,
+      "work_order_id": 1754,
+      "colaborator_id": 4,
+      "services": "['INSTALACION DE PANA PARA H4 DE 2 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2985,
+      "work_order_id": 1755,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE 1 FOCO Y 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2986,
+      "work_order_id": 1756,
+      "colaborator_id": 5,
+      "services": "['ELABORACION DE 1 STOP TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-14T09:37:05.275725",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-14T12:49:54.690462",
+  "machine_id": "53642720127680"
 }

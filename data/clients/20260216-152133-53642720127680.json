@@ -9184,8 +9184,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2840,
+      "name": "ARLEN SILVA",
+      "contact_1": "58103475",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-16T13:52:18.827600",
+  "timestamp": "2026-02-16T15:21:33.546801",
   "machine_id": "53642720127680"
 }

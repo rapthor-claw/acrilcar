@@ -25439,8 +25439,40 @@
       "activity": "Creo la orden de trabajo: 36715",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10724,
+      "datetime": "2026-02-16 18:53:04",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ADRIAN GOMEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10725,
+      "datetime": "2026-02-16 18:54:49",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1764",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10726,
+      "datetime": "2026-02-16 19:23:30",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FRANCIS VARGAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10727,
+      "datetime": "2026-02-16 19:29:12",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1765",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-16T12:40:02.816634",
+  "timestamp": "2026-02-16T13:29:18.497918",
   "machine_id": "53642720127680"
 }

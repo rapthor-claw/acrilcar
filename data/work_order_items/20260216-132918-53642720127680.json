@@ -7335,8 +7335,24 @@
       "services": "['PULIDO DE 1 STOP CON REP DE BAUL - BT50']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2996,
+      "work_order_id": 1764,
+      "colaborator_id": 4,
+      "services": "['ELAB DE REFLECTOR - MICROBUS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2997,
+      "work_order_id": 1765,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - SUZUKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-16T12:40:02.598615",
+  "timestamp": "2026-02-16T13:29:18.292120",
   "machine_id": "53642720127680"
 }

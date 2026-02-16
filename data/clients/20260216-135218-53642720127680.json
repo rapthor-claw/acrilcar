@@ -9162,8 +9162,30 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2838,
+      "name": "ADEL PANAMCO",
+      "contact_1": "78552863",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2839,
+      "name": "MARIANO GAITAN",
+      "contact_1": "88552539",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-16T13:29:18.470347",
+  "timestamp": "2026-02-16T13:52:18.827600",
   "machine_id": "53642720127680"
 }

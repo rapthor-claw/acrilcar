@@ -7263,8 +7263,56 @@
       "services": "['ELABORACION DE 1 STOP TOTAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2987,
+      "work_order_id": 36714,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - TOYOTA HIGLINDER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2988,
+      "work_order_id": 1757,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - GRAND I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2989,
+      "work_order_id": 1758,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2990,
+      "work_order_id": 1759,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - AGYA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2991,
+      "work_order_id": 1760,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP- SENTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2992,
+      "work_order_id": 1761,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP PARTE BLANCA - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-16T10:22:25.521602",
+  "timestamp": "2026-02-16T10:37:34.599427",
   "machine_id": "53642720127680"
 }

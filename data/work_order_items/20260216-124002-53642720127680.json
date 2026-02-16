@@ -7311,8 +7311,32 @@
       "services": "['ELAB DE STOP PARTE BLANCA - YARIS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2993,
+      "work_order_id": 1762,
+      "colaborator_id": 2,
+      "services": "['ELAB DE MICA STOP - MONTA CARGA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2994,
+      "work_order_id": 1763,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO - TUCSON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2995,
+      "work_order_id": 36715,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 1 STOP CON REP DE BAUL - BT50']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-16T10:37:34.599427",
+  "timestamp": "2026-02-16T12:40:02.598615",
   "machine_id": "53642720127680"
 }

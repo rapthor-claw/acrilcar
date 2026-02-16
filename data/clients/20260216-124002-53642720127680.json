@@ -9107,8 +9107,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2833,
+      "name": "EQUIPSA",
+      "contact_1": "85248076",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2834,
+      "name": "MARCOS AVENDAÑO",
+      "contact_1": "78442039",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2835,
+      "name": "CARLOS GALEANO",
+      "contact_1": "8385-0311",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-16T10:37:34.699632",
+  "timestamp": "2026-02-16T12:40:02.735392",
   "machine_id": "53642720127680"
 }

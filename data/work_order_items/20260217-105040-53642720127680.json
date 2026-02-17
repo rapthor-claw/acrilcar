@@ -7407,8 +7407,16 @@
       "services": "['PULIDO DE 2 FOCOS , REP EL ARO PINTAR BASE EN NEGRA - MAC']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3005,
+      "work_order_id": 1770,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - DMAX']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-17T10:48:41.962331",
+  "timestamp": "2026-02-17T10:50:40.930163",
   "machine_id": "53642720127680"
 }

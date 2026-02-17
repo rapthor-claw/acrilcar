@@ -9195,8 +9195,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2841,
+      "name": "CARLOS MELENDEZ",
+      "contact_1": "86709380",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2842,
+      "name": "AXEL OLIVAS",
+      "contact_1": "84809482",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2843,
+      "name": "LUIS FELIPE VADO",
+      "contact_1": "87797255",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-17T09:52:39.680364",
+  "timestamp": "2026-02-17T09:59:50.902679",
   "machine_id": "53642720127680"
 }

@@ -25623,8 +25623,64 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10747,
+      "datetime": "2026-02-17 15:54:56",
+      "username": "Baker",
+      "activity": "Alta de Cliente: CARLOS MELENDEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10748,
+      "datetime": "2026-02-17 15:55:25",
+      "username": "Baker",
+      "activity": "Alta de Cliente: AXEL OLIVAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10749,
+      "datetime": "2026-02-17 15:55:38",
+      "username": "Baker",
+      "activity": "Alta de Cliente: LUIS FELIPE VADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10750,
+      "datetime": "2026-02-17 15:57:13",
+      "username": "Baker",
+      "activity": "Creo la orden de trabajo: 1769",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10751,
+      "datetime": "2026-02-17 15:58:04",
+      "username": "Baker",
+      "activity": "Creo la orden de trabajo: 36716",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10752,
+      "datetime": "2026-02-17 15:59:04",
+      "username": "Baker",
+      "activity": "Creo la orden de trabajo: 36717",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10753,
+      "datetime": "2026-02-17 15:59:42",
+      "username": "Baker",
+      "activity": "Creo la orden de trabajo: 36718",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-17T09:52:39.763810",
+  "timestamp": "2026-02-17T09:59:50.981482",
   "machine_id": "53642720127680"
 }

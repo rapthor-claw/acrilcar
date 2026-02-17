@@ -9294,8 +9294,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2850,
+      "name": "ANABEL MARIN",
+      "contact_1": "0",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-17T14:08:41.887118",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-17T15:02:43.437701",
+  "machine_id": "53642720127680"
 }

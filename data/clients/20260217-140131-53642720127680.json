@@ -9239,8 +9239,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2845,
+      "name": "MARCOS MARADIAGA",
+      "contact_1": "8484-3065",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2846,
+      "name": "WILBER PALACIOS",
+      "contact_1": "8817-5612",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2847,
+      "name": "JAIRO CARCAMO",
+      "contact_1": "8679-3733",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2848,
+      "name": "MARIO OPORTA",
+      "contact_1": "89246609",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2849,
+      "name": "LINDERMAN LAINES",
+      "contact_1": "88856192",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-17T11:29:02.449009",
+  "timestamp": "2026-02-17T14:01:31.083024",
   "machine_id": "53642720127680"
 }

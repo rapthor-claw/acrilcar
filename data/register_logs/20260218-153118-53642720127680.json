@@ -26255,8 +26255,16 @@
       "activity": "Creo la orden de trabajo: 1788",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10826,
+      "datetime": "2026-02-18 21:31:11",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1753",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-18T14:01:56.199881",
+  "timestamp": "2026-02-18T15:31:18.140264",
   "machine_id": "53642720127680"
 }

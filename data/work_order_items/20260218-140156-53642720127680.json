@@ -7575,8 +7575,24 @@
       "services": "['ELAB DE STOP ZNA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3026,
+      "work_order_id": 1787,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - MBENZ 3000', 'TINTEADO DE 3 STOP 2000']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3027,
+      "work_order_id": 1788,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP PARTE ROJA - PREGIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-18T13:57:41.242377",
+  "timestamp": "2026-02-18T14:01:56.019126",
   "machine_id": "53642720127680"
 }

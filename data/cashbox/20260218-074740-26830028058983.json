@@ -18537,8 +18537,21 @@
       "order_id": 1730,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4443,
+      "fecha": "2026-02-17",
+      "descripcion": "ROC 32315 RETENCION ",
+      "monto": 24.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Baker",
+      "order_id": 1745,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-17T15:02:43.388962",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-02-18T07:47:40.899110",
+  "machine_id": "26830028058983"
 }

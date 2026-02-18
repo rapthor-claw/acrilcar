@@ -10152,8 +10152,19 @@
       "note": "ROC 32320 CANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2835,
+      "work_order_id": 1745,
+      "payment_date": "2026-02-17",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 24,
+      "note": "ROC 32315 RETENCION ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-17T15:02:43.342398",
-  "machine_id": "53642720127680"
+  "timestamp": "2026-02-18T07:47:40.836602",
+  "machine_id": "26830028058983"
 }

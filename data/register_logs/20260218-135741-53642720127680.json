@@ -26143,8 +26143,96 @@
       "activity": "Creo la orden de trabajo: 1786",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10812,
+      "datetime": "2026-02-18 19:26:00",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36722 - monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10813,
+      "datetime": "2026-02-18 19:29:43",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1762 - monto: 1300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10814,
+      "datetime": "2026-02-18 19:30:16",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1754 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10815,
+      "datetime": "2026-02-18 19:30:51",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1780 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10816,
+      "datetime": "2026-02-18 19:47:28",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1780 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10817,
+      "datetime": "2026-02-18 19:48:31",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1782 - monto: 1200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10818,
+      "datetime": "2026-02-18 19:51:18",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1783 - monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10819,
+      "datetime": "2026-02-18 19:53:08",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1784 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10820,
+      "datetime": "2026-02-18 19:53:47",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1767 - monto: 1300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10821,
+      "datetime": "2026-02-18 19:54:28",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1785 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10822,
+      "datetime": "2026-02-18 19:57:13",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1786 - monto: 2500",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-18T12:29:54.922938",
+  "timestamp": "2026-02-18T13:57:41.400843",
   "machine_id": "53642720127680"
 }

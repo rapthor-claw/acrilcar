@@ -7463,8 +7463,120 @@
       "services": "['REP DE CARCASA - YARIS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3012,
+      "work_order_id": 36722,
+      "colaborator_id": 9,
+      "services": "['ELAB DE 1 PIZARRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3013,
+      "work_order_id": 36724,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - EON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3014,
+      "work_order_id": 1774,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO CON REP DE BASE - JMC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3015,
+      "work_order_id": 1776,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP Y 1 FOCO - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3016,
+      "work_order_id": 1777,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP - CHANGEI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3017,
+      "work_order_id": 1778,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3018,
+      "work_order_id": 1779,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - VERNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3019,
+      "work_order_id": 1780,
+      "colaborator_id": 5,
+      "services": "['CAMBIO DE MICA DE 1 RETROVISOR - SWIFT DZIRE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3020,
+      "work_order_id": 1781,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - AGYA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3021,
+      "work_order_id": 1782,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3022,
+      "work_order_id": 1783,
+      "colaborator_id": 4,
+      "services": "['ELAB DE MICA DE TABLERO - SEPHIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3023,
+      "work_order_id": 1784,
+      "colaborator_id": 16,
+      "services": "['ELAB DE FOCO REP DE BASE Y MTTO DE CROMO - FOTON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3024,
+      "work_order_id": 1785,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP - I20']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3025,
+      "work_order_id": 1786,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP ZNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-18T10:53:17.388522",
+  "timestamp": "2026-02-18T12:29:54.568307",
   "machine_id": "53642720127680"
 }

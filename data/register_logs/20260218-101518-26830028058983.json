@@ -25879,8 +25879,72 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10779,
+      "datetime": "2026-02-18 13:56:13",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36721 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10780,
+      "datetime": "2026-02-18 13:58:01",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1761 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10781,
+      "datetime": "2026-02-18 13:58:35",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36714 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10782,
+      "datetime": "2026-02-18 13:59:00",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1751 - monto: 2600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10783,
+      "datetime": "2026-02-18 13:59:58",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1766 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10784,
+      "datetime": "2026-02-18 14:00:28",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36716 - monto: 600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10785,
+      "datetime": "2026-02-18 14:17:55",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1762 - monto: 1300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10786,
+      "datetime": "2026-02-18 15:14:45",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1754 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-18T07:47:41.039677",
+  "timestamp": "2026-02-18T10:15:18.655023",
   "machine_id": "26830028058983"
 }

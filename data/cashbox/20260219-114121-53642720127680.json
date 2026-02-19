@@ -18940,8 +18940,73 @@
       "order_id": 1765,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4474,
+      "fecha": "2026-02-19",
+      "descripcion": "ROC 32350\nCANCELADO",
+      "monto": 2555.0,
+      "tipo": "ingreso",
+      "metodo_pago": "tarjeta",
+      "movimiento_caja": 45,
+      "user_id": "Allisson",
+      "order_id": 36728,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4475,
+      "fecha": "2026-02-19",
+      "descripcion": "ROC 32351\nCANCELADO",
+      "monto": 250.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 1795,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4476,
+      "fecha": "2026-02-19",
+      "descripcion": "ROC 32352\nCANCELADO",
+      "monto": 2300.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 1763,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4477,
+      "fecha": "2026-02-19",
+      "descripcion": "ROC 32353\nCANCELADO",
+      "monto": 1400.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 1779,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4478,
+      "fecha": "2026-02-19",
+      "descripcion": "ROC 32354\nCANCELADO",
+      "monto": 2200.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 1723,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-19T11:27:33.161941",
+  "timestamp": "2026-02-19T11:41:21.615277",
   "machine_id": "53642720127680"
 }

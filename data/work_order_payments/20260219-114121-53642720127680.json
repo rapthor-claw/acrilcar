@@ -10493,8 +10493,63 @@
       "note": "ROC 32349\nCANCELADO",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2866,
+      "work_order_id": 36728,
+      "payment_date": "2026-02-19",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 2555,
+      "note": "ROC 32350\nCANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2867,
+      "work_order_id": 1795,
+      "payment_date": "2026-02-19",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 250,
+      "note": "ROC 32351\nCANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2868,
+      "work_order_id": 1763,
+      "payment_date": "2026-02-19",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 2300,
+      "note": "ROC 32352\nCANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2869,
+      "work_order_id": 1779,
+      "payment_date": "2026-02-19",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1400,
+      "note": "ROC 32353\nCANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2870,
+      "work_order_id": 1723,
+      "payment_date": "2026-02-19",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 2200,
+      "note": "ROC 32354\nCANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-19T11:27:33.116383",
+  "timestamp": "2026-02-19T11:41:21.567040",
   "machine_id": "53642720127680"
 }

@@ -9437,8 +9437,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2863,
+      "name": "JOSE ERNESTO UMAÑA CARRION",
+      "contact_1": "84001355",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2864,
+      "name": "SERGIO OROZCO",
+      "contact_1": "87502315",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2865,
+      "name": "DACOTRANS NICARAGUA S.A",
+      "contact_1": "86335531",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2866,
+      "name": "FERNANDO FARGAS",
+      "contact_1": "82129511",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2867,
+      "name": "YAHOSKA AGUIRRE",
+      "contact_1": "87887379",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2868,
+      "name": "ALSOLSA",
+      "contact_1": "88936051",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-19T08:04:09.672583",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-19T11:17:33.391667",
+  "machine_id": "53642720127680"
 }

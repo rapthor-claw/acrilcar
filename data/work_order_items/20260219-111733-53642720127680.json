@@ -7591,8 +7591,96 @@
       "services": "['REP DE STOP PARTE ROJA - PREGIO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3028,
+      "work_order_id": 1789,
+      "colaborator_id": 16,
+      "services": "['REP DE STOP PARTE AMARILLA - MONTERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3029,
+      "work_order_id": 36727,
+      "colaborator_id": 9,
+      "services": "['CORTE Y FABRICACIÓN DE RÓTULOS MONSTER CON LETRAS DE CAJUELA CON 80LED 110V']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3030,
+      "work_order_id": 36728,
+      "colaborator_id": 9,
+      "services": "['ELAB DE LETRAS CENTRO DE LLANTAS, TRAJO LAMINAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3031,
+      "work_order_id": 1790,
+      "colaborator_id": 5,
+      "services": "['REP DE 2 STOP PARTE AFECTADA CON REP DE BASE AMARILLO/BLANCO - MAHINDRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3032,
+      "work_order_id": 1791,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - KAWASAKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3033,
+      "work_order_id": 1792,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 PIEZAS ACRILICAS - MERCEDES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3034,
+      "work_order_id": 1793,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - 1800', 'PULIDO DE FOCO 600 - HINO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3035,
+      "work_order_id": 1794,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - KIA PRIDE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3036,
+      "work_order_id": 1795,
+      "colaborator_id": 5,
+      "services": "['ELAB DE VISOR TRANSPARENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3037,
+      "work_order_id": 1796,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3038,
+      "work_order_id": 1797,
+      "colaborator_id": 12,
+      "services": "['ELAB DE PIDE VIA - HD65']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-19T08:04:09.516369",
-  "machine_id": "26830028058983"
+  "timestamp": "2026-02-19T11:17:33.223797",
+  "machine_id": "53642720127680"
 }

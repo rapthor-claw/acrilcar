@@ -26263,8 +26263,24 @@
       "activity": "Cerro la orden: 1753",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10827,
+      "datetime": "2026-02-19 00:28:13",
+      "username": "Baker",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10828,
+      "datetime": "2026-02-19 13:59:27",
+      "username": "Baker",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-18T18:28:07.546012",
+  "timestamp": "2026-02-19T08:04:09.751881",
   "machine_id": "26830028058983"
 }

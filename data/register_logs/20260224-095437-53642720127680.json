@@ -26551,8 +26551,48 @@
       "activity": "Ingreso de caja para la orden: 1723 - monto: 2200",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10863,
+      "datetime": "2026-02-19 20:28:47",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: BYRON CASTRO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10864,
+      "datetime": "2026-02-19 21:08:24",
+      "username": "Allisson",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10865,
+      "datetime": "2026-02-20 20:17:21",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10866,
+      "datetime": "2026-02-21 00:02:28",
+      "username": "Allisson",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10867,
+      "datetime": "2026-02-24 15:54:26",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-19T11:41:21.707524",
+  "timestamp": "2026-02-24T09:54:37.513225",
   "machine_id": "53642720127680"
 }

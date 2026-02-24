@@ -9503,8 +9503,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2869,
+      "name": "BYRON CASTRO",
+      "contact_1": "88526968",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-19T11:41:21.669594",
+  "timestamp": "2026-02-24T09:54:37.461185",
   "machine_id": "53642720127680"
 }

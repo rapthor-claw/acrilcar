@@ -26591,8 +26591,544 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10868,
+      "datetime": "2026-02-24 15:57:52",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: OSWALDO ZAMORA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10869,
+      "datetime": "2026-02-24 15:58:22",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: SHE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10870,
+      "datetime": "2026-02-24 15:58:36",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MILTON RODRIGUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10871,
+      "datetime": "2026-02-24 15:58:57",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DIMITRY ERANKEVICH",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10872,
+      "datetime": "2026-02-24 15:59:16",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: EL CHANTE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10873,
+      "datetime": "2026-02-24 15:59:36",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: AXEL ESTRADA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10874,
+      "datetime": "2026-02-24 15:59:55",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: GUILLERMO PANIAGUA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10875,
+      "datetime": "2026-02-24 16:00:09",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LUIS SEQUEIRA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10876,
+      "datetime": "2026-02-24 16:00:26",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: SILVIA SAAVEDRA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10877,
+      "datetime": "2026-02-24 16:00:44",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: IGLESIA MISIONERA LUZ A LAS NACIONES A/D",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10878,
+      "datetime": "2026-02-24 16:01:00",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: EUGENIO MEDINA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10879,
+      "datetime": "2026-02-24 16:03:14",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36729",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10880,
+      "datetime": "2026-02-24 16:05:01",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36730",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10881,
+      "datetime": "2026-02-24 16:05:41",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36731",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10882,
+      "datetime": "2026-02-24 16:06:30",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36732",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10883,
+      "datetime": "2026-02-24 16:07:49",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36733",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10884,
+      "datetime": "2026-02-24 16:08:48",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36734",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10885,
+      "datetime": "2026-02-24 16:09:23",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36735",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10886,
+      "datetime": "2026-02-24 16:10:00",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36736",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10887,
+      "datetime": "2026-02-24 16:10:43",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36737",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10888,
+      "datetime": "2026-02-24 16:11:26",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36738",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10889,
+      "datetime": "2026-02-24 16:12:16",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36739",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10890,
+      "datetime": "2026-02-24 16:12:55",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36740",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10891,
+      "datetime": "2026-02-24 16:15:20",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1798",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10892,
+      "datetime": "2026-02-24 16:15:41",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: BYRON CASTRO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10893,
+      "datetime": "2026-02-24 16:15:52",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ISIDRO URROZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10894,
+      "datetime": "2026-02-24 16:16:09",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MULTISERVICIOS DE NICARAGUA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10895,
+      "datetime": "2026-02-24 16:16:24",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: BAYARDO MALESPIN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10896,
+      "datetime": "2026-02-24 16:16:42",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: BRANDON MENDOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10897,
+      "datetime": "2026-02-24 16:17:00",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JOSE JAVIER TORREZ AVALOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10898,
+      "datetime": "2026-02-24 16:17:12",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MAURICIO ROA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10899,
+      "datetime": "2026-02-24 16:17:28",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ARIEL TERAN",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10900,
+      "datetime": "2026-02-24 16:17:43",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JONATHAN HERNANDEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10901,
+      "datetime": "2026-02-24 16:17:54",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MICHAEL RUEDA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10902,
+      "datetime": "2026-02-24 16:18:09",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ERNESTO TOLEDO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10903,
+      "datetime": "2026-02-24 16:18:22",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MISAEL ROBLETO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10904,
+      "datetime": "2026-02-24 16:18:35",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JORGE MENDIETA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10905,
+      "datetime": "2026-02-24 16:18:53",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JULIO ESPINOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10906,
+      "datetime": "2026-02-24 16:19:05",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: TALLER MOJICA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10907,
+      "datetime": "2026-02-24 16:19:44",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: LUDUIN URRUTIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10908,
+      "datetime": "2026-02-24 16:19:56",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARIO CRUZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10909,
+      "datetime": "2026-02-24 16:20:07",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MILTON MEJIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10910,
+      "datetime": "2026-02-24 16:20:31",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: BAYARDO CORTEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10911,
+      "datetime": "2026-02-24 16:20:48",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FELIX TRUJILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10912,
+      "datetime": "2026-02-24 16:21:05",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JAMES ALVARADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10913,
+      "datetime": "2026-02-24 16:22:48",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1799",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10914,
+      "datetime": "2026-02-24 16:23:24",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10915,
+      "datetime": "2026-02-24 16:24:00",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1801",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10916,
+      "datetime": "2026-02-24 16:24:44",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1802",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10917,
+      "datetime": "2026-02-24 16:25:19",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1803",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10918,
+      "datetime": "2026-02-24 16:26:00",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1804",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10919,
+      "datetime": "2026-02-24 16:26:39",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1805",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10920,
+      "datetime": "2026-02-24 16:27:27",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1806",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10921,
+      "datetime": "2026-02-24 16:28:07",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1807",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10922,
+      "datetime": "2026-02-24 16:28:56",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1808",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10923,
+      "datetime": "2026-02-24 16:29:36",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1809",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10924,
+      "datetime": "2026-02-24 16:30:22",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1810",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10925,
+      "datetime": "2026-02-24 16:30:57",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1811",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10926,
+      "datetime": "2026-02-24 16:31:29",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1812",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10927,
+      "datetime": "2026-02-24 16:32:14",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1813",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10928,
+      "datetime": "2026-02-24 16:32:56",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1814",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10929,
+      "datetime": "2026-02-24 16:33:46",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1815",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10930,
+      "datetime": "2026-02-24 16:34:53",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1816",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10931,
+      "datetime": "2026-02-24 16:35:40",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1818",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10932,
+      "datetime": "2026-02-24 16:36:20",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1819",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10933,
+      "datetime": "2026-02-24 16:37:25",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1820",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10934,
+      "datetime": "2026-02-24 16:38:15",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1821",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-24T09:54:37.513225",
+  "timestamp": "2026-02-24T10:38:20.165618",
   "machine_id": "53642720127680"
 }

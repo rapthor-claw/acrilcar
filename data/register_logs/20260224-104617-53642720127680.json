@@ -27127,8 +27127,24 @@
       "activity": "Creo la orden de trabajo: 1821",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 10935,
+      "datetime": "2026-02-24 16:38:26",
+      "username": "Allisson",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 10936,
+      "datetime": "2026-02-24 16:43:58",
+      "username": "Baker",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-24T10:38:20.165618",
+  "timestamp": "2026-02-24T10:46:17.503416",
   "machine_id": "53642720127680"
 }

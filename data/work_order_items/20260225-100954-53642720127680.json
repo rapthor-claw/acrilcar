@@ -7967,8 +7967,72 @@
       "services": "['ELAB1 FOCO Y 2 PIDEVIAS CON MANTENIMIENTO DE CROMO DE 2 HALOGENOS']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3075,
+      "work_order_id": 1822,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP PARTE ROJA - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3076,
+      "work_order_id": 1823,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 FOCO - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3077,
+      "work_order_id": 1825,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 HALOGENO/FOCO - CHEVROLET GROOVE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3078,
+      "work_order_id": 1826,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - CHERY']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3079,
+      "work_order_id": 1827,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 FOCOS - MORNING']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3080,
+      "work_order_id": 1828,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP BAUL - KIA 1200C$', 'PULIDO DE 1 STOP C$200', 'ENVIO MAYOREO C$ 200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3081,
+      "work_order_id": 1829,
+      "colaborator_id": 16,
+      "services": "['REP DE STOP PARTE AFECTADA - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3082,
+      "work_order_id": 1830,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO CON REP DE PATAS - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-25T09:54:39.599136",
+  "timestamp": "2026-02-25T10:09:54.428452",
   "machine_id": "53642720127680"
 }

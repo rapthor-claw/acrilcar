@@ -9866,8 +9866,118 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2902,
+      "name": "4M COMERCIAL S,A",
+      "contact_1": "8741-5008",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2903,
+      "name": "RAMON GARCIA",
+      "contact_1": "78679645",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2904,
+      "name": "MARIA TERESA SEQUEIRA",
+      "contact_1": "89931062",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2905,
+      "name": "MARIA CRISTINA CARVAJAL",
+      "contact_1": "8956-9823",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2906,
+      "name": "JENNY GOMEZ",
+      "contact_1": "81294241",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2907,
+      "name": "JOSE",
+      "contact_1": "57233681",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2908,
+      "name": "CESAR LEIVA",
+      "contact_1": "8339-0662",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2909,
+      "name": "ADONIS HERRERA",
+      "contact_1": "8901-9398",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2910,
+      "name": "FLOR DE MARIA BALDIZON AMAYA",
+      "contact_1": "8733-5265",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2911,
+      "name": "JULIO ALEMAN",
+      "contact_1": "86762781",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-25T09:54:39.796909",
+  "timestamp": "2026-02-25T10:09:54.565922",
   "machine_id": "53642720127680"
 }

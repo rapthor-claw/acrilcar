@@ -8047,8 +8047,120 @@
       "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO - KIA SPORTAGE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3085,
+      "work_order_id": 1831,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP- TOYOTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3086,
+      "work_order_id": 1832,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO - NISSAN FRONTIER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3087,
+      "work_order_id": 1833,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP REP - KIA PRIDE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3088,
+      "work_order_id": 1834,
+      "colaborator_id": 16,
+      "services": "['REP DE STOP PARTE BLANCA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3089,
+      "work_order_id": 1835,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HYUNDAI ACCENT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3090,
+      "work_order_id": 1836,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO - GIXXER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3091,
+      "work_order_id": 1837,
+      "colaborator_id": 12,
+      "services": "['ELAB DE PIDE VIA - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3092,
+      "work_order_id": 1838,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP TOTAL - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3093,
+      "work_order_id": 1839,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - AGYA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3094,
+      "work_order_id": 36743,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE FOCO - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3095,
+      "work_order_id": 36744,
+      "colaborator_id": 13,
+      "services": "['SELLADO DE 1 FOCO CON MTTO DE CROMO LED ROJA EN FORMA DE L - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3096,
+      "work_order_id": 36745,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO - DYNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3097,
+      "work_order_id": 36746,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS Y 2 HALOGENOS - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3098,
+      "work_order_id": 36747,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-26T11:07:37.341665",
+  "timestamp": "2026-02-26T12:22:40.676862",
   "machine_id": "53642720127680"
 }

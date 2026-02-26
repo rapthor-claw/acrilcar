@@ -9976,8 +9976,151 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2912,
+      "name": "JORGE ORTEGA",
+      "contact_1": "84090193",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2913,
+      "name": "HECTOR MANUEL OSEJO",
+      "contact_1": "84175841",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2914,
+      "name": "DANIEL OSORIO",
+      "contact_1": "76035688",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2915,
+      "name": "MOISES MERCADO",
+      "contact_1": "89516709",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2916,
+      "name": "YUDIT ELIET FONSECA PASQUIER",
+      "contact_1": "76628710",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2917,
+      "name": "PEDRO NARVAEZ",
+      "contact_1": "86841715",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2918,
+      "name": "LUIS URBINA",
+      "contact_1": "88673991",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2919,
+      "name": "CARLOS BARRERA",
+      "contact_1": "84387104",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2920,
+      "name": "DARWIN CENTENO",
+      "contact_1": "89332425",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2921,
+      "name": "VICTOR ROSALES",
+      "contact_1": "77304819",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2922,
+      "name": "LESTHER SOBALVARRO",
+      "contact_1": "57552673",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2923,
+      "name": "EDWIN DUARTE",
+      "contact_1": "57692138",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 2924,
+      "name": "HEYNER MENDOZA",
+      "contact_1": "88469406",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-26T11:07:37.516137",
+  "timestamp": "2026-02-26T12:22:40.801637",
   "machine_id": "53642720127680"
 }

@@ -27655,8 +27655,136 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11001,
+      "datetime": "2026-02-25 18:21:14",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1818 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11002,
+      "datetime": "2026-02-25 18:22:02",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1804 - monto: 2050",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11003,
+      "datetime": "2026-02-25 18:25:29",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36741 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11004,
+      "datetime": "2026-02-25 18:26:28",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1826 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11005,
+      "datetime": "2026-02-25 18:27:36",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1807 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11006,
+      "datetime": "2026-02-25 19:01:57",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1809 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11007,
+      "datetime": "2026-02-25 19:07:23",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1792 - monto: 1300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11008,
+      "datetime": "2026-02-25 19:11:27",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1828 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11009,
+      "datetime": "2026-02-25 19:17:11",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1830 - monto: 2300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11010,
+      "datetime": "2026-02-25 19:17:45",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1812 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11011,
+      "datetime": "2026-02-25 19:18:30",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1819 - monto: 3800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11012,
+      "datetime": "2026-02-25 19:24:56",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36733 - monto: 4263",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11013,
+      "datetime": "2026-02-25 19:28:11",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1808 - monto: 3500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11014,
+      "datetime": "2026-02-25 19:28:49",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36734 - monto: 2560",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11015,
+      "datetime": "2026-02-25 23:41:41",
+      "username": "Baker",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11016,
+      "datetime": "2026-02-26 15:24:44",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-25T10:29:14.338551",
+  "timestamp": "2026-02-26T11:07:37.595311",
   "machine_id": "53642720127680"
 }

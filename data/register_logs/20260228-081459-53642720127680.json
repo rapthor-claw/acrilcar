@@ -28167,8 +28167,80 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11065,
+      "datetime": "2026-02-28 14:02:44",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1810 - monto: 3200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11066,
+      "datetime": "2026-02-28 14:03:45",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1826 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11067,
+      "datetime": "2026-02-28 14:04:29",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36745 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11068,
+      "datetime": "2026-02-28 14:04:56",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1835 - monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11069,
+      "datetime": "2026-02-28 14:05:56",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1831 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11070,
+      "datetime": "2026-02-28 14:07:27",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1814 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11071,
+      "datetime": "2026-02-28 14:09:02",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1823 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11072,
+      "datetime": "2026-02-28 14:09:37",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 36744 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11073,
+      "datetime": "2026-02-28 14:10:57",
+      "username": "Baker",
+      "activity": "Ingreso de caja para la orden: 1836 - monto: 2300",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-28T07:57:19.669969",
+  "timestamp": "2026-02-28T08:14:59.534725",
   "machine_id": "53642720127680"
 }

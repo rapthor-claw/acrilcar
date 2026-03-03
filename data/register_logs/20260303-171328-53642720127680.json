@@ -29079,8 +29079,288 @@
       "activity": "Creo la orden de trabajo: 1892",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11179,
+      "datetime": "2026-03-03 21:43:41",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1840 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11180,
+      "datetime": "2026-03-03 21:45:54",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1852 - monto: 2800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11181,
+      "datetime": "2026-03-03 21:51:32",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1853 - monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11182,
+      "datetime": "2026-03-03 21:55:03",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1858 - monto: 2250",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11183,
+      "datetime": "2026-03-03 21:56:05",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1859 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11184,
+      "datetime": "2026-03-03 21:56:44",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1846 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11185,
+      "datetime": "2026-03-03 21:58:33",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1847 - monto: 2500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11186,
+      "datetime": "2026-03-03 22:00:07",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1855 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11187,
+      "datetime": "2026-03-03 22:01:26",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1864 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11188,
+      "datetime": "2026-03-03 22:02:43",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1843 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11189,
+      "datetime": "2026-03-03 22:03:37",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1867 - monto: 2400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11190,
+      "datetime": "2026-03-03 22:04:34",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1857 - monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11191,
+      "datetime": "2026-03-03 22:05:29",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1861 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11192,
+      "datetime": "2026-03-03 22:07:42",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1839 - monto: 2600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11193,
+      "datetime": "2026-03-03 22:17:07",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1869 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11194,
+      "datetime": "2026-03-03 22:19:56",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1840 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11195,
+      "datetime": "2026-03-03 22:21:41",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1856 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11196,
+      "datetime": "2026-03-03 22:22:25",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1877 - monto: 1100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11197,
+      "datetime": "2026-03-03 22:24:11",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1863 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11198,
+      "datetime": "2026-03-03 22:26:11",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1864 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11199,
+      "datetime": "2026-03-03 22:27:03",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1866 - monto: 2400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11200,
+      "datetime": "2026-03-03 22:28:32",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1874 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11201,
+      "datetime": "2026-03-03 22:30:20",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1880 - monto: 2500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11202,
+      "datetime": "2026-03-03 22:31:04",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1881 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11203,
+      "datetime": "2026-03-03 22:33:07",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1882 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11204,
+      "datetime": "2026-03-03 22:34:05",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1854 - monto: 3100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11205,
+      "datetime": "2026-03-03 22:34:55",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1883 - monto: 3800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11206,
+      "datetime": "2026-03-03 22:36:03",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1870 - monto: 5000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11207,
+      "datetime": "2026-03-03 22:37:09",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1851 - monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11208,
+      "datetime": "2026-03-03 22:54:27",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1880 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11209,
+      "datetime": "2026-03-03 22:55:32",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1825 - monto: 2500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11210,
+      "datetime": "2026-03-03 22:58:35",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1879 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11211,
+      "datetime": "2026-03-03 22:59:15",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1875 - monto: 800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11212,
+      "datetime": "2026-03-03 23:02:07",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1858 - monto: 2250",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11213,
+      "datetime": "2026-03-03 23:03:16",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1871 - monto: 3200",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-03T14:16:04.338466",
+  "timestamp": "2026-03-03T17:13:28.008210",
   "machine_id": "53642720127680"
 }

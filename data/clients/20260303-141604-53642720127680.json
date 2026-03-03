@@ -10647,8 +10647,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 2973,
+      "name": "AREYSON CASTILLO",
+      "contact_1": "85772242",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-03T10:15:35.813443",
+  "timestamp": "2026-03-03T14:16:04.259727",
   "machine_id": "53642720127680"
 }

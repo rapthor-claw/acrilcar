@@ -28639,8 +28639,24 @@
       "activity": "Alta de Cliente: MARIO LAGUNA",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11124,
+      "datetime": "2026-03-03 16:14:43",
+      "username": "Baker",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11125,
+      "datetime": "2026-03-03 16:15:12",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-03T10:14:35.166560",
+  "timestamp": "2026-03-03T10:15:35.856908",
   "machine_id": "53642720127680"
 }

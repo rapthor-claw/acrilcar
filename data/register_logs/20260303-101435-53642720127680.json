@@ -28239,8 +28239,408 @@
       "activity": "Ingreso de caja para la orden: 1836 - monto: 2300",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11074,
+      "datetime": "2026-02-28 20:32:35",
+      "username": "Baker",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11075,
+      "datetime": "2026-03-02 20:37:51",
+      "username": "Baker",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11076,
+      "datetime": "2026-03-04 15:57:02",
+      "username": "Baker",
+      "activity": "Alta de Cliente: GUILLERMO MANZANARES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11077,
+      "datetime": "2026-03-04 15:57:19",
+      "username": "Baker",
+      "activity": "Alta de Cliente: HEDER GARCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11078,
+      "datetime": "2026-03-04 15:57:37",
+      "username": "Baker",
+      "activity": "Alta de Cliente: FREDDY ALTAMIRANO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11079,
+      "datetime": "2026-03-04 15:58:04",
+      "username": "Baker",
+      "activity": "Alta de Cliente: ARSENIO BRAVO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11080,
+      "datetime": "2026-03-04 15:58:22",
+      "username": "Baker",
+      "activity": "Alta de Cliente: ROBERTO MEMBREÑO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11081,
+      "datetime": "2026-03-04 15:58:34",
+      "username": "Baker",
+      "activity": "Alta de Cliente: JUAN PORRAS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11082,
+      "datetime": "2026-03-04 15:58:47",
+      "username": "Baker",
+      "activity": "Alta de Cliente: JUNIOR RODRIGUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11083,
+      "datetime": "2026-03-04 15:59:02",
+      "username": "Baker",
+      "activity": "Alta de Cliente: ESTELA SANCHEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11084,
+      "datetime": "2026-03-04 15:59:25",
+      "username": "Baker",
+      "activity": "Alta de Cliente: ANDRES ANTONIO MOLINA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11085,
+      "datetime": "2026-03-04 15:59:49",
+      "username": "Baker",
+      "activity": "Alta de Cliente: MARIANO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11086,
+      "datetime": "2026-03-04 16:00:07",
+      "username": "Baker",
+      "activity": "Alta de Cliente: JOSE MARTINEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11087,
+      "datetime": "2026-03-04 16:00:21",
+      "username": "Baker",
+      "activity": "Alta de Cliente: CARLOS CAMPBELL",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11088,
+      "datetime": "2026-03-04 16:00:35",
+      "username": "Baker",
+      "activity": "Alta de Cliente: FRANCISCO LACAYO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11089,
+      "datetime": "2026-03-04 16:00:50",
+      "username": "Baker",
+      "activity": "Alta de Cliente: SERGIO CERNA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11090,
+      "datetime": "2026-03-04 16:01:09",
+      "username": "Baker",
+      "activity": "Alta de Cliente: LUIS REYES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11091,
+      "datetime": "2026-03-04 16:01:21",
+      "username": "Baker",
+      "activity": "Alta de Cliente: NESTOR DELGADILLO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11092,
+      "datetime": "2026-03-04 16:01:47",
+      "username": "Baker",
+      "activity": "Alta de Cliente: EDWIN ALTAMIRANO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11093,
+      "datetime": "2026-03-04 16:02:15",
+      "username": "Baker",
+      "activity": "Alta de Cliente: WALTER GARCIA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11094,
+      "datetime": "2026-03-04 16:02:41",
+      "username": "Baker",
+      "activity": "Alta de Cliente: OSCAR DANILO PEREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11095,
+      "datetime": "2026-03-04 16:02:56",
+      "username": "Baker",
+      "activity": "Alta de Cliente: JOSE GABRIEL",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11096,
+      "datetime": "2026-03-04 16:03:24",
+      "username": "Baker",
+      "activity": "Alta de Cliente: QUIMAGRO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11097,
+      "datetime": "2026-03-04 16:03:41",
+      "username": "Baker",
+      "activity": "Alta de Cliente: EMERSON ARCE",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11098,
+      "datetime": "2026-03-04 16:03:53",
+      "username": "Baker",
+      "activity": "Alta de Cliente: MARIO ROSALES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11099,
+      "datetime": "2026-03-04 16:04:06",
+      "username": "Baker",
+      "activity": "Alta de Cliente: ANTONY ACUÑA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11100,
+      "datetime": "2026-03-04 16:04:18",
+      "username": "Baker",
+      "activity": "Alta de Cliente: ANGEL ARAUZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11101,
+      "datetime": "2026-03-04 16:05:41",
+      "username": "Baker",
+      "activity": "Alta de Cliente: BISMARCK SOMARY",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11102,
+      "datetime": "2026-03-04 16:06:05",
+      "username": "Baker",
+      "activity": "Alta de Cliente: DAVID TORRES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11103,
+      "datetime": "2026-03-04 16:06:16",
+      "username": "Baker",
+      "activity": "Alta de Cliente: MIKE JIMENEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11104,
+      "datetime": "2026-03-04 16:06:29",
+      "username": "Baker",
+      "activity": "Alta de Cliente: SANCHEZ COLLADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11105,
+      "datetime": "2026-03-04 16:06:43",
+      "username": "Baker",
+      "activity": "Alta de Cliente: JORAK RODRIGUEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11106,
+      "datetime": "2026-03-04 16:07:11",
+      "username": "Baker",
+      "activity": "Alta de Cliente: JIMMY GONZALEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11107,
+      "datetime": "2026-03-04 16:07:28",
+      "username": "Baker",
+      "activity": "Alta de Cliente: MANUEL LOPEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11108,
+      "datetime": "2026-03-04 16:07:43",
+      "username": "Baker",
+      "activity": "Alta de Cliente: ADDA OLIVARES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11109,
+      "datetime": "2026-03-04 16:07:57",
+      "username": "Baker",
+      "activity": "Alta de Cliente: EDUARDO GUTIERREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11110,
+      "datetime": "2026-03-04 16:08:09",
+      "username": "Baker",
+      "activity": "Alta de Cliente: ROGER REYES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11111,
+      "datetime": "2026-03-04 16:08:24",
+      "username": "Baker",
+      "activity": "Alta de Cliente: MIGUEL NIÑO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11112,
+      "datetime": "2026-03-04 16:08:39",
+      "username": "Baker",
+      "activity": "Alta de Cliente: LISBETH LOPEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11113,
+      "datetime": "2026-03-04 16:08:53",
+      "username": "Baker",
+      "activity": "Alta de Cliente: LUIS URBINA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11114,
+      "datetime": "2026-03-04 16:09:33",
+      "username": "Baker",
+      "activity": "Alta de Cliente: LUIS URBINA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11115,
+      "datetime": "2026-03-04 16:10:35",
+      "username": "Baker",
+      "activity": "Alta de Cliente: GUSTAVO GUERRERO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11116,
+      "datetime": "2026-03-04 16:10:54",
+      "username": "Baker",
+      "activity": "Alta de Cliente: EDMUNDO MENESES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11117,
+      "datetime": "2026-03-04 16:12:09",
+      "username": "Baker",
+      "activity": "Alta de Cliente: INVERSIONES ZUM",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11118,
+      "datetime": "2026-03-04 16:12:25",
+      "username": "Baker",
+      "activity": "Alta de Cliente: FRANKLIN PALACIOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11119,
+      "datetime": "2026-03-04 16:12:37",
+      "username": "Baker",
+      "activity": "Alta de Cliente: JASON ALVAREZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11120,
+      "datetime": "2026-03-04 16:13:00",
+      "username": "Baker",
+      "activity": "Alta de Cliente: JEAN CARLOS SOLORZANO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11121,
+      "datetime": "2026-03-04 16:13:33",
+      "username": "Baker",
+      "activity": "Alta de Cliente: ASOC HERMANAS MISIONERA DE LA CARIDAD",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11122,
+      "datetime": "2026-03-04 16:13:43",
+      "username": "Baker",
+      "activity": "Alta de Cliente: BPS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11123,
+      "datetime": "2026-03-04 16:14:10",
+      "username": "Baker",
+      "activity": "Alta de Cliente: MARIO LAGUNA",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-02-28T08:44:39.488301",
+  "timestamp": "2026-03-03T10:14:35.166560",
   "machine_id": "53642720127680"
 }

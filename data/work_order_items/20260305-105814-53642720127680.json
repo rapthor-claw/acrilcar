@@ -8575,8 +8575,280 @@
       "services": "['ELAB DE STOP NP300 Y 2 STOP K2700']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3151,
+      "work_order_id": 1893,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 FOCOS DELANTEROS - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3152,
+      "work_order_id": 1894,
+      "colaborator_id": 4,
+      "services": "['REP DE  PARRILLA - SENTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3153,
+      "work_order_id": 1895,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 2 FOCOS Y 2 STOP - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3154,
+      "work_order_id": 1896,
+      "colaborator_id": 5,
+      "services": "['ELAB DE MICA DE RETROVISOR - HYUNDAI CRETA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3155,
+      "work_order_id": 1898,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP REP BASE - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3156,
+      "work_order_id": 1899,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3157,
+      "work_order_id": 1900,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 1 FOCO - TOYOTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3158,
+      "work_order_id": 1901,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO Y 1 PIDE VIA - JMC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3159,
+      "work_order_id": 1902,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO CON REP DE ARO - YUTONG']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3160,
+      "work_order_id": 1903,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - BT50']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3161,
+      "work_order_id": 1904,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP- HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3162,
+      "work_order_id": 1905,
+      "colaborator_id": 16,
+      "services": "['ELAB DE FOCO - EON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3163,
+      "work_order_id": 1906,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO CON REP DE ARO - MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3164,
+      "work_order_id": 1908,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 HALOGENO - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3165,
+      "work_order_id": 36747,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3166,
+      "work_order_id": 36748,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 1 FOCO -']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3167,
+      "work_order_id": 36749,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 1 FOCO - YUTONG']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3168,
+      "work_order_id": 36750,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3169,
+      "work_order_id": 36801,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 1 FOCO - EON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3170,
+      "work_order_id": 36802,
+      "colaborator_id": 9,
+      "services": "['REP DE LETRA, DE ROTULOS Y LED']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3171,
+      "work_order_id": 36803,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 1 FOCO - MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3172,
+      "work_order_id": 36804,
+      "colaborator_id": 13,
+      "services": "['CORTE DE 90X90 CM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3173,
+      "work_order_id": 36805,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - KIA MORNING']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3174,
+      "work_order_id": 36806,
+      "colaborator_id": 9,
+      "services": "['ELAB DE CAJA ACRILICA PARA PELOTA DE BASEBALL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3175,
+      "work_order_id": 36807,
+      "colaborator_id": 9,
+      "services": "['3 ROTULOS ISLETAS Y 2 FLOR DE CAÑA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3176,
+      "work_order_id": 36808,
+      "colaborator_id": 15,
+      "services": "['PULIDO DE 1 FOCO - KLICK']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3177,
+      "work_order_id": 36809,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3178,
+      "work_order_id": 36811,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3179,
+      "work_order_id": 36810,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 2 FOCOS - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3180,
+      "work_order_id": 36812,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS CON MTTO DE CROMO - TERCEL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3181,
+      "work_order_id": 36813,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS Y 2 HALOGENOS - GRAND I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3182,
+      "work_order_id": 36814,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 1 PIEZA ACRILICA PARA CONO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3183,
+      "work_order_id": 36815,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS -FORD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3184,
+      "work_order_id": 36816,
+      "colaborator_id": 14,
+      "services": "['PULIDO DE 1 TABLERO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-05T10:07:06.847358",
+  "timestamp": "2026-03-05T10:58:14.776529",
   "machine_id": "53642720127680"
 }

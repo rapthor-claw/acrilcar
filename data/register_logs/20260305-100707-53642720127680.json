@@ -29359,8 +29359,88 @@
       "activity": "Ingreso de caja para la orden: 1871 - monto: 3200",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11214,
+      "datetime": "2026-03-03 23:29:37",
+      "username": "Allisson",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11215,
+      "datetime": "2026-03-04 20:21:58",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11216,
+      "datetime": "2026-03-04 21:34:24",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1888 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11217,
+      "datetime": "2026-03-04 21:35:22",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1881 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11218,
+      "datetime": "2026-03-04 21:36:59",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1890 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11219,
+      "datetime": "2026-03-04 21:38:30",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1878 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11220,
+      "datetime": "2026-03-04 21:39:22",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1876 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11221,
+      "datetime": "2026-03-04 21:41:09",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1886 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11222,
+      "datetime": "2026-03-04 23:33:14",
+      "username": "Allisson",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11223,
+      "datetime": "2026-03-05 16:00:32",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-03T17:13:28.008210",
+  "timestamp": "2026-03-05T10:07:07.064238",
   "machine_id": "53642720127680"
 }

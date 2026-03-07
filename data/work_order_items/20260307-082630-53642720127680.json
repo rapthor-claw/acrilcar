@@ -8847,8 +8847,40 @@
       "services": "['PULIDO DE 1 TABLERO - HILUX']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3185,
+      "work_order_id": 36817,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 4 FOCOS Y 2 PIDE VIAS - KIA  HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3186,
+      "work_order_id": 36818,
+      "colaborator_id": 14,
+      "services": "['REP DE FOCO Y HALOGENO - ACCENT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3187,
+      "work_order_id": 36819,
+      "colaborator_id": 14,
+      "services": "['PEGADO DE BUMPER - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3188,
+      "work_order_id": 1909,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS - KIA CARNIVAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-06T10:58:47.043578",
+  "timestamp": "2026-03-07T08:26:30.065667",
   "machine_id": "53642720127680"
 }

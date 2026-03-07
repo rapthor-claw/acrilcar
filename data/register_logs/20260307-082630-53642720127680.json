@@ -29927,8 +29927,160 @@
       "activity": "Creo la orden de trabajo: 36816",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11285,
+      "datetime": "2026-03-06 17:28:19",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36817",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11286,
+      "datetime": "2026-03-06 17:35:24",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1755",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11287,
+      "datetime": "2026-03-06 17:36:13",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1852",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11288,
+      "datetime": "2026-03-06 17:39:30",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1830",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11289,
+      "datetime": "2026-03-06 17:39:44",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1828",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11290,
+      "datetime": "2026-03-06 17:41:21",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1818",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11291,
+      "datetime": "2026-03-06 17:41:38",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1812",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11292,
+      "datetime": "2026-03-06 17:41:59",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1809",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11293,
+      "datetime": "2026-03-06 17:42:10",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1808",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11294,
+      "datetime": "2026-03-06 17:42:42",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1807",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11295,
+      "datetime": "2026-03-06 17:42:55",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1792",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11296,
+      "datetime": "2026-03-06 17:50:35",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1814",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11297,
+      "datetime": "2026-03-06 17:50:44",
+      "username": "Allisson",
+      "activity": "Cerro la orden: 1819",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11298,
+      "datetime": "2026-03-06 19:00:56",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11299,
+      "datetime": "2026-03-06 19:01:54",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ANIELKA LARA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11300,
+      "datetime": "2026-03-06 19:02:41",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JOSE CARLOS PALACIOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11301,
+      "datetime": "2026-03-06 19:04:40",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36818",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11302,
+      "datetime": "2026-03-06 19:05:48",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36819",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11303,
+      "datetime": "2026-03-06 19:06:39",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 1909",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-06T10:58:47.278925",
+  "timestamp": "2026-03-07T08:26:30.356420",
   "machine_id": "53642720127680"
 }

@@ -8879,8 +8879,120 @@
       "services": "['ELAB DE 2 FOCOS - KIA CARNIVAL']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3189,
+      "work_order_id": 1911,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO - KIA RIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3190,
+      "work_order_id": 1912,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO Y 1 STOP - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3191,
+      "work_order_id": 1913,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 STOP - INFINITY']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3192,
+      "work_order_id": 1914,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3193,
+      "work_order_id": 1915,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - FORD RANGER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3194,
+      "work_order_id": 1916,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP PARTE BLANCA - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3195,
+      "work_order_id": 1912,
+      "colaborator_id": 2,
+      "services": "['ELAB DE MICA DE RETROVISOR + LED']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3196,
+      "work_order_id": 36820,
+      "colaborator_id": 9,
+      "services": "['ELAB DE 2 PUERTAS DE HELICOPTERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3197,
+      "work_order_id": 36821,
+      "colaborator_id": 16,
+      "services": "['ELAB DE TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3198,
+      "work_order_id": 36822,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - MERCEDES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3199,
+      "work_order_id": 36823,
+      "colaborator_id": 14,
+      "services": "['ELAB DE ROTULO JAC BLANCO LECHOSO CON ILUMINACION LED - 50 CM ALTO CADA LETRA * 2.51 MTS DE ANCHO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3200,
+      "work_order_id": 36824,
+      "colaborator_id": 13,
+      "services": "['CROMADO DE 1 FOCO - KIA MORNING']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3201,
+      "work_order_id": 36825,
+      "colaborator_id": 13,
+      "services": "['REP DE BASE Y PULIDO DE 1 FOCO - INFINITY']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3202,
+      "work_order_id": 1918,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP - LITE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-09T09:11:33.262911",
+  "timestamp": "2026-03-09T12:09:48.194849",
   "machine_id": "53642720127680"
 }

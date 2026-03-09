@@ -30079,8 +30079,216 @@
       "activity": "Creo la orden de trabajo: 1909",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11304,
+      "datetime": "2026-03-07 14:32:19",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36806 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11305,
+      "datetime": "2026-03-07 14:33:04",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36809 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11306,
+      "datetime": "2026-03-07 14:34:35",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36803 - monto: 300",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11307,
+      "datetime": "2026-03-07 14:36:22",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1894 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11308,
+      "datetime": "2026-03-07 14:37:38",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1865 - monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11309,
+      "datetime": "2026-03-07 14:38:11",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36816 - monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11310,
+      "datetime": "2026-03-07 14:38:48",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36818 - monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11311,
+      "datetime": "2026-03-07 14:39:21",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1844 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11312,
+      "datetime": "2026-03-07 14:39:49",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1899 - monto: 1700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11313,
+      "datetime": "2026-03-07 14:40:55",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36819 - monto: 400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11314,
+      "datetime": "2026-03-07 14:47:20",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36815 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11315,
+      "datetime": "2026-03-07 14:48:40",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1908 - monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11316,
+      "datetime": "2026-03-07 14:49:25",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1891 - monto: 2000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11317,
+      "datetime": "2026-03-07 14:50:48",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1887 - monto: 2500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11318,
+      "datetime": "2026-03-07 14:52:33",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1872 - monto: 4000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11319,
+      "datetime": "2026-03-07 14:53:36",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1898 - monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11320,
+      "datetime": "2026-03-07 14:54:43",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1900 - monto: 730",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11321,
+      "datetime": "2026-03-07 14:57:23",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1901 - monto: 1500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11322,
+      "datetime": "2026-03-07 14:57:59",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1884 - monto: 1900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11323,
+      "datetime": "2026-03-07 14:58:37",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36813 - monto: 1800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11324,
+      "datetime": "2026-03-07 15:00:12",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1906 - monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11325,
+      "datetime": "2026-03-07 15:01:28",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1896 - monto: 700",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11326,
+      "datetime": "2026-03-07 15:06:55",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1873 - monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11327,
+      "datetime": "2026-03-07 15:22:37",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 1893 - monto: 3000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11328,
+      "datetime": "2026-03-07 20:52:13",
+      "username": "Allisson",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11329,
+      "datetime": "2026-03-09 15:11:21",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-07T08:26:30.356420",
+  "timestamp": "2026-03-09T09:11:33.508978",
   "machine_id": "53642720127680"
 }

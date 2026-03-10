@@ -8991,8 +8991,56 @@
       "services": "['ELAB DE 2 STOP - LITE']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3203,
+      "work_order_id": 36826,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 1 FOCO PINTAR ARO EN PLATEADO - VERNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3204,
+      "work_order_id": 1919,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP - TUCSON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3205,
+      "work_order_id": 1920,
+      "colaborator_id": 16,
+      "services": "['ELAB DE MICA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3206,
+      "work_order_id": 1921,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3207,
+      "work_order_id": 1922,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3208,
+      "work_order_id": 36827,
+      "colaborator_id": 15,
+      "services": "['PULIDO DE 1 FOCO - HONDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-09T12:09:48.194849",
+  "timestamp": "2026-03-10T13:57:51.128423",
   "machine_id": "53642720127680"
 }

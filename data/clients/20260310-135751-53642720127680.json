@@ -11109,8 +11109,74 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3015,
+      "name": "NORWIN",
+      "contact_1": "77541191",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3016,
+      "name": "JORGE LOPEZ",
+      "contact_1": "88144650",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3017,
+      "name": "JULIO NARVAEZ",
+      "contact_1": "89650479",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3018,
+      "name": "JUAN CARLOS CHAVEZ",
+      "contact_1": "88362529",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3019,
+      "name": "ALBERTO ANTONIO PEREIRA",
+      "contact_1": "87520122",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3020,
+      "name": "HARVIN CANALES",
+      "contact_1": "86428891",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-09T12:09:48.312090",
+  "timestamp": "2026-03-10T13:57:51.272553",
   "machine_id": "53642720127680"
 }

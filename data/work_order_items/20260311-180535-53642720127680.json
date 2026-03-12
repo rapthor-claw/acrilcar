@@ -9039,8 +9039,240 @@
       "services": "['PULIDO DE 1 FOCO - HONDA']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3209,
+      "work_order_id": 1923,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 PIDE VIAS - ISUZU']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3210,
+      "work_order_id": 1924,
+      "colaborator_id": 4,
+      "services": "['ELAB STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3211,
+      "work_order_id": 1925,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP CON REP DEL OTRO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3212,
+      "work_order_id": 1926,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP FOTON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3213,
+      "work_order_id": 1927,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 STOP Y 2 PIDE VIAS - TOYOTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3214,
+      "work_order_id": 1928,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 STOP Y 3RA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3215,
+      "work_order_id": 1929,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 5 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3216,
+      "work_order_id": 1930,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 1 PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3217,
+      "work_order_id": 1931,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3218,
+      "work_order_id": 1932,
+      "colaborator_id": 2,
+      "services": "['ELABORACION DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3219,
+      "work_order_id": 1933,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 HALOGENOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3220,
+      "work_order_id": 1934,
+      "colaborator_id": 4,
+      "services": "['ELAB 1 PARRILLA ROJO LISO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3221,
+      "work_order_id": 1935,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 1 TABLERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3222,
+      "work_order_id": 1936,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 FOCO TOTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3223,
+      "work_order_id": 1937,
+      "colaborator_id": 2,
+      "services": "['REP PARTE AFECTADA BLANCO DIAMANTADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3224,
+      "work_order_id": 1938,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 FOCOC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3225,
+      "work_order_id": 1939,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3226,
+      "work_order_id": 1940,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 4 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3227,
+      "work_order_id": 1941,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 FOCO Y TAPA DE RETROVISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3228,
+      "work_order_id": 1942,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 STOP + 1 BAUL ELAB DE 1 MICA Y BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3229,
+      "work_order_id": 1943,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3230,
+      "work_order_id": 1944,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 STOP Y 1 PIDE VIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3231,
+      "work_order_id": 1945,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3232,
+      "work_order_id": 1946,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS Y 2 PIDE VIAS CON REP DE BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3233,
+      "work_order_id": 1947,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3234,
+      "work_order_id": 1949,
+      "colaborator_id": 4,
+      "services": "['ELAB 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3235,
+      "work_order_id": 1950,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3236,
+      "work_order_id": 1951,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 FOCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3237,
+      "work_order_id": 1952,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 STOP LADO DERECHO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-10T13:57:51.128423",
+  "timestamp": "2026-03-11T18:05:35.117568",
   "machine_id": "53642720127680"
 }

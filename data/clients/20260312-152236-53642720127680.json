@@ -11494,8 +11494,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3050,
+      "name": "HECTOR OLIVARES",
+      "contact_1": "88565388",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3051,
+      "name": "HECTOR OLIVARES",
+      "contact_1": "88565388",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3052,
+      "name": "PABLO AGUILAR",
+      "contact_1": "88502547",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3053,
+      "name": "PALMASA",
+      "contact_1": "87961800",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3054,
+      "name": "FRANCISCO JOSE URBINA",
+      "contact_1": "88211602",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3055,
+      "name": "ARNOLDO JAVIER DAVILA AGUILUZ",
+      "contact_1": "57188923",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3056,
+      "name": "GUILLERMO BERMUDEZ",
+      "contact_1": "85499243",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3057,
+      "name": "EDDY PINEDA",
+      "contact_1": "83627905",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3058,
+      "name": "ROMER SANCHEZ",
+      "contact_1": "86031134",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-11T18:05:35.265736",
+  "timestamp": "2026-03-12T15:22:36.546654",
   "machine_id": "53642720127680"
 }

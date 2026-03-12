@@ -31191,8 +31191,96 @@
       "activity": "Creo la orden de trabajo: 1952",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11443,
+      "datetime": "2026-03-12 00:05:45",
+      "username": "Baker",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11444,
+      "datetime": "2026-03-12 20:29:46",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11445,
+      "datetime": "2026-03-12 20:34:11",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: HECTOR OLIVARES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11446,
+      "datetime": "2026-03-12 20:35:24",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: HECTOR OLIVARES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11447,
+      "datetime": "2026-03-12 20:35:49",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: PABLO AGUILAR",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11448,
+      "datetime": "2026-03-12 20:35:59",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: PALMASA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11449,
+      "datetime": "2026-03-12 20:36:15",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: FRANCISCO JOSE URBINA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11450,
+      "datetime": "2026-03-12 20:36:38",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ARNOLDO JAVIER DAVILA AGUILUZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11451,
+      "datetime": "2026-03-12 20:36:54",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: GUILLERMO BERMUDEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11452,
+      "datetime": "2026-03-12 20:37:13",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: EDDY PINEDA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11453,
+      "datetime": "2026-03-12 20:37:38",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ROMER SANCHEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-11T18:05:35.372111",
+  "timestamp": "2026-03-12T15:22:36.608821",
   "machine_id": "53642720127680"
 }

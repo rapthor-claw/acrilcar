@@ -9271,8 +9271,296 @@
       "services": "['ELAB DE 1 STOP LADO DERECHO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3238,
+      "work_order_id": 1953,
+      "colaborator_id": 12,
+      "services": "['ELAB DE PIDE VIA Y REP DE PARTE ROJA - NISSAN Z']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3239,
+      "work_order_id": 1954,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP  Y TERCERA LUZ, PULIDO DE FOCO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3240,
+      "work_order_id": 1955,
+      "colaborator_id": 16,
+      "services": "['ELAB DE PIDE VIA BASE Y MICA Y 1 MICA- KIA PRIDE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3241,
+      "work_order_id": 1956,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 PIDE VIAS - ISUZU']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3242,
+      "work_order_id": 1957,
+      "colaborator_id": 2,
+      "services": "['elab de foco con rep de pata -hino']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3243,
+      "work_order_id": 1958,
+      "colaborator_id": 12,
+      "services": "['elab de 2 stop - excel']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3244,
+      "work_order_id": 1959,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP ISUZU']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3245,
+      "work_order_id": 1960,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP / PIDE VIAS Y ENVIO AL MAYOREO -HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3246,
+      "work_order_id": 1961,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP CON REP DE BASE - SUZUKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3247,
+      "work_order_id": 1962,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3248,
+      "work_order_id": 1963,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP - PANEL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3249,
+      "work_order_id": 1964,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 FOCO ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3250,
+      "work_order_id": 1965,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP BUSCAR BASE - AGYA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3251,
+      "work_order_id": 1966,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 PIDE VIAS - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3252,
+      "work_order_id": 1967,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 FOCO - AVANTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3253,
+      "work_order_id": 1968,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP -L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3254,
+      "work_order_id": 1969,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP DE BAUL Y REP DEL OTRO', 'PATHFINDER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3255,
+      "work_order_id": 1970,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3256,
+      "work_order_id": 1971,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3257,
+      "work_order_id": 1972,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP BUMPER - KIA SPORTAGE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3258,
+      "work_order_id": 1973,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO CON REP DE BASE - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3259,
+      "work_order_id": 1974,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIDE VIA - FORD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3260,
+      "work_order_id": 1975,
+      "colaborator_id": 16,
+      "services": "['REP DE FILTRO - GRAND I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3261,
+      "work_order_id": 1976,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP - PATROL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3262,
+      "work_order_id": 1977,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO Y PULIDO DEL OTRO - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3263,
+      "work_order_id": 1978,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3264,
+      "work_order_id": 1979,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3265,
+      "work_order_id": 1980,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP CON REP DE BASE - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3266,
+      "work_order_id": 1981,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3267,
+      "work_order_id": 1981,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3268,
+      "work_order_id": 1982,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 STOP 2 PIDE VIA 2 PIDE VIA - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3269,
+      "work_order_id": 1983,
+      "colaborator_id": 12,
+      "services": "['REP Y SELLADO DE 1 STOP - SWIFT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3270,
+      "work_order_id": 1984,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP PULIDO DEL OTRO Y 2 FOCOS, REP ARO A 1 - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3271,
+      "work_order_id": 1985,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3272,
+      "work_order_id": 1986,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP MANTENER EL CALADO ORIGINAL - RAIZE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3273,
+      "work_order_id": 1988,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-16T11:39:32.318497",
+  "timestamp": "2026-03-16T14:24:52.255847",
   "machine_id": "53642720127680"
 }

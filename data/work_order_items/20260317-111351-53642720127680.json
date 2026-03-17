@@ -9559,8 +9559,248 @@
       "services": "['ELAB DE STOP - LAND CRUISER']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3274,
+      "work_order_id": 1990,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP CON REP DE ARO - AGYA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3275,
+      "work_order_id": 1991,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP 2 - SUZUKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3276,
+      "work_order_id": 1992,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3277,
+      "work_order_id": 1993,
+      "colaborator_id": 9,
+      "services": "['14CORTES ACRILICOS 24X12 CM 60C/U 2 CORTES ACRILICOS 20X14 CM 40C/U']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3278,
+      "work_order_id": 1994,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP - PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3279,
+      "work_order_id": 1995,
+      "colaborator_id": 16,
+      "services": "['ELAB DE TERCERA LUZ- NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3280,
+      "work_order_id": 36828,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - TOYOTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3281,
+      "work_order_id": 36829,
+      "colaborator_id": 14,
+      "services": "['ELAB DE MICA ROJA - MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3282,
+      "work_order_id": 36830,
+      "colaborator_id": 14,
+      "services": "['VENTA DE LITRO DE SOLVENTE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3283,
+      "work_order_id": 36831,
+      "colaborator_id": 14,
+      "services": "['ELAB DE 2 HABLADORES - ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3284,
+      "work_order_id": 36832,
+      "colaborator_id": 2,
+      "services": "['ELAB DE TABLERO -']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3285,
+      "work_order_id": 36833,
+      "colaborator_id": 9,
+      "services": "['CORTE DE BLANCO LECHOSO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3286,
+      "work_order_id": 36834,
+      "colaborator_id": 16,
+      "services": "['MTTO DE 1 HALOGENO Y SELLADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3287,
+      "work_order_id": 36836,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS Y REP DE BASE A 1 STOP - CAVALIER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3288,
+      "work_order_id": 36838,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE FOCOS-FREIGHTLINER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3289,
+      "work_order_id": 36839,
+      "colaborator_id": 16,
+      "services": "['REP DE TAPA - MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3290,
+      "work_order_id": 36840,
+      "colaborator_id": 13,
+      "services": "['CORTE DE ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3291,
+      "work_order_id": 36841,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS-ACCENT BLUE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3292,
+      "work_order_id": 36842,
+      "colaborator_id": 2,
+      "services": "['ELAB DE ROMPEVIENTO - NS400']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3293,
+      "work_order_id": 36843,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 2 ACRILICOS CON 4 BOLSILLOS HORIZONTAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3294,
+      "work_order_id": 36844,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 4 PIEZAS ACRILICAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3295,
+      "work_order_id": 36845,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 1 FOCO - ELANTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3296,
+      "work_order_id": 36847,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - HONDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3297,
+      "work_order_id": 36848,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3298,
+      "work_order_id": 36849,
+      "colaborator_id": 14,
+      "services": "['ENDEREZADO PINTURA PARTE FRONTAL * TERRITORYCOMP OP 1997']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3299,
+      "work_order_id": 36850,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS Y SELLADO DE 1']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3300,
+      "work_order_id": 1996,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 STOP - SUZUKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3301,
+      "work_order_id": 1997,
+      "colaborator_id": 2,
+      "services": "['REP DE BASE A 1 FOCO - TERRITORY', 'COMP OT36849']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3302,
+      "work_order_id": 1998,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - CHEVROLETH']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3303,
+      "work_order_id": 36852,
+      "colaborator_id": 9,
+      "services": "['ELAB DE 2 CUBOS DE 50X1MT ALTO CON TAPA EN 5 MM', 'ELAB CUBO 40 X 1 MT ALTO 3MM Y TAPA EN 5 MM', 'ELAB CUBO 40X88 CM ALTO EN 3 MM TAPA EN 5 MM', 'ELAB DE CUBO 40X76CM ALTO EN 3 MM TAPA EN 5 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-16T14:24:52.255847",
+  "timestamp": "2026-03-17T11:13:51.556369",
   "machine_id": "53642720127680"
 }

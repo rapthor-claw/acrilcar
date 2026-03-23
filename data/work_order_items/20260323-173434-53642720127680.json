@@ -9799,8 +9799,16 @@
       "services": "['ELAB DE 2 CUBOS DE 50X1MT ALTO CON TAPA EN 5 MM', 'ELAB CUBO 40 X 1 MT ALTO 3MM Y TAPA EN 5 MM', 'ELAB CUBO 40X88 CM ALTO EN 3 MM TAPA EN 5 MM', 'ELAB DE CUBO 40X76CM ALTO EN 3 MM TAPA EN 5 MM']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3304,
+      "work_order_id": 1999,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP / HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-23T08:51:02.618819",
+  "timestamp": "2026-03-23T17:34:34.713183",
   "machine_id": "53642720127680"
 }

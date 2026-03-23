@@ -32919,8 +32919,24 @@
       "activity": "Ingreso de caja para la orden: 36845 - monto: 800",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11659,
+      "datetime": "2026-03-23 14:49:37",
+      "username": "Baker",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11660,
+      "datetime": "2026-03-23 14:50:08",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-23T08:49:12.210860",
+  "timestamp": "2026-03-23T08:51:02.852350",
   "machine_id": "53642720127680"
 }

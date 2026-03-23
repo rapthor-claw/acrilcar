@@ -12924,8 +12924,162 @@
       "note": "ROC 32592 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3087,
+      "work_order_id": 36829,
+      "payment_date": "2026-03-20",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 800,
+      "note": "ROC 32549 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3088,
+      "work_order_id": 36832,
+      "payment_date": "2026-03-20",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 500,
+      "note": "ROC 32547 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3089,
+      "work_order_id": 36831,
+      "payment_date": "2026-03-20",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 340,
+      "note": "ROC 32546 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3090,
+      "work_order_id": 36830,
+      "payment_date": "2026-03-20",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1460,
+      "note": "ROC 32544 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3091,
+      "work_order_id": 1977,
+      "payment_date": "2026-03-20",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 3000,
+      "note": "ROC 32606 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3092,
+      "work_order_id": 1957,
+      "payment_date": "2026-03-20",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1200,
+      "note": "ROC 32607 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3093,
+      "work_order_id": 1947,
+      "payment_date": "2026-03-20",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 2800,
+      "note": "ROC 32608 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3094,
+      "work_order_id": 1964,
+      "payment_date": "2026-03-20",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 1500,
+      "note": "ROC 32609 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3095,
+      "work_order_id": 1961,
+      "payment_date": "2026-03-20",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 1400,
+      "note": "ROC 32610 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3096,
+      "work_order_id": 1979,
+      "payment_date": "2026-03-21",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 2300,
+      "note": "ROC 32611 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3097,
+      "work_order_id": 1969,
+      "payment_date": "2026-03-21",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 2800,
+      "note": "ROC 32612 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3098,
+      "work_order_id": 1967,
+      "payment_date": "2026-03-21",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 1800,
+      "note": "ROC 32613 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3099,
+      "work_order_id": 1976,
+      "payment_date": "2026-03-21",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 700,
+      "note": "ROC 32614 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3100,
+      "work_order_id": 36845,
+      "payment_date": "2026-03-21",
+      "payment_method": "efectivo",
+      "payment": "Baker",
+      "user_log_registration": 800,
+      "note": "ROC 32615 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-18T18:32:14.925438",
+  "timestamp": "2026-03-23T08:49:11.926625",
   "machine_id": "53642720127680"
 }

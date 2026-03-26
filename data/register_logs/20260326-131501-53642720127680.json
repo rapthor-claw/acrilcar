@@ -34687,8 +34687,48 @@
       "activity": "Salida de caja, monto: 140",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11880,
+      "datetime": "2026-03-26 18:51:54",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 2081",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11881,
+      "datetime": "2026-03-26 18:56:17",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 1000",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11882,
+      "datetime": "2026-03-26 18:56:59",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 200",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11883,
+      "datetime": "2026-03-26 18:57:29",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 500",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11884,
+      "datetime": "2026-03-26 18:57:59",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-26T12:36:49.612755",
+  "timestamp": "2026-03-26T13:15:01.878227",
   "machine_id": "53642720127680"
 }

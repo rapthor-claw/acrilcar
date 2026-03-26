@@ -10703,8 +10703,16 @@
       "services": "['ELAB DE STOP -N300']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3417,
+      "work_order_id": 2081,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-26T12:36:49.390047",
+  "timestamp": "2026-03-26T13:15:01.646790",
   "machine_id": "53642720127680"
 }

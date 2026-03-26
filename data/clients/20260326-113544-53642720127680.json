@@ -12924,8 +12924,162 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3181,
+      "name": "NELSON SALINAS",
+      "contact_1": "81125569",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3182,
+      "name": "VIDIANSA",
+      "contact_1": "88851703",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3183,
+      "name": "GCM TRANSPORTE SA",
+      "contact_1": "57452367",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3184,
+      "name": "FRANCISCO CUEVA",
+      "contact_1": "85128441",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3185,
+      "name": "AUTOSERVICIO ATLANTIS S,A",
+      "contact_1": "83743855",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3186,
+      "name": "MARIA JOSE OBANDO ",
+      "contact_1": "58393015",
+      "contact_2": "78102479",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3187,
+      "name": "DAVID GARCIA",
+      "contact_1": "78214753",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3188,
+      "name": "JESSICA LACAYO",
+      "contact_1": "88856967",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3189,
+      "name": "MARIA DAYANA OBANDO",
+      "contact_1": "89296356",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3190,
+      "name": "EDUARDO MENDOZA",
+      "contact_1": "84774417",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3191,
+      "name": "LESTHER DIAZ",
+      "contact_1": "82865198",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3192,
+      "name": "INSTALACIONES TELEFONICAS DE NICARAGUA S,A",
+      "contact_1": "85744332",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3193,
+      "name": "AUGUSTO CESAR MEJIA LANG",
+      "contact_1": "84396661",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3194,
+      "name": "JORGE MENDOZA",
+      "contact_1": "75164365",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-25T14:57:51.082998",
+  "timestamp": "2026-03-26T11:35:44.776577",
   "machine_id": "53642720127680"
 }

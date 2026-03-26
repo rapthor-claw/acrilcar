@@ -10455,8 +10455,224 @@
       "services": "['REP DE STOP PARTE BLANCA - HILUX']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3386,
+      "work_order_id": 36872,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - CAMION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3387,
+      "work_order_id": 36873,
+      "colaborator_id": 13,
+      "services": "['ELAB DE 50 HABLADORES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3388,
+      "work_order_id": 36875,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE FOCOS - CIVIC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3389,
+      "work_order_id": 36876,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE FOCOS CON REP DE BASE - INTERNATIONAL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3390,
+      "work_order_id": 36877,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 4 FOCOS PINTAR BASE EN NEGRO - MAC / HINO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3391,
+      "work_order_id": 36878,
+      "colaborator_id": 14,
+      "services": "['ANIULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3392,
+      "work_order_id": 36879,
+      "colaborator_id": 13,
+      "services": "['SELLADO Y LIMPIEZA DE STOP - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3393,
+      "work_order_id": 36880,
+      "colaborator_id": 13,
+      "services": "['ELAB DE CUBO ACRILICO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3394,
+      "work_order_id": 36881,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE FOCOS * SUZUKI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3395,
+      "work_order_id": 36882,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE HALOGENOS - HINO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3396,
+      "work_order_id": 36883,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3397,
+      "work_order_id": 36885,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE FOCOS - MONTERO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3398,
+      "work_order_id": 36886,
+      "colaborator_id": 14,
+      "services": "['DOBLEZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3399,
+      "work_order_id": 2065,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 FOCO - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3400,
+      "work_order_id": 2066,
+      "colaborator_id": 16,
+      "services": "['elab de stop - dakota']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3401,
+      "work_order_id": 2067,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO CON REP DE BASE Y PONER PERNOS - CASCADIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3402,
+      "work_order_id": 2068,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 PIDE VIAS AMARILLO RAYADO - GALLOPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3403,
+      "work_order_id": 2069,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 FOCOS ARP NEGRO BRILLANTE Y ELAB DE 2 HALOGENOS - TUCSON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3404,
+      "work_order_id": 2070,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PPIDE VIA Y PULIDO DE 1 FOCO - TOYOTA DYNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3405,
+      "work_order_id": 2072,
+      "colaborator_id": 16,
+      "services": "['CAMBIO DE CONECTOR A 1 FOCO - KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3406,
+      "work_order_id": 2073,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3407,
+      "work_order_id": 2074,
+      "colaborator_id": 2,
+      "services": "['REP DE 1 STOP- RAIZE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3408,
+      "work_order_id": 2075,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP - KICKS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3409,
+      "work_order_id": 2076,
+      "colaborator_id": 4,
+      "services": "['ELAB DE MICA DE RETROVISOR - YUTONG']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3410,
+      "work_order_id": 36887,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3411,
+      "work_order_id": 36888,
+      "colaborator_id": 9,
+      "services": "['ELAB DE 1 PIEZA ACRILICA DE 3 MM SEGUN MUESTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3412,
+      "work_order_id": 36889,
+      "colaborator_id": 13,
+      "services": "['ELAB DE CAJA DE 24X24 CM 6 CM DE ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-25T14:57:50.884592",
+  "timestamp": "2026-03-26T11:35:44.573328",
   "machine_id": "53642720127680"
 }

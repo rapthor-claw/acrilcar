@@ -22125,8 +22125,47 @@
       "order_id": "RCC-10806",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4719,
+      "fecha": "2026-03-26",
+      "descripcion": "ROC 32749 (CANCELACIÓN)",
+      "monto": 600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 2079,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4720,
+      "fecha": "2026-03-26",
+      "descripcion": "ROC 32750 (CANCELACION)",
+      "monto": 1600.0,
+      "tipo": "ingreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 9,
+      "user_id": "Allisson",
+      "order_id": 2080,
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4721,
+      "fecha": "2026-03-26",
+      "descripcion": "ALMUERZO DON FRAN",
+      "monto": 140.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 48,
+      "user_id": "Allisson",
+      "order_id": "RCC - 10807",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-26T11:35:44.681225",
+  "timestamp": "2026-03-26T12:36:49.469352",
   "machine_id": "53642720127680"
 }

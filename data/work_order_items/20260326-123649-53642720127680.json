@@ -10671,8 +10671,40 @@
       "services": "['ELAB DE CAJA DE 24X24 CM 6 CM DE ALTO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3413,
+      "work_order_id": 36891,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE FOCOS - GRAND I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3414,
+      "work_order_id": 2078,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 2 HALOGENOS - GRAND I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3415,
+      "work_order_id": 2079,
+      "colaborator_id": 5,
+      "services": "['REP DE STOP - SUNY']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3416,
+      "work_order_id": 2080,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP -N300']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-26T11:35:44.573328",
+  "timestamp": "2026-03-26T12:36:49.390047",
   "machine_id": "53642720127680"
 }

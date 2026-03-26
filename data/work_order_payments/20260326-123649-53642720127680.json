@@ -13144,8 +13144,30 @@
       "note": "ROC 32748 (CANCELACION)",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3107,
+      "work_order_id": 2079,
+      "payment_date": "2026-03-26",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 600,
+      "note": "ROC 32749 (CANCELACIÓN)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3108,
+      "work_order_id": 2080,
+      "payment_date": "2026-03-26",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1600,
+      "note": "ROC 32750 (CANCELACION)",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-26T11:35:44.636686",
+  "timestamp": "2026-03-26T12:36:49.421977",
   "machine_id": "53642720127680"
 }

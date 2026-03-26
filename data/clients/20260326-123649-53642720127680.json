@@ -13078,8 +13078,41 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3195,
+      "name": "MARLENE REYES",
+      "contact_1": "76823727",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3196,
+      "name": "EDUARDO MENDOZA",
+      "contact_1": "81284690",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3197,
+      "name": "WILTON SOLIS",
+      "contact_1": "58856956",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-26T11:35:44.776577",
+  "timestamp": "2026-03-26T12:36:49.533880",
   "machine_id": "53642720127680"
 }

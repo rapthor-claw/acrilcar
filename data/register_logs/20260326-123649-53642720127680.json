@@ -34607,8 +34607,88 @@
       "activity": "Salida de caja, monto: 670",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11870,
+      "datetime": "2026-03-26 18:15:39",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: MARLENE REYES",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11871,
+      "datetime": "2026-03-26 18:16:06",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: EDUARDO MENDOZA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11872,
+      "datetime": "2026-03-26 18:16:22",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: WILTON SOLIS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11873,
+      "datetime": "2026-03-26 18:20:45",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36891",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11874,
+      "datetime": "2026-03-26 18:23:50",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 2078",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11875,
+      "datetime": "2026-03-26 18:24:26",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 2079",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11876,
+      "datetime": "2026-03-26 18:24:59",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 2080",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11877,
+      "datetime": "2026-03-26 18:26:29",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 2079 - monto: 600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11878,
+      "datetime": "2026-03-26 18:28:44",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 2080 - monto: 1600",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11879,
+      "datetime": "2026-03-26 18:29:13",
+      "username": "Allisson",
+      "activity": "Salida de caja, monto: 140",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-26T11:35:44.906258",
+  "timestamp": "2026-03-26T12:36:49.612755",
   "machine_id": "53642720127680"
 }

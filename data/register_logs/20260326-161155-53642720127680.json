@@ -35015,8 +35015,152 @@
       "activity": "Ingreso de caja para la orden: 2004 - monto: 600",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 11921,
+      "datetime": "2026-03-26 21:48:42",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: IMER LOPEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11922,
+      "datetime": "2026-03-26 21:49:02",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JUAN MOLINA",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11923,
+      "datetime": "2026-03-26 21:49:12",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JAFET RIOS",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11924,
+      "datetime": "2026-03-26 21:51:02",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 2081",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11925,
+      "datetime": "2026-03-26 21:51:47",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 2082",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11926,
+      "datetime": "2026-03-26 21:52:51",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 2083",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11927,
+      "datetime": "2026-03-26 21:53:21",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 2084",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11928,
+      "datetime": "2026-03-26 21:53:50",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: DENIS SANCHEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11929,
+      "datetime": "2026-03-26 21:55:24",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 36892",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11930,
+      "datetime": "2026-03-26 21:58:21",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: JOSUE LOPEZ",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11931,
+      "datetime": "2026-03-26 21:59:19",
+      "username": "Allisson",
+      "activity": "Creo la orden de trabajo: 2023",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11932,
+      "datetime": "2026-03-26 22:01:18",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 2023 - monto: 4800",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11933,
+      "datetime": "2026-03-26 22:02:28",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36892 - monto: 1340",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11934,
+      "datetime": "2026-03-26 22:02:53",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 2084 - monto: 900",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11935,
+      "datetime": "2026-03-26 22:03:38",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 2067 - monto: 0",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11936,
+      "datetime": "2026-03-26 22:04:13",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 2065 - monto: 1400",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11937,
+      "datetime": "2026-03-26 22:06:56",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 36888 - monto: 100",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 11938,
+      "datetime": "2026-03-26 22:07:38",
+      "username": "Allisson",
+      "activity": "Ingreso de caja para la orden: 2054 - monto: 3600",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-26T15:10:07.008786",
+  "timestamp": "2026-03-26T16:11:55.270812",
   "machine_id": "53642720127680"
 }

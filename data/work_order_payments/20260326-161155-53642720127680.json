@@ -13562,8 +13562,85 @@
       "note": "ROC 32656 CANCELACION",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3145,
+      "work_order_id": 2023,
+      "payment_date": "2026-03-26",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 4800,
+      "note": "ROC 32751 (CANCELACIÓN)",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3146,
+      "work_order_id": 36892,
+      "payment_date": "2026-03-26",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1340,
+      "note": "ROC 32752 ANTICIPO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3147,
+      "work_order_id": 2084,
+      "payment_date": "2026-03-26",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 900,
+      "note": "ROC 32753",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3148,
+      "work_order_id": 2067,
+      "payment_date": "2026-03-26",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 0,
+      "note": "ROC 32754",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3149,
+      "work_order_id": 2065,
+      "payment_date": "2026-03-26",
+      "payment_method": "transferencia",
+      "payment": "Allisson",
+      "user_log_registration": 1400,
+      "note": "ROC 32756 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3150,
+      "work_order_id": 36888,
+      "payment_date": "2026-03-26",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 100,
+      "note": "ROC 32757 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3151,
+      "work_order_id": 2054,
+      "payment_date": "2026-03-26",
+      "payment_method": "tarjeta",
+      "payment": "Allisson",
+      "user_log_registration": 3600,
+      "note": "ROC 32758 CANCELADO",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-26T15:10:06.741543",
+  "timestamp": "2026-03-26T16:11:55.128449",
   "machine_id": "53642720127680"
 }

@@ -13111,8 +13111,63 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3198,
+      "name": "IMER LOPEZ",
+      "contact_1": "85508958",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3199,
+      "name": "JUAN MOLINA",
+      "contact_1": "78097240",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3200,
+      "name": "JAFET RIOS",
+      "contact_1": "82451443",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3201,
+      "name": "DENIS SANCHEZ",
+      "contact_1": "81084543",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3202,
+      "name": "JOSUE LOPEZ",
+      "contact_1": "",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-26T15:10:06.901923",
+  "timestamp": "2026-03-26T16:11:55.223108",
   "machine_id": "53642720127680"
 }

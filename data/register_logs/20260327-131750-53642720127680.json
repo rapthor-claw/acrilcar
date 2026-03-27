@@ -36031,8 +36031,24 @@
       "activity": "Ingreso de caja para la orden: 2094 - monto: 300",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 12048,
+      "datetime": "2026-03-27 19:16:57",
+      "username": "Allisson",
+      "activity": "Creo el usuario: RUBI",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 12049,
+      "datetime": "2026-03-27 19:17:43",
+      "username": "Allisson",
+      "activity": "Modifico accesos al usuario ID: 16",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-27T13:16:07.773508",
+  "timestamp": "2026-03-27T13:17:50.549013",
   "machine_id": "53642720127680"
 }

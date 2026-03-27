@@ -7,8 +7,16 @@
       "role": "user",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 16,
+      "username": "RUBI",
+      "password_hash": "86b5a867e93ca420a790d94a20c0378c759f7349e7a54486fefb7265717d3591",
+      "role": "user",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-27T13:16:07.562681",
+  "timestamp": "2026-03-27T13:17:50.366646",
   "machine_id": "53642720127680"
 }

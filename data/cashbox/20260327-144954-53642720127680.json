@@ -23711,8 +23711,34 @@
       "order_id": 2094,
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 4841,
+      "fecha": "2026-03-27",
+      "descripcion": "FOCOS COMPRA",
+      "monto": 1500.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 2,
+      "user_id": "Allisson",
+      "order_id": "RCC-1813",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 4842,
+      "fecha": "2026-03-27",
+      "descripcion": "COMPRA DE 3 NACATAMALES",
+      "monto": 260.0,
+      "tipo": "egreso",
+      "metodo_pago": "efectivo",
+      "movimiento_caja": 25,
+      "user_id": "Allisson",
+      "order_id": 10814,
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-27T13:17:50.388437",
+  "timestamp": "2026-03-27T14:49:54.627649",
   "machine_id": "53642720127680"
 }

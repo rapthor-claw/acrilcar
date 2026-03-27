@@ -10759,8 +10759,136 @@
       "services": "['ELAB DE 2 FOCOS - MITSUBISHI']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3424,
+      "work_order_id": 2085,
+      "colaborator_id": 2,
+      "services": "['PULIDO DE 2 FOCOS ELAB DE PIDE VIA Y RECONSTRUCCION DE BASE - DODGE RAM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3425,
+      "work_order_id": 2086,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP Y TABLERO - SCION/LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3426,
+      "work_order_id": 2087,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 HALOGENO RECONSTRUCCION DE BASE - 4RUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3427,
+      "work_order_id": 2088,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 2 PIDE VIAS MTTO DE BASE - HONDA CIVIC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3428,
+      "work_order_id": 36893,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - TACOMA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3429,
+      "work_order_id": 36894,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE FOCOS CON REVISION DE FILTRACION - KIA RIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3430,
+      "work_order_id": 36895,
+      "colaborator_id": 13,
+      "services": "['PULIDO Y CROMO DE 2 FOCOS - TERCEL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3431,
+      "work_order_id": 1948,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO, HALOGENO REP DE STOP Y PULIDO DE STOP FOCO Y HALOGENO - HMC / HD65']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3432,
+      "work_order_id": 1989,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP TIGGO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3433,
+      "work_order_id": 2089,
+      "colaborator_id": 5,
+      "services": "['ELAB DE HALOGENO - RAV4']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3434,
+      "work_order_id": 2090,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3435,
+      "work_order_id": 2091,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 FOCO - SUZUKI ALTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3436,
+      "work_order_id": 2092,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP REP DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3437,
+      "work_order_id": 2093,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3438,
+      "work_order_id": 36896,
+      "colaborator_id": 14,
+      "services": "['ELAB DE MICA DE RETROVISOR - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3439,
+      "work_order_id": 2094,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS CHEROKEE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-03-26T16:11:55.100893",
+  "timestamp": "2026-03-27T13:16:07.382382",
   "machine_id": "53642720127680"
 }

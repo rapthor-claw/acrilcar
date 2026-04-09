@@ -31,8 +31,24 @@
       "descripcion": "REBAJAS AUTORIZADAS",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 55,
+      "nombre": "RETENCION 2%",
+      "tipo": "ingreso",
+      "descripcion": "RETENCION DGI",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 56,
+      "nombre": "RETENCION 1%",
+      "tipo": "ingreso",
+      "descripcion": "ALCALDIA",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-06T10:06:29.637424",
+  "timestamp": "2026-04-09T12:10:30.274048",
   "machine_id": "53642720127680"
 }

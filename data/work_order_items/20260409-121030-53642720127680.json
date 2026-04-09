@@ -11239,8 +11239,256 @@
       "services": "['PULIDO DE 2 FOCOS Y  2 HALOGENOS - HYUNDAI']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3484,
+      "work_order_id": 2131,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 REFLECTORES - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3485,
+      "work_order_id": 2132,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - L 200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3486,
+      "work_order_id": 2133,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - TUCSON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3487,
+      "work_order_id": 2134,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 4 STOP Y 2 PIDE VIAS - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3488,
+      "work_order_id": 2135,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS - MAZDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3489,
+      "work_order_id": 2136,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - LAND CRUISER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3490,
+      "work_order_id": 2137,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP PULIDO DE 2 PIDE VIAS Y 2 FOCOS - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3491,
+      "work_order_id": 2138,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS - BT50']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3492,
+      "work_order_id": 2139,
+      "colaborator_id": 16,
+      "services": "['ELAB DE TAPA DE RETROVISOR - VERSA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3493,
+      "work_order_id": 2140,
+      "colaborator_id": 5,
+      "services": "['REP DE 1 STOP - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3494,
+      "work_order_id": 2141,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - TUCSON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3495,
+      "work_order_id": 2142,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO - SPARK']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3496,
+      "work_order_id": 2143,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIDE VIA - HINO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3497,
+      "work_order_id": 36906,
+      "colaborator_id": 13,
+      "services": "['PULIDO EXPRESS - EON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3498,
+      "work_order_id": 36907,
+      "colaborator_id": 9,
+      "services": "['ELAB DE BASE PARA PASTEL DE 4 PISOS CON MEDIDAS: 20, 25, 30 Y 40 CM CON SEPARACION DE 12 CM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3499,
+      "work_order_id": 36908,
+      "colaborator_id": 9,
+      "services": "['ELAB DE PULPITO 10 MM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3500,
+      "work_order_id": 36909,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE FOCOS - KIA SPORTAGE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3501,
+      "work_order_id": 36910,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - MAZDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3502,
+      "work_order_id": 2117,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 PIDE VIAS 1400 PULIDO DE 2 FOCOS - VOLVO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3503,
+      "work_order_id": 2144,
+      "colaborator_id": 16,
+      "services": "['REP DE STOP Y SELLADO DE LO ROJO - VOLKSWAGEN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3504,
+      "work_order_id": 2145,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - GALLOPER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3505,
+      "work_order_id": 2146,
+      "colaborator_id": 2,
+      "services": "['TERCERA LUZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3506,
+      "work_order_id": 2147,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO Y PULIDO DEL OTRO CON ARO EN NEGRO - SWIFT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3507,
+      "work_order_id": 2148,
+      "colaborator_id": 4,
+      "services": "['ELAB DE MICA DE RETROVISOR - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3508,
+      "work_order_id": 2149,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3509,
+      "work_order_id": 36911,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 1 STOP Y REP DE PATAS MAS TRABAS - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3510,
+      "work_order_id": 36912,
+      "colaborator_id": 16,
+      "services": "['ELAB DE VISOR TRANSPARENTE - CASCO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3511,
+      "work_order_id": 36913,
+      "colaborator_id": 14,
+      "services": "['VENTA DE 17 PARES DE BISAGRAS C$150C/PAR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3512,
+      "work_order_id": 2150,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 FOCO CON REP DE BASE Y REP DE 1 PIEZA - JEEP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3513,
+      "work_order_id": 2151,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 PIDE VIAS AMARILLO RAYADO CON MTTO DE CROMO - KIA AVELLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3514,
+      "work_order_id": 2153,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - DZIRE']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-06T10:06:29.496814",
+  "timestamp": "2026-04-09T12:10:30.124990",
   "machine_id": "53642720127680"
 }

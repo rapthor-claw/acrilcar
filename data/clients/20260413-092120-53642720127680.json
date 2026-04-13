@@ -13969,8 +13969,19 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3276,
+      "name": "ALVARO AVILES",
+      "contact_1": "78656584",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-09T12:10:30.299098",
+  "timestamp": "2026-04-13T09:21:20.271257",
   "machine_id": "53642720127680"
 }

@@ -38623,8 +38623,32 @@
       "activity": "Inicio de sesión",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 12372,
+      "datetime": "2026-04-10 00:02:06",
+      "username": "Allisson",
+      "activity": "Cierre de Sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 12373,
+      "datetime": "2026-04-13 15:05:10",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 12374,
+      "datetime": "2026-04-13 15:21:12",
+      "username": "Allisson",
+      "activity": "Alta de Cliente: ALVARO AVILES",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-09T12:10:30.437102",
+  "timestamp": "2026-04-13T09:21:20.367103",
   "machine_id": "53642720127680"
 }

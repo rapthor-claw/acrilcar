@@ -14596,8 +14596,107 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3333,
+      "name": "HECTOR CASTILLO",
+      "contact_1": "88859192",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3334,
+      "name": "LEONARDO SANDINO",
+      "contact_1": "84250841",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3335,
+      "name": "LEONARDO DIAZ",
+      "contact_1": "81433007",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3336,
+      "name": "DAVID ARAUZ",
+      "contact_1": "87988240",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3337,
+      "name": "ASOCIACION DE LAS HIJAS DE MARIA AUXILIADORA",
+      "contact_1": "89791953",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3338,
+      "name": "FRANKLIN MENDOZA",
+      "contact_1": "58417607",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3339,
+      "name": "SIM",
+      "contact_1": "83261278",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3340,
+      "name": "GILBERTO LINDO",
+      "contact_1": "88511962",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3341,
+      "name": "MANUEL ESPINOZA",
+      "contact_1": "84095979",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-13T17:52:12.271603",
+  "timestamp": "2026-04-14T17:27:29.263766",
   "machine_id": "53642720127680"
 }

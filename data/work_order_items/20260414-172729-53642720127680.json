@@ -11967,8 +11967,112 @@
       "services": "['ELAB DE STOP Y PULIDO DE 2 FOCOS - HILUX']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3575,
+      "work_order_id": 2204,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS  ACCENT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3576,
+      "work_order_id": 2205,
+      "colaborator_id": 16,
+      "services": "['ELAB DE FOCO Y PULIDO DEL OTRO - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3577,
+      "work_order_id": 2206,
+      "colaborator_id": 5,
+      "services": "['ELAB DE TERCERA LUZ - FOR RUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3578,
+      "work_order_id": 2207,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 PIDE VIAS CON MTTO DE CROMO - H100']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3579,
+      "work_order_id": 2208,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP DE BUMPER - FOTON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3580,
+      "work_order_id": 2209,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3581,
+      "work_order_id": 2210,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - SPARK']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3582,
+      "work_order_id": 2211,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3583,
+      "work_order_id": 2212,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 STOP - FORLAND']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3584,
+      "work_order_id": 2213,
+      "colaborator_id": 12,
+      "services": "['ELAB DE TABLERO - M/C']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3585,
+      "work_order_id": 2214,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 PIDE VIAS - CORONELA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3586,
+      "work_order_id": 2215,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 2 FOCOS CON MTTO DE CROMO - JIMMY']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3587,
+      "work_order_id": 36925,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 1 FOCO Y CAMBIO DE ARO - MOTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-13T17:52:12.048840",
+  "timestamp": "2026-04-14T17:27:29.017027",
   "machine_id": "53642720127680"
 }

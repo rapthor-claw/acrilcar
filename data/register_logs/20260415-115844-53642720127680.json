@@ -40495,8 +40495,24 @@
       "activity": "Ingreso de caja para la orden: 36924 - monto: 1300",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 12606,
+      "datetime": "2026-04-14 23:27:34",
+      "username": "Allisson",
+      "activity": "Cierre de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 12607,
+      "datetime": "2026-04-15 17:57:30",
+      "username": "Allisson",
+      "activity": "Inicio de sesión",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-14T17:27:29.329556",
+  "timestamp": "2026-04-15T11:58:44.267009",
   "machine_id": "53642720127680"
 }

@@ -12071,8 +12071,112 @@
       "services": "['PULIDO DE 1 FOCO Y CAMBIO DE ARO - MOTO']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3588,
+      "work_order_id": 36926,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 2 FOCOS - KIA PICANTO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3589,
+      "work_order_id": 2216,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3590,
+      "work_order_id": 2217,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP Y SELLADO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3591,
+      "work_order_id": 2218,
+      "colaborator_id": 13,
+      "services": "['ELAB DE FOCO CON REP DE ARO - I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3592,
+      "work_order_id": 2219,
+      "colaborator_id": 4,
+      "services": "['ELAB DE MICA DE RETROVISOR - TOYOTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3593,
+      "work_order_id": 2220,
+      "colaborator_id": 16,
+      "services": "['ELABD E 2 STOP - NP300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3594,
+      "work_order_id": 2221,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - KIA PRIDE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3595,
+      "work_order_id": 2222,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP CON REP DE BASE - DFSK']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3596,
+      "work_order_id": 2223,
+      "colaborator_id": 12,
+      "services": "['ELAB DE HALOGENO - JMC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3597,
+      "work_order_id": 2224,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO PDE VIA Y REP DE STOP - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3598,
+      "work_order_id": 2225,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3599,
+      "work_order_id": 2226,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3600,
+      "work_order_id": 2227,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HONDA CIVIC']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-15T11:58:44.052872",
+  "timestamp": "2026-04-21T09:32:57.252729",
   "machine_id": "53642720127680"
 }

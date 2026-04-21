@@ -14695,8 +14695,118 @@
       "nombre_empresa": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3342,
+      "name": "FRANCISCO CASTILLO",
+      "contact_1": "76582627",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3343,
+      "name": "ALEJANDRINA BRAVO",
+      "contact_1": "84654233",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3344,
+      "name": "WALTER VALLE",
+      "contact_1": "89741580",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3345,
+      "name": "YADER AVEA",
+      "contact_1": "88985189",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3346,
+      "name": "ANGELES MELENDEZ",
+      "contact_1": "77177487",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3347,
+      "name": "KARLA VANESSA SANTAMARIA",
+      "contact_1": "86576687",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3348,
+      "name": "ISABEL JARQUIN",
+      "contact_1": "87645354",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3349,
+      "name": "LESTHER JUAREZ",
+      "contact_1": "88591037",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3350,
+      "name": "DIXON OBANDO",
+      "contact_1": "57163465",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3351,
+      "name": "LOGICSA",
+      "contact_1": "58375502",
+      "contact_2": "",
+      "email": "",
+      "numero_ruc": "",
+      "nombre_empresa": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-15T11:58:44.208144",
+  "timestamp": "2026-04-21T09:32:57.443808",
   "machine_id": "53642720127680"
 }

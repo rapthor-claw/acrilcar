@@ -16686,8 +16686,52 @@
       "note": "ROC 32942 CANC",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3429,
+      "work_order_id": 2087,
+      "payment_date": "2026-04-15",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 2000,
+      "note": "ROC 32946 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3430,
+      "work_order_id": 2219,
+      "payment_date": "2026-04-15",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 700,
+      "note": "ROC 32947 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3431,
+      "work_order_id": 36926,
+      "payment_date": "2026-04-15",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1600,
+      "note": "ROC 32948 CANC",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3432,
+      "work_order_id": 2209,
+      "payment_date": "2026-04-15",
+      "payment_method": "efectivo",
+      "payment": "Allisson",
+      "user_log_registration": 1800,
+      "note": "ROC 32945 CANCELACION",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-15T11:58:44.084736",
+  "timestamp": "2026-04-21T09:32:57.293360",
   "machine_id": "53642720127680"
 }

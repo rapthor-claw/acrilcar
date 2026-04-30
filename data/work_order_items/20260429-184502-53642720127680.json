@@ -12175,8 +12175,928 @@
       "services": "['ELAB DE STOP - HONDA CIVIC']",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 3601,
+      "work_order_id": 2228,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - APV']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3602,
+      "work_order_id": 2229,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - MITSUBISHI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3603,
+      "work_order_id": 2230,
+      "colaborator_id": 16,
+      "services": "['ELAB DE FOCO - AGYA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3604,
+      "work_order_id": 2231,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - DZIRE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3605,
+      "work_order_id": 2232,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 1 STOP - PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3606,
+      "work_order_id": 2233,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO DELANTERO - H100']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3607,
+      "work_order_id": 2234,
+      "colaborator_id": 4,
+      "services": "['ELAB DE PIDE VIA CON MANTENIMIENTO DE CROMO - MAC']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3608,
+      "work_order_id": 2235,
+      "colaborator_id": 16,
+      "services": "['ELAB DE TERCERA LUZ PIDE VIA - MERCEDES BENZ']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3609,
+      "work_order_id": 2236,
+      "colaborator_id": 5,
+      "services": "['REPARACION DE RETROVISOR - CRETA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3610,
+      "work_order_id": 2237,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - RUNNER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3611,
+      "work_order_id": 2238,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3612,
+      "work_order_id": 2239,
+      "colaborator_id": 4,
+      "services": "['REP DE PARTE AFECTADA - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3613,
+      "work_order_id": 2241,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - SONATA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3614,
+      "work_order_id": 2242,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP - TOYOTA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3615,
+      "work_order_id": 2243,
+      "colaborator_id": 12,
+      "services": "['REP DE STOP - LITE ACE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3616,
+      "work_order_id": 2244,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3617,
+      "work_order_id": 2245,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3618,
+      "work_order_id": 2246,
+      "colaborator_id": 16,
+      "services": "['16', 'ELAB DE 2 FOCOS Y PULIDO DE 2 PIDE VIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3619,
+      "work_order_id": 2247,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO CON REP DE ARO - S10 CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3620,
+      "work_order_id": 2248,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - KIA SPORTAGE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3621,
+      "work_order_id": 2249,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - KIA SPORTAGE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3622,
+      "work_order_id": 2250,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3623,
+      "work_order_id": 2251,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 STOP Y 2 FCOS - FORD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3624,
+      "work_order_id": 2252,
+      "colaborator_id": 5,
+      "services": "['RESELLADO DE 1 FOCO - RAIZE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3625,
+      "work_order_id": 2253,
+      "colaborator_id": 2,
+      "services": "['REP DE STOP PARTE BLANCA -HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3626,
+      "work_order_id": 2254,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3627,
+      "work_order_id": 2255,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3628,
+      "work_order_id": 2256,
+      "colaborator_id": 16,
+      "services": "['REP DE PARTE AFECTADA BLANCA - TERCEL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3629,
+      "work_order_id": 2257,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 PIDE VIAS AMARILLO DIAMANTADO - MERCEDES']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3630,
+      "work_order_id": 2258,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS, UNO CON REP DE ARO -ZOTYE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3631,
+      "work_order_id": 2259,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 FOCOS Y 2 PIDE VIAS - KIA PRIDE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3632,
+      "work_order_id": 2260,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP  Y ENDEREZAR BUMPER -NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3633,
+      "work_order_id": 2261,
+      "colaborator_id": 16,
+      "services": "['ELABORACION DE FOCO - DZIRE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3634,
+      "work_order_id": 2262,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - APACHE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3635,
+      "work_order_id": 2263,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO - MOTO UM']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3636,
+      "work_order_id": 2264,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 PIDE VIAS - CARIB']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3637,
+      "work_order_id": 2265,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - SHINERAY']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3638,
+      "work_order_id": 2266,
+      "colaborator_id": 16,
+      "services": "['ELAB DE MICA DE RETROVISOR - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3639,
+      "work_order_id": 2267,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP PIDE VIA Y PERSIANA DE CARRO - MAZDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3640,
+      "work_order_id": 2268,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS Y 2 PIDE VIAS - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3641,
+      "work_order_id": 2269,
+      "colaborator_id": 12,
+      "services": "['ELAB DE PIDE VIA - CAMION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3642,
+      "work_order_id": 2270,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP - N300']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3643,
+      "work_order_id": 2271,
+      "colaborator_id": 16,
+      "services": "['REP DE RETROVISOR - SELERIO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3644,
+      "work_order_id": 2272,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP AHUMADO - HIACE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3645,
+      "work_order_id": 36927,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 1 FOCO - TIBURON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3646,
+      "work_order_id": 36928,
+      "colaborator_id": 13,
+      "services": "['PULIDO DE 1 FOCO - SWIFT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3647,
+      "work_order_id": 2273,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - H100']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3648,
+      "work_order_id": 2274,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO - MOTO SCOOTER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3649,
+      "work_order_id": 2275,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - EXCEL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3650,
+      "work_order_id": 2276,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP / PIDE VIAS Y REP DE PARRILLA - SPRINTER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3651,
+      "work_order_id": 2277,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 1 FOCO - YUTONG']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3652,
+      "work_order_id": 2278,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 4 FOCOS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3653,
+      "work_order_id": 2279,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 3 STOP - SCION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3654,
+      "work_order_id": 2280,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 STOP - YUTONG']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3655,
+      "work_order_id": 2281,
+      "colaborator_id": 16,
+      "services": "['REP DE PIDEVIA - FREIGTLINER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3656,
+      "work_order_id": 2282,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3657,
+      "work_order_id": 2283,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3658,
+      "work_order_id": 2284,
+      "colaborator_id": 12,
+      "services": "['ELAB DE HALOGENO - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3659,
+      "work_order_id": 2285,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3660,
+      "work_order_id": 2286,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3661,
+      "work_order_id": 2287,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO CON RECONSTRUCCION DE ARO Y REP DE PATA - KIA SOUL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3662,
+      "work_order_id": 2288,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS Y 2 STOP - PEUGEOT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3663,
+      "work_order_id": 2289,
+      "colaborator_id": 12,
+      "services": "['ELAB DE MICA DE RETROVISOR - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3664,
+      "work_order_id": 2290,
+      "colaborator_id": 4,
+      "services": "['ELAB DE VISOR AHUMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3665,
+      "work_order_id": 2291,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - HIACE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3666,
+      "work_order_id": 2292,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 FOCOS CON REP DE BASE - HYUNDAI']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3667,
+      "work_order_id": 2293,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - ZOTYE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3668,
+      "work_order_id": 2294,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 1 STOP']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3669,
+      "work_order_id": 2295,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - NISSAN']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3670,
+      "work_order_id": 2296,
+      "colaborator_id": 16,
+      "services": "['ELAB DE FOCO CON MTTO DE CROMO - S10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3671,
+      "work_order_id": 2297,
+      "colaborator_id": 5,
+      "services": "['ELAB DE MICA DE RETROVISOR MAS LED - KIA PRIDE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3672,
+      "work_order_id": 2298,
+      "colaborator_id": 2,
+      "services": "['ELAB DE HALOGENO - H1']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3673,
+      "work_order_id": 2299,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 4 STOP AHUMADOS - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3674,
+      "work_order_id": 2300,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3675,
+      "work_order_id": 2301,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 1 STOP Y REP DE EL OTRO - TIBUT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3676,
+      "work_order_id": 2302,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO CON REP DE BASE - FORD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3677,
+      "work_order_id": 2303,
+      "colaborator_id": 2,
+      "services": "['ELAB DE FOCO CUADRACILO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3678,
+      "work_order_id": 2304,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3679,
+      "work_order_id": 2305,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 2 FOCOS - KIA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3680,
+      "work_order_id": 2306,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 1 FOCO - CAMION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3681,
+      "work_order_id": 2307,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - HILUX']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3682,
+      "work_order_id": 2308,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS - FORD']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3683,
+      "work_order_id": 2309,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCOS / PIDE VIAS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3684,
+      "work_order_id": 2310,
+      "colaborator_id": 4,
+      "services": "['ELAB DE 1 FOCO - YARIS']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3685,
+      "work_order_id": 2311,
+      "colaborator_id": 16,
+      "services": "['ELAB DE VISOR']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3686,
+      "work_order_id": 2312,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - AGYA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3687,
+      "work_order_id": 2313,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS SWIFT']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3688,
+      "work_order_id": 2314,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP CON REP DE BASE -- LANCER']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3689,
+      "work_order_id": 2315,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - AGYA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3690,
+      "work_order_id": 2316,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 2 FOCOS - ZOTYE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3691,
+      "work_order_id": 2317,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO -NS 400', 'CARGOTRANS 137']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3692,
+      "work_order_id": 2318,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP GREAT WALL']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3693,
+      "work_order_id": 2319,
+      "colaborator_id": 14,
+      "services": "['ANULADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3694,
+      "work_order_id": 2320,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP GRAND I10']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3695,
+      "work_order_id": 2321,
+      "colaborator_id": 4,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3696,
+      "work_order_id": 2322,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 6 TAPONES -']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3697,
+      "work_order_id": 2323,
+      "colaborator_id": 5,
+      "services": "['ELAB DE FOCO - K2700']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3698,
+      "work_order_id": 2324,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 PIEZAS EN FIBRA -']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3699,
+      "work_order_id": 2325,
+      "colaborator_id": 12,
+      "services": "['ELAB DE 2 STOP REP DE RETROVIOSR  3600', 'PULIDO DE FOCOS / HALOGENOS - HONDA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3700,
+      "work_order_id": 2326,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCO CON REP DE ARO Y BASE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3701,
+      "work_order_id": 2327,
+      "colaborator_id": 16,
+      "services": "['ELAB DE PIDE VIA - PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3702,
+      "work_order_id": 2328,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - CHEVROLET']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3703,
+      "work_order_id": 2329,
+      "colaborator_id": 2,
+      "services": "['ELAB DE 2 FOCOS CON CROMADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3704,
+      "work_order_id": 2330,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3705,
+      "work_order_id": 2331,
+      "colaborator_id": 4,
+      "services": "['REP DE STOP - PRADO']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3706,
+      "work_order_id": 2332,
+      "colaborator_id": 16,
+      "services": "['ELAB DE 2 STOP - EON']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3707,
+      "work_order_id": 2333,
+      "colaborator_id": 5,
+      "services": "['ELAB DE STOP - VENUE']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3708,
+      "work_order_id": 2334,
+      "colaborator_id": 2,
+      "services": "['ELAB DE PIDE VIA - DYNA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3709,
+      "work_order_id": 2335,
+      "colaborator_id": 12,
+      "services": "['ELAB DE STOP - HRV']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3710,
+      "work_order_id": 2336,
+      "colaborator_id": 4,
+      "services": "['ELAB DE FOCOS Y STOP - APV']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3711,
+      "work_order_id": 2337,
+      "colaborator_id": 16,
+      "services": "['ELAB DE STOP - L200']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3712,
+      "work_order_id": 2338,
+      "colaborator_id": 5,
+      "services": "['ELAB DE 2 PIDE VIAS AMARILLO DIAMANTADO - CAMION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3713,
+      "work_order_id": 2339,
+      "colaborator_id": 2,
+      "services": "['ELAB DE STOP - SCION']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3714,
+      "work_order_id": 2340,
+      "colaborator_id": 12,
+      "services": "['ELAB DE FOCO - SENTRA']",
+      "sincronizado": 0,
+      "is_deleted": 0
+    },
+    {
+      "id": 3715,
+      "work_order_id": 36929,
+      "colaborator_id": 13,
+      "services": "['REP DE REGULADOR - COROLLA']",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-21T09:32:57.252729",
+  "timestamp": "2026-04-29T18:45:02.954681",
   "machine_id": "53642720127680"
 }

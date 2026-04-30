@@ -164,8 +164,23 @@
       "note": "",
       "sincronizado": 0,
       "is_deleted": 0
+    },
+    {
+      "id": 829,
+      "work_order_id": "2005",
+      "start_date": "2026-03-18 09:44",
+      "end_date": "2026-03-19 09:44",
+      "colaborador_id": 2,
+      "client_id": 3112,
+      "product_id": null,
+      "quantity": null,
+      "order_status": "procesando",
+      "tasks_details": "• ELAB DE HALOGENO - CAMION\n",
+      "note": "",
+      "sincronizado": 0,
+      "is_deleted": 0
     }
   ],
-  "timestamp": "2026-04-21T09:32:57.631925",
+  "timestamp": "2026-04-29T18:45:03.382575",
   "machine_id": "53642720127680"
 }
